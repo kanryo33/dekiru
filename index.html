@@ -122,6 +122,32 @@ body{
   min-height:100vh;display:flex;flex-direction:column;align-items:center;gap:22px;padding:26px 16px 36px;
   background:var(--page);position:relative;overflow-x:hidden;
 }
+
+/* ---------- 加载动画 ---------- */
+.app-loader{
+  position:fixed;inset:0;z-index:9999;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:22px;
+  background:var(--page);transition:opacity .6s ease,visibility .6s ease;
+}
+.app-loader.hidden{opacity:0;visibility:hidden;pointer-events:none;}
+.loader-orb{
+  width:64px;height:64px;border-radius:50%;
+  background:linear-gradient(135deg,#5ac8fa,#7d7aff 50%,#d678ff);
+  box-shadow:0 0 30px rgba(125,122,255,.5);
+  animation:loaderPulse 1.2s ease-in-out infinite;
+}
+.loader-text{
+  font-size:14px;font-weight:600;letter-spacing:.2em;color:var(--muted);
+  animation:loaderFade 1.5s ease-in-out infinite;
+}
+@keyframes loaderPulse{
+  0%,100%{transform:scale(.85);opacity:.7;}
+  50%{transform:scale(1.1);opacity:1;}
+}
+@keyframes loaderFade{
+  0%,100%{opacity:.4;}
+  50%{opacity:1;}
+}
+
 .bg{position:fixed;inset:0;z-index:0;overflow:hidden;pointer-events:none;}
 .orb{position:absolute;border-radius:50%;filter:blur(90px);opacity:.55;will-change:transform;}
 .o1{width:44vmax;height:44vmax;background:#7fb2ff;top:-18vmax;left:-12vmax;animation:drift1 26s ease-in-out infinite alternate;}
@@ -468,6 +494,11 @@ html[data-theme="dark"] #shuffle{color:#8df2c8;background-image:linear-gradient(
 </head>
 <body>
 
+<div class="app-loader" id="appLoader">
+  <div class="loader-orb"></div>
+  <div class="loader-text">読み込み中...</div>
+</div>
+
 <div class="bg" aria-hidden="true">
   <div class="orb o1"></div><div class="orb o2"></div><div class="orb o3"></div><div class="orb o4"></div><div class="orb o5"></div>
 </div>
@@ -795,6 +826,9 @@ function handleSwipe(){
 }
 
 if(wordData.length) writeCard(wordData[0]);
+
+/* 隐藏加载动画 */
+(function(){var l=document.getElementById('appLoader');if(l){requestAnimationFrame(function(){l.classList.add('hidden');setTimeout(function(){l.remove();},700);});}})();
 
 /* ============================================================
    主题切换（三态：light / dark / auto）
