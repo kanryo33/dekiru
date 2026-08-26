@@ -1,0 +1,22 @@
+{
+  "styles": [{
+    "name": "全15課一覧",
+    "cell_styles": [
+      {"range": "A1:G1", "font_weight": "bold", "background_color": "#1E5BC6", "font_color": "#FFFFFF", "horizontal_alignment": "center", "vertical_alignment": "center"},
+      {"range": "A2:B1031", "horizontal_alignment": "center", "vertical_alignment": "center"},
+      {"range": "C2:G1031", "vertical_alignment": "center", "word_wrap": "auto-wrap"},
+      {"range": "A2:G1031", "border": {"style": "solid", "color": "#DDDDDD"}}
+    ],
+    "row_sizes": [{"range": "1:1", "size": 32}],
+    "col_sizes": [
+      {"range": "A:A", "size": 64},
+      {"range": "B:B", "size": 44},
+      {"range": "C:C", "size": 210},
+      {"range": "D:D", "size": 180},
+      {"range": "E:E", "size": 300},
+      {"range": "F:F", "size": 210},
+      {"range": "G:G", "size": 250}
+    ],
+    "freeze": {"rows": 1}
+  }]
+}

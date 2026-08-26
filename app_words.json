@@ -1,0 +1,5240 @@
+{
+ "1": [
+  {
+   "kanji": "私",
+   "kana": "わたし",
+   "eng": "I",
+   "cn": "我",
+   "ne": "म"
+  },
+  {
+   "kanji": "(お)名前",
+   "kana": "なまえ",
+   "eng": "name",
+   "cn": "姓名",
+   "ne": "नाम"
+  },
+  {
+   "kanji": "(お)国",
+   "kana": "くに",
+   "eng": "country",
+   "cn": "国家",
+   "ne": "देश"
+  },
+  {
+   "kanji": "日本",
+   "kana": "にほん",
+   "eng": "Japan",
+   "cn": "日本",
+   "ne": "जापान"
+  },
+  {
+   "kanji": "アメリカ",
+   "kana": "",
+   "eng": "America",
+   "cn": "美国",
+   "ne": "अमेरिका"
+  },
+  {
+   "kanji": "イタリア",
+   "kana": "",
+   "eng": "Italy",
+   "cn": "意大利",
+   "ne": "इटाली"
+  },
+  {
+   "kanji": "オーストラリア",
+   "kana": "",
+   "eng": "Australia",
+   "cn": "澳大利亚",
+   "ne": "अस्ट्रेलिया"
+  },
+  {
+   "kanji": "韓国",
+   "kana": "かんこく",
+   "eng": "Korea",
+   "cn": "韩国",
+   "ne": "दक्षिण कोरिया"
+  },
+  {
+   "kanji": "タイ",
+   "kana": "",
+   "eng": "Thailand",
+   "cn": "泰国",
+   "ne": "थाइल्याण्ड"
+  },
+  {
+   "kanji": "中国",
+   "kana": "ちゅうごく",
+   "eng": "China",
+   "cn": "中国",
+   "ne": "चीन"
+  },
+  {
+   "kanji": "ロシア",
+   "kana": "",
+   "eng": "Russia",
+   "cn": "俄罗斯",
+   "ne": "रसिया"
+  },
+  {
+   "kanji": "高校",
+   "kana": "こうこう",
+   "eng": "high school",
+   "cn": "高中",
+   "ne": "हाइ स्कूल"
+  },
+  {
+   "kanji": "大学",
+   "kana": "だいがく",
+   "eng": "university",
+   "cn": "大学",
+   "ne": "विश्व विद्यालय"
+  },
+  {
+   "kanji": "日本語学校",
+   "kana": "にほんごがっこう",
+   "eng": "Japanese language school",
+   "cn": "日语学校",
+   "ne": "जापानी भाषा विद्यालय"
+  },
+  {
+   "kanji": "(お)仕事",
+   "kana": "しごと",
+   "eng": "work/job",
+   "cn": "工作",
+   "ne": "काम"
+  },
+  {
+   "kanji": "学生",
+   "kana": "がくせい",
+   "eng": "student",
+   "cn": "学生",
+   "ne": "विद्यार्थी"
+  },
+  {
+   "kanji": "先生",
+   "kana": "せんせい",
+   "eng": "teacher",
+   "cn": "老师",
+   "ne": "शिक्षक"
+  },
+  {
+   "kanji": "会社員",
+   "kana": "かいしゃいん",
+   "eng": "business person",
+   "cn": "公司职员",
+   "ne": "कम्पनी कर्मचारी"
+  },
+  {
+   "kanji": "~さん",
+   "kana": "",
+   "eng": "Mr./Mrs./Miss",
+   "cn": "先生/女士",
+   "ne": "~जी"
+  },
+  {
+   "kanji": "どちら",
+   "kana": "",
+   "eng": "which",
+   "cn": "哪里",
+   "ne": "कुन"
+  },
+  {
+   "kanji": "はじめまして",
+   "kana": "",
+   "eng": "Nice to meet you",
+   "cn": "初次见面",
+   "ne": "पहिलो पटक"
+  },
+  {
+   "kanji": "よろしくお願いします",
+   "kana": "",
+   "eng": "Please treat me well",
+   "cn": "请多关照",
+   "ne": "धन्यवाद"
+  },
+  {
+   "kanji": "こちらこそ",
+   "kana": "",
+   "eng": "Me too",
+   "cn": "彼此彼此",
+   "ne": "म पनि"
+  },
+  {
+   "kanji": "すみません",
+   "kana": "",
+   "eng": "Excuse me",
+   "cn": "对不起",
+   "ne": "माफ गर्नोस्"
+  },
+  {
+   "kanji": "はい",
+   "kana": "",
+   "eng": "Yes",
+   "cn": "是",
+   "ne": "हो"
+  },
+  {
+   "kanji": "いいえ",
+   "kana": "",
+   "eng": "No",
+   "cn": "不是",
+   "ne": "होइन"
+  },
+  {
+   "kanji": "誕生日",
+   "kana": "たんじょうび",
+   "eng": "birthday",
+   "cn": "生日",
+   "ne": "जन्मदिन"
+  },
+  {
+   "kanji": "~月",
+   "kana": "がつ",
+   "eng": "~month",
+   "cn": "…月",
+   "ne": "~महिना"
+  },
+  {
+   "kanji": "~日",
+   "kana": "にち",
+   "eng": "~day",
+   "cn": "…日",
+   "ne": "~तारिख"
+  },
+  {
+   "kanji": "~歳",
+   "kana": "さい",
+   "eng": "~years old",
+   "cn": "…岁",
+   "ne": "~वर्ष"
+  },
+  {
+   "kanji": "趣味",
+   "kana": "しゅみ",
+   "eng": "hobby",
+   "cn": "兴趣",
+   "ne": "रुचि"
+  },
+  {
+   "kanji": "スポーツ",
+   "kana": "",
+   "eng": "sports",
+   "cn": "运动",
+   "ne": "खेलकुद"
+  },
+  {
+   "kanji": "サッカー",
+   "kana": "",
+   "eng": "soccer",
+   "cn": "足球",
+   "ne": "फुटबल"
+  },
+  {
+   "kanji": "テニス",
+   "kana": "",
+   "eng": "tennis",
+   "cn": "网球",
+   "ne": "टेनिस"
+  },
+  {
+   "kanji": "水泳",
+   "kana": "すいえい",
+   "eng": "swimming",
+   "cn": "游泳",
+   "ne": "पौडी"
+  },
+  {
+   "kanji": "映画",
+   "kana": "えいが",
+   "eng": "movies",
+   "cn": "电影",
+   "ne": "सिनेमा"
+  },
+  {
+   "kanji": "音楽",
+   "kana": "おんがく",
+   "eng": "music",
+   "cn": "音乐",
+   "ne": "संगीत"
+  },
+  {
+   "kanji": "読書",
+   "kana": "どくしょ",
+   "eng": "reading",
+   "cn": "阅读",
+   "ne": "पढाई"
+  },
+  {
+   "kanji": "旅行",
+   "kana": "りょこう",
+   "eng": "travel",
+   "cn": "旅行",
+   "ne": "यात्रा"
+  },
+  {
+   "kanji": "料理",
+   "kana": "りょうり",
+   "eng": "cooking",
+   "cn": "烹饪",
+   "ne": "परिकार"
+  },
+  {
+   "kanji": "何",
+   "kana": "なに",
+   "eng": "what",
+   "cn": "什么",
+   "ne": "के"
+  }
+ ],
+ "2": [
+  {
+   "kanji": "おいしい",
+   "kana": "おいしい",
+   "eng": "delicious",
+   "cn": "好吃",
+   "ne": "स्वादिलो"
+  },
+  {
+   "kanji": "ここ",
+   "kana": "",
+   "eng": "here",
+   "cn": "这里",
+   "ne": "यहाँ"
+  },
+  {
+   "kanji": "そこ",
+   "kana": "",
+   "eng": "there",
+   "cn": "那里",
+   "ne": "त्यहाँ"
+  },
+  {
+   "kanji": "あそこ",
+   "kana": "",
+   "eng": "over there",
+   "cn": "远处",
+   "ne": "त्यहाँ टाढा"
+  },
+  {
+   "kanji": "インフォメーション",
+   "kana": "",
+   "eng": "information",
+   "cn": "咨询处",
+   "ne": "जानकारी"
+  },
+  {
+   "kanji": "ATM",
+   "kana": "",
+   "eng": "ATM",
+   "cn": "取款机",
+   "ne": "एटिएम"
+  },
+  {
+   "kanji": "エスカレーター",
+   "kana": "",
+   "eng": "escalator",
+   "cn": "扶梯",
+   "ne": "इस्केलेटर"
+  },
+  {
+   "kanji": "エレベーター",
+   "kana": "",
+   "eng": "elevator",
+   "cn": "电梯",
+   "ne": "एलेभेटर"
+  },
+  {
+   "kanji": "喫煙所",
+   "kana": "きつえんじょ",
+   "eng": "smoking area",
+   "cn": "吸烟处",
+   "ne": "धुम्रपान क्षेत्र"
+  },
+  {
+   "kanji": "トイレ",
+   "kana": "",
+   "eng": "restroom",
+   "cn": "洗手间",
+   "ne": "शौचालय"
+  },
+  {
+   "kanji": "レジ",
+   "kana": "",
+   "eng": "register",
+   "cn": "收银台",
+   "ne": "रजिस्टर"
+  },
+  {
+   "kanji": "喫茶店",
+   "kana": "きっさてん",
+   "eng": "coffee shop",
+   "cn": "咖啡厅",
+   "ne": "कफी शप"
+  },
+  {
+   "kanji": "スーパー",
+   "kana": "",
+   "eng": "supermarket",
+   "cn": "超市",
+   "ne": "सुपरमार्केट"
+  },
+  {
+   "kanji": "100円ショップ",
+   "kana": "ひゃくえんしょっぷ",
+   "eng": "100 yen shop",
+   "cn": "百元店",
+   "ne": "१०० येन शप"
+  },
+  {
+   "kanji": "レストラン",
+   "kana": "",
+   "eng": "restaurant",
+   "cn": "餐厅",
+   "ne": "रेस्टुरेन्ट"
+  },
+  {
+   "kanji": "カメラ",
+   "kana": "",
+   "eng": "camera",
+   "cn": "相机",
+   "ne": "क्यामेरा"
+  },
+  {
+   "kanji": "スマートフォン",
+   "kana": "",
+   "eng": "smartphone",
+   "cn": "智能手机",
+   "ne": "स्मार्ट फोन"
+  },
+  {
+   "kanji": "パソコン",
+   "kana": "",
+   "eng": "PC",
+   "cn": "电脑",
+   "ne": "कम्प्युटर"
+  },
+  {
+   "kanji": "靴",
+   "kana": "くつ",
+   "eng": "shoes",
+   "cn": "鞋",
+   "ne": "जुत्ता"
+  },
+  {
+   "kanji": "消しゴム",
+   "kana": "けしごむ",
+   "eng": "eraser",
+   "cn": "橡皮",
+   "ne": "इरेजर"
+  },
+  {
+   "kanji": "ペン",
+   "kana": "",
+   "eng": "pen",
+   "cn": "笔",
+   "ne": "कलम"
+  },
+  {
+   "kanji": "本",
+   "kana": "ほん",
+   "eng": "book",
+   "cn": "书",
+   "ne": "किताब"
+  },
+  {
+   "kanji": "ケーキ",
+   "kana": "",
+   "eng": "cake",
+   "cn": "蛋糕",
+   "ne": "केक"
+  },
+  {
+   "kanji": "米",
+   "kana": "こめ",
+   "eng": "rice",
+   "cn": "米",
+   "ne": "चामल"
+  },
+  {
+   "kanji": "卵",
+   "kana": "たまご",
+   "eng": "egg",
+   "cn": "鸡蛋",
+   "ne": "अण्डा"
+  },
+  {
+   "kanji": "パン",
+   "kana": "",
+   "eng": "bread",
+   "cn": "面包",
+   "ne": "पाउरोटी"
+  },
+  {
+   "kanji": "水",
+   "kana": "みず",
+   "eng": "water",
+   "cn": "水",
+   "ne": "पानी"
+  },
+  {
+   "kanji": "どこ",
+   "kana": "",
+   "eng": "where",
+   "cn": "哪里",
+   "ne": "कहाँ"
+  },
+  {
+   "kanji": "これ",
+   "kana": "",
+   "eng": "this",
+   "cn": "这个",
+   "ne": "यो"
+  },
+  {
+   "kanji": "それ",
+   "kana": "",
+   "eng": "that",
+   "cn": "那个",
+   "ne": "त्यो"
+  },
+  {
+   "kanji": "あれ",
+   "kana": "",
+   "eng": "that (far)",
+   "cn": "那个(远)",
+   "ne": "त्यो टाढा"
+  },
+  {
+   "kanji": "時計",
+   "kana": "とけい",
+   "eng": "watch",
+   "cn": "手表",
+   "ne": "घडी"
+  },
+  {
+   "kanji": "~円",
+   "kana": "えん",
+   "eng": "~yen",
+   "cn": "…日元",
+   "ne": "~येन"
+  },
+  {
+   "kanji": "いくら",
+   "kana": "",
+   "eng": "how much",
+   "cn": "多少钱",
+   "ne": "कति"
+  },
+  {
+   "kanji": "魚",
+   "kana": "さかな",
+   "eng": "fish",
+   "cn": "鱼",
+   "ne": "माछा"
+  },
+  {
+   "kanji": "肉",
+   "kana": "にく",
+   "eng": "meat",
+   "cn": "肉",
+   "ne": "मासु"
+  },
+  {
+   "kanji": "牛肉",
+   "kana": "ぎゅうにく",
+   "eng": "beef",
+   "cn": "牛肉",
+   "ne": "गाईको मासु"
+  },
+  {
+   "kanji": "鶏肉",
+   "kana": "とりにく",
+   "eng": "chicken",
+   "cn": "鸡肉",
+   "ne": "कुखुराको मासु"
+  },
+  {
+   "kanji": "豚肉",
+   "kana": "ぶたにく",
+   "eng": "pork",
+   "cn": "猪肉",
+   "ne": "सुँगुरको मासु"
+  },
+  {
+   "kanji": "野菜",
+   "kana": "やさい",
+   "eng": "vegetables",
+   "cn": "蔬菜",
+   "ne": "सागसब्जी"
+  },
+  {
+   "kanji": "カレー",
+   "kana": "",
+   "eng": "curry",
+   "cn": "咖喱",
+   "ne": "करी"
+  },
+  {
+   "kanji": "スープ",
+   "kana": "",
+   "eng": "soup",
+   "cn": "汤",
+   "ne": "सुप"
+  },
+  {
+   "kanji": "ご飯",
+   "kana": "ごはん",
+   "eng": "rice (cooked)",
+   "cn": "米饭",
+   "ne": "भात"
+  },
+  {
+   "kanji": "ジュース",
+   "kana": "",
+   "eng": "juice",
+   "cn": "果汁",
+   "ne": "जुस"
+  },
+  {
+   "kanji": "コーヒー",
+   "kana": "",
+   "eng": "coffee",
+   "cn": "咖啡",
+   "ne": "कफी"
+  },
+  {
+   "kanji": "紅茶",
+   "kana": "こうちゃ",
+   "eng": "black tea",
+   "cn": "红茶",
+   "ne": "चिया"
+  },
+  {
+   "kanji": "ビール",
+   "kana": "",
+   "eng": "beer",
+   "cn": "啤酒",
+   "ne": "बियर"
+  },
+  {
+   "kanji": "ワイン",
+   "kana": "",
+   "eng": "wine",
+   "cn": "葡萄酒",
+   "ne": "वाइन"
+  }
+ ],
+ "3": [
+  {
+   "kanji": "週末",
+   "kana": "しゅうまつ",
+   "eng": "weekend",
+   "cn": "周末",
+   "ne": "हप्ताको अन्त्य"
+  },
+  {
+   "kanji": "今",
+   "kana": "いま",
+   "eng": "now",
+   "cn": "现在",
+   "ne": "अहिले"
+  },
+  {
+   "kanji": "午前",
+   "kana": "ごぜん",
+   "eng": "A.M.",
+   "cn": "上午",
+   "ne": "बिहान"
+  },
+  {
+   "kanji": "午後",
+   "kana": "ごご",
+   "eng": "P.M.",
+   "cn": "下午",
+   "ne": "दिउँसो"
+  },
+  {
+   "kanji": "銀行",
+   "kana": "ぎんこう",
+   "eng": "bank",
+   "cn": "银行",
+   "ne": "बैंक"
+  },
+  {
+   "kanji": "体育館",
+   "kana": "たいいくかん",
+   "eng": "gym",
+   "cn": "体育馆",
+   "ne": "व्यायामशाला"
+  },
+  {
+   "kanji": "図書館",
+   "kana": "としょかん",
+   "eng": "library",
+   "cn": "图书馆",
+   "ne": "पुस्तकालय"
+  },
+  {
+   "kanji": "病院",
+   "kana": "びょういん",
+   "eng": "hospital",
+   "cn": "医院",
+   "ne": "अस्पताल"
+  },
+  {
+   "kanji": "郵便局",
+   "kana": "ゆうびんきょく",
+   "eng": "post office",
+   "cn": "邮局",
+   "ne": "हुलाक"
+  },
+  {
+   "kanji": "授業",
+   "kana": "じゅぎょう",
+   "eng": "class",
+   "cn": "课",
+   "ne": "कक्षा"
+  },
+  {
+   "kanji": "テスト",
+   "kana": "",
+   "eng": "test",
+   "cn": "考试",
+   "ne": "परीक्षा"
+  },
+  {
+   "kanji": "休み",
+   "kana": "やすみ",
+   "eng": "break",
+   "cn": "休息",
+   "ne": "बिदा"
+  },
+  {
+   "kanji": "~時",
+   "kana": "じ",
+   "eng": "~o'clock",
+   "cn": "…点",
+   "ne": "~बजे"
+  },
+  {
+   "kanji": "~分",
+   "kana": "ふん",
+   "eng": "~minutes",
+   "cn": "…分",
+   "ne": "~मिनेट"
+  },
+  {
+   "kanji": "~曜日",
+   "kana": "ようび",
+   "eng": "~day of week",
+   "cn": "星期…",
+   "ne": "~वार"
+  },
+  {
+   "kanji": "スケジュール",
+   "kana": "",
+   "eng": "schedule",
+   "cn": "日程",
+   "ne": "कार्यक्रम"
+  },
+  {
+   "kanji": "アルバイト",
+   "kana": "",
+   "eng": "part-time job",
+   "cn": "兼职",
+   "ne": "पार्ट टाइम"
+  },
+  {
+   "kanji": "スキー",
+   "kana": "",
+   "eng": "ski",
+   "cn": "滑雪",
+   "ne": "स्की"
+  },
+  {
+   "kanji": "パーティー",
+   "kana": "",
+   "eng": "party",
+   "cn": "派对",
+   "ne": "पार्टी"
+  },
+  {
+   "kanji": "海",
+   "kana": "うみ",
+   "eng": "sea",
+   "cn": "海",
+   "ne": "समुद्र"
+  },
+  {
+   "kanji": "公園",
+   "kana": "こうえん",
+   "eng": "park",
+   "cn": "公园",
+   "ne": "पार्क"
+  },
+  {
+   "kanji": "桜",
+   "kana": "さくら",
+   "eng": "cherry blossom",
+   "cn": "樱花",
+   "ne": "साकुरा"
+  },
+  {
+   "kanji": "留学生",
+   "kana": "りゅうがくせい",
+   "eng": "exchange student",
+   "cn": "留学生",
+   "ne": "विदेशी विद्यार्थी"
+  },
+  {
+   "kanji": "春",
+   "kana": "はる",
+   "eng": "spring",
+   "cn": "春天",
+   "ne": "वसन्त"
+  },
+  {
+   "kanji": "夏",
+   "kana": "なつ",
+   "eng": "summer",
+   "cn": "夏天",
+   "ne": "गर्मी"
+  },
+  {
+   "kanji": "秋",
+   "kana": "あき",
+   "eng": "autumn",
+   "cn": "秋天",
+   "ne": "शरद"
+  },
+  {
+   "kanji": "冬",
+   "kana": "ふゆ",
+   "eng": "winter",
+   "cn": "冬天",
+   "ne": "हिउँद"
+  },
+  {
+   "kanji": "行きます",
+   "kana": "いきます",
+   "eng": "go",
+   "cn": "去",
+   "ne": "जानु"
+  },
+  {
+   "kanji": "帰ります",
+   "kana": "かえります",
+   "eng": "return",
+   "cn": "回去",
+   "ne": "फर्कनु"
+  },
+  {
+   "kanji": "飲みます",
+   "kana": "のみます",
+   "eng": "drink",
+   "cn": "喝",
+   "ne": "पिउनु"
+  },
+  {
+   "kanji": "食べます",
+   "kana": "たべます",
+   "eng": "eat",
+   "cn": "吃",
+   "ne": "खानु"
+  },
+  {
+   "kanji": "見ます",
+   "kana": "みます",
+   "eng": "see/watch",
+   "cn": "看",
+   "ne": "हेर्नु"
+  },
+  {
+   "kanji": "します",
+   "kana": "",
+   "eng": "do",
+   "cn": "做",
+   "ne": "गर्नु"
+  },
+  {
+   "kanji": "朝",
+   "kana": "あさ",
+   "eng": "morning",
+   "cn": "早上",
+   "ne": "बिहान"
+  },
+  {
+   "kanji": "夜",
+   "kana": "よる",
+   "eng": "night",
+   "cn": "夜晚",
+   "ne": "रात"
+  },
+  {
+   "kanji": "毎日",
+   "kana": "まいにち",
+   "eng": "every day",
+   "cn": "每天",
+   "ne": "हरेक दिन"
+  },
+  {
+   "kanji": "学校",
+   "kana": "がっこう",
+   "eng": "school",
+   "cn": "学校",
+   "ne": "विद्यालय"
+  },
+  {
+   "kanji": "コンビニ",
+   "kana": "",
+   "eng": "convenience store",
+   "cn": "便利店",
+   "ne": "कन्विनि"
+  },
+  {
+   "kanji": "牛乳",
+   "kana": "ぎゅうにゅう",
+   "eng": "milk",
+   "cn": "牛奶",
+   "ne": "दुध"
+  },
+  {
+   "kanji": "新聞",
+   "kana": "しんぶん",
+   "eng": "newspaper",
+   "cn": "报纸",
+   "ne": "अखबार"
+  },
+  {
+   "kanji": "テレビ",
+   "kana": "",
+   "eng": "TV",
+   "cn": "电视",
+   "ne": "टिभी"
+  }
+ ],
+ "4": [
+  {
+   "kanji": "チョコレート",
+   "kana": "",
+   "eng": "chocolate",
+   "cn": "巧克力",
+   "ne": "चकलेट"
+  },
+  {
+   "kanji": "美術館",
+   "kana": "びじゅつかん",
+   "eng": "art museum",
+   "cn": "美术馆",
+   "ne": "कला सङ्ग्रहालय"
+  },
+  {
+   "kanji": "皆さん",
+   "kana": "みなさん",
+   "eng": "everyone",
+   "cn": "大家",
+   "ne": "सबैजना"
+  },
+  {
+   "kanji": "北",
+   "kana": "きた",
+   "eng": "north",
+   "cn": "北",
+   "ne": "उत्तर"
+  },
+  {
+   "kanji": "南",
+   "kana": "みなみ",
+   "eng": "south",
+   "cn": "南",
+   "ne": "दक्षिण"
+  },
+  {
+   "kanji": "東",
+   "kana": "हिगाशि",
+   "eng": "east",
+   "cn": "东",
+   "ne": "पूर्व"
+  },
+  {
+   "kanji": "西",
+   "kana": "にし",
+   "eng": "west",
+   "cn": "西",
+   "ne": "पश्चिम"
+  },
+  {
+   "kanji": "車",
+   "kana": "くるま",
+   "eng": "car",
+   "cn": "车",
+   "ne": "गाडी"
+  },
+  {
+   "kanji": "新幹線",
+   "kana": "しんかんせん",
+   "eng": "bullet train",
+   "cn": "新干线",
+   "ne": "शिन्कान्सेन"
+  },
+  {
+   "kanji": "電車",
+   "kana": "でんしゃ",
+   "eng": "train",
+   "cn": "电车",
+   "ne": "ट्रेन"
+  },
+  {
+   "kanji": "飛行機",
+   "kana": "ひこうき",
+   "eng": "airplane",
+   "cn": "飞机",
+   "ne": "हवाईजहाज"
+  },
+  {
+   "kanji": "駅",
+   "kana": "えき",
+   "eng": "station",
+   "cn": "车站",
+   "ne": "स्टेसन"
+  },
+  {
+   "kanji": "町",
+   "kana": "まち",
+   "eng": "town",
+   "cn": "城镇",
+   "ne": "शहर"
+  },
+  {
+   "kanji": "温泉",
+   "kana": "おんせん",
+   "eng": "hot spring",
+   "cn": "温泉",
+   "ne": "तातोपानी"
+  },
+  {
+   "kanji": "川",
+   "kana": "かわ",
+   "eng": "river",
+   "cn": "河",
+   "ne": "नदी"
+  },
+  {
+   "kanji": "山",
+   "kana": "やま",
+   "eng": "mountain",
+   "cn": "山",
+   "ne": "पहाड"
+  },
+  {
+   "kanji": "教会",
+   "kana": "きょうかい",
+   "eng": "church",
+   "cn": "教堂",
+   "ne": "चर्च"
+  },
+  {
+   "kanji": "神社",
+   "kana": "じんじゃ",
+   "eng": "shrine",
+   "cn": "神社",
+   "ne": "जिन्जा"
+  },
+  {
+   "kanji": "人",
+   "kana": "ひと",
+   "eng": "person",
+   "cn": "人",
+   "ne": "मानिस"
+  },
+  {
+   "kanji": "新しい",
+   "kana": "あたらしい",
+   "eng": "new",
+   "cn": "新",
+   "ne": "नयाँ"
+  },
+  {
+   "kanji": "古い",
+   "kana": "ふるい",
+   "eng": "old",
+   "cn": "旧",
+   "ne": "पुरानो"
+  },
+  {
+   "kanji": "大きい",
+   "kana": "おおきい",
+   "eng": "big",
+   "cn": "大",
+   "ne": "ठूलो"
+  },
+  {
+   "kanji": "小さい",
+   "kana": "ちいさい",
+   "eng": "small",
+   "cn": "小",
+   "ne": "सानो"
+  },
+  {
+   "kanji": "高い",
+   "kana": "たかい",
+   "eng": "tall/high",
+   "cn": "高",
+   "ne": "अग्लो"
+  },
+  {
+   "kanji": "低い",
+   "kana": "ひくい",
+   "eng": "low",
+   "cn": "低",
+   "ne": "होचो"
+  },
+  {
+   "kanji": "きれい",
+   "kana": "",
+   "eng": "beautiful",
+   "cn": "漂亮",
+   "ne": "सुन्दर"
+  },
+  {
+   "kanji": "静か",
+   "kana": "しずか",
+   "eng": "quiet",
+   "cn": "安静",
+   "ne": "शान्त"
+  },
+  {
+   "kanji": "にぎやか",
+   "kana": "",
+   "eng": "lively",
+   "cn": "热闹",
+   "ne": "चहलपहल"
+  },
+  {
+   "kanji": "有名",
+   "kana": "ゆうめい",
+   "eng": "famous",
+   "cn": "有名",
+   "ne": "प्रसिद्ध"
+  },
+  {
+   "kanji": "雨",
+   "kana": "あめ",
+   "eng": "rain",
+   "cn": "雨",
+   "ne": "पानी"
+  },
+  {
+   "kanji": "雪",
+   "kana": "ゆき",
+   "eng": "snow",
+   "cn": "雪",
+   "ne": "हिउँ"
+  },
+  {
+   "kanji": "暖かい",
+   "kana": "あたたかい",
+   "eng": "warm",
+   "cn": "暖和",
+   "ne": "न्यानो"
+  },
+  {
+   "kanji": "涼しい",
+   "kana": "すずしい",
+   "eng": "cool",
+   "cn": "凉爽",
+   "ne": "चिसो"
+  },
+  {
+   "kanji": "暑い",
+   "kana": "あつい",
+   "eng": "hot",
+   "cn": "热",
+   "ne": "गर्मी"
+  },
+  {
+   "kanji": "寒い",
+   "kana": "さむい",
+   "eng": "cold",
+   "cn": "冷",
+   "ne": "जाडो"
+  },
+  {
+   "kanji": "おいしい",
+   "kana": "",
+   "eng": "delicious",
+   "cn": "好吃",
+   "ne": "मिठो"
+  },
+  {
+   "kanji": "甘い",
+   "kana": "あまい",
+   "eng": "sweet",
+   "cn": "甜",
+   "ne": "गुलियो"
+  },
+  {
+   "kanji": "辛い",
+   "kana": "からい",
+   "eng": "spicy",
+   "cn": "辣",
+   "ne": "पिरो"
+  },
+  {
+   "kanji": "苦い",
+   "kana": "にがい",
+   "eng": "bitter",
+   "cn": "苦",
+   "ne": "तीतो"
+  },
+  {
+   "kanji": "すっぱい",
+   "kana": "",
+   "eng": "sour",
+   "cn": "酸",
+   "ne": "अमिलो"
+  }
+ ],
+ "5": [
+  {
+   "kanji": "休み",
+   "kana": "やすみ",
+   "eng": "holiday",
+   "cn": "休息",
+   "ne": "बिदा"
+  },
+  {
+   "kanji": "連休",
+   "kana": "れんきゅう",
+   "eng": "consecutive holidays",
+   "cn": "连休",
+   "ne": "लगातार बिदा"
+  },
+  {
+   "kanji": "昨日",
+   "kana": "きのう",
+   "eng": "yesterday",
+   "cn": "昨天",
+   "ne": "हिजो"
+  },
+  {
+   "kanji": "一昨日",
+   "kana": "おととい",
+   "eng": "day before yesterday",
+   "cn": "前天",
+   "ne": "पर्सि"
+  },
+  {
+   "kanji": "明日",
+   "kana": "あした",
+   "eng": "tomorrow",
+   "cn": "明天",
+   "ne": "भोलि"
+  },
+  {
+   "kanji": "明後日",
+   "kana": "あさって",
+   "eng": "day after tomorrow",
+   "cn": "后天",
+   "ne": "भोलिपर्सि"
+  },
+  {
+   "kanji": "今朝",
+   "kana": "けさ",
+   "eng": "this morning",
+   "cn": "今早",
+   "ne": "आज बिहान"
+  },
+  {
+   "kanji": "今晩",
+   "kana": "こんばん",
+   "eng": "tonight",
+   "cn": "今晚",
+   "ne": "आज राति"
+  },
+  {
+   "kanji": "来年",
+   "kana": "らいねん",
+   "eng": "next year",
+   "cn": "明年",
+   "ne": "अर्को वर्ष"
+  },
+  {
+   "kanji": "去年",
+   "kana": "きょねん",
+   "eng": "last year",
+   "cn": "去年",
+   "ne": "गएल्ड वर्ष"
+  },
+  {
+   "kanji": "遊ぶ",
+   "kana": "あそぶ",
+   "eng": "play",
+   "cn": "玩",
+   "ne": "खेल्नु"
+  },
+  {
+   "kanji": "会う",
+   "kana": "あう",
+   "eng": "meet",
+   "cn": "见面",
+   "ne": "भेट्नु"
+  },
+  {
+   "kanji": "寝る",
+   "kana": "ねる",
+   "eng": "sleep",
+   "cn": "睡觉",
+   "ne": "सुत्नु"
+  },
+  {
+   "kanji": "休む",
+   "kana": "やすむ",
+   "eng": "rest",
+   "cn": "休息",
+   "ne": "आराम गर्नु"
+  },
+  {
+   "kanji": "遅刻",
+   "kana": "ちこく",
+   "eng": "late",
+   "cn": "迟到",
+   "ne": "ढिलो"
+  },
+  {
+   "kanji": "試験",
+   "kana": "しけん",
+   "eng": "exam",
+   "cn": "考试",
+   "ne": "परीक्षा"
+  },
+  {
+   "kanji": "買い物",
+   "kana": "かいもの",
+   "eng": "shopping",
+   "cn": "购物",
+   "ne": "किनमेल"
+  },
+  {
+   "kanji": "食事",
+   "kana": "しょくじ",
+   "eng": "meal",
+   "cn": "用餐",
+   "ne": "खाना"
+  }
+ ],
+ "6": [
+  {
+   "kanji": "ソース",
+   "kana": "",
+   "eng": "sauce",
+   "cn": "调味汁",
+   "ne": "सस"
+  },
+  {
+   "kanji": "ピザ",
+   "kana": "",
+   "eng": "pizza",
+   "cn": "披萨",
+   "ne": "पिजा"
+  },
+  {
+   "kanji": "今週",
+   "kana": "こんしゅう",
+   "eng": "this week",
+   "cn": "这周",
+   "ne": "यो हप्ता"
+  },
+  {
+   "kanji": "来週",
+   "kana": "らいしゅう",
+   "eng": "next week",
+   "cn": "下周",
+   "ne": "अर्को हप्ता"
+  },
+  {
+   "kanji": "今月",
+   "kana": "こんげつ",
+   "eng": "this month",
+   "cn": "这个月",
+   "ne": "यो महिना"
+  },
+  {
+   "kanji": "来月",
+   "kana": "らいげつ",
+   "eng": "next month",
+   "cn": "下个月",
+   "ne": "अर्को महिना"
+  },
+  {
+   "kanji": "カラオケ",
+   "kana": "",
+   "eng": "karaoke",
+   "cn": "卡拉OK",
+   "ne": "काराओके"
+  },
+  {
+   "kanji": "コンサート",
+   "kana": "",
+   "eng": "concert",
+   "cn": "音乐会",
+   "ne": "कन्सर्ट"
+  },
+  {
+   "kanji": "試合",
+   "kana": "しあい",
+   "eng": "match",
+   "cn": "比赛",
+   "ne": "खेल"
+  },
+  {
+   "kanji": "セール",
+   "kana": "",
+   "eng": "sale",
+   "cn": "促销",
+   "ne": "सेल"
+  },
+  {
+   "kanji": "クーポン",
+   "kana": "",
+   "eng": "coupon",
+   "cn": "优惠券",
+   "ne": "कुपन"
+  },
+  {
+   "kanji": "チケット",
+   "kana": "",
+   "eng": "ticket",
+   "cn": "票",
+   "ne": "टिकट"
+  },
+  {
+   "kanji": "地図",
+   "kana": "ちず",
+   "eng": "map",
+   "cn": "地图",
+   "ne": "नक्सा"
+  },
+  {
+   "kanji": "ドライブ",
+   "kana": "",
+   "eng": "drive",
+   "cn": "兜风",
+   "ne": "ड्राइभ"
+  },
+  {
+   "kanji": "水着",
+   "kana": "みずぎ",
+   "eng": "swimsuit",
+   "cn": "泳衣",
+   "ne": "स्विमसुट"
+  },
+  {
+   "kanji": "野球",
+   "kana": "やきゅう",
+   "eng": "baseball",
+   "cn": "棒球",
+   "ne": "बेसबल"
+  },
+  {
+   "kanji": "約束",
+   "kana": "やくそく",
+   "eng": "promise",
+   "cn": "约定",
+   "ne": "वाचा"
+  },
+  {
+   "kanji": "用事",
+   "kana": "ようじ",
+   "eng": "errand",
+   "cn": "事情",
+   "ne": "काम"
+  },
+  {
+   "kanji": "～枚",
+   "kana": "まい",
+   "eng": "flat counter",
+   "cn": "张",
+   "ne": "वटा"
+  },
+  {
+   "kanji": "残念",
+   "kana": "ざんねん",
+   "eng": "regrettable",
+   "cn": "遗憾",
+   "ne": "अफसोस"
+  },
+  {
+   "kanji": "一緒に",
+   "kana": "いっしょに",
+   "eng": "together",
+   "cn": "一起",
+   "ne": "सँगै"
+  },
+  {
+   "kanji": "食べ物",
+   "kana": "たべもの",
+   "eng": "food",
+   "cn": "食物",
+   "ne": "खाना"
+  },
+  {
+   "kanji": "飲み物",
+   "kana": "のみもの",
+   "eng": "drink",
+   "cn": "饮品",
+   "ne": "पेय"
+  },
+  {
+   "kanji": "焼き肉",
+   "kana": "やきにく",
+   "eng": "grilled meat",
+   "cn": "烤肉",
+   "ne": "ग्रिल्ड मासु"
+  },
+  {
+   "kanji": "ラーメン",
+   "kana": "",
+   "eng": "ramen",
+   "cn": "拉面",
+   "ne": "रामेन"
+  },
+  {
+   "kanji": "食べ放題",
+   "kana": "たべほうだい",
+   "eng": "all-you-can-eat",
+   "cn": "自助餐",
+   "ne": "असीमित खाना"
+  },
+  {
+   "kanji": "コース",
+   "kana": "",
+   "eng": "course meal",
+   "cn": "套餐",
+   "ne": "कोर्स"
+  },
+  {
+   "kanji": "居酒屋",
+   "kana": "いざかや",
+   "eng": "izakaya",
+   "cn": "日式酒馆",
+   "ne": "इजाकाया"
+  },
+  {
+   "kanji": "映画館",
+   "kana": "えいがかん",
+   "eng": "cinema",
+   "cn": "电影院",
+   "ne": "सिनेमा"
+  },
+  {
+   "kanji": "地下鉄",
+   "kana": "ちかてつ",
+   "eng": "subway",
+   "cn": "地铁",
+   "ne": "सबवे"
+  },
+  {
+   "kanji": "歌手",
+   "kana": "かしゅ",
+   "eng": "singer",
+   "cn": "歌手",
+   "ne": "गायक"
+  },
+  {
+   "kanji": "季節",
+   "kana": "きせつ",
+   "eng": "season",
+   "cn": "季节",
+   "ne": "मौसम"
+  },
+  {
+   "kanji": "コメディー",
+   "kana": "",
+   "eng": "comedy",
+   "cn": "喜剧",
+   "ne": "कमेडी"
+  },
+  {
+   "kanji": "ジャズ",
+   "kana": "",
+   "eng": "jazz",
+   "cn": "爵士",
+   "ne": "जाज"
+  },
+  {
+   "kanji": "ツアー",
+   "kana": "",
+   "eng": "tour",
+   "cn": "旅游团",
+   "ne": "टुर"
+  },
+  {
+   "kanji": "どちら",
+   "kana": "",
+   "eng": "which",
+   "cn": "哪个",
+   "ne": "कुन"
+  },
+  {
+   "kanji": "どちらも",
+   "kana": "",
+   "eng": "both",
+   "cn": "两者都",
+   "ne": "दुबै"
+  },
+  {
+   "kanji": "近い",
+   "kana": "ちかい",
+   "eng": "near",
+   "cn": "近的",
+   "ne": "नजिक"
+  },
+  {
+   "kanji": "遠い",
+   "kana": "とおい",
+   "eng": "far",
+   "cn": "远的",
+   "ne": "टाढा"
+  },
+  {
+   "kanji": "早い",
+   "kana": "はやい",
+   "eng": "early",
+   "cn": "早的",
+   "ne": "छिटो"
+  },
+  {
+   "kanji": "広い",
+   "kana": "ひろい",
+   "eng": "spacious",
+   "cn": "宽敞",
+   "ne": "फराकिलो"
+  },
+  {
+   "kanji": "いちばん",
+   "kana": "",
+   "eng": "most",
+   "cn": "最",
+   "ne": "सबैभन्दा"
+  },
+  {
+   "kanji": "全部",
+   "kana": "ぜんぶ",
+   "eng": "all",
+   "cn": "全部",
+   "ne": "सबै"
+  },
+  {
+   "kanji": "お好み焼き",
+   "kana": "おこのみやき",
+   "eng": "okonomiyaki",
+   "cn": "御好烧",
+   "ne": "ओकोनोमियाकी"
+  },
+  {
+   "kanji": "すき焼き",
+   "kana": "",
+   "eng": "sukiyaki",
+   "cn": "寿喜烧",
+   "ne": "सुकियाकी"
+  },
+  {
+   "kanji": "遊びます",
+   "kana": "あそびます",
+   "eng": "play",
+   "cn": "玩",
+   "ne": "खेल्नु"
+  },
+  {
+   "kanji": "ぜひ",
+   "kana": "",
+   "eng": "definitely",
+   "cn": "务必",
+   "ne": "अवश्य"
+  },
+  {
+   "kanji": "まだ",
+   "kana": "",
+   "eng": "yet",
+   "cn": "还没",
+   "ne": "अझै"
+  },
+  {
+   "kanji": "もう",
+   "kana": "",
+   "eng": "already",
+   "cn": "已经",
+   "ne": "पहिले नै"
+  },
+  {
+   "kanji": "そうしましょう",
+   "kana": "",
+   "eng": "let's do that",
+   "cn": "就这么办",
+   "ne": "त्यसै गरौं"
+  },
+  {
+   "kanji": "わかりました",
+   "kana": "",
+   "eng": "understood",
+   "cn": "明白了",
+   "ne": "बुझें"
+  },
+  {
+   "kanji": "店",
+   "kana": "みせ",
+   "eng": "shop",
+   "cn": "店铺",
+   "ne": "पसल"
+  },
+  {
+   "kanji": "楽しみです",
+   "kana": "",
+   "eng": "looking forward",
+   "cn": "期待",
+   "ne": "आशा गरेको"
+  },
+  {
+   "kanji": "よかった",
+   "kana": "",
+   "eng": "great",
+   "cn": "太好了",
+   "ne": "राम्रो भयो"
+  }
+ ],
+ "7": [
+  {
+   "kanji": "アパート",
+   "kana": "",
+   "eng": "apartment",
+   "cn": "公寓",
+   "ne": "अपार्टमेन्ट"
+  },
+  {
+   "kanji": "犬",
+   "kana": "いぬ",
+   "eng": "dog",
+   "cn": "狗",
+   "ne": "कुकुर"
+  },
+  {
+   "kanji": "改札",
+   "kana": "かいさつ",
+   "eng": "ticket gate",
+   "cn": "检票口",
+   "ne": "टिकट गेट"
+  },
+  {
+   "kanji": "木",
+   "kana": "き",
+   "eng": "tree",
+   "cn": "树",
+   "ne": "रुख"
+  },
+  {
+   "kanji": "交番",
+   "kana": "こうばん",
+   "eng": "police box",
+   "cn": "派出所",
+   "ne": "पुलिस बक्स"
+  },
+  {
+   "kanji": "自動販売機",
+   "kana": "じどうはんばいき",
+   "eng": "vending machine",
+   "cn": "自动售货机",
+   "ne": "भेन्डिङ मेसिन"
+  },
+  {
+   "kanji": "バス停",
+   "kana": "バスてい",
+   "eng": "bus stop",
+   "cn": "公交站",
+   "ne": "बस स्टप"
+  },
+  {
+   "kanji": "ポスト",
+   "kana": "",
+   "eng": "post box",
+   "cn": "邮箱",
+   "ne": "हुलाक बक्स"
+  },
+  {
+   "kanji": "花",
+   "kana": "はな",
+   "eng": "flower",
+   "cn": "花",
+   "ne": "फूल"
+  },
+  {
+   "kanji": "間",
+   "kana": "あいだ",
+   "eng": "between",
+   "cn": "之间",
+   "ne": "बीच"
+  },
+  {
+   "kanji": "上",
+   "kana": "うえ",
+   "eng": "above",
+   "cn": "上面",
+   "ne": "माथि"
+  },
+  {
+   "kanji": "下",
+   "kana": "した",
+   "eng": "below",
+   "cn": "下面",
+   "ne": "तल"
+  },
+  {
+   "kanji": "近く",
+   "kana": "ちかく",
+   "eng": "nearby",
+   "cn": "附近",
+   "ne": "नजिक"
+  },
+  {
+   "kanji": "隣",
+   "kana": "となり",
+   "eng": "next to",
+   "cn": "旁边",
+   "ne": "छेउ"
+  },
+  {
+   "kanji": "中",
+   "kana": "なか",
+   "eng": "inside",
+   "cn": "里面",
+   "ne": "भित्र"
+  },
+  {
+   "kanji": "外",
+   "kana": "そと",
+   "eng": "outside",
+   "cn": "外面",
+   "ne": "बाहिर"
+  },
+  {
+   "kanji": "前",
+   "kana": "まえ",
+   "eng": "front",
+   "cn": "前面",
+   "ne": "अगाडि"
+  },
+  {
+   "kanji": "後ろ",
+   "kana": "うしろ",
+   "eng": "behind",
+   "cn": "后面",
+   "ne": "पछाडि"
+  },
+  {
+   "kanji": "横",
+   "kana": "よこ",
+   "eng": "side",
+   "cn": "侧面",
+   "ne": "छेउ"
+  },
+  {
+   "kanji": "迎えに行きます",
+   "kana": "むかえにいきます",
+   "eng": "go to pick up",
+   "cn": "去接",
+   "ne": "लिएर जानु"
+  },
+  {
+   "kanji": "います",
+   "kana": "",
+   "eng": "exist (living)",
+   "cn": "在（有生命）",
+   "ne": "छ"
+  },
+  {
+   "kanji": "もしもし",
+   "kana": "",
+   "eng": "hello (phone)",
+   "cn": "喂",
+   "ne": "हेलो"
+  },
+  {
+   "kanji": "いす",
+   "kana": "",
+   "eng": "chair",
+   "cn": "椅子",
+   "ne": "कुर्सी"
+  },
+  {
+   "kanji": "テーブル",
+   "kana": "",
+   "eng": "table",
+   "cn": "桌子",
+   "ne": "टेबुल"
+  },
+  {
+   "kanji": "電子レンジ",
+   "kana": "でんしレンジ",
+   "eng": "microwave",
+   "cn": "微波炉",
+   "ne": "माइक्रोवेभ"
+  },
+  {
+   "kanji": "冷蔵庫",
+   "kana": "れいぞうこ",
+   "eng": "refrigerator",
+   "cn": "冰箱",
+   "ne": "फ्रिज"
+  },
+  {
+   "kanji": "砂糖",
+   "kana": "さとう",
+   "eng": "sugar",
+   "cn": "糖",
+   "ne": "चिनी"
+  },
+  {
+   "kanji": "塩",
+   "kana": "しお",
+   "eng": "salt",
+   "cn": "盐",
+   "ne": "नुन"
+  },
+  {
+   "kanji": "しょうゆ",
+   "kana": "",
+   "eng": "soy sauce",
+   "cn": "酱油",
+   "ne": "सोया सस"
+  },
+  {
+   "kanji": "コップ",
+   "kana": "",
+   "eng": "cup",
+   "cn": "杯子",
+   "ne": "कप"
+  },
+  {
+   "kanji": "（お）皿",
+   "kana": "さら",
+   "eng": "plate",
+   "cn": "盘子",
+   "ne": "प्लेट"
+  },
+  {
+   "kanji": "スプーン",
+   "kana": "",
+   "eng": "spoon",
+   "cn": "勺子",
+   "ne": "चम्चा"
+  },
+  {
+   "kanji": "ナイフ",
+   "kana": "",
+   "eng": "knife",
+   "cn": "刀",
+   "ne": "चक्कु"
+  },
+  {
+   "kanji": "フォーク",
+   "kana": "",
+   "eng": "fork",
+   "cn": "叉",
+   "ne": "काँटा"
+  },
+  {
+   "kanji": "はし",
+   "kana": "",
+   "eng": "chopsticks",
+   "cn": "筷子",
+   "ne": "चपस्टिक्स"
+  },
+  {
+   "kanji": "インターネット",
+   "kana": "",
+   "eng": "Internet",
+   "cn": "互联网",
+   "ne": "इन्टरनेट"
+  },
+  {
+   "kanji": "漢字",
+   "kana": "かんじ",
+   "eng": "kanji",
+   "cn": "汉字",
+   "ne": "कान्जी"
+  },
+  {
+   "kanji": "ピザ",
+   "kana": "",
+   "eng": "pizza",
+   "cn": "披萨",
+   "ne": "पिजा"
+  },
+  {
+   "kanji": "どれ",
+   "kana": "",
+   "eng": "which one",
+   "cn": "哪个",
+   "ne": "कुन"
+  },
+  {
+   "kanji": "どの",
+   "kana": "",
+   "eng": "which + noun",
+   "cn": "哪个（后接名词）",
+   "ne": "कुन"
+  },
+  {
+   "kanji": "洗います",
+   "kana": "あらいます",
+   "eng": "wash",
+   "cn": "洗",
+   "ne": "धुनु"
+  },
+  {
+   "kanji": "置きます",
+   "kana": "おきます",
+   "eng": "put",
+   "cn": "放置",
+   "ne": "राख्नु"
+  },
+  {
+   "kanji": "貸します",
+   "kana": "かします",
+   "eng": "lend",
+   "cn": "借出",
+   "ne": "सापट दिनु"
+  },
+  {
+   "kanji": "聞きます",
+   "kana": "ききます",
+   "eng": "ask/listen",
+   "cn": "问/听",
+   "ne": "सोध्नु/सुन्नु"
+  },
+  {
+   "kanji": "切ります",
+   "kana": "きります",
+   "eng": "cut",
+   "cn": "切",
+   "ne": "काट्नु"
+  },
+  {
+   "kanji": "使います",
+   "kana": "つかいます",
+   "eng": "use",
+   "cn": "使用",
+   "ne": "प्रयोग गर्नु"
+  },
+  {
+   "kanji": "手伝います",
+   "kana": "てつだいます",
+   "eng": "help",
+   "cn": "帮忙",
+   "ne": "मद्दत गर्नु"
+  },
+  {
+   "kanji": "取ります",
+   "kana": "とります",
+   "eng": "take",
+   "cn": "取",
+   "ne": "लिनु"
+  },
+  {
+   "kanji": "持って行きます",
+   "kana": "もっていきます",
+   "eng": "take away",
+   "cn": "带走",
+   "ne": "लिएर जानु"
+  },
+  {
+   "kanji": "わかります",
+   "kana": "",
+   "eng": "understand",
+   "cn": "明白",
+   "ne": "बुझ्नु"
+  },
+  {
+   "kanji": "出します",
+   "kana": "だします",
+   "eng": "take out",
+   "cn": "拿出",
+   "ne": "निकाल्नु"
+  },
+  {
+   "kanji": "入れます",
+   "kana": "いれます",
+   "eng": "put in",
+   "cn": "放入",
+   "ne": "भित्र राख्नु"
+  },
+  {
+   "kanji": "教えます",
+   "kana": "おしえます",
+   "eng": "teach",
+   "cn": "教",
+   "ne": "सिकाउनु"
+  },
+  {
+   "kanji": "注文します",
+   "kana": "ちゅうもんします",
+   "eng": "order",
+   "cn": "点餐",
+   "ne": "अर्डर गर्नु"
+  },
+  {
+   "kanji": "たくさん",
+   "kana": "",
+   "eng": "many",
+   "cn": "很多",
+   "ne": "धेरै"
+  },
+  {
+   "kanji": "歌",
+   "kana": "うた",
+   "eng": "song",
+   "cn": "歌",
+   "ne": "गीत"
+  },
+  {
+   "kanji": "ギター",
+   "kana": "",
+   "eng": "guitar",
+   "cn": "吉他",
+   "ne": "गितार"
+  },
+  {
+   "kanji": "台所",
+   "kana": "だいどころ",
+   "eng": "kitchen",
+   "cn": "厨房",
+   "ne": "भान्सा"
+  },
+  {
+   "kanji": "たばこ",
+   "kana": "",
+   "eng": "cigarette",
+   "cn": "香烟",
+   "ne": "चुरोट"
+  },
+  {
+   "kanji": "電話",
+   "kana": "でんわ",
+   "eng": "telephone",
+   "cn": "电话",
+   "ne": "टेलिफोन"
+  },
+  {
+   "kanji": "窓",
+   "kana": "まど",
+   "eng": "window",
+   "cn": "窗户",
+   "ne": "झ्याल"
+  },
+  {
+   "kanji": "歌います",
+   "kana": "うたいます",
+   "eng": "sing",
+   "cn": "唱",
+   "ne": "गाउनु"
+  },
+  {
+   "kanji": "吸います",
+   "kana": "すいます",
+   "eng": "smoke",
+   "cn": "吸（烟）",
+   "ne": "चुरोट पिउनु"
+  },
+  {
+   "kanji": "話します",
+   "kana": "はなします",
+   "eng": "speak",
+   "cn": "说话",
+   "ne": "बोल्नु"
+  },
+  {
+   "kanji": "弾きます",
+   "kana": "ひきます",
+   "eng": "play (instrument)",
+   "cn": "弹",
+   "ne": "बजाउनु"
+  },
+  {
+   "kanji": "持ちます",
+   "kana": "もちます",
+   "eng": "hold",
+   "cn": "拿",
+   "ne": "समाउनु"
+  },
+  {
+   "kanji": "開けます",
+   "kana": "あけます",
+   "eng": "open",
+   "cn": "打开",
+   "ne": "खोल्नु"
+  },
+  {
+   "kanji": "閉めます",
+   "kana": "しめます",
+   "eng": "close",
+   "cn": "关上",
+   "ne": "बन्द गर्नु"
+  },
+  {
+   "kanji": "かけます",
+   "kana": "",
+   "eng": "make a call",
+   "cn": "打电话",
+   "ne": "फोन गर्नु"
+  },
+  {
+   "kanji": "持って来ます",
+   "kana": "もってきます",
+   "eng": "bring",
+   "cn": "带来",
+   "ne": "लिएर आउनु"
+  },
+  {
+   "kanji": "ああ",
+   "kana": "",
+   "eng": "oh",
+   "cn": "啊",
+   "ne": "आहा"
+  },
+  {
+   "kanji": "いいですよ",
+   "kana": "",
+   "eng": "that's fine",
+   "cn": "好的",
+   "ne": "ठिक छ"
+  },
+  {
+   "kanji": "すみませんが",
+   "kana": "",
+   "eng": "excuse me but",
+   "cn": "不好意思",
+   "ne": "माफ गर्नुहोस्"
+  },
+  {
+   "kanji": "お願いします",
+   "kana": "",
+   "eng": "please",
+   "cn": "拜托",
+   "ne": "कृपया"
+  }
+ ],
+ "8": [
+  {
+   "kanji": "両親",
+   "kana": "りょうしん",
+   "eng": "parents",
+   "cn": "父母",
+   "ne": "आमाबुबा"
+  },
+  {
+   "kanji": "父",
+   "kana": "ちち",
+   "eng": "father (my)",
+   "cn": "父亲",
+   "ne": "बुबा"
+  },
+  {
+   "kanji": "母",
+   "kana": "はは",
+   "eng": "mother (my)",
+   "cn": "母亲",
+   "ne": "आमा"
+  },
+  {
+   "kanji": "兄",
+   "kana": "あに",
+   "eng": "older brother",
+   "cn": "哥哥",
+   "ne": "दाइ"
+  },
+  {
+   "kanji": "姉",
+   "kana": "あね",
+   "eng": "older sister",
+   "cn": "姐姐",
+   "ne": "दिदी"
+  },
+  {
+   "kanji": "弟",
+   "kana": "おとうと",
+   "eng": "younger brother",
+   "cn": "弟弟",
+   "ne": "भाइ"
+  },
+  {
+   "kanji": "妹",
+   "kana": "いもうと",
+   "eng": "younger sister",
+   "cn": "妹妹",
+   "ne": "बहिनी"
+  },
+  {
+   "kanji": "夫",
+   "kana": "おっと",
+   "eng": "husband",
+   "cn": "丈夫",
+   "ne": "श्रीमान"
+  },
+  {
+   "kanji": "妻",
+   "kana": "つま",
+   "eng": "wife",
+   "cn": "妻子",
+   "ne": "श्रीमती"
+  },
+  {
+   "kanji": "子ども",
+   "kana": "",
+   "eng": "child",
+   "cn": "孩子",
+   "ne": "बच्चा"
+  },
+  {
+   "kanji": "息子",
+   "kana": "むすこ",
+   "eng": "son",
+   "cn": "儿子",
+   "ne": "छोरा"
+  },
+  {
+   "kanji": "娘",
+   "kana": "むすめ",
+   "eng": "daughter",
+   "cn": "女儿",
+   "ne": "छोरी"
+  },
+  {
+   "kanji": "お父さん",
+   "kana": "おとうさん",
+   "eng": "father (polite)",
+   "cn": "爸爸",
+   "ne": "बुबा"
+  },
+  {
+   "kanji": "お母さん",
+   "kana": "おかあさん",
+   "eng": "mother (polite)",
+   "cn": "妈妈",
+   "ne": "आमा"
+  },
+  {
+   "kanji": "ペット",
+   "kana": "",
+   "eng": "pet",
+   "cn": "宠物",
+   "ne": "पाल्तु जनावर"
+  },
+  {
+   "kanji": "猫",
+   "kana": "ねこ",
+   "eng": "cat",
+   "cn": "猫",
+   "ne": "बिरालो"
+  },
+  {
+   "kanji": "高校生",
+   "kana": "こうこうせい",
+   "eng": "high school student",
+   "cn": "高中生",
+   "ne": "एचएस विद्यार्थी"
+  },
+  {
+   "kanji": "大学生",
+   "kana": "だいがくせい",
+   "eng": "college student",
+   "cn": "大学生",
+   "ne": "कलेज विद्यार्थी"
+  },
+  {
+   "kanji": "住みます",
+   "kana": "すみます",
+   "eng": "live",
+   "cn": "居住",
+   "ne": "बस्नु"
+  },
+  {
+   "kanji": "います",
+   "kana": "",
+   "eng": "be/exist",
+   "cn": "在",
+   "ne": "हुनु"
+  },
+  {
+   "kanji": "ご主人",
+   "kana": "",
+   "eng": "husband (polite)",
+   "cn": "先生（尊称）",
+   "ne": "श्रीमान"
+  },
+  {
+   "kanji": "奥さん",
+   "kana": "おくさん",
+   "eng": "wife (polite)",
+   "cn": "夫人（尊称）",
+   "ne": "श्रीमती"
+  },
+  {
+   "kanji": "先輩",
+   "kana": "せんぱい",
+   "eng": "senior",
+   "cn": "前辈",
+   "ne": "सिनियर"
+  },
+  {
+   "kanji": "後輩",
+   "kana": "こうはい",
+   "eng": "junior",
+   "cn": "后辈",
+   "ne": "जुनियर"
+  },
+  {
+   "kanji": "うさぎ",
+   "kana": "",
+   "eng": "rabbit",
+   "cn": "兔子",
+   "ne": "खरायो"
+  },
+  {
+   "kanji": "鳥",
+   "kana": "とり",
+   "eng": "bird",
+   "cn": "鸟",
+   "ne": "चरा"
+  },
+  {
+   "kanji": "足",
+   "kana": "あし",
+   "eng": "foot/leg",
+   "cn": "脚",
+   "ne": "खुट्टा"
+  },
+  {
+   "kanji": "髪",
+   "kana": "かみ",
+   "eng": "hair",
+   "cn": "头发",
+   "ne": "कपाल"
+  },
+  {
+   "kanji": "鼻",
+   "kana": "はな",
+   "eng": "nose",
+   "cn": "鼻子",
+   "ne": "नाक"
+  },
+  {
+   "kanji": "耳",
+   "kana": "みみ",
+   "eng": "ear",
+   "cn": "耳朵",
+   "ne": "कान"
+  },
+  {
+   "kanji": "目",
+   "kana": "め",
+   "eng": "eye",
+   "cn": "眼睛",
+   "ne": "आँखा"
+  },
+  {
+   "kanji": "毛",
+   "kana": "け",
+   "eng": "fur/hair",
+   "cn": "毛",
+   "ne": "रौं"
+  },
+  {
+   "kanji": "しっぽ",
+   "kana": "",
+   "eng": "tail",
+   "cn": "尾巴",
+   "ne": "पुच्छर"
+  },
+  {
+   "kanji": "羽",
+   "kana": "はね",
+   "eng": "wing",
+   "cn": "翅膀",
+   "ne": "पखेटा"
+  },
+  {
+   "kanji": "頭がいい",
+   "kana": "あたまがいい",
+   "eng": "smart",
+   "cn": "聪明",
+   "ne": "बुद्धिमान"
+  },
+  {
+   "kanji": "かっこいい",
+   "kana": "",
+   "eng": "cool",
+   "cn": "帅气",
+   "ne": "स्टाइलिश"
+  },
+  {
+   "kanji": "かわいい",
+   "kana": "",
+   "eng": "cute",
+   "cn": "可爱",
+   "ne": "क्युट"
+  },
+  {
+   "kanji": "背が高い",
+   "kana": "せがたかい",
+   "eng": "tall",
+   "cn": "个子高",
+   "ne": "अग्लो"
+  },
+  {
+   "kanji": "長い",
+   "kana": "ながい",
+   "eng": "long",
+   "cn": "长的",
+   "ne": "लामो"
+  },
+  {
+   "kanji": "短い",
+   "kana": "みじかい",
+   "eng": "short",
+   "cn": "短的",
+   "ne": "छोटो"
+  },
+  {
+   "kanji": "優しい",
+   "kana": "やさしい",
+   "eng": "kind",
+   "cn": "温柔",
+   "ne": "दयालु"
+  },
+  {
+   "kanji": "黒い",
+   "kana": "くろい",
+   "eng": "black",
+   "cn": "黑",
+   "ne": "कालो"
+  },
+  {
+   "kanji": "白い",
+   "kana": "しろい",
+   "eng": "white",
+   "cn": "白",
+   "ne": "सेतो"
+  },
+  {
+   "kanji": "茶色い",
+   "kana": "ちゃいろい",
+   "eng": "brown",
+   "cn": "棕色",
+   "ne": "खैरो"
+  },
+  {
+   "kanji": "元気",
+   "kana": "げんき",
+   "eng": "healthy",
+   "cn": "精神好",
+   "ne": "स्वस्थ"
+  },
+  {
+   "kanji": "親切",
+   "kana": "しんせつ",
+   "eng": "kind",
+   "cn": "亲切",
+   "ne": "मिल्ने"
+  },
+  {
+   "kanji": "まじめ",
+   "kana": "",
+   "eng": "serious",
+   "cn": "认真",
+   "ne": "गम्भीर"
+  },
+  {
+   "kanji": "上手",
+   "kana": "じょうず",
+   "eng": "skillful",
+   "cn": "擅长",
+   "ne": "निपुण"
+  },
+  {
+   "kanji": "下手",
+   "kana": "へた",
+   "eng": "poor",
+   "cn": "不擅长",
+   "ne": "कमजोर"
+  },
+  {
+   "kanji": "カード",
+   "kana": "",
+   "eng": "card",
+   "cn": "卡片",
+   "ne": "कार्ड"
+  },
+  {
+   "kanji": "傘",
+   "kana": "かさ",
+   "eng": "umbrella",
+   "cn": "伞",
+   "ne": "छाता"
+  },
+  {
+   "kanji": "お金",
+   "kana": "おかね",
+   "eng": "money",
+   "cn": "钱",
+   "ne": "पैसा"
+  },
+  {
+   "kanji": "靴下",
+   "kana": "くつした",
+   "eng": "socks",
+   "cn": "袜子",
+   "ne": "मोजा"
+  },
+  {
+   "kanji": "辞書",
+   "kana": "じしょ",
+   "eng": "dictionary",
+   "cn": "字典",
+   "ne": "शब्दकोश"
+  },
+  {
+   "kanji": "水筒",
+   "kana": "すいとう",
+   "eng": "water bottle",
+   "cn": "水壶",
+   "ne": "पानी बोतल"
+  },
+  {
+   "kanji": "チョコレート",
+   "kana": "",
+   "eng": "chocolate",
+   "cn": "巧克力",
+   "ne": "चकलेट"
+  },
+  {
+   "kanji": "手紙",
+   "kana": "てがみ",
+   "eng": "letter",
+   "cn": "信",
+   "ne": "चिठी"
+  },
+  {
+   "kanji": "ネックレス",
+   "kana": "",
+   "eng": "necklace",
+   "cn": "项链",
+   "ne": "हार"
+  },
+  {
+   "kanji": "ノート",
+   "kana": "",
+   "eng": "notebook",
+   "cn": "笔记本",
+   "ne": "नोटबुक"
+  },
+  {
+   "kanji": "プレゼント",
+   "kana": "",
+   "eng": "present",
+   "cn": "礼物",
+   "ne": "उपहार"
+  },
+  {
+   "kanji": "祖母",
+   "kana": "そぼ",
+   "eng": "grandmother",
+   "cn": "祖母",
+   "ne": "हजुरआमा"
+  },
+  {
+   "kanji": "クリスマス",
+   "kana": "",
+   "eng": "Christmas",
+   "cn": "圣诞节",
+   "ne": "क्रिसमस"
+  },
+  {
+   "kanji": "結婚式",
+   "kana": "けっこんしき",
+   "eng": "wedding",
+   "cn": "婚礼",
+   "ne": "विवाह"
+  },
+  {
+   "kanji": "バレンタインデー",
+   "kana": "",
+   "eng": "Valentine's Day",
+   "cn": "情人节",
+   "ne": "भ्यालेन्टाइन डे"
+  },
+  {
+   "kanji": "送ります",
+   "kana": "おくります",
+   "eng": "send",
+   "cn": "寄送",
+   "ne": "पठाउनु"
+  },
+  {
+   "kanji": "もらいます",
+   "kana": "",
+   "eng": "receive",
+   "cn": "收到",
+   "ne": "पाउनु"
+  },
+  {
+   "kanji": "あげます",
+   "kana": "",
+   "eng": "give",
+   "cn": "给",
+   "ne": "दिनु"
+  },
+  {
+   "kanji": "くれます",
+   "kana": "",
+   "eng": "give (to me)",
+   "cn": "给我",
+   "ne": "दिनुहुन्छ"
+  },
+  {
+   "kanji": "電話します",
+   "kana": "でんわします",
+   "eng": "call",
+   "cn": "打电话",
+   "ne": "फोन गर्नु"
+  },
+  {
+   "kanji": "経済",
+   "kana": "けいざい",
+   "eng": "economics",
+   "cn": "经济",
+   "ne": "अर्थतन्त्र"
+  },
+  {
+   "kanji": "素敵",
+   "kana": "すてき",
+   "eng": "lovely",
+   "cn": "极好",
+   "ne": "राम्रो"
+  }
+ ],
+ "9": [
+  {
+   "kanji": "話",
+   "kana": "はなし",
+   "eng": "story",
+   "cn": "故事",
+   "ne": "कुरा"
+  },
+  {
+   "kanji": "ミュージカル",
+   "kana": "",
+   "eng": "musical",
+   "cn": "音乐剧",
+   "ne": "म्युजिकल"
+  },
+  {
+   "kanji": "CD",
+   "kana": "",
+   "eng": "CD",
+   "cn": "光盘",
+   "ne": "सीडी"
+  },
+  {
+   "kanji": "菓子",
+   "kana": "かし",
+   "eng": "snack",
+   "cn": "点心",
+   "ne": "खाजा"
+  },
+  {
+   "kanji": "切手",
+   "kana": "きって",
+   "eng": "stamp",
+   "cn": "邮票",
+   "ne": "टिकट"
+  },
+  {
+   "kanji": "小説",
+   "kana": "しょうせつ",
+   "eng": "novel",
+   "cn": "小说",
+   "ne": "उपन्यास"
+  },
+  {
+   "kanji": "釣り",
+   "kana": "",
+   "eng": "fishing",
+   "cn": "钓鱼",
+   "ne": "माछा मार्ने"
+  },
+  {
+   "kanji": "ドラマ",
+   "kana": "",
+   "eng": "drama",
+   "cn": "电视剧",
+   "ne": "ड्रामा"
+  },
+  {
+   "kanji": "ぬいぐるみ",
+   "kana": "",
+   "eng": "stuffed toy",
+   "cn": "毛绒玩具",
+   "ne": "रुँगो खेलौना"
+  },
+  {
+   "kanji": "プール",
+   "kana": "",
+   "eng": "pool",
+   "cn": "游泳池",
+   "ne": "पुल"
+  },
+  {
+   "kanji": "漫画",
+   "kana": "まんが",
+   "eng": "comic",
+   "cn": "漫画",
+   "ne": "कमिक"
+  },
+  {
+   "kanji": "アクション",
+   "kana": "",
+   "eng": "action",
+   "cn": "动作片",
+   "ne": "एक्सन"
+  },
+  {
+   "kanji": "クラシック",
+   "kana": "",
+   "eng": "classical",
+   "cn": "古典乐",
+   "ne": "क्लासिक"
+  },
+  {
+   "kanji": "ポップス",
+   "kana": "",
+   "eng": "pop music",
+   "cn": "流行乐",
+   "ne": "पप संगीत"
+  },
+  {
+   "kanji": "いつも",
+   "kana": "",
+   "eng": "always",
+   "cn": "总是",
+   "ne": "सधैं"
+  },
+  {
+   "kanji": "よく",
+   "kana": "",
+   "eng": "often",
+   "cn": "经常",
+   "ne": "धेरै"
+  },
+  {
+   "kanji": "ときどき",
+   "kana": "",
+   "eng": "sometimes",
+   "cn": "有时",
+   "ne": "कहिलेकाहीं"
+  },
+  {
+   "kanji": "あまり",
+   "kana": "",
+   "eng": "not much",
+   "cn": "不太",
+   "ne": "धेरै होइन"
+  },
+  {
+   "kanji": "全然",
+   "kana": "ぜんぜん",
+   "eng": "not at all",
+   "cn": "完全不",
+   "ne": "एकदम होइन"
+  },
+  {
+   "kanji": "特に",
+   "kana": "とくに",
+   "eng": "especially",
+   "cn": "特别",
+   "ne": "विशेष गरी"
+  },
+  {
+   "kanji": "でも",
+   "kana": "",
+   "eng": "but",
+   "cn": "但是",
+   "ne": "तर"
+  },
+  {
+   "kanji": "だけ",
+   "kana": "",
+   "eng": "only",
+   "cn": "只",
+   "ne": "मात्र"
+  },
+  {
+   "kanji": "~回",
+   "kana": "かい",
+   "eng": "~times",
+   "cn": "…次",
+   "ne": "~पटक"
+  },
+  {
+   "kanji": "~冊",
+   "kana": "さつ",
+   "eng": "~volumes",
+   "cn": "…册",
+   "ne": "~थान"
+  },
+  {
+   "kanji": "~杯",
+   "kana": "はい",
+   "eng": "~cups",
+   "cn": "…杯",
+   "ne": "~कप"
+  },
+  {
+   "kanji": "~本",
+   "kana": "ほん",
+   "eng": "~bottles/long items",
+   "cn": "…瓶/根",
+   "ne": "~वटा"
+  },
+  {
+   "kanji": "~料理",
+   "kana": "りょうり",
+   "eng": "~dishes",
+   "cn": "…道菜",
+   "ne": "~परिकार"
+  },
+  {
+   "kanji": "泳ぎます",
+   "kana": "およぎます",
+   "eng": "swim",
+   "cn": "游泳",
+   "ne": "पौड्नु"
+  },
+  {
+   "kanji": "描きます",
+   "kana": "かきます",
+   "eng": "draw/paint",
+   "cn": "画",
+   "ne": "कोर्नु"
+  },
+  {
+   "kanji": "集めます",
+   "kana": "あつめます",
+   "eng": "collect",
+   "cn": "收集",
+   "ne": "सङ्कलन गर्नु"
+  },
+  {
+   "kanji": "運転します",
+   "kana": "うんてんします",
+   "eng": "drive",
+   "cn": "驾驶",
+   "ne": "गाडी चलाउनु"
+  },
+  {
+   "kanji": "習います",
+   "kana": "ならいます",
+   "eng": "learn",
+   "cn": "学习",
+   "ne": "सिक्नु"
+  },
+  {
+   "kanji": "乗ります",
+   "kana": "のります",
+   "eng": "ride",
+   "cn": "乘坐",
+   "ne": "चढ्नु"
+  },
+  {
+   "kanji": "入ります",
+   "kana": "はいります",
+   "eng": "enter",
+   "cn": "进入",
+   "ne": "पस्नु"
+  },
+  {
+   "kanji": "申し込みます",
+   "kana": "もうしこみます",
+   "eng": "apply",
+   "cn": "申请",
+   "ne": "आवेदन गर्नु"
+  },
+  {
+   "kanji": "できます",
+   "kana": "",
+   "eng": "can do",
+   "cn": "能做",
+   "ne": "सक्नु"
+  },
+  {
+   "kanji": "参加します",
+   "kana": "さんかします",
+   "eng": "participate",
+   "cn": "参加",
+   "ne": "सहभागी हुनु"
+  },
+  {
+   "kanji": "言います",
+   "kana": "いいます",
+   "eng": "say",
+   "cn": "说",
+   "ne": "भन्नु"
+  },
+  {
+   "kanji": "払います",
+   "kana": "はらいます",
+   "eng": "pay",
+   "cn": "支付",
+   "ne": "तिर्नु"
+  },
+  {
+   "kanji": "降ります",
+   "kana": "おります",
+   "eng": "get off",
+   "cn": "下车",
+   "ne": "झर्नु"
+  },
+  {
+   "kanji": "見せます",
+   "kana": "みせます",
+   "eng": "show",
+   "cn": "展示",
+   "ne": "देखाउनु"
+  },
+  {
+   "kanji": "予約します",
+   "kana": "よやくします",
+   "eng": "reserve",
+   "cn": "预约",
+   "ne": "आरक्षण गर्नु"
+  },
+  {
+   "kanji": "イベント",
+   "kana": "",
+   "eng": "event",
+   "cn": "活动",
+   "ne": "कार्यक्रम"
+  },
+  {
+   "kanji": "コンテスト",
+   "kana": "",
+   "eng": "contest",
+   "cn": "比赛",
+   "ne": "प्रतियोगिता"
+  },
+  {
+   "kanji": "書道",
+   "kana": "しょどう",
+   "eng": "calligraphy",
+   "cn": "书法",
+   "ne": "कलमी"
+  },
+  {
+   "kanji": "ダイビング",
+   "kana": "",
+   "eng": "diving",
+   "cn": "潜水",
+   "ne": "डाइभिङ"
+  },
+  {
+   "kanji": "ダンス",
+   "kana": "",
+   "eng": "dance",
+   "cn": "舞蹈",
+   "ne": "नाच"
+  },
+  {
+   "kanji": "~クラブ",
+   "kana": "",
+   "eng": "~club",
+   "cn": "…俱乐部",
+   "ne": "~क्लब"
+  },
+  {
+   "kanji": "~教室",
+   "kana": "きょうしつ",
+   "eng": "~class",
+   "cn": "…教室",
+   "ne": "~कक्षा"
+  },
+  {
+   "kanji": "受付",
+   "kana": "うけつけ",
+   "eng": "reception",
+   "cn": "接待处",
+   "ne": "रिसेप्सन"
+  },
+  {
+   "kanji": "カード",
+   "kana": "",
+   "eng": "card",
+   "cn": "卡",
+   "ne": "कार्ड"
+  },
+  {
+   "kanji": "在留カード",
+   "kana": "ざいりゅうカード",
+   "eng": "residence card",
+   "cn": "居留卡",
+   "ne": "आवास कार्ड"
+  },
+  {
+   "kanji": "住所",
+   "kana": "じゅうしょ",
+   "eng": "address",
+   "cn": "地址",
+   "ne": "ठेगाना"
+  },
+  {
+   "kanji": "電話番号",
+   "kana": "でんわばんごう",
+   "eng": "phone number",
+   "cn": "电话号码",
+   "ne": "फोन नम्बर"
+  },
+  {
+   "kanji": "顔",
+   "kana": "かお",
+   "eng": "face",
+   "cn": "脸",
+   "ne": "अनुहार"
+  },
+  {
+   "kanji": "宿題",
+   "kana": "しゅくだい",
+   "eng": "homework",
+   "cn": "作业",
+   "ne": "गृहकार्य"
+  },
+  {
+   "kanji": "クラスメイト",
+   "kana": "",
+   "eng": "classmate",
+   "cn": "同学",
+   "ne": "सहपाठी"
+  },
+  {
+   "kanji": "昔",
+   "kana": "むかし",
+   "eng": "past",
+   "cn": "以前",
+   "ne": "पहिले"
+  }
+ ],
+ "10": [
+  {
+   "kanji": "船",
+   "kana": "ふね",
+   "eng": "ship",
+   "cn": "船",
+   "ne": "जहाज"
+  },
+  {
+   "kanji": "売り場",
+   "kana": "うりば",
+   "eng": "sales floor",
+   "cn": "卖场",
+   "ne": "बिक्री कक्ष"
+  },
+  {
+   "kanji": "音",
+   "kana": "おと",
+   "eng": "sound",
+   "cn": "声音",
+   "ne": "आवाज"
+  },
+  {
+   "kanji": "声",
+   "kana": "こえ",
+   "eng": "voice",
+   "cn": "嗓音",
+   "ne": "आवाज"
+  },
+  {
+   "kanji": "薬",
+   "kana": "くすり",
+   "eng": "medicine",
+   "cn": "药",
+   "ne": "औषधि"
+  },
+  {
+   "kanji": "角",
+   "kana": "かど",
+   "eng": "corner",
+   "cn": "拐角",
+   "ne": "कुना"
+  },
+  {
+   "kanji": "交差点",
+   "kana": "こうさてん",
+   "eng": "intersection",
+   "cn": "十字路口",
+   "ne": "चोक"
+  },
+  {
+   "kanji": "信号",
+   "kana": "しんごう",
+   "eng": "traffic light",
+   "cn": "红绿灯",
+   "ne": "ट्राफिक लाइट"
+  },
+  {
+   "kanji": "橋",
+   "kana": "はし",
+   "eng": "bridge",
+   "cn": "桥",
+   "ne": "पुल"
+  },
+  {
+   "kanji": "道",
+   "kana": "みち",
+   "eng": "road",
+   "cn": "路",
+   "ne": "बाटो"
+  },
+  {
+   "kanji": "左",
+   "kana": "ひだり",
+   "eng": "left",
+   "cn": "左",
+   "ne": "बायाँ"
+  },
+  {
+   "kanji": "右",
+   "kana": "みぎ",
+   "eng": "right",
+   "cn": "右",
+   "ne": "दायाँ"
+  },
+  {
+   "kanji": "~つ目",
+   "kana": "つめ",
+   "eng": "~th one",
+   "cn": "第…个",
+   "ne": "~औं"
+  },
+  {
+   "kanji": "探します",
+   "kana": "さがします",
+   "eng": "look for",
+   "cn": "寻找",
+   "ne": "खोज्नु"
+  },
+  {
+   "kanji": "待ちます",
+   "kana": "まちます",
+   "eng": "wait",
+   "cn": "等待",
+   "ne": "पर्खनु"
+  },
+  {
+   "kanji": "曲がります",
+   "kana": "まがります",
+   "eng": "turn",
+   "cn": "转弯",
+   "ne": "मोडिनु"
+  },
+  {
+   "kanji": "渡ります",
+   "kana": "わたります",
+   "eng": "cross",
+   "cn": "过（桥/马路）",
+   "ne": "तर्नु"
+  },
+  {
+   "kanji": "聞こえます",
+   "kana": "きこえます",
+   "eng": "can hear",
+   "cn": "听得见",
+   "ne": "सुन्न सकिनु"
+  },
+  {
+   "kanji": "見えます",
+   "kana": "みえます",
+   "eng": "can see",
+   "cn": "看得见",
+   "ne": "देख्न सकिनु"
+  },
+  {
+   "kanji": "押します",
+   "kana": "おします",
+   "eng": "push",
+   "cn": "按",
+   "ne": "थिच्नु"
+  },
+  {
+   "kanji": "触ります",
+   "kana": "さわります",
+   "eng": "touch",
+   "cn": "触摸",
+   "ne": "छुनु"
+  },
+  {
+   "kanji": "座ります",
+   "kana": "すわります",
+   "eng": "sit",
+   "cn": "坐",
+   "ne": "बस्नु"
+  },
+  {
+   "kanji": "立ちます",
+   "kana": "たちます",
+   "eng": "stand",
+   "cn": "站",
+   "ne": "उभिनु"
+  },
+  {
+   "kanji": "入ります",
+   "kana": "はいります",
+   "eng": "enter",
+   "cn": "进入",
+   "ne": "पस्नु"
+  },
+  {
+   "kanji": "捨てます",
+   "kana": "すてます",
+   "eng": "throw away",
+   "cn": "扔掉",
+   "ne": "फाल्नु"
+  },
+  {
+   "kanji": "集合します",
+   "kana": "しゅうごうします",
+   "eng": "gather",
+   "cn": "集合",
+   "ne": "जम्मा हुनु"
+  },
+  {
+   "kanji": "歩きます",
+   "kana": "あるきます",
+   "eng": "walk",
+   "cn": "步行",
+   "ne": "हिँड्नु"
+  },
+  {
+   "kanji": "飛びます",
+   "kana": "とびます",
+   "eng": "fly/jump",
+   "cn": "飞/跳",
+   "ne": "उड्नु/फन्को मार्नु"
+  },
+  {
+   "kanji": "休みます",
+   "kana": "やすみます",
+   "eng": "rest",
+   "cn": "休息",
+   "ne": "आराम गर्नु"
+  },
+  {
+   "kanji": "やります",
+   "kana": "",
+   "eng": "do",
+   "cn": "做",
+   "ne": "गर्नु"
+  },
+  {
+   "kanji": "動物園",
+   "kana": "どうぶつえん",
+   "eng": "zoo",
+   "cn": "动物园",
+   "ne": "चिडियाखाना"
+  },
+  {
+   "kanji": "クマ",
+   "kana": "",
+   "eng": "bear",
+   "cn": "熊",
+   "ne": "भालु"
+  },
+  {
+   "kanji": "コアラ",
+   "kana": "",
+   "eng": "koala",
+   "cn": "考拉",
+   "ne": "कोआला"
+  },
+  {
+   "kanji": "サル",
+   "kana": "",
+   "eng": "monkey",
+   "cn": "猴子",
+   "ne": "बाँदर"
+  },
+  {
+   "kanji": "ゾウ",
+   "kana": "",
+   "eng": "elephant",
+   "cn": "大象",
+   "ne": "हात्ती"
+  },
+  {
+   "kanji": "パンダ",
+   "kana": "",
+   "eng": "panda",
+   "cn": "熊猫",
+   "ne": "पाण्डा"
+  },
+  {
+   "kanji": "ペンギン",
+   "kana": "",
+   "eng": "penguin",
+   "cn": "企鹅",
+   "ne": "पेन्ग्विन"
+  },
+  {
+   "kanji": "ボール",
+   "kana": "",
+   "eng": "ball",
+   "cn": "球",
+   "ne": "बल"
+  },
+  {
+   "kanji": "バナナ",
+   "kana": "",
+   "eng": "banana",
+   "cn": "香蕉",
+   "ne": "केरा"
+  },
+  {
+   "kanji": "危ない",
+   "kana": "あぶない",
+   "eng": "dangerous",
+   "cn": "危险",
+   "ne": "खतरा"
+  },
+  {
+   "kanji": "大切",
+   "kana": "たいせつ",
+   "eng": "important",
+   "cn": "重要",
+   "ne": "महत्त्वपूर्ण"
+  },
+  {
+   "kanji": "迷惑",
+   "kana": "めいわく",
+   "eng": "nuisance",
+   "cn": "困扰",
+   "ne": "दिक्क लाग्ने"
+  },
+  {
+   "kanji": "疲れます",
+   "kana": "つかれます",
+   "eng": "get tired",
+   "cn": "累",
+   "ne": "थाक्नु"
+  },
+  {
+   "kanji": "痛い",
+   "kana": "いたい",
+   "eng": "painful",
+   "cn": "疼",
+   "ne": "दुख्ने"
+  },
+  {
+   "kanji": "暗い",
+   "kana": "くらい",
+   "eng": "dark",
+   "cn": "暗",
+   "ne": "अँध्यारो"
+  },
+  {
+   "kanji": "おなかがすきます",
+   "kana": "",
+   "eng": "hungry",
+   "cn": "肚子饿",
+   "ne": "भोक लाग्नु"
+  },
+  {
+   "kanji": "のどがかわきます",
+   "kana": "",
+   "eng": "thirsty",
+   "cn": "口渴",
+   "ne": "तिर्खा लाग्नु"
+  }
+ ],
+ "11": [
+  {
+   "kanji": "頭",
+   "kana": "あたま",
+   "eng": "head",
+   "cn": "头",
+   "ne": "टाउको"
+  },
+  {
+   "kanji": "生活",
+   "kana": "せいかつ",
+   "eng": "life",
+   "cn": "生活",
+   "ne": "जीवन"
+  },
+  {
+   "kanji": "一人暮らし",
+   "kana": "ひとりぐらし",
+   "eng": "living alone",
+   "cn": "独居",
+   "ne": "एक्लै बस्ने"
+  },
+  {
+   "kanji": "平日",
+   "kana": "へいじつ",
+   "eng": "weekday",
+   "cn": "平日",
+   "ne": "कार्य दिन"
+  },
+  {
+   "kanji": "日記",
+   "kana": "にっき",
+   "eng": "diary",
+   "cn": "日记",
+   "ne": "डायरी"
+  },
+  {
+   "kanji": "寂しい",
+   "kana": "さびしい",
+   "eng": "lonely",
+   "cn": "寂寞",
+   "ne": "एक्लो"
+  },
+  {
+   "kanji": "眠い",
+   "kana": "ねむい",
+   "eng": "sleepy",
+   "cn": "困",
+   "ne": "निन्द्रा लाग्ने"
+  },
+  {
+   "kanji": "たいてい",
+   "kana": "",
+   "eng": "usually",
+   "cn": "大多",
+   "ne": "धेरैजसो"
+  },
+  {
+   "kanji": "なかなか",
+   "kana": "",
+   "eng": "quite",
+   "cn": "相当",
+   "ne": "निकै"
+  },
+  {
+   "kanji": "会話",
+   "kana": "かいわ",
+   "eng": "conversation",
+   "cn": "会话",
+   "ne": "कुराकानी"
+  },
+  {
+   "kanji": "作文",
+   "kana": "さくぶん",
+   "eng": "composition",
+   "cn": "作文",
+   "ne": "निबन्ध"
+  },
+  {
+   "kanji": "クラスメイト",
+   "kana": "",
+   "eng": "classmate",
+   "cn": "同学",
+   "ne": "सहपाठी"
+  },
+  {
+   "kanji": "ひらがな",
+   "kana": "",
+   "eng": "hiragana",
+   "cn": "平假名",
+   "ne": "हिरागाना"
+  },
+  {
+   "kanji": "店長",
+   "kana": "てんちょう",
+   "eng": "shop manager",
+   "cn": "店长",
+   "ne": "पसल प्रबन्धक"
+  },
+  {
+   "kanji": "小学生",
+   "kana": "しょうがくせい",
+   "eng": "elementary student",
+   "cn": "小学生",
+   "ne": "प्राथमिक विद्यार्थी"
+  },
+  {
+   "kanji": "中学生",
+   "kana": "ちゅうがくせい",
+   "eng": "middle school student",
+   "cn": "初中生",
+   "ne": "माध्यमिक विद्यार्थी"
+  },
+  {
+   "kanji": "選手",
+   "kana": "せんしゅ",
+   "eng": "player",
+   "cn": "选手",
+   "ne": "खेलाडी"
+  },
+  {
+   "kanji": "卒業",
+   "kana": "そつぎょう",
+   "eng": "graduation",
+   "cn": "毕业",
+   "ne": "स्नातक"
+  },
+  {
+   "kanji": "入学",
+   "kana": "にゅうがく",
+   "eng": "entrance",
+   "cn": "入学",
+   "ne": "भर्ना"
+  },
+  {
+   "kanji": "終わります",
+   "kana": "おわります",
+   "eng": "finish",
+   "cn": "结束",
+   "ne": "सकिनु"
+  },
+  {
+   "kanji": "通います",
+   "kana": "かよいます",
+   "eng": "commute",
+   "cn": "往返",
+   "ne": "आवतजावत गर्नु"
+  },
+  {
+   "kanji": "ひきます",
+   "kana": "",
+   "eng": "play (instrument)",
+   "cn": "弹",
+   "ne": "बजाउनु"
+  },
+  {
+   "kanji": "慣れます",
+   "kana": "なれます",
+   "eng": "get used to",
+   "cn": "习惯",
+   "ne": "बानी पर्नु"
+  },
+  {
+   "kanji": "忘れます",
+   "kana": "わすれます",
+   "eng": "forget",
+   "cn": "忘记",
+   "ne": "बिर्सनु"
+  },
+  {
+   "kanji": "散歩します",
+   "kana": "さんぽします",
+   "eng": "take a walk",
+   "cn": "散步",
+   "ne": "सिंघोटी हान्नु"
+  },
+  {
+   "kanji": "始めます",
+   "kana": "はじめます",
+   "eng": "begin",
+   "cn": "开始",
+   "ne": "सुरु गर्नु"
+  },
+  {
+   "kanji": "別れます",
+   "kana": "わかれます",
+   "eng": "part/separate",
+   "cn": "分别",
+   "ne": "बिदा हुनु"
+  },
+  {
+   "kanji": "結婚します",
+   "kana": "けっこんします",
+   "eng": "marry",
+   "cn": "结婚",
+   "ne": "विवाह गर्नु"
+  },
+  {
+   "kanji": "消します",
+   "kana": "けします",
+   "eng": "turn off",
+   "cn": "关（灯/火）",
+   "ne": "बाली निभाउनु"
+  },
+  {
+   "kanji": "つけます",
+   "kana": "",
+   "eng": "turn on",
+   "cn": "开（灯/火）",
+   "ne": "बाल्नु"
+  },
+  {
+   "kanji": "引っ越しします",
+   "kana": "ひっこしします",
+   "eng": "move (house)",
+   "cn": "搬家",
+   "ne": "सरेर जानु"
+  },
+  {
+   "kanji": "ええ",
+   "kana": "",
+   "eng": "yes",
+   "cn": "嗯（肯定）",
+   "ne": "हो"
+  },
+  {
+   "kanji": "うん",
+   "kana": "",
+   "eng": "yeah",
+   "cn": "嗯",
+   "ne": "हो"
+  },
+  {
+   "kanji": "ううん",
+   "kana": "",
+   "eng": "no",
+   "cn": "嗯（否定）",
+   "ne": "होइन"
+  },
+  {
+   "kanji": "ごめん",
+   "kana": "",
+   "eng": "sorry",
+   "cn": "抱歉",
+   "ne": "माफ गर"
+  },
+  {
+   "kanji": "そっか",
+   "kana": "",
+   "eng": "I see",
+   "cn": "这样啊",
+   "ne": "बुझें"
+  },
+  {
+   "kanji": "お待たせ",
+   "kana": "",
+   "eng": "sorry to keep you waiting",
+   "cn": "让您久等了",
+   "ne": "पर्खाएकोमा माफ गर्नुस्"
+  },
+  {
+   "kanji": "遅かったね",
+   "kana": "おそかったね",
+   "eng": "you're late",
+   "cn": "迟到了呢",
+   "ne": "ढिलो भयो है"
+  },
+  {
+   "kanji": "乾杯",
+   "kana": "かんぱい",
+   "eng": "cheers",
+   "cn": "干杯",
+   "ne": "चियर्स"
+  },
+  {
+   "kanji": "オリンピック",
+   "kana": "",
+   "eng": "Olympics",
+   "cn": "奥运会",
+   "ne": "ओलम्पिक"
+  },
+  {
+   "kanji": "外国",
+   "kana": "がいこく",
+   "eng": "foreign country",
+   "cn": "外国",
+   "ne": "विदेश"
+  },
+  {
+   "kanji": "ワールドカップ",
+   "kana": "",
+   "eng": "World Cup",
+   "cn": "世界杯",
+   "ne": "वर्ल्ड कप"
+  },
+  {
+   "kanji": "エアコン",
+   "kana": "",
+   "eng": "air conditioner",
+   "cn": "空调",
+   "ne": "एयर कन्डिसनर"
+  },
+  {
+   "kanji": "ニュース",
+   "kana": "",
+   "eng": "news",
+   "cn": "新闻",
+   "ne": "समाचार"
+  },
+  {
+   "kanji": "DVD",
+   "kana": "",
+   "eng": "DVD",
+   "cn": "DVD",
+   "ne": "डिभिडी"
+  },
+  {
+   "kanji": "CD",
+   "kana": "",
+   "eng": "CD",
+   "cn": "CD",
+   "ne": "सीडी"
+  },
+  {
+   "kanji": "ペンケース",
+   "kana": "",
+   "eng": "pencil case",
+   "cn": "笔袋",
+   "ne": "पेन केस"
+  }
+ ],
+ "12": [
+  {
+   "kanji": "けが",
+   "kana": "",
+   "eng": "injury",
+   "cn": "受伤",
+   "ne": "चोटपटक"
+  },
+  {
+   "kanji": "熱",
+   "kana": "ねつ",
+   "eng": "fever",
+   "cn": "发烧",
+   "ne": "ज्वरो"
+  },
+  {
+   "kanji": "病気",
+   "kana": "びょうき",
+   "eng": "illness",
+   "cn": "生病",
+   "ne": "बिरामी"
+  },
+  {
+   "kanji": "のど",
+   "kana": "",
+   "eng": "throat",
+   "cn": "喉咙",
+   "ne": "घाँटी"
+  },
+  {
+   "kanji": "歯",
+   "kana": "ह",
+   "eng": "tooth",
+   "cn": "牙齿",
+   "ne": "दाँत"
+  },
+  {
+   "kanji": "虫歯",
+   "kana": "むしば",
+   "eng": "cavity",
+   "cn": "蛀牙",
+   "ne": "कृमि दाँत"
+  },
+  {
+   "kanji": "やけど",
+   "kana": "",
+   "eng": "burn",
+   "cn": "烫伤",
+   "ne": "डढेघाउ"
+  },
+  {
+   "kanji": "かゆい",
+   "kana": "",
+   "eng": "itchy",
+   "cn": "痒",
+   "ne": "चिलाउने"
+  },
+  {
+   "kanji": "食欲",
+   "kana": "しょくよく",
+   "eng": "appetite",
+   "cn": "食欲",
+   "ne": "भोक"
+  },
+  {
+   "kanji": "調子",
+   "kana": "ちょうし",
+   "eng": "condition",
+   "cn": "状态",
+   "ne": "अवस्था"
+  },
+  {
+   "kanji": "気持ちが悪い",
+   "kana": "きもちがわるい",
+   "eng": "feel sick",
+   "cn": "不舒服",
+   "ne": "मन लाग्ने"
+  },
+  {
+   "kanji": "歯医者",
+   "kana": "はいしゃ",
+   "eng": "dentist",
+   "cn": "牙医",
+   "ne": "दन्त रोग विशेषज्ञ"
+  },
+  {
+   "kanji": "薬剤師",
+   "kana": "やくざいし",
+   "eng": "pharmacist",
+   "cn": "药剂师",
+   "ne": "औषधि विशेषज्ञ"
+  },
+  {
+   "kanji": "薬局",
+   "kana": "やっきょく",
+   "eng": "pharmacy",
+   "cn": "药店",
+   "ne": "औषधि पसल"
+  },
+  {
+   "kanji": "処方箋",
+   "kana": "しょほうせん",
+   "eng": "prescription",
+   "cn": "处方",
+   "ne": "पर्चा"
+  },
+  {
+   "kanji": "保険証",
+   "kana": "ほけんしょう",
+   "eng": "insurance card",
+   "cn": "保险证",
+   "ne": "बीमा कार्ड"
+  },
+  {
+   "kanji": "待合室",
+   "kana": "まちあいしつ",
+   "eng": "waiting room",
+   "cn": "候诊室",
+   "ne": "पर्खने कोठा"
+  },
+  {
+   "kanji": "説明書",
+   "kana": "せつめいしょ",
+   "eng": "instructions",
+   "cn": "说明书",
+   "ne": "निर्देशन पुस्तिका"
+  },
+  {
+   "kanji": "脱ぎます",
+   "kana": "ぬぎます",
+   "eng": "take off",
+   "cn": "脱下",
+   "ne": "झिक्नु"
+  },
+  {
+   "kanji": "横になります",
+   "kana": "よこになります",
+   "eng": "lie down",
+   "cn": "躺下",
+   "ne": "ढल्किनु"
+  },
+  {
+   "kanji": "治ります",
+   "kana": "なおります",
+   "eng": "heal",
+   "cn": "痊愈",
+   "ne": "निको हुनु"
+  },
+  {
+   "kanji": "休みます",
+   "kana": "やすみます",
+   "eng": "rest",
+   "cn": "休息",
+   "ne": "आराम गर्नु"
+  },
+  {
+   "kanji": "出します",
+   "kana": "だします",
+   "eng": "take out",
+   "cn": "拿出",
+   "ne": "निकाल्नु"
+  },
+  {
+   "kanji": "塗ります",
+   "kana": "ぬります",
+   "eng": "apply",
+   "cn": "涂抹",
+   "ne": "लगाउनु"
+  },
+  {
+   "kanji": "浴びます",
+   "kana": "あびます",
+   "eng": "bathe in",
+   "cn": "淋/晒",
+   "ne": "पानी/सूर्य पर्नु"
+  },
+  {
+   "kanji": "出かけます",
+   "kana": "でかけます",
+   "eng": "go out",
+   "cn": "出门",
+   "ne": "बाहिर जानु"
+  },
+  {
+   "kanji": "運動します",
+   "kana": "うんどうします",
+   "eng": "exercise",
+   "cn": "运动",
+   "ne": "व्यायाम गर्नु"
+  },
+  {
+   "kanji": "走ります",
+   "kana": "はしります",
+   "eng": "run",
+   "cn": "跑",
+   "ne": "दगुर्नु"
+  },
+  {
+   "kanji": "磨きます",
+   "kana": "みがきます",
+   "eng": "brush",
+   "cn": "刷",
+   "ne": "महिनु"
+  },
+  {
+   "kanji": "準備します",
+   "kana": "じゅんびします",
+   "eng": "prepare",
+   "cn": "准备",
+   "ne": "तयारी गर्नु"
+  },
+  {
+   "kanji": "悪い",
+   "kana": "わるい",
+   "eng": "bad",
+   "cn": "坏的",
+   "ne": "खराब"
+  },
+  {
+   "kanji": "大丈夫",
+   "kana": "だいじょうぶ",
+   "eng": "okay",
+   "cn": "没关系",
+   "ne": "ठीक छ"
+  },
+  {
+   "kanji": "固い",
+   "kana": "かたい",
+   "eng": "hard",
+   "cn": "硬的",
+   "ne": "कडा"
+  },
+  {
+   "kanji": "柔らかい",
+   "kana": "やわらかい",
+   "eng": "soft",
+   "cn": "软的",
+   "ne": "मुलायम"
+  },
+  {
+   "kanji": "赤い",
+   "kana": "あかい",
+   "eng": "red",
+   "cn": "红的",
+   "ne": "रातो"
+  },
+  {
+   "kanji": "体にいい",
+   "kana": "からだにいい",
+   "eng": "good for health",
+   "cn": "对身体好",
+   "ne": "स्वास्थ्यका लागि राम्रो"
+  },
+  {
+   "kanji": "おかげさまで",
+   "kana": "",
+   "eng": "thanks to you",
+   "cn": "托您的福",
+   "ne": "तपाईंको कृपाले"
+  },
+  {
+   "kanji": "お大事に",
+   "kana": "おだいじに",
+   "eng": "take care",
+   "cn": "请多保重",
+   "ne": "स्वास्थ्य राम्रो राख्नुहोस्"
+  },
+  {
+   "kanji": "それはいけませんね",
+   "kana": "",
+   "eng": "that's not good",
+   "cn": "那可不行",
+   "ne": "त्यो राम्रो होइन"
+  },
+  {
+   "kanji": "ゆっくり休んでください",
+   "kana": "",
+   "eng": "please rest well",
+   "cn": "请好好休息",
+   "ne": "आराम गर्नुहोस्"
+  },
+  {
+   "kanji": "保険証を出してください",
+   "kana": "ほけんしょうをだしてください",
+   "eng": "please show your insurance card",
+   "cn": "请出示保险证",
+   "ne": "बीमा कार्ड देखाउनुहोस्"
+  }
+ ],
+ "13": [
+  {
+   "kanji": "駅弁",
+   "kana": "えきべん",
+   "eng": "station bento",
+   "cn": "车站便当",
+   "ne": "स्टेसन बेन्टो"
+  },
+  {
+   "kanji": "切符",
+   "kana": "きっぷ",
+   "eng": "ticket",
+   "cn": "车票",
+   "ne": "टिकट"
+  },
+  {
+   "kanji": "特急電車",
+   "kana": "とっきゅうでんしゃ",
+   "eng": "limited express",
+   "cn": "特快电车",
+   "ne": "ट्रेन"
+  },
+  {
+   "kanji": "ホテル",
+   "kana": "",
+   "eng": "hotel",
+   "cn": "酒店",
+   "ne": "होटल"
+  },
+  {
+   "kanji": "泊まります",
+   "kana": "とまります",
+   "eng": "stay overnight",
+   "cn": "住宿",
+   "ne": "बस्नु"
+  },
+  {
+   "kanji": "遊園地",
+   "kana": "ゆうえんち",
+   "eng": "amusement park",
+   "cn": "游乐园",
+   "ne": "मनोरञ्जन पार्क"
+  },
+  {
+   "kanji": "ジェットコースター",
+   "kana": "",
+   "eng": "roller coaster",
+   "cn": "过山车",
+   "ne": "रोलर कोस्टर"
+  },
+  {
+   "kanji": "浴衣",
+   "kana": "ゆかた",
+   "eng": "yukata",
+   "cn": "浴衣",
+   "ne": "युकाटा"
+  },
+  {
+   "kanji": "シャツ",
+   "kana": "",
+   "eng": "shirt",
+   "cn": "衬衫",
+   "ne": "सर्ट"
+  },
+  {
+   "kanji": "スカート",
+   "kana": "",
+   "eng": "skirt",
+   "cn": "裙子",
+   "ne": "स्कर्ट"
+  },
+  {
+   "kanji": "ネクタイ",
+   "kana": "",
+   "eng": "necktie",
+   "cn": "领带",
+   "ne": "टाय"
+  },
+  {
+   "kanji": "帽子",
+   "kana": "ぼうし",
+   "eng": "hat",
+   "cn": "帽子",
+   "ne": "टोपी"
+  },
+  {
+   "kanji": "サングラス",
+   "kana": "",
+   "eng": "sunglasses",
+   "cn": "太阳镜",
+   "ne": "एस.पि."
+  },
+  {
+   "kanji": "眼鏡",
+   "kana": "めがね",
+   "eng": "glasses",
+   "cn": "眼镜",
+   "ne": "चस्मा"
+  },
+  {
+   "kanji": "かぶります",
+   "kana": "",
+   "eng": "put on (hat)",
+   "cn": "戴（帽）",
+   "ne": "लगाउनु"
+  },
+  {
+   "kanji": "はきます",
+   "kana": "",
+   "eng": "put on (shoes)",
+   "cn": "穿（鞋）",
+   "ne": "लगाउनु"
+  },
+  {
+   "kanji": "かけます",
+   "kana": "",
+   "eng": "put on (glasses)",
+   "cn": "戴（眼镜）",
+   "ne": "लगाउनु"
+  },
+  {
+   "kanji": "着ます",
+   "kana": "きます",
+   "eng": "wear",
+   "cn": "穿（上衣）",
+   "ne": "लगाउनु"
+  },
+  {
+   "kanji": "材料",
+   "kana": "ざいりょう",
+   "eng": "ingredients",
+   "cn": "材料",
+   "ne": "सामग्री"
+  },
+  {
+   "kanji": "サービス",
+   "kana": "",
+   "eng": "service",
+   "cn": "服务",
+   "ne": "सेवा"
+  },
+  {
+   "kanji": "おすすめ",
+   "kana": "",
+   "eng": "recommendation",
+   "cn": "推荐",
+   "ne": "सिफारिस"
+  },
+  {
+   "kanji": "女の人",
+   "kana": "おんなのひと",
+   "eng": "woman",
+   "cn": "女人",
+   "ne": "महिला"
+  },
+  {
+   "kanji": "男の人",
+   "kana": "おとこのひと",
+   "eng": "man",
+   "cn": "男人",
+   "ne": "पुरुष"
+  },
+  {
+   "kanji": "人気",
+   "kana": "にんき",
+   "eng": "popular",
+   "cn": "人气",
+   "ne": "लोकप्रिय"
+  },
+  {
+   "kanji": "デートします",
+   "kana": "",
+   "eng": "date",
+   "cn": "约会",
+   "ne": "डेट"
+  },
+  {
+   "kanji": "紹介します",
+   "kana": "しょうかいします",
+   "eng": "introduce",
+   "cn": "介绍",
+   "ne": "चिनाउनु"
+  },
+  {
+   "kanji": "青い",
+   "kana": "あおい",
+   "eng": "blue",
+   "cn": "蓝的",
+   "ne": "निलो"
+  },
+  {
+   "kanji": "赤い",
+   "kana": "あかい",
+   "eng": "red",
+   "cn": "红的",
+   "ne": "रातो"
+  },
+  {
+   "kanji": "黄色い",
+   "kana": "きいろい",
+   "eng": "yellow",
+   "cn": "黄的",
+   "ne": "पहेंलो"
+  },
+  {
+   "kanji": "若い",
+   "kana": "わかい",
+   "eng": "young",
+   "cn": "年轻的",
+   "ne": "कम उमेरको"
+  },
+  {
+   "kanji": "新鮮",
+   "kana": "しんせん",
+   "eng": "fresh",
+   "cn": "新鲜",
+   "ne": "ताजा"
+  },
+  {
+   "kanji": "知ります",
+   "kana": "しります",
+   "eng": "get to know",
+   "cn": "知道",
+   "ne": "थाहा पाउनु"
+  },
+  {
+   "kanji": "売ります",
+   "kana": "うります",
+   "eng": "sell",
+   "cn": "卖",
+   "ne": "बेच्नु"
+  },
+  {
+   "kanji": "アプリ",
+   "kana": "",
+   "eng": "app",
+   "cn": "应用",
+   "ne": "एप"
+  },
+  {
+   "kanji": "動画",
+   "kana": "どうが",
+   "eng": "video",
+   "cn": "视频",
+   "ne": "भिडियो"
+  },
+  {
+   "kanji": "家具",
+   "kana": "かぐ",
+   "eng": "furniture",
+   "cn": "家具",
+   "ne": "फर्निचर"
+  },
+  {
+   "kanji": "場所",
+   "kana": "ばしょ",
+   "eng": "place",
+   "cn": "场所",
+   "ne": "ठाउँ"
+  },
+  {
+   "kanji": "バスケットボール",
+   "kana": "",
+   "eng": "basketball",
+   "cn": "篮球",
+   "ne": "बास्केटबल"
+  },
+  {
+   "kanji": "練習します",
+   "kana": "れんしゅうします",
+   "eng": "practice",
+   "cn": "练习",
+   "ne": "अभ्यास गर्नु"
+  },
+  {
+   "kanji": "毛糸",
+   "kana": "けいと",
+   "eng": "yarn",
+   "cn": "毛线",
+   "ne": "उनी"
+  },
+  {
+   "kanji": "手袋",
+   "kana": "てぶくろ",
+   "eng": "gloves",
+   "cn": "手套",
+   "ne": "म्युजा"
+  }
+ ],
+ "14": [
+  {
+   "kanji": "習慣",
+   "kana": "しゅうかん",
+   "eng": "habit",
+   "cn": "习惯",
+   "ne": "बानी"
+  },
+  {
+   "kanji": "みんな",
+   "kana": "",
+   "eng": "everyone",
+   "cn": "大家",
+   "ne": "सबै"
+  },
+  {
+   "kanji": "なくなります",
+   "kana": "",
+   "eng": "disappear",
+   "cn": "消失",
+   "ne": "हराउनु"
+  },
+  {
+   "kanji": "笑います",
+   "kana": "わらいます",
+   "eng": "laugh",
+   "cn": "笑",
+   "ne": "हाँस्नु"
+  },
+  {
+   "kanji": "びっくり",
+   "kana": "",
+   "eng": "surprised",
+   "cn": "吃惊",
+   "ne": "अचम्म"
+  },
+  {
+   "kanji": "同じ",
+   "kana": "おなじ",
+   "eng": "same",
+   "cn": "相同",
+   "ne": "उस्तै"
+  },
+  {
+   "kanji": "話",
+   "kana": "はなし",
+   "eng": "talk",
+   "cn": "话",
+   "ne": "कुरा"
+  },
+  {
+   "kanji": "いただきます",
+   "kana": "",
+   "eng": "thank you for the food",
+   "cn": "我开动了",
+   "ne": "खाना खाने समय भन्ने शब्द"
+  },
+  {
+   "kanji": "ごちそうさまでした",
+   "kana": "",
+   "eng": "thank you for the meal",
+   "cn": "我吃饱了",
+   "ne": "खाना खाएपछि भन्ने शब्द"
+  },
+  {
+   "kanji": "おにぎり",
+   "kana": "",
+   "eng": "rice ball",
+   "cn": "饭团",
+   "ne": "चामलको बल"
+  },
+  {
+   "kanji": "バスタブ",
+   "kana": "",
+   "eng": "bathtub",
+   "cn": "浴缸",
+   "ne": "ब्याटुब"
+  },
+  {
+   "kanji": "布団",
+   "kana": "ふとん",
+   "eng": "futon",
+   "cn": "被褥",
+   "ne": "फुतोन"
+  },
+  {
+   "kanji": "ポケット",
+   "kana": "",
+   "eng": "pocket",
+   "cn": "口袋",
+   "ne": "खल्ती"
+  },
+  {
+   "kanji": "ボタン",
+   "kana": "",
+   "eng": "button",
+   "cn": "纽扣",
+   "ne": "टाँका"
+  },
+  {
+   "kanji": "レバー",
+   "kana": "",
+   "eng": "lever",
+   "cn": "杆",
+   "ne": "लिभर"
+  },
+  {
+   "kanji": "こたつ",
+   "kana": "",
+   "eng": "kotatsu",
+   "cn": "暖桌",
+   "ne": "कोटाट्सु"
+  },
+  {
+   "kanji": "玄関",
+   "kana": "げんかん",
+   "eng": "entrance",
+   "cn": "玄关",
+   "ne": "ढोका"
+  },
+  {
+   "kanji": "湯たんぽ",
+   "kana": "ゆたんぽ",
+   "eng": "hot water bottle",
+   "cn": "热水袋",
+   "ne": "तातोपानीको बोतल"
+  },
+  {
+   "kanji": "風鈴",
+   "kana": "ふうりん",
+   "eng": "wind chime",
+   "cn": "风铃",
+   "ne": "हावाको घण्टी"
+  },
+  {
+   "kanji": "唐辛子",
+   "kana": "とうがらし",
+   "eng": "chili pepper",
+   "cn": "辣椒",
+   "ne": "खुर्सानी"
+  },
+  {
+   "kanji": "制服",
+   "kana": "せいふく",
+   "eng": "uniform",
+   "cn": "制服",
+   "ne": "युनिफर्म"
+  },
+  {
+   "kanji": "バイク",
+   "kana": "",
+   "eng": "motorcycle",
+   "cn": "摩托车",
+   "ne": "मोटरसाइकल"
+  },
+  {
+   "kanji": "ヘルメット",
+   "kana": "",
+   "eng": "helmet",
+   "cn": "头盔",
+   "ne": "हेलमेट"
+  },
+  {
+   "kanji": "学生証",
+   "kana": "がくせいしょう",
+   "eng": "student ID",
+   "cn": "学生证",
+   "ne": "विद्यार्थी परिचयपत्र"
+  },
+  {
+   "kanji": "パスポート",
+   "kana": "",
+   "eng": "passport",
+   "cn": "护照",
+   "ne": "राहदानी"
+  },
+  {
+   "kanji": "料金",
+   "kana": "りょうきん",
+   "eng": "fee",
+   "cn": "费用",
+   "ne": "शुल्क"
+  },
+  {
+   "kanji": "入場料",
+   "kana": "にゅうじょうりょう",
+   "eng": "admission fee",
+   "cn": "入场费",
+   "ne": "प्रवेश शुल्क"
+  },
+  {
+   "kanji": "駐輪場",
+   "kana": "ちゅうりんじょう",
+   "eng": "bike parking",
+   "cn": "自行车停放处",
+   "ne": "साइकल पार्किङ"
+  },
+  {
+   "kanji": "交通",
+   "kana": "こうつう",
+   "eng": "transportation",
+   "cn": "交通",
+   "ne": "यातायात"
+  },
+  {
+   "kanji": "かざします",
+   "kana": "",
+   "eng": "wave (IC card)",
+   "cn": "挥动",
+   "ne": "लहराउनु"
+  },
+  {
+   "kanji": "つきます",
+   "kana": "",
+   "eng": "attach",
+   "cn": "附着",
+   "ne": "टाँसिनु"
+  },
+  {
+   "kanji": "回します",
+   "kana": "まわします",
+   "eng": "turn",
+   "cn": "转动",
+   "ne": "घुमाउनु"
+  },
+  {
+   "kanji": "止めます",
+   "kana": "とめます",
+   "eng": "stop",
+   "cn": "停止",
+   "ne": "रोक्नु"
+  },
+  {
+   "kanji": "並びます",
+   "kana": "ならびます",
+   "eng": "line up",
+   "cn": "排队",
+   "ne": "लाइन लाग्नु"
+  },
+  {
+   "kanji": "分けます",
+   "kana": "わけます",
+   "eng": "divide",
+   "cn": "分开",
+   "ne": "बाँड्नु"
+  },
+  {
+   "kanji": "うるさい",
+   "kana": "",
+   "eng": "noisy",
+   "cn": "吵闹",
+   "ne": "धेरै आवाज"
+  },
+  {
+   "kanji": "おしゃれ",
+   "kana": "",
+   "eng": "stylish",
+   "cn": "时髦",
+   "ne": "स्टाइलिश"
+  },
+  {
+   "kanji": "複雑",
+   "kana": "ふくざつ",
+   "eng": "complicated",
+   "cn": "复杂",
+   "ne": "जटिल"
+  },
+  {
+   "kanji": "便利",
+   "kana": "べんり",
+   "eng": "convenient",
+   "cn": "方便",
+   "ne": "सुविधाजनक"
+  },
+  {
+   "kanji": "不便",
+   "kana": "ふべん",
+   "eng": "inconvenient",
+   "cn": "不方便",
+   "ne": "असुविधाजनक"
+  },
+  {
+   "kanji": "自由",
+   "kana": "じゆう",
+   "eng": "free",
+   "cn": "自由",
+   "ne": "स्वतन्त्र"
+  },
+  {
+   "kanji": "きちんと",
+   "kana": "",
+   "eng": "properly",
+   "cn": "整齐",
+   "ne": "राम्रोसँग"
+  },
+  {
+   "kanji": "あれ？",
+   "kana": "",
+   "eng": "huh?",
+   "cn": "咦？",
+   "ne": "के?"
+  },
+  {
+   "kanji": "そうなんですか",
+   "kana": "",
+   "eng": "is that so?",
+   "cn": "是这样吗？",
+   "ne": "हो र?"
+  },
+  {
+   "kanji": "ほら",
+   "kana": "",
+   "eng": "look",
+   "cn": "你看",
+   "ne": "हेर"
+  },
+  {
+   "kanji": "私もそう思います",
+   "kana": "わたしもそうおもいます",
+   "eng": "I think so too",
+   "cn": "我也这么想",
+   "ne": "म पनि त्यस्तै सोच्छु"
+  },
+  {
+   "kanji": "いつでも",
+   "kana": "",
+   "eng": "anytime",
+   "cn": "随时",
+   "ne": "जहिले पनि"
+  },
+  {
+   "kanji": "～について",
+   "kana": "",
+   "eng": "about ~",
+   "cn": "关于…",
+   "ne": "~को बारेमा"
+  },
+  {
+   "kanji": "うどん",
+   "kana": "",
+   "eng": "udon",
+   "cn": "乌冬面",
+   "ne": "उडोन"
+  },
+  {
+   "kanji": "そば",
+   "kana": "",
+   "eng": "soba",
+   "cn": "荞麦面",
+   "ne": "सोवा"
+  },
+  {
+   "kanji": "ファストフード",
+   "kana": "",
+   "eng": "fast food",
+   "cn": "快餐",
+   "ne": "फास्ट फुड"
+  },
+  {
+   "kanji": "カイロ",
+   "kana": "",
+   "eng": "hand warmer",
+   "cn": "怀炉",
+   "ne": "ह्यान्ड वार्मर"
+  },
+  {
+   "kanji": "商品",
+   "kana": "しょうひん",
+   "eng": "product",
+   "cn": "商品",
+   "ne": "सामान"
+  },
+  {
+   "kanji": "ホストファミリー",
+   "kana": "",
+   "eng": "host family",
+   "cn": "寄宿家庭",
+   "ne": "होस्ट परिवार"
+  },
+  {
+   "kanji": "時給",
+   "kana": "じきゅう",
+   "eng": "hourly wage",
+   "cn": "时薪",
+   "ne": "प्रति घण्टा ज्याला"
+  },
+  {
+   "kanji": "デザイン",
+   "kana": "",
+   "eng": "design",
+   "cn": "设计",
+   "ne": "डिजाइन"
+  },
+  {
+   "kanji": "経験",
+   "kana": "けいけん",
+   "eng": "experience",
+   "cn": "经验",
+   "ne": "अनुभव"
+  },
+  {
+   "kanji": "化粧",
+   "kana": "けしょう",
+   "eng": "makeup",
+   "cn": "化妆",
+   "ne": "सजावट"
+  },
+  {
+   "kanji": "留学",
+   "kana": "りゅうがく",
+   "eng": "study abroad",
+   "cn": "留学",
+   "ne": "अध्ययन अध्यागमन"
+  },
+  {
+   "kanji": "田舎",
+   "kana": "いなか",
+   "eng": "countryside",
+   "cn": "乡下",
+   "ne": "गाउँ"
+  },
+  {
+   "kanji": "都会",
+   "kana": "とかい",
+   "eng": "city",
+   "cn": "都市",
+   "ne": "सहर"
+  },
+  {
+   "kanji": "空気",
+   "kana": "くうき",
+   "eng": "air",
+   "cn": "空气",
+   "ne": "हावा"
+  }
+ ],
+ "15": [
+  {
+   "kanji": "思い出",
+   "kana": "おもいで",
+   "eng": "memory",
+   "cn": "回忆、纪念",
+   "ne": "सम्झना"
+  },
+  {
+   "kanji": "最後",
+   "kana": "さいご",
+   "eng": "last / finally",
+   "cn": "最后、最终",
+   "ne": "अन्तिम"
+  },
+  {
+   "kanji": "スピーチコンテスト",
+   "kana": "",
+   "eng": "speech contest",
+   "cn": "演讲比赛",
+   "ne": "स्पिच कन्टेस्ट"
+  },
+  {
+   "kanji": "ホール",
+   "kana": "",
+   "eng": "hall",
+   "cn": "大厅",
+   "ne": "हल"
+  },
+  {
+   "kanji": "～位",
+   "kana": "い",
+   "eng": "~rank / place",
+   "cn": "第…名",
+   "ne": "~स्थान"
+  },
+  {
+   "kanji": "うなずきます",
+   "kana": "うなずく",
+   "eng": "nod",
+   "cn": "点头、颔首",
+   "ne": "टाउको हल्लाएर सहमति जनाउनु"
+  },
+  {
+   "kanji": "笑います",
+   "kana": "わらう",
+   "eng": "laugh",
+   "cn": "笑",
+   "ne": "हाँस्नु"
+  },
+  {
+   "kanji": "緊張します",
+   "kana": "きんちょうする",
+   "eng": "be nervous",
+   "cn": "紧张",
+   "ne": "नर्भस हुनु"
+  },
+  {
+   "kanji": "なんと",
+   "kana": "",
+   "eng": "what/how (surprise)",
+   "cn": "竟然、居然（惊讶）",
+   "ne": "ओहो! / कस्तो!"
+  },
+  {
+   "kanji": "彼女",
+   "kana": "かのじょ",
+   "eng": "she / girlfriend",
+   "cn": "她、女朋友",
+   "ne": "उनी (महिला)"
+  },
+  {
+   "kanji": "彼",
+   "kana": "かれ",
+   "eng": "he / boyfriend",
+   "cn": "他、男朋友",
+   "ne": "उनी (पुरुष)"
+  },
+  {
+   "kanji": "ガラス",
+   "kana": "",
+   "eng": "glass",
+   "cn": "玻璃",
+   "ne": "शीशा / गिलास"
+  },
+  {
+   "kanji": "曇り",
+   "kana": "くもり",
+   "eng": "cloudy",
+   "cn": "阴天",
+   "ne": "बादल लागेको"
+  },
+  {
+   "kanji": "台風",
+   "kana": "たいふう",
+   "eng": "typhoon",
+   "cn": "台风",
+   "ne": "टाइफुन"
+  },
+  {
+   "kanji": "地震",
+   "kana": "じしん",
+   "eng": "earthquake",
+   "cn": "地震",
+   "ne": "भूकम्प"
+  },
+  {
+   "kanji": "事故",
+   "kana": "じこ",
+   "eng": "accident",
+   "cn": "事故",
+   "ne": "दुर्घटना"
+  },
+  {
+   "kanji": "チーム",
+   "kana": "",
+   "eng": "team",
+   "cn": "团队、队伍",
+   "ne": "टिम"
+  },
+  {
+   "kanji": "中止",
+   "kana": "ちゅうし",
+   "eng": "cancel / suspend",
+   "cn": "中止、取消",
+   "ne": "रद्द गर्नु"
+  },
+  {
+   "kanji": "フリーマーケット",
+   "kana": "",
+   "eng": "flea market",
+   "cn": "跳蚤市场、自由市集",
+   "ne": "खुला बजार"
+  },
+  {
+   "kanji": "本当",
+   "kana": "ほんとう",
+   "eng": "Really?",
+   "cn": "真的吗",
+   "ne": "हो र?"
+  },
+  {
+   "kanji": "昔",
+   "kana": "むかし",
+   "eng": "in the past",
+   "cn": "从前、过去",
+   "ne": "विगतमा"
+  },
+  {
+   "kanji": "無料",
+   "kana": "むりょう",
+   "eng": "free of charge",
+   "cn": "免费",
+   "ne": "निःशुल्क"
+  },
+  {
+   "kanji": "夕方",
+   "kana": "ゆうがた",
+   "eng": "evening",
+   "cn": "傍晚",
+   "ne": "साँझ"
+  },
+  {
+   "kanji": "～大会",
+   "kana": "たいかい",
+   "eng": "event / tournament",
+   "cn": "～大会（例：烟花大会）",
+   "ne": "समारोह, उत्सव"
+  },
+  {
+   "kanji": "死にます",
+   "kana": "しぬ",
+   "eng": "die",
+   "cn": "死亡",
+   "ne": "मृत्यु हुनु"
+  },
+  {
+   "kanji": "亡くなります",
+   "kana": "なくなる",
+   "eng": "die (polite)",
+   "cn": "去世（礼貌体）",
+   "ne": "स्वर्गीय हुनु"
+  },
+  {
+   "kanji": "止まります",
+   "kana": "とまる",
+   "eng": "stop",
+   "cn": "停止、停下",
+   "ne": "रोकिनु"
+  },
+  {
+   "kanji": "始まります",
+   "kana": "はじまる",
+   "eng": "begin / start",
+   "cn": "开始",
+   "ne": "सुरु हुनु"
+  },
+  {
+   "kanji": "降ります",
+   "kana": "ふる",
+   "eng": "fall (rain/snow)",
+   "cn": "（雨、雪）落下、下",
+   "ne": "पानी/हिउँ पर्नु"
+  },
+  {
+   "kanji": "勝ちます",
+   "kana": "かつ",
+   "eng": "win",
+   "cn": "赢、胜利",
+   "ne": "जित्नु"
+  },
+  {
+   "kanji": "負けます",
+   "kana": "まける",
+   "eng": "lose",
+   "cn": "输、失败",
+   "ne": "हार्नु"
+  },
+  {
+   "kanji": "倒れます",
+   "kana": "たおれる",
+   "eng": "collapse / fall over",
+   "cn": "倒下、倒塌",
+   "ne": "लड्नु / ढल्नु"
+  },
+  {
+   "kanji": "できます",
+   "kana": "できる",
+   "eng": "be able to / open store",
+   "cn": "做成、开业、能够",
+   "ne": "गर्न सक्नु / पसल खुल्नु"
+  },
+  {
+   "kanji": "新しい店ができます",
+   "kana": "",
+   "eng": "A new store opens",
+   "cn": "新开一家店铺",
+   "ne": "नयाँ पसल खोलिन्छ"
+  },
+  {
+   "kanji": "割れます",
+   "kana": "われる",
+   "eng": "break / crack",
+   "cn": "打碎、裂开",
+   "ne": "फुट्नु"
+  },
+  {
+   "kanji": "入院します",
+   "kana": "にゅういんする",
+   "eng": "be hospitalized",
+   "cn": "住院",
+   "ne": "अस्पताल भर्नु"
+  },
+  {
+   "kanji": "怖い",
+   "kana": "こわい",
+   "eng": "scary / frightening",
+   "cn": "可怕的、吓人的",
+   "ne": "डराउने"
+  },
+  {
+   "kanji": "心配",
+   "kana": "しんぱい",
+   "eng": "worried / concern",
+   "cn": "令人担心的",
+   "ne": "चिन्ता लाग्ने"
+  },
+  {
+   "kanji": "風",
+   "kana": "かぜ",
+   "eng": "wind",
+   "cn": "风",
+   "ne": "हावा / बतास"
+  },
+  {
+   "kanji": "キーホルダー",
+   "kana": "",
+   "eng": "keychain",
+   "cn": "钥匙扣、钥匙链",
+   "ne": "किहोल्डर"
+  },
+  {
+   "kanji": "席",
+   "kana": "せき",
+   "eng": "seat",
+   "cn": "座位",
+   "ne": "सिट"
+  },
+  {
+   "kanji": "～パーセント",
+   "kana": "",
+   "eng": "~percent",
+   "cn": "百分之…",
+   "ne": "~प्रतिशत"
+  },
+  {
+   "kanji": "～引き",
+   "kana": "ひき",
+   "eng": "discount",
+   "cn": "打折、减价",
+   "ne": "छुट / डिस्काउन्ट"
+  },
+  {
+   "kanji": "急ぎます",
+   "kana": "いそぐ",
+   "eng": "hurry / rush",
+   "cn": "着急、赶紧",
+   "ne": "हतार गर्नु"
+  },
+  {
+   "kanji": "かかります",
+   "kana": "काकरु",
+   "eng": "take / cost",
+   "cn": "花费（时间、金钱）",
+   "ne": "समय/पैसा लाग्नु"
+  },
+  {
+   "kanji": "混みます",
+   "kana": "こむ",
+   "eng": "crowded",
+   "cn": "拥挤",
+   "ne": "भिड हुनु"
+  },
+  {
+   "kanji": "間に合います",
+   "kana": "まにあう",
+   "eng": "be on time / make it",
+   "cn": "来得及、赶上",
+   "ne": "समयमा पुग्नु"
+  },
+  {
+   "kanji": "やみます",
+   "kana": "やむ",
+   "eng": "stop (rain/snow)",
+   "cn": "（雨雪）停",
+   "ne": "पानी रोकिनु"
+  },
+  {
+   "kanji": "晴れます",
+   "kana": "はれる",
+   "eng": "clear up / sunny",
+   "cn": "放晴、天晴",
+   "ne": "मौसम सफा हुनु"
+  },
+  {
+   "kanji": "強い",
+   "kana": "つよい",
+   "eng": "strong",
+   "cn": "强的、厉害的",
+   "ne": "बलियो"
+  },
+  {
+   "kanji": "きっと",
+   "kana": "",
+   "eng": "definitely / surely",
+   "cn": "一定、必定",
+   "ne": "अवश्य"
+  },
+  {
+   "kanji": "たぶん",
+   "kana": "",
+   "eng": "maybe / probably",
+   "cn": "大概、也许",
+   "ne": "सायद"
+  },
+  {
+   "kanji": "もし",
+   "kana": "",
+   "eng": "if",
+   "cn": "如果",
+   "ne": "यदि"
+  },
+  {
+   "kanji": "集まります",
+   "kana": "あつまる",
+   "eng": "gather",
+   "cn": "聚集、集合",
+   "ne": "जम्मा हुनु"
+  },
+  {
+   "kanji": "閉まります",
+   "kana": "しまる",
+   "eng": "close",
+   "cn": "关闭",
+   "ne": "बन्द हुनु"
+  },
+  {
+   "kanji": "すきます",
+   "kana": "すく",
+   "eng": "become empty",
+   "cn": "变空、空旷",
+   "ne": "खाली हुनु"
+  },
+  {
+   "kanji": "落ちます",
+   "kana": "おちる",
+   "eng": "fall / drop",
+   "cn": "掉落、落下",
+   "ne": "खस्नु"
+  },
+  {
+   "kanji": "消えます",
+   "kana": "きえる",
+   "eng": "disappear",
+   "cn": "消失、熄灭",
+   "ne": "हराउनु / मेटिनु"
+  },
+  {
+   "kanji": "壊れます",
+   "kana": "こわれる",
+   "eng": "break / get broken",
+   "cn": "坏掉、损坏",
+   "ne": "बिग्रनु"
+  },
+  {
+   "kanji": "汚れます",
+   "kana": "よごれる",
+   "eng": "get dirty",
+   "cn": "变脏",
+   "ne": "फोहोर हुनु"
+  },
+  {
+   "kanji": "会場",
+   "kana": "かいじょう",
+   "eng": "venue / place",
+   "cn": "会场、场地",
+   "ne": "कार्यक्रम स्थल"
+  }
+ ]
+}

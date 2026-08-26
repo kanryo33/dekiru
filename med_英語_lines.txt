@@ -1,0 +1,8555 @@
+L| 初刷～
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| に ほん ご ちゅう きゅう
+R| ほん さつ だい はん
+L| 『できる日 本 語 中 級
+R| 本 冊 【第 2版 】』
+L| えい ご ほん やく
+L| 英 語 翻 訳
+R| リスト
+L| に ほん ご ちゅう きゅう ほん さつ だい はん
+R| もく じ こう どう もく ひょう
+R| えい
+L| 　このリストは『できる日 本 語 中 級 本 冊 【第 ２版 】』の「目
+R| 次 と行 動 目 標 」、「できること」「ことば」を英
+L| ご やく いち らん
+L| 語 に訳 し、一 覧 にしたものです。
+L| This is a list of English translations of vocabulary
+R| and phrases from 「目次と行動目標」, and
+L| the「できること」and「ことば」 for each lesson.
+R| に ほん ご ちゅう きゅう ほん さつ だい はん
+R| 『できる日 本 語 中 級 本 冊 【第 2版 】』
+R| ねん がつ か しょ はん はっ こう
+R| 2024年 12月 20日 　初 版 発 行
+R| かん しゅう しま だ かず こ
+R| 監 修 ：嶋 田 和 子
+R| ちょ しゃ
+R| に ほん ご きょう ざい かい はつ
+R| 著 者 ：できる日 本 語 教 材 開 発 プロジェクト
+R| はっ こう じょ かぶ しき がい しゃ
+R| 発 行 所 ：株 式 会 社 アルク
+L| もく じ こう どう もく ひょう
+L| 目 次 と行 動 目 標
+L| だい か あら で あ
+L| 第 １課 　新 たな出 会 い
+L| あら かん けい
+L| あたら かん きょう じ ぶん ちょう せん
+L| 新 たな関 係 づくりのために、新 しい環 境 に自 分 から挑 戦 することができる。
+L| Become able to challenge yourself in new environments
+R| in order to develop new relationships.
+L| だい か たの しょく じ じょう ず か もの
+L| 第 ２課 　楽 しい食 事 ・上 手 な買 い物
+L| まわ
+L| じょう ほう え
+L| じ ぶん き ぼう つた
+R| まん ぞく
+R| しょく じ か もの
+L| 周 りからいろいろな情 報 を得 たり、自 分 の希 望 を伝 えたりして、満
+R| 足 のいく食 事 や買 い物 をすることができる。
+L| Become able to have satisfying dining and shopping experiences
+R| by getting information from people
+L| around you and communicating your desires to them.
+L| だい か じ かん い
+L| 第 ３課 　時 間 を生 かす
+L| じ ぶん
+L| ゆう い ぎ す かた かんが
+L| まわ
+R| ひと せい かつ く ふう じ かん つか かた
+R| じょう ほう
+L| これからの自 分 にとって有 意 義 な過 ごし方 を考 えて、周 りの人
+R| と生 活 の工 夫 や時 間 の使 い方 などの情 報 をやりとりす
+L| ることができる。
+L| Become able to exchange information with people around
+R| you about your lifestyles and ways of spending
+L| time, while thinking about how you can lead a meaningful
+R| life in the future.
+L| だい か ち いき し せい かつ
+L| 第 ４課 　地 域 を知 って生 活 する
+L| ち いき く
+L| ひつ よう じょう ほう え かい てき せい かつ おく
+L| 地 域 の暮 らしに必 要 な情 報 を得 て、快 適 な生 活 を送 ることができる。
+L| Become able to get the information you need to live a
+R| happy life in your community.
+L| だい か きん きゅう じ たい
+L| 第 ５課 　緊 急 事 態 ！
+L| よ き
+L| お
+L| じょう きょう り かい てき せつ こう どう
+R| と
+R| きん きゅう じ たい お
+R| けい けん
+L| 予 期 しないことが起 きたとき、状 況 を理 解 して適 切 な行 動 を取
+R| ることができる。また、緊 急 の事 態 が起 こって経 験 した
+L| はな
+L| ことについて話 すことができる。
+L| Become able to understand the situation and take appropriate
+R| action when the unexpected occurs.
+L| Become able to talk about your experiences in emergency
+R| situations.
+L| 1
+==== PAGE 1 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か ち ず ひろ
+L| 第 ６課 　地 図 を広 げる
+L| す
+L| ば しょ ち り き こう あ
+L| せい
+R| かつ しょう かい
+R| たが り かい ふか
+L| ふるさとや住 んだことがある場 所 の地 理 や気 候 に合 わせた生
+R| 活 を紹 介 して、お互 いの理 解 を深 めることができる。
+L| Become able to introduce what life is like in the geography
+R| and climate of your hometown or places you’ve
+L| lived in order to develop mutual understanding.
+L| だい か せ だい こ こう りゅう
+L| 第 ７課 　世 代 を超 えた交 流
+L| こと はい けい も ひと びと こう りゅう とお じ ぶん し や ひろ
+L| 異 なる背 景 を持 つ人 々 との交 流 を通 して自 分 の視 野 を広 げることができる。
+L| Become able to broaden your perspective by interacting
+R| with people from different backgrounds.
+L| だい か き も つた
+L| 第 ８課 　気 持 ちを伝 える
+L| ば めん おう じ ぶん き も
+L| つた
+L| あい て き も
+R| う と
+R| まわ ひと き も
+L| 場 面 に応 じて自 分 の気 持 ちをうまく伝 えたり、相 手 の気 持 ちを受
+R| け止 めたりして、周 りの人 と気 持 ちよくコミュニケー
+L| と
+L| ションを取 ることができる。
+L| Become able to comfortably communicate with people
+R| around you by successfully conveying your feelings
+L| and accepting the feelings of others, according to the
+R| situation.
+L| だい か こと ば たの
+L| 第 ９課 　言 葉 を楽 しむ
+L| に ほん ご ゆた ひょう げん し
+L| じ ぶん くに
+L| に ひょう げん くら
+R| しょう かい
+R| まわ ひと たの
+L| 日 本 語 の豊 かな表 現 を知 って、自 分 の国 のよく似 た表 現 と比
+R| べたり、紹 介 したりしながら、周 りの人 と楽 しくコミュニ
+L| と
+L| ケーションを取 ることができる。
+L| Become able to enjoy communicating with people around
+R| you by learning about a variety of Japanese
+L| expressions, while comparing and introducing similar expressions
+R| used in your own country.
+L| だい か に ほん たび
+L| 第 10課 　日 本 を旅 する
+L| たび さき
+L| じょう ほう え たの かい てき りょ こう
+R| たび おも で きょう ゆう
+L| 旅 先 でいろいろな情 報 を得 て、楽 しく快 適 に旅 行 することができる。また、旅
+R| の思 い出 を共 有 することができる。
+L| Become able to enjoy travel in comfort by getting various
+R| kinds of information at your destination. Become
+L| able to share your memories of your trip.
+L| だい か
+L| 第 11課 　ライフスタイル
+L| ひと
+L| し
+L| じ ぶん せい かつ かん
+R| あらた かんが し や ひろ
+L| さまざまな人 のライフスタイルを知 って、自 分 の生 活 観 について改
+R| めて考 え、視 野 を広 げることができる。
+L| Become able to broaden your perspective by learning about
+R| various lifestyles and reconsidering your own
+L| outlook on life.
+L| だい か こころ からだ けん こう
+L| 第 12課 　心 と体 の健 康
+L| こと かん きょう
+L| じ ぶん もく ひょう たっ せい
+L| こころ からだ
+R| けん こう たも せい かつ
+L| 異 なる環 境 において自 分 の目 標 を達 成 するために、心 と体 の健
+R| 康 を保 って生 活 することができる。
+L| Become able to live an emotionally and physically healthy
+R| lifestyle in order to achieve your goals in
+L| different environments.
+L| だい か
+L| の
+L| 第 13課 　トレンドに乗 ってつながる
+L| しゃ かい りゅう こう
+L| し
+L| なか きょう み
+R| わ だい と い しゅう い ひと びと
+L| 社 会 の流 行 やトレンドについて知 り、その中 で興 味 のあることを話
+R| 題 に取 り入 れて周 囲 の人 々 とやりとりすることが
+L| できる。
+L| Become able to converse with people around you while
+R| incorporating topics related to interesting social
+L| trends you have learned about.
+L| だい か
+L| 第 14課 　カルチャーショック
+L| こと しゃ かい なか せい かつ しゅう かん はっ そう ちが
+L| き つ
+R| まわ ひと きょう ゆう せい かつ たの
+L| 異 なる社 会 の中 で生 活 習 慣 や発 想 の違 いについて気 が付 いたことを周
+R| りの人 と共 有 し、生 活 を楽 しむことができる。
+L| Become able to enjoy sharing with people around you what
+R| you’ve noticed about differences in lifestyles
+L| and ways of thinking in different societies.
+L| だい か ち いき しゃ かい い
+L| 第 15課 　地 域 社 会 に生 きる
+L| じょう ほう なに
+L| とく せい
+L| し じ ぶん かんが
+R| も
+L| 情 報 とは何 かやメディアの特 性 について知 り、自 分 の考 えを持
+R| つことができる。
+L| Become able to have a sense of what information is and
+R| of the characteristics of media.
+L| 2
+==== PAGE 2 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か がっ こう せい かつ
+L| 第 16課 　学 校 生 活
+L| くに ち いき
+L| がっ こう じ じょう ちが きょう いく かん わ だい
+R| し じ こく ひ かく
+R| じ ぶん じ しん けい けん ふ
+L| 国 や地 域 による学 校 事 情 の違 いや教 育 に関 して話 題 になっていることを知
+R| り、自 国 と比 較 したり自 分 自 身 の経 験 を振
+L| かえ
+L| い けん の
+L| り返 ったりして、意 見 を述 べることができる。
+L| Become able to understand differences in school conditions
+R| and educational issues across different
+L| countries and regions. Become able to look back on and
+R| compare your own educational experience in your
+L| home country, and express your opinions.
+L| だい か はたら
+L| 第 17課 　働 くということ
+L| じ ぶん しょう らい
+L| かんが
+L| し ごと たい かんが まわ
+R| ひと きょう ゆう
+R| しゅう しょく
+R| じょう ほう あつ
+L| 自 分 の将 来 について考 えるために、仕 事 に対 する考 えを周 りの人
+R| と共 有 したり、就 職 のために情 報 を集 めたりするこ
+L| とができる。
+L| Become able to share your thoughts on work and careers
+R| with people around you in order to think about
+L| your future plans, and get information about finding a
+R| job.
+L| だい か ち きゅう い
+L| 第 18課 　地 球 に生 きる
+L| かん きょう
+L| もん だい
+L| り かい
+R| かん きょう
+R| かんが じっ せん
+L| 環 境 について、どのようなことが問 題 になっているか理 解 し、環
+R| 境 のためにできることを考 え、実 践 することができる。
+L| Become able to understand what kinds of environmental
+R| problems there are, think about what you can do
+L| to help solve them, and then put your ideas into practice.
+L| だい か か がく ちから
+L| 第 19課 　科 学 の力
+L| か がく ぎ じゅつ かん わ だい ふ か がく ちから しゃ かい
+R| やく わり は
+R| かんが もん だい い しき も
+L| 科 学 技 術 に関 する話 題 に触 れ、科 学 の力 が社 会 でどのような役
+R| 割 を果 たしているかを考 え、問 題 意 識 を持 つことがで
+L| きる。
+L| Become able to engage with topics related to science
+R| and technology, think about the role that science
+L| plays in society, and gain an awareness of the issues involved.
+L| だい か ゆた
+L| しあわ
+L| 第 20課 　豊 かさと幸 せ
+L| ゆた
+L| た よう か ち かん かんが かた し じ ぶん かんが
+R| きゃっ かん てき ふ かえ
+R| まわ ひと い けん こう かん
+L| 豊 かさについての多 様 な価 値 観 や考 え方 を知 り、自 分 の考 えを客
+R| 観 的 に振 り返 って、周 りの人 と意 見 を交 換 すること
+L| ができる。
+L| Become able to understand a diverse range of values and
+R| perspectives concerning the concept of wealth,
+L| objectively reflect on your own thoughts, and exchange
+R| opinions with people around you.
+L| 3
+==== PAGE 3 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か あら
+L| で あ
+L| 第 １課 　新 たな出 会 い
+L| ［できること］
+L| 1 きょう み
+L| し
+L| じょう ほう よ と
+L| 興 味 のあるお知 らせの情 報 を読 み取 ることができる。
+L| You can read the information on an interesting notification.
+L| さん か
+L| ない よう はな とも だち さそ
+L| 2 参 加 するイベントの内 容 を話 して友 達 を誘 うことができる。
+L| You can describe an event that you are participating in
+R| to your friends, and invite them to join.
+L| てん き よ ほう き と じ ぶん こう どう き
+L| 3 天 気 予 報 を聞 き取 って自 分 の行 動 を決 めることができる。
+L| You can listen to the weather forecast and decide what
+R| you will do.
+L| おぼ
+L| いん しょう てき じ こ しょう かい
+L| 4 覚 えてもらえるように印 象 的 に自 己 紹 介 することができる。
+L| You can make an impressive self-introduction that your
+R| audience will remember.
+L| ［ことば］
+L| し たの
+R| ざい さん
+L| 知 って楽 しむ
+R| 財 産
+R| possessions
+L| きっかけ
+L| ice breaker
+R| やわらか（な）
+R| soft
+L| ちゅう しん
+L| center
+R| そば
+R| beside
+L| 中 心
+L| たち ば
+L| 立 場
+L| position
+R| ほっと
+R| (to feel) relief, comfort
+L| ため
+L| try (out)
+R| い どう
+R| to move, to travel
+L| 試 す
+R| 移 動 -する
+L| あなた
+L| You
+R| しゅ だん
+R| means
+R| 手 段
+L| たび
+R| あらわ
+L| to travel
+R| to represent
+L| 旅 -する
+R| 表 す
+L| to go out, to leave
+R| つまり
+R| in other words
+L| で たび で
+L| 出 る（旅 に出 る）
+L| [here: to go on a trip]
+R| こん なん
+R| 困 難 （な）
+R| adversity
+L| とも
+L| companion
+L| お供
+R| まも
+R| to protect
+R| 守 る
+L| どう ぶつ
+L| animal
+L| 動 物
+R| たっぷり（な）
+R| full of
+L| ひつじ
+L| sheep
+L| 羊
+R| to give [here: to give/
+R| あた
+R| ぎゅう にゅう あた
+L| うま
+R| 与 える（牛 乳 を与 える）
+L| 馬
+L| horse
+R| provide with milk]
+L| ライオン
+L| lion
+R| じゅん ばん
+R| order
+R| 順 番
+L| うし
+L| cow
+R| じん せい
+R| life
+L| 牛
+R| 人 生
+L| to cooperate (with
+R| で あ
+R| 出 合 う
+R| to encounter
+L| きょう りょく あ
+L| each other), to work
+L| 協 力 し合 う
+R| なぜ
+R| why
+L| together
+R| し ぜん
+R| naturally
+L| きょう りょく
+L| to cooperate
+R| 自 然 （な）
+L| 協 力 -する
+R| むかし ばなし
+R| folk tale
+L| さて
+L| so, well
+R| 昔 話
+L| じゅん
+R| キジ
+R| pheasant
+L| in order, in turn
+L| 順 に
+R| つ
+L| て ばな
+L| let go
+R| 連 れる
+R| to take someone (with)
+L| 手 放 す
+L| to attach [here: to
+R| おに たい じ
+R| ogre hunting
+R| 鬼 退 治
+L| つ
+L| ばん ごう つ
+L| 付 ける（番 号 を付 ける）
+L| assign a number]
+R| じゅう だい
+R| major, important
+R| 重 大 （な）
+L| それぞれ
+L| each
+R| まわ
+R| 周 り
+R| around
+L| しょう ちょう
+L| to represent
+L| 象 徴 -する
+R| たね あ
+R| answer
+R| 種 明 かし
+L| 4
+==== PAGE 4 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+R| limit to the number of
+L| 1
+R| てい いん
+R| 定 員
+R| participants
+L| あら
+L| new
+L| 新 た（な）
+R| たし たし あ す
+R| 確 か（確 か、明 日 テストだ I’m pretty sure (we
+L| けい じ ばん
+L| noticeboard
+L| 掲 示 板
+R| have a test tomorrow)
+R| よね）
+L| to make [here: to make
+L| つく とも だち つく
+R| プリン
+R| (custard) pudding
+L| 作 る（友 達 を作 る）
+L| friends]
+R| き ぶん
+R| mood
+L| to interact, to
+R| 気 分
+L| こう りゅう
+L| 交 流 -する
+L| exchange
+R| すっきり（と）
+R| clear, distinct
+L| ウェルカムパーティー
+L| welcome party
+R| 3
+L| ひろ ば
+L| space, place
+L| 広 場
+R| てん き よ ほう
+R| 天 気 予 報
+R| weather forecast
+L| to be able to do [here:
+L| とも だち
+L| できる（友 達 ができる）
+R| キャスター
+R| newscaster
+L| to become friends]
+R| き しょう よ ほう し
+R| weather forecaster
+L| にち じ
+L| date and time
+R| 気 象 予 報 士
+L| 日 時
+R| あお ぞら
+L| にん ずう
+L| no. of people
+R| 青 空
+R| clear sky
+L| 人 数
+L| せん ちゃく
+R| ひろ
+R| to prevail
+L| 先 着
+L| first
+R| 広 がる
+R| にっ ちゅう
+R| during the day
+L| めい めい
+L| people (50 people)
+R| 日 中
+L| ～名 （50名 ）
+R| さい こう
+R| highest
+L| または
+L| or
+R| 最 高
+R| み こ
+R| expectation
+L| きょう かい
+L| association
+R| 見 込 み
+L| 協 会
+R| to bring out a slight
+L| とう じつ
+L| on the day
+L| 当 日
+R| あせ
+R| 汗 ばむ
+R| sweat
+L| し はら
+L| 支 払 う
+L| to pay
+R| よう き
+R| warm
+R| 陽 気
+L| う てん
+L| rain
+L| 雨 天
+R| perfect weather (for
+R| び より せん たく び より
+R| ～日 和 （洗 濯 日 和 ）
+L| げん だい
+L| nowadays
+R| doing laundry)
+L| 現 代
+R| ほし ぞら
+R| starry sky
+L| しゅう しょく かつ どう
+R| 星 空
+L| to job-hunt
+L| 就 職 活 動 -する
+R| のち
+R| later
+L| じゅう よう
+L| important
+L| 重 要 （な）
+R| ぜん じつ
+R| the day before
+L| ひょう か
+R| 前 日
+L| 評 価 -する
+L| to appreciate
+R| つづ
+R| 続 く
+R| to continue
+L| ねん ねん
+L| year after year
+L| 年 々
+R| へい ねん
+R| average year
+L| たか
+L| to increase
+R| 平 年
+L| 高 まる
+R| equal to (equal to an
+L| きん がく
+R| な へい ねん な
+L| 金 額
+L| amount (of money)
+R| ～並 み（平 年 並 み）
+R| average year)
+L| りょう しゅう しょ
+L| receipt
+L| 領 収 書
+R| よ そう
+R| to expect
+R| 予 想 -する
+L| サイン-する
+L| to sign
+R| はだ ざむ
+R| chilly
+R| 肌 寒 い
+L| かん せい
+L| to complete
+L| 完 成 -する
+R| かん
+R| to feel
+R| 感 じる
+L| ひん かん せい ひん
+L| item
+L| ～品 （完 成 品 ）
+R| れん きゅう
+R| 連 休
+R| holiday weekend
+L| ひん しつ
+L| 品 質
+L| quality
+R| どこも
+R| everywhere, wherever
+L| こう じ
+L| to construct
+L| 工 事 -する
+R| Kanto (region
+R| comprising Tokyo and
+L| た
+L| おと た
+L| to make (noise)
+L| 立 てる（音 を立 てる）
+R| かん とう
+R| 関 東
+R| the surrounding
+L| 2
+R| prefectures)
+R| (Kanto) region, (Kanto)
+L| し
+L| notice
+L| お知 らせ
+R| ち ほう かん とう ち ほう
+R| ～地 方 （関 東 地 方 ）
+R| area
+L| い ぜん
+L| before
+L| 以 前
+L| ラッキー（な）
+L| lucky
+L| 5
+==== PAGE 5 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| Tohoku (region
+L| とう ほく
+L| comprising the northern
+L| 東 北
+L| prefectures of Honshu)
+L| to get worse (the
+L| くず
+L| てん き くず
+L| 崩 れる（天 気 が崩 れる）
+L| weather gets worse)
+L| everywhere, all over
+L| かく ち
+L| 各 地
+L| the place
+L| たす
+L| to be helped
+L| 助 かる
+L| じっ さい
+L| 実 際
+L| actually, really, in fact
+L| 4
+L| しっかり-する
+L| to be reliable
+L| じつ
+L| in reality
+L| 実 は
+L| おっちょこちょい（な） scatter-brained
+L| せい かく
+L| 性 格
+L| character
+L| ハッピー（な）
+L| happy
+L| ストーリー
+L| story
+L| イギリス
+L| the UK
+L| き みじか
+L| to have a short temper
+L| 気 が短 い
+L| おこ
+L| 怒 る
+L| to get angry
+L| こう どう
+L| behavior
+L| 行 動 -する
+L| ずいぶん
+L| rather, awfully
+L| けっ てん
+L| 欠 点
+L| shortcoming
+L| 6
+==== PAGE 6 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か たの
+L| しょく じ じょうず か もの
+L| 第 2課 　楽 しい食 事 ・上 手な買 い物
+L| ［できること］
+L| 1
+L| しょう かい き
+L| とく じょう ほう え
+L| レストランの紹 介 を聞 いて、お得 な情 報 を得 ることができる。
+L| You can listen to restaurant recommendations and get
+R| the best value for your money.
+L| とも だち き ぼう き
+L| すす じょう ほう じょう ほう さが かた しょう かい
+L| 2 友 達 に希 望 を聞 いて、お薦 めの情 報 と情 報 の探 し方 を紹 介
+R| することができる。
+L| You can ask your friends what they want, introduce some
+R| of your own recommendations, and show them
+L| how to get information.
+L| かん ばん
+L| み
+L| ない よう か
+L| り かい
+R| じょう ほう え
+L| 3
+L| 看 板 やポスターを見 て、どんな内 容 が書 いてあるか理 解 して情
+R| 報 を得 ることができる。
+L| You can look at a billboard or poster, understand the contents,
+R| and get information from it.
+L| みせ ひと き ぼう つた い らい
+L| 4 店 の人 に希 望 を伝 えて依 頼 することができる。
+L| You can tell staff what you want and make requests.
+L| か もの
+L| けい けん だん まわ ひと きょう ゆう じ ぶん か
+R| もの やく だ
+L| 5 買 い物 についての経 験 談 を周 りの人 と共 有 し、自 分 の買 い物
+R| に役 立 てることができる。
+L| You can share your shopping experiences with people
+R| around you, and put their advice to use when
+L| shopping.
+L| ［ことば］
+L| し たの
+R| グラタン
+R| gratin
+L| 知 って楽 しむ
+L| ぎょう れつ
+L| to line, to queue
+R| ま
+R| thank you for waiting
+L| 行 列 -する
+R| お待 たせいたしました
+L| ひょう ばん
+L| 評 判
+L| reputation
+R| シェフ
+R| chef
+L| くわ
+L| to join
+R| アナウンサー
+R| announcer
+L| 加 わる
+L| sense (sense of
+R| この
+R| taste, preference
+L| かん あん しん かん
+R| 好 み
+L| ～感 （安 心 感 ）
+L| security)
+R| さまざま（な）
+R| various, different
+L| つながる
+L| to lead to
+R| マナー
+R| manners
+L| かん さい
+L| Kansai
+L| 関 西
+R| こと
+R| 異 なる
+R| to differ
+L| いん しょう
+L| impression
+L| 印 象
+R| 2
+L| あた
+L| いん しょう あた
+L| 与 える（印 象 を与 える） to give (an impression)
+R| やく だ じょう ほう
+R| useful information
+R| お役 立 ち情 報
+L| a certain (a certain
+L| りゅう がく せい
+L| ある～（ある留 学 生 ）
+R| よ さん
+L| overseas student)
+R| 予 算
+R| budget
+L| more than I had
+L| おも
+R| けん さく
+R| to search
+R| 検 索 -する
+L| 思 ったより
+L| imagined
+R| とう ろく
+R| to register
+R| 登 録 -する
+L| fun, interest, appeal
+L| おもしろさ
+L| (of)
+R| くち
+R| word of mouth
+R| 口 コミ
+L| きょ ひ
+L| to resist
+L| 拒 否 -する
+R| かん そう
+R| impressions, thoughts
+R| 感 想
+L| した
+L| tongue
+L| 舌
+R| ひ かく
+R| 比 較 -する
+R| to compare
+L| 1
+R| さん こう
+R| reference
+R| 参 考
+L| グルメ
+L| gourmet food, foodie
+R| しゃ しん た
+R| photo frame
+R| 写 真 立 て
+L| ランチ
+L| lunch
+R| アドレス
+R| address
+L| リポーター
+L| reporter
+R| バーゲン
+R| sale
+L| メイン
+L| main course
+R| あん ぜん
+R| safety
+R| 安 全
+L| 7
+==== PAGE 7 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+R| around (around 2
+L| 3
+R| じ かん
+R| ～ほど（２時 間 ほど）
+R| hours)
+L| big~, huge~, mega~ (a
+L| だい だい
+L| 大 ～（大 セール）
+R| い こう じ い こう
+L| mega-sale)
+R| ～以 降 （４時 以 降 ）
+R| after (after 4 o’clock)
+L| メーカー
+L| manufacturer
+R| あいにく
+R| unfortunately
+L| しな
+L| product
+R| キャンセル-する
+R| to cancel
+L| 品
+L| to get hold of, to
+R| waiting (for), waiting
+L| て はい
+R| ま
+L| 手 に入 る
+R| 待 ち
+L| acquire
+R| time
+L| か どく
+L| bargain, good buy
+R| もう わけ
+R| I’m sorry
+L| お買 い得
+R| 申 し訳 ありません
+L| か あ
+L| purchase
+R| えん き
+R| to postpone
+L| お買 い上 げ
+R| 延 期 -する
+L| じ かい
+R| く た
+L| next (time)
+R| to assemble
+L| 次 回
+R| 組 み立 てる
+L| time-limited sale,
+R| 5
+L| タイムセール
+L| limited offer
+R| ふく ぶくろ
+R| 福 袋
+R| lucky bag
+L| メンズ
+L| men’s
+R| しな もの
+R| goods
+R| 品 物
+L| バッグ
+L| bag
+R| ブランド
+R| brand
+L| へい てん
+L| to close down
+L| 閉 店 -する
+R| フリーサイズ
+R| one size
+L| すす
+L| 薦 める
+L| to recommend
+R| to fit, to meet,
+L| らい てん
+L| to visit a shop
+R| あ
+R| あ
+L| 来 店 -する
+R| 合 う（サイズが合 う）
+R| to match [here: the
+R| clothes fit]
+L| いたす
+L| to do (humble)
+R| なか み
+R| 中 身
+R| contents
+L| おう ぼ
+L| 応 募 -する
+L| to apply
+R| こう かん
+R| to exchange
+R| 交 換 -する
+L| こく ない
+L| domestic (in Japan)
+L| 国 内
+R| furigana (reading
+R| ふ が な
+L| ざい じゅう
+L| to reside
+R| 振 り仮 名
+L| 在 住 -する
+R| printed beside kanji)
+L| goodness (of), good
+R| か でん
+L| よさ
+R| 家 電
+R| consumer electronics
+L| points, merits
+R| きょう ゆう
+R| to share
+R| 共 有 -する
+L| で い ぐち
+L| door, entrance/exit
+L| 出 入 り口
+L| ちゅう しゃ
+L| to park
+L| 駐 車 -する
+L| to ban, to forbid,
+L| きん し
+L| 禁 止 -する
+L| to prohibit
+L| こう ひょう
+L| popular, well-received
+L| 好 評 （な）
+L| キャンペーン
+L| (sales) campaign
+L| き かん
+L| 期 間
+L| (time) period, term
+L| えん ちょう
+L| to extend, to prolong
+L| 延 長 -する
+L| かん ばん
+L| 看 板
+L| sign
+L| 4
+L| なお
+L| correction, do over
+L| 直 し
+L| し ちゃく
+L| 試 着 -する
+L| to try on (clothes)
+L| しつ し ちゃく しつ
+L| (dressing, fitting) room
+L| ～室 （試 着 室 ）
+L| すそ
+L| hem
+L| 裾
+L| なが
+L| 長 さ
+L| length
+L| う と
+L| to collect
+L| 受 け取 る
+L| 8
+==== PAGE 8 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か じ かん い
+L| 第 3課 　時 間 を生 かす
+L| ［できること］
+L| 1 じ かん つか かた
+L| か
+L| き じ よ
+L| じょう ほう え
+L| 時 間 の使 い方 について書 かれた記 事 を読 んで、情 報 を得 ることができる。
+L| You can read an article about how to manage your time,
+R| and get information from it.
+L| せい かつ
+L| とも だち はなし き
+L| く ふう
+R| し
+L| 2 生 活 のリズムについて友 達 の話 を聞 いて、どんな工 夫 をしているか知
+R| ることができる。
+L| You can listen to your friends talk about their daily routines,
+R| and understand what kinds of tricks they use
+L| to manage their time.
+L| いま じ かん しょう らい もく ひょう じつ げん
+L| じ かん
+R| かつ よう
+R| まわ ひと きょう ゆう
+L| 3
+L| 今 の時 間 を将 来 の目 標 を実 現 するための時 間 として、どのように活
+R| 用 しているか周 りの人 と共 有 することができる。
+L| You can exchange opinions with people around you about
+R| how you can make the best use of your time now
+L| in order to realize your future goals.
+L| に ほん せい かつ じゅう じつ
+L| なに
+L| ひと じょう ほう
+R| え
+L| 4
+L| 日 本 の生 活 を充 実 させるために、何 かしている人 から情 報
+R| を得 ることができる。
+L| You can get information from people doing various things
+R| that help them lead fulfilling lives in Japan.
+L| ［ことば］
+R| will, motivation,
+L| し たの
+L| 知 って楽 しむ
+R| き
+R| やる気
+R| enthusiasm
+L| こう りつ
+L| efficiency
+L| 効 率
+R| た
+R| た
+R| 立 てる（スケジュールを立 to create (to create a
+L| アップ-する
+L| to increase
+R| schedule)
+R| てる）
+L| method (management
+L| ほう かん り ほう
+L| ～法 （管 理 法 ）
+R| キッチン
+R| kitchen
+L| method)
+R| せっ てい
+R| to set
+L| すこ
+L| not at all
+R| 設 定 -する
+L| 少 しも
+R| ただ
+R| however
+L| ちゅう もく
+L| to focus (on)
+L| 注 目 -する
+R| じゅ しん
+R| 受 信 -する
+R| to receive
+L| タイマー
+L| timer
+R| き ち
+R| to be distracted
+L| power (power of
+R| 気 が散 る
+L| りょく しゅう ちゅう りょく
+L| ～力 （集 中 力 ）
+L| concentration)
+R| とう ろく しょう ひょう
+R| 登 録 商 標
+R| registered trademark
+L| やく だ
+L| 役 立 つ
+L| to be useful
+R| 1
+L| リスト
+L| list
+R| to make (the best) use
+R| い
+R| 生 かす
+L| く かえ
+R| of, to put to (good) use
+L| 繰 り返 す
+L| to repeat
+R| ゆう こう
+R| efficient
+L| なが
+R| 有 効 （な）
+L| longish, extended
+L| 長 め
+R| き じ
+R| article
+L| と きゅう けい と
+L| take (a rest)
+R| 記 事
+L| 取 る（休 憩 を取 る）
+R| using the early morning
+L| り てん
+R| あさ かつ
+L| 利 点
+L| benefit, advantage
+R| 朝 活
+R| for a particular activity
+L| しゅう りょう
+L| to end, to complete
+L| 終 了 -する
+R| もったいない
+R| wasteful
+L| アラーム
+L| alarm
+R| voices, opinions, (Here
+R| こえ がく せい こえ しょう かい
+R| are some student
+L| な
+R| 声 （学 生 の声 を紹 介 する）
+L| 鳴 る
+L| to ring
+R| testimonials.)
+L| can’t help, despite
+L| つい
+R| かい しょう
+R| to relieve
+R| 解 消 -する
+L| oneself
+R| to recommend, to
+L| かん けい
+L| relation
+L| 関 係
+R| すす
+R| encourage (someone to
+R| 勧 める
+L| how much, to what
+R| do something)
+L| どれだけ
+L| extent
+R| the early bird catches
+R| はや お さん もん とく
+R| 早 起 きは三 文 の徳
+L| しかも
+L| moreover, furthermore
+R| the worm
+L| 9
+==== PAGE 9 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| そう ちょう
+R| き ちょう
+L| 早 朝
+L| early morning
+R| 貴 重 （な）
+R| precious
+L| ぴったり（な）
+L| perfect
+R| まとめる
+R| to summarize
+L| キャリアアップ-する
+L| career enhancement
+R| 4
+L| しゅっ きん
+R| たの
+L| 出 勤 -する
+L| to go to work
+R| 楽 しむ
+R| to enjoy
+L| こう ざ
+L| course
+R| こう みん かん
+R| community center
+L| 講 座
+R| 公 民 館
+L| しゅう ちゅう
+L| to concentrate
+R| たい こ
+R| (Japanese) drum
+L| 集 中 -する
+R| 太 鼓
+L| かつ よう
+R| since (I) made such an
+L| 活 用 -する
+L| to utilize
+R| せっかく
+R| effort to
+L| qualification,
+L| し かく
+L| 資 格
+R| だったら
+R| in that case
+L| certification
+L| to be a good fit (for
+R| じっ さい
+R| actually
+L| あ じ ぶん あ
+R| 実 際 に
+L| 合 う（自 分 に合 う）
+L| someone), to suit
+R| わる
+R| 悪 いけど
+R| sorry but,
+L| ひっ しゃ
+L| 筆 者
+L| writer
+R| グラス
+R| glass
+L| しょ しん しゃ
+L| beginner
+L| 初 心 者
+R| to address (talk to)
+R| こえ
+L| しん
+L| to believe
+R| かける（声 をかける）
+L| 信 じる
+R| someone
+L| さん ちょう
+R| くわ
+L| 山 頂
+L| summit
+R| 詳 しい
+R| detailed
+L| ちか
+L| to get close to
+L| 近 づく
+L| なが
+L| view
+L| 眺 め
+L| ひと やす
+L| to take a quick break
+L| 一 休 み-する
+L| 2
+L| リズム
+L| rhythm
+L| ま
+L| in the blink of an eye
+L| あっという間
+L| す
+L| じ かん す
+L| to pass (time passes)
+L| 過 ぎる（時 間 が過 ぎる）
+L| slowly, lazily,
+L| だらだら（と）
+L| sluggishly, trickling
+L| ふ かえ
+L| to reflect, look back on
+L| 振 り返 る
+L| けっ こう
+L| fairly
+L| 結 構
+L| to come (to mind), to
+L| う
+L| あたま う
+L| 浮 かぶ（頭 に浮 かぶ）
+L| pop into (one’s head)
+L| て ちょう
+L| notebook
+L| 手 帳
+L| to make a note, to take
+L| メモ-する
+L| a memo
+L| お つ
+L| 落 ち着 く
+L| to calm down
+L| また
+L| again
+L| よ ゆう
+L| margin
+L| 余 裕
+L| み なお
+L| 見 直 す
+L| to review
+L| 3
+L| たから もの
+L| prized possession
+L| 宝 物
+L| たまに
+L| sometimes
+L| つう きん
+L| to commute
+L| 通 勤 -する
+L| 10
+==== PAGE 10 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か ち いき し
+L| せい かつ
+L| 第 4課 　地 域 を知 って生 活 する
+L| ［できること］
+L| 1 し せつ り よう
+L| しょく いん
+R| せつ めい き と
+L| 施 設 を利 用 するのにわからないことがあったとき、職 員 の説
+R| 明 を聞 き取 ることができる。
+L| You can listen to the staff’s explanations when you don’t
+R| know the rules for using certain public facilities.
+L| こま
+L| かん り にん せつ めい かい けつ
+R| たの
+L| 2 困 っていることを管 理 人 に説 明 し、解 決 してもらえるように頼
+R| むことができる。
+L| You can explain a problem to your landlord, and ask them
+R| to take care of it for you.
+L| ち いき
+L| し せつ り よう あん ない よ じょう ほう え
+L| 3 地 域 にある施 設 の利 用 案 内 を読 んで情 報 を得 ることができる。
+L| You can read a guide to using public facilities in your community,
+R| and get information from it.
+L| り よう し せつ よう す とく ちょう べん り てん せつ び
+R| しょう かい
+L| 4 よく利 用 する施 設 の様 子 や特 徴 （便 利 な点 、設 備 …）などについて紹
+R| 介 することができる。
+L| You can describe the public facilities you use often, as
+R| well as their features, such as convenient points,
+L| equipment, etc.
+L| でん わ みち じゅん
+L| い かた し
+L| 5 電 話 で道 順 をメモしながら行 き方 を知 ることができる。
+L| You can learn a route by listening to someone give directions
+R| over the phone as you take notes.
+L| ［ことば］
+L| し たの
+R| かい せつ
+L| 知 って楽 しむ
+R| 解 説 -する
+R| explanation
+L| こう きょう
+L| public
+R| なるほど
+R| I see
+L| 公 共
+L| そん
+L| (a) waste
+R| to be won over,
+L| 損 （な）
+R| なっ とく
+R| 納 得 -する
+R| satisfied
+L| てい き てき
+L| 定 期 的 （な）
+L| regular
+R| じ ぜん
+R| 事 前 に
+R| in advance
+L| じょう えい
+L| to show (a film)
+L| 上 映 -する
+R| to go around [here: to
+R| まわ し せつ まわ
+R| 回 る（施 設 を回 る）
+L| ミニ
+L| mini
+R| tour a facility]
+L| かい が
+R| せん もん か
+R| expert
+L| painting
+R| 専 門 家
+L| 絵 画
+R| わ し
+L| スペース
+L| space
+R| 和 紙
+R| Japanese paper
+L| かく やす
+R| おり もの
+R| textiles
+L| 格 安 （な）
+L| cheap, reasonable
+R| 織 物
+R| み ぢか
+R| nearby, close
+L| なか ま
+L| (group of) friends
+R| 身 近 （な）
+L| 仲 間
+R| cities, towns and
+L| さらに
+L| furthermore
+R| し ちょう そん
+R| 市 町 村
+R| villages
+L| て がる
+L| 手 軽 （な）
+L| easy, casual, offhand
+R| 1
+L| く ふう
+L| to be creative
+L| 工 夫 -する
+R| か だ
+R| lending out
+R| 貸 し出 し
+L| to be transported back
+L| タイムスリップ-する
+R| ほん にん
+R| 本 人
+R| the person in question
+L| in time
+L| か がく
+R| たと
+R| for example
+L| 科 学
+L| science
+R| 例 えば
+R| じ たく
+R| home
+L| ち しき
+L| knowledge
+R| 自 宅
+L| 知 識
+R| ゆう びん ぶつ
+L| ふ
+R| mail (postal)
+L| 増 やす
+L| to increase
+R| 郵 便 物
+L| げい じゅつ
+R| かまわない
+R| it doesn’t matter
+L| art
+L| 芸 術
+R| ひ あ
+L| かん しょう
+L| to appreciate
+R| 日 当 たり
+R| exposure to the sun
+L| 鑑 賞 -する
+R| しゃ けい けん しゃ
+R| (experienced) person
+L| マニア
+L| enthusiast
+R| ～者 （経 験 者 ）
+L| よろこ
+L| to be pleased
+L| 喜 ぶ
+L| 11
+==== PAGE 11 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| to take [here: to make
+R| てん こう
+R| 天 候
+R| weather
+L| と よ やく と
+L| a reservation/
+L| 取 る（予 約 を取 る）
+R| し せつ
+R| facility
+L| appointment]
+R| 施 設
+R| 4
+L| しょく いん
+L| member of staff
+L| 職 員
+R| とく ちょう
+R| 特 徴
+R| feature(s)
+L| 2
+L| concierge, (building)
+R| ロビー
+R| lobby
+L| かん り にん
+L| 管 理 人
+L| manager
+R| よ
+R| to drop in
+R| 寄 る
+L| かい けつ
+L| to solve, to resolve
+L| 解 決 -する
+R| ソファ
+R| sofa
+L| おん せい
+L| audio
+L| 音 声
+R| to gaze at, to watch, to
+R| なが
+R| 眺 める
+L| suffix for room or
+R| view
+L| ごう しつ
+L| ごう しつ
+L| apartment numbers
+L| ～号 室 （203号 室 ）
+R| ギャラリー
+R| gallery
+L| (No. 203)
+R| てん じ
+R| 展 示 -する
+R| to exhibit
+L| ゆうべ
+L| last night
+R| き がる
+R| easy
+R| 気 軽 （な）
+L| できたら
+L| if possible
+R| ぐう ぜん
+R| suddenly, by chance
+L| うかが
+R| 偶 然
+L| to ask
+L| 伺 う
+R| きゅう よう
+R| emergency
+L| つう ろ
+L| corridor, hallway
+R| 急 用
+L| 通 路
+R| all the way,
+L| to go out (lights,
+L| き
+L| でん き き
+R| き
+L| 切 れる（電 気 が切 れる）
+R| ずっと（ずっと聞 いてい continuously, much
+L| electricity)
+R| [here: listening the
+R| る）
+L| と か
+L| to replace
+L| 取 り換 える
+R| whole time]
+L| 3
+R| し よう
+R| to use, to utilize
+R| 使 用 -する
+L| ようこそ
+L| welcome
+R| 5
+L| トレーニング-する
+L| to train
+R| to advance (100
+R| すす
+R| 進 む（100メートルぐら
+R| meters), to move
+L| to be working at (a
+R| すす
+L| ざい きん
+R| い進 む）
+L| 在 勤 -する
+R| forward, to progress
+L| company, etc.)
+R| さき
+R| (up) ahead
+L| to be attending (a
+R| 先
+L| ざい がく
+L| 在 学 -する
+L| school, etc.)
+R| はい いろ
+R| 灰 色
+R| grey
+L| こう しゅう
+L| course
+L| 講 習
+R| なな
+R| diagonally
+R| 斜 め
+L| き ぐ
+L| equipment
+L| 器 具
+R| しょう めん
+R| front
+R| 正 面
+L| う む
+L| 有 無
+L| with or without
+R| ほう しん
+R| 方 針
+R| policy
+L| し どう
+L| to instruct, to guide
+L| 指 導 -する
+R| すす
+R| to proceed
+R| 進 める
+L| つう ねん
+L| all year round
+L| 通 年
+L| ヨガ
+L| yoga
+L| たっ きゅう
+L| table tennis
+L| 卓 球
+L| バレーボール
+L| volleyball
+L| かく かく ひと
+L| each (20 people each)
+L| 各 ～（各 20人 ）
+L| シューズ
+L| shoes
+L| to bring something
+L| じ さん
+L| 持 参 -する
+L| (with you)
+L| ねん れい
+L| age
+L| 年 齢
+L| せい べつ
+L| gender
+L| 性 別
+L| へん じ
+L| 返 事 -する
+L| to reply
+L| 12
+==== PAGE 12 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か きん きゅう じ たい
+L| 第 5課 　緊 急 事 態 ！
+L| ［できること］
+L| 1 じ しん たい ふう
+L| そく ほう き
+L| ひつ よう じょう ほう え
+L| 地 震 や台 風 などの速 報 を聞 いたとき、必 要 な情 報 を得 ることができる。
+L| You can listen to an earthquake or typhoon alert and get
+R| the necessary information.
+L| やく そく じ かん ま あ
+L| じょう きょう せつ めい し じ
+R| う
+L| 2 約 束 の時 間 に間 に合 わないとき、状 況 を説 明 して指 示 を受
+R| けることができる。
+L| You can explain the situation and listen to instructions
+R| when you will be late for an appointment.
+L| じょう きょう いま じょう たい せつ めい
+L| 3 けがをしたときの状 況 と今 の状 態 を説 明 することができる。
+L| You can explain the circumstances of an injury and the
+R| current condition.
+L| ひ なん さい ちゅう い じ こう よ
+L| じょう ほう え
+L| 4 避 難 の際 の注 意 事 項 を読 んで、情 報 を得 ることができる。
+L| You can read a text of safety precautions in the event
+R| of evacuation, and get information from it.
+L| 5 きん きゅう じ たい お
+L| けい けん
+L| まわ ひと きょう ゆう
+L| 緊 急 の事 態 が起 こって経 験 したことを周 りの人 と共 有 することができる。
+L| You can share your experiences of living through emergency
+R| situations with people around you.
+L| ［ことば］
+L| し たの
+R| は
+R| to pitch (a tent)
+L| 知 って楽 しむ
+R| 張 る
+L| country, (national)
+R| すう すう じつ
+R| several (several days)
+L| こく ど
+R| 数 ～（数 日 ）
+L| 国 土
+L| territory
+R| そこで
+R| there
+L| りく ち
+L| land
+L| 陸 地
+R| to live (to live in an
+R| おく ひ なん せい かつ おく
+L| たった
+L| only
+R| 送 る（避 難 生 活 を送 る）
+R| evacuation shelter)
+L| to happen (an
+R| せつ び
+R| facilities
+L| お
+L| じ しん お
+R| 設 備
+L| 起 きる（地 震 が起 きる）
+L| earthquake happens)
+R| ふ だん
+R| everyday
+R| 普 段
+L| わり わり
+L| percent (20%)
+L| ～割 （２割 ）
+R| べつ
+R| 別
+R| different
+L| to happen (an
+L| お
+L| じ しん お
+L| 起 こる（地 震 が起 こる）
+L| earthquake happens)
+R| やく わり
+R| role
+R| 役 割
+L| にん げん
+L| 人 間
+L| human
+R| マンホール
+R| manhole
+L| ちから
+L| strength, power
+L| 力
+R| ふた
+R| cover
+L| ひ がい
+L| damage
+L| 被 害
+R| かん い
+R| easy, simple
+R| 簡 易
+L| ひ じょう
+L| 非 常
+L| emergency
+R| べん き
+R| urinal, toilet bowl
+R| 便 器
+L| も だ
+L| to take out
+R| の
+L| 持 ち出 す
+R| to put on
+R| 載 せる
+L| しん さい
+L| 震 災
+L| earthquake disaster
+R| げ すい どう
+R| sewer
+R| 下 水 道
+L| to be a victim (of a
+R| しょ り
+L| ひ さい
+R| 処 理 -する
+R| to treat, to process
+L| 被 災 -する
+L| disaster)
+R| べンチ
+R| bench
+L| じゅう ふん
+L| adequately
+L| 十 分 （な）
+R| かまど
+R| oven
+L| う い
+L| to accommodate
+L| 受 け入 れる
+R| ちょ すい そう
+R| 貯 水 槽
+R| water tank
+L| nationwide, all over the
+L| ぜん こく
+L| 全 国
+L| country
+R| ポンプ
+R| pump
+L| to set up temporary
+R| あ
+R| to pump
+R| くみ上 げる
+L| か せつ
+L| 仮 設 -する
+L| facilities (during a
+R| to draw (water), to
+L| disaster)
+R| くむ
+R| scoop up
+L| テント
+L| tent
+L| 13
+==== PAGE 13 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| よう すい
+R| かん そう
+L| 用 水
+L| water for irrigation
+R| 乾 燥 -する
+R| to dry
+L| ぼう か
+R| か さい
+L| fire prevention
+R| fire
+L| 防 火
+R| 火 災
+L| でん とう
+L| electric light
+R| はっ せい
+R| to occur
+L| 電 灯
+R| 発 生 -する
+L| たい よう こう
+R| よ
+L| 太 陽 光
+L| Sunlight
+R| 呼 びかける
+R| to appeal to
+L| はつ でん
+L| to generate power
+R| こ てい
+R| to fix, to secure
+L| 発 電 -する
+R| 固 定 -する
+L| to lose power, to have
+R| らい う
+R| thunderstorm
+L| てい でん
+R| 雷 雨
+L| 停 電 -する
+L| a power cut
+R| 2
+L| しめ
+L| 示 す
+L| to show
+R| じょう きょう
+R| circumstances
+R| 状 況
+L| め じるし
+L| mark, sign
+L| 目 印
+R| ねん ざ
+R| 捻 挫 -する
+R| to sprain, to twist
+L| be prepared and have
+L| そな
+L| うれ
+L| 備 えあれば憂 いなし
+L| no regrets
+R| よろしいでしょうか
+R| would it be all right?
+L| 1
+R| レポート
+R| report
+L| きん きゅう
+L| emergency
+R| へん こう
+L| 緊 急
+R| 変 更 -する
+R| to change
+L| state, situation
+R| accident between a
+R| じん しん じ こ
+L| じ たい
+R| 人 身 事 故
+L| (usually with a
+L| 事 態
+R| vehicle and a person
+L| negative connotation)
+R| to return to one’s home
+R| き せい
+R| 帰 省 -する
+L| ラジオ
+L| radio
+R| (town/country)
+R| きゅう か
+R| leave, time off
+L| そく ほう
+L| news flash
+R| 休 暇
+L| 速 報
+R| しあわ
+L| いま
+R| happiness
+L| ただ今
+L| right now, just now
+R| 幸 せ（な）
+R| こころ
+R| heart
+L| しん ど
+L| seismic intensity
+R| 心
+L| 震 度
+L| lower (seismic intensity
+R| 3
+L| じゃく しん ど じゃく
+L| ～弱 （震 度 ５弱 ）
+L| 5-lower)
+R| じょう たい
+R| situation
+R| 状 態
+L| ねん
+L| 念 のため
+L| just in case
+R| イラスト
+R| illustration
+L| つ なみ
+L| tsunami, tidal wave
+L| 津 波
+R| おう だん ほ どう
+R| 横 断 歩 道
+R| pedestrian crossing
+L| けい かい
+L| to be careful of
+L| 警 戒 -する
+R| かん じゃ
+R| patient
+R| 患 者
+L| み
+L| 身
+L| self
+R| て くび
+R| wrist
+R| 手 首
+L| かく ほ
+L| to ensure
+L| 確 保 -する
+R| ひねる
+R| to twist
+L| さき
+L| a little while ago
+L| 先 ほど
+R| どう ろ
+R| road
+R| 道 路
+L| しん げん
+L| 震 源
+L| epicenter
+R| じ かん
+R| たつ（時 間 がたつ）
+R| to pass (time passes)
+L| おき
+L| open sea
+L| 沖
+R| あし くび
+R| ankle
+R| 足 首
+L| ふか
+L| 深 さ
+L| depth
+R| いた
+R| to hurt
+R| 痛 める
+L| マグニチュード
+L| magnitude
+R| み
+R| 診 る
+R| to examine (medical)
+L| to register (on the
+L| き ろく
+L| 記 録 -する
+R| ふ し ぎ
+R| strange
+L| Richter scale)
+R| 不 思 議 （な）
+L| よ しん
+R| society, the public, the
+L| 余 震
+L| aftershock
+R| しゃ かい
+R| 社 会
+R| wider community
+L| せっ きん
+L| to approach
+L| 接 近 -する
+R| へん か
+R| 変 化 -する
+R| to change
+L| けっ こう
+L| to cancel (flight)
+L| 欠 航 -する
+R| ひと びと
+R| people
+R| 人 々
+L| えい きょう
+L| 影 響 -する
+L| to affect
+R| 4
+L| しょう ぼう しょ
+L| fire department
+L| 消 防 署
+R| ひ なん
+R| to evacuate
+R| 避 難 -する
+L| 14
+==== PAGE 14 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| くん れん
+R| おぼ
+L| 訓 練 -する
+L| to train
+R| 溺 れる
+R| to drown
+L| important points,
+R| と こ
+R| to jump into
+L| ちゅう い じ こう
+R| 飛 び込 む
+L| 注 意 事 項
+L| points to note
+R| きず
+R| scratch
+R| 傷
+L| プリント
+L| hand-out
+R| そう こ
+R| 倉 庫
+R| warehouse
+L| あわ
+L| to panic
+L| 慌 てる
+R| ほこり
+R| dust
+L| ひ
+L| daily
+L| 日 ごろ
+R| しわ
+R| wrinkle, crease
+L| いざというとき
+L| in a crisis
+L| し じ
+L| 指 示 -する
+L| to instruct
+L| けっ
+L| never
+L| 決 して
+L| けむり
+L| smoke
+L| 煙
+L| おお
+L| 覆 う
+L| to cover
+L| ひじ
+L| elbow
+L| to put, to poke [here:
+L| つく（ひじをつく）
+L| to place one’s elbows
+L| on]
+L| to cross (legs, arms,
+L| く
+L| 組 む
+L| etc.)
+L| when (evacuating), in
+L| じ ひ なん じ
+L| ～時 （避 難 時 ）
+L| the event of
+L| (evacuation)
+L| ぼう さい
+L| 防 災
+L| disaster prevention
+L| 5
+L| さい がい
+L| disaster
+L| 災 害
+L| あ
+L| 遭 う
+L| to encounter
+L| きゅう びょう
+L| sudden illness
+L| 急 病
+L| ハイキング-する
+L| to hike
+L| しゃ めん
+L| slope
+L| 斜 面
+L| すべ お
+L| to slide
+L| 滑 り落 ちる
+L| あめ あ
+L| 雨 上 がり
+L| after rain
+L| と
+L| to fly/blow (away)
+L| 飛 ばす
+L| くず
+L| to give way
+L| 崩 す
+L| す
+L| to graze
+L| 擦 りむく
+L| to scrape, to scratch,
+L| こす
+L| 擦 る
+L| to rub
+L| ち
+L| blood
+L| 血
+L| うずくまる
+L| to crouch
+L| ぜん しん
+L| whole body
+L| 全 身
+L| どろ
+L| 泥
+L| mud
+L| ぶ じ
+L| safely
+L| 無 事 （な）
+L| もと
+L| original
+L| 元
+L| 15
+==== PAGE 15 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か ち ず ひろ
+L| 第 6課 　地 図 を広 げる
+L| ［できること］
+L| 1 せつ めい よ
+L| に ほん ち り まち よう す き こう
+L| し
+L| 説 明 を読 んで、日 本 の地 理 や町 の様 子 、気 候 について知 ることができる。
+L| You can learn about Japan’s geography, village life, and
+R| climate by reading an explanation.
+L| せつ めい き
+L| き こう あ
+L| たて もの とく ちょう し
+L| 2 説 明 を聞 いて、気 候 に合 わせた建 物 の特 徴 を知 ることができる。
+L| You can learn about the architectural features of buildings
+R| in different climates by listening to an
+L| explanation.
+L| き こう あ
+L| たい ちょう くず とも だち はなし き
+L| 3
+L| 気 候 が合 わなくて体 調 を崩 した友 達 の話 を聞 いて、アドバイスすることができる。
+L| You can listen to a friend talk about how they got sick
+R| by not adapting to their local climate, and give them
+L| your advice.
+L| せつ めい よ
+L| まち とく ちょう れき し
+L| し
+L| 4
+L| 説 明 を読 んで、町 の特 徴 や歴 史 などについて知 ることができる。
+L| You can learn about the distinctive features and history
+R| of your town by reading an explanation.
+L| くに
+L| ち けい き こう り よう めい ぶつ ふう ぶつ し しょう
+R| かい
+L| 5 国 ・ふるさとの地 形 や気 候 を利 用 した名 物 や風 物 詩 を紹
+R| 介 することができる。
+L| You can introduce some local specialties and seasonal
+R| traditions in your home country/hometown which
+L| take advantage of or reflect the local terrain and climate.
+L| ［ことば］
+L| し たの
+R| さく せん
+R| grand plan
+L| 知 って楽 しむ
+R| 作 戦
+L| かい てき
+R| かい さい
+L| 快 適 （な）
+L| comfortably
+R| 開 催 -する
+R| to hold
+R| even (a little), (any) at
+L| つ ゆ
+L| rainy season
+L| 梅 雨
+R| すこ
+R| ～でも（少 しでも）
+R| all
+L| や
+L| to burn
+L| 焼 ける
+R| すい どう すい
+R| tap water
+R| 水 道 水
+L| たい よう
+L| 太 陽
+L| the sun
+R| のこ ゆ
+R| 残 り湯
+R| leftover bathwater
+L| いま
+L| nowadays
+L| 今 でこそ
+R| あま みず
+R| rainwater
+R| 雨 水
+L| ふ きゅう
+L| to be widespread
+L| 普 及 -する
+R| heat of evaporation
+L| しのぐ
+L| to weather out
+R| (amount of energy
+R| き か ねつ
+R| 気 化 熱
+R| needed to transform a
+L| つるす
+L| to hang, to suspend
+R| liquid into a gas)
+L| チリンチリン
+L| tinkle
+R| はな
+R| 話 してみよう
+L| talisman (to ward off
+L| ま よ
+R| ひろ
+R| to spread out
+L| 魔 除 け
+R| 広 げる
+L| evil spirits)
+R| へい きん
+R| average
+L| for some reason,
+R| 平 均
+L| なぜか
+L| somehow
+R| こう すい りょう
+R| amount of rainfall
+R| 降 水 量
+L| う みず
+L| sprinkling water
+L| 打 ち水
+R| 1
+L| じ めん
+L| the ground
+L| 地 面
+R| き こう
+R| climate
+R| 気 候
+L| まく
+L| to sprinkle
+R| display (in museum,
+R| コーナー
+L| こう けい
+R| etc.)
+L| 光 景
+L| sight, scene
+R| なん ぼく
+R| 南 北
+R| north to south
+L| じょう はつ
+L| to evaporate
+L| 蒸 発 -する
+R| しま
+R| island
+L| うば
+L| to take away
+R| 島
+L| 奪 う
+R| さん りん
+R| mountains and forests
+L| きん ねん
+R| 山 林
+L| 近 年
+L| in recent years
+L| 16
+==== PAGE 16 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| xx parts of xx (two
+R| フローリング
+R| wooden flooring
+L| ぶん
+L| ぶん
+L| ～分 の～（３分 の２）
+L| thirds)
+R| げん きん
+R| cash
+R| 現 金
+L| ち けい
+L| 地 形
+L| terrain
+R| でん し
+R| electronic money
+R| 電 子 マネー
+L| おん たい
+L| temperate zone
+L| 温 帯
+R| 3
+L| い ち
+L| to be located
+L| 位 置 -する
+R| physical condition,
+R| たい ちょう
+L| む あつ
+R| 体 調
+L| humid
+L| 蒸 し暑 い
+R| health
+L| side (pacific ocean
+R| なん
+R| a little, somewhat
+L| がわ たい へい よう がわ
+R| 何 だか
+L| ～側 （太 平 洋 側 ）
+L| side)
+R| わ が し
+R| 和 菓 子
+R| Japanese sweets
+L| ペンション
+L| boarding house
+R| みなと
+R| port
+R| 港
+L| わり あい
+L| ratio
+L| 割 合
+R| まち みなと まち
+R| ~ town (a port town)
+R| ～町 （港 町 ）
+L| れい ねん
+L| average year
+L| 例 年
+R| さか
+R| 栄 える
+R| to thrive, to flourish
+L| つら
+L| 連 なる
+L| to extend, to stretch
+R| 4
+L| to face, to look out on
+L| めん
+L| 面 する
+L| to, to border
+R| げん ざい
+R| current
+R| 現 在
+L| めぐ
+L| to be rich in
+R| じん こう
+L| 恵 まれる
+R| population
+R| 人 口
+L| うつく
+L| 美 しい
+L| beautiful
+R| と し
+R| city
+R| 都 市
+L| へい や
+L| plain
+R| けん ちょう
+L| 平 野
+R| 県 庁
+R| prefectural office
+L| にわ
+L| garden
+R| vicinity, surrounding
+L| 庭
+R| しゅう へん
+R| 周 辺
+R| area, outskirts
+L| めい えん
+L| 名 園
+L| great gardens
+R| ち く
+R| district
+R| 地 区
+L| いし がき
+L| stone wall
+L| 石 垣
+R| しょう ぎょう
+R| 商 業
+R| commerce
+L| 2
+R| にぎわう
+R| to be crowded
+L| のき
+L| eaves
+L| 軒
+R| era, century (in the
+R| ねん だい
+R| ねん だい
+R| ～年 代 （1600年 代 ）
+L| かわら
+L| roof tile
+L| 瓦
+R| 17th century)
+L| へい
+R| quarter (Chinese
+L| 塀
+L| wall
+R| まち ちゅう か がい
+R| ～街 （中 華 街 ）
+R| quarter)
+L| いし
+L| stone
+L| 石
+R| すな はま
+R| 砂 浜
+R| sandy beach
+L| ふるさと
+L| hometown
+R| to attach [here: to
+L| to adjust, to be suited
+R| つ な まえ つ
+R| 付 く（名 前 が付 く）
+R| bear a name, to be
+L| あ
+L| 合 わせる
+L| to
+R| named]
+L| ひ ざ
+L| sunlight
+R| むら
+L| 日 差 し
+R| 村
+R| village
+L| しっくい
+L| plaster
+R| one theory, one
+R| いっ せつ
+R| 一 説
+R| account
+L| セメント
+L| cement
+R| の
+R| to extend
+R| 延 びる
+L| かた
+L| to secure
+L| 固 める
+R| な づ
+R| 名 付 ける
+R| to name
+L| rebar (iron reinforcing
+L| てっ きん
+L| 鉄 筋
+L| bar)
+R| う た
+R| to reclaim (land)
+R| 埋 め立 てる
+L| コンクリート
+L| concrete
+R| う
+R| to bury, to fill
+R| 埋 める
+L| き しょう
+L| weather
+R| はま
+L| 気 象
+R| 浜
+R| beach
+L| しょう ろん ぶん
+L| short essay
+L| 小 論 文
+R| ち めい
+R| place name
+R| 地 名
+L| tatami (straw floor
+R| ふう けい
+R| scenery
+L| たたみ
+R| 風 景
+L| 畳
+L| mats)
+R| まとまる
+R| to cohere
+L| 17
+==== PAGE 17 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| いっ しょう
+R| う
+L| 一 生
+L| a lifetime
+R| 浮 かべる
+R| to float (something)
+L| がん こ
+L| stubborn
+L| 頑 固 （な）
+L| しょく にん
+L| artisan
+L| 職 人
+L| to remain, to continue
+L| つづ
+L| あり続 ける
+L| to be
+L| ち ほう
+L| region
+L| 地 方
+L| めい さん
+L| famous local specialty
+L| 名 産
+L| かい よう
+L| 海 洋
+L| ocean
+L| せい ぶつ
+L| creature
+L| 生 物
+L| か せき
+L| fossil
+L| 化 石
+L| あた
+L| 辺 り
+L| area
+L| the biggest, the
+L| さい だい
+L| 最 大
+L| maximum, the most
+L| ちょう にん
+L| townspeople, merchant
+L| 町 人
+L| さん ぎょう
+L| 産 業
+L| industry
+L| さか
+L| thriving
+L| 盛 ん（な）
+L| せい さん
+L| to produce
+L| 生 産 -する
+L| The Nation’s Kitchen (a
+L| てん か だい どころ おお さか べつ めい
+L| 天 下 の台 所 （大 阪 の別 名 ）
+L| nickname for Osaka)
+L| き ぎょう
+L| company
+L| 企 業
+L| こう ぎょう
+L| industry
+L| 工 業
+L| はっ てん
+L| to develop
+L| 発 展 する
+L| おとず
+L| to visit
+L| 訪 れる
+L| 5
+L| produced in a
+L| とく さん
+L| 特 産
+L| particular region
+L| ~ product (local
+L| ぶつ とく さん ぶつ
+L| ～物 （特 産 物 ）
+L| specialty product)
+L| から かぜ
+L| karakkaze (dry wind)
+L| 空 っ風
+L| ふ
+L| 吹 く
+L| to blow
+L| しめ
+L| to be moist, humid
+L| 湿 る
+L| こ
+L| 越 える
+L| to go/come over
+L| きた かぜ
+L| northerly wind
+L| 北 風
+L| ふう りょく
+L| wind power
+L| 風 力
+L| プロジェクト
+L| project
+L| たこ あ
+L| kite flying
+L| 凧 揚 げ
+L| たこ
+L| kite
+L| 凧
+L| あ
+L| 揚 げる
+L| to fly, to hoist
+L| おも う
+L| to think of
+L| 思 い浮 かべる
+L| 18
+==== PAGE 18 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か せ だい こ
+L| こう りゅう
+L| 第 7課 　世 代 を超 えた交 流
+L| ［できること］
+L| 1 あたら かつ どう さん か まえ さん か しゃ たい けん だん よ
+L| かつ どう
+R| ない よう よう す
+R| じょう ほう え
+L| 新 しい活 動 に参 加 する前 に参 加 者 の体 験 談 を読 んで、活 動
+R| の内 容 や様 子 についての情 報 を得 ることができる。
+L| You can read testimonials from club participants and get
+R| information about what the clubs are like before
+L| joining a new club activity.
+L| 2 あい て つ ごう この かんが
+L| じ ぶん きょう み も さん
+R| か
+R| さそ
+L| 相 手 の都 合 や好 みを考 えながら、自 分 が興 味 を持 って参 加
+R| するイベントに誘 うことができる。
+L| You can invite others to join an event you’re interested
+R| in attending, while considering their schedule and
+L| preferences.
+L| 3 せ だい せい べつ ちが
+L| はな かた き り かい
+L| 世 代 や性 別 で違 いがある話 し方 を聞 いて理 解 することができる。
+L| You can listen to and understand different ways of speaking
+R| between generations and genders.
+L| で あ ひと びと こう りゅう
+L| はな
+L| 4
+L| 出 会 った人 々 との交 流 について話 すことができる。
+L| You can talk about your interactions with people you have
+R| encountered.
+L| ［ことば］
+R| to cross, to go beyond,
+L| し たの
+L| 知 って楽 しむ
+R| こ
+R| 超 える
+R| to surpass
+L| way of speaking
+R| a talk, a recounting (of
+L| こと ば とも だち こと ば
+L| (casual speech, baby
+R| だん たい けん だん
+L| ～言 葉 （友 達 言 葉 ）
+R| ～談 （体 験 談 ）
+R| one’s experiences)
+L| talk)
+R| かい がん
+R| coast
+L| どう ねん だい
+R| 海 岸
+L| the same generation
+L| 同 年 代
+R| ねん だい
+R| generation, age
+L| すると
+L| when I did this
+R| 年 代
+R| division (division into
+L| かえ
+R| わ
+R| わ
+L| 返 る
+L| to come back
+R| ～分 け（グループ分 け）
+R| groups)
+L| ぐち
+L| peer language
+L| タメ口
+R| ねん ぱい
+R| older
+R| 年 配
+L| い わ かん
+L| uncomfortable feeling
+L| 違 和 感
+R| い
+R| to need
+R| 要 る
+L| to share, to have in
+L| きょう つう
+R| other than (other than
+L| 共 通 -する
+R| い がい べん きょう い がい
+L| common
+R| ～以 外 （勉 強 以 外 ）
+R| studying)
+L| ゆう じん
+L| friend
+L| 友 人
+R| けい き
+R| the economy
+R| 景 気
+L| たい とう
+L| equal
+L| 対 等 （な）
+R| と しん
+R| city centre
+R| 都 心
+L| かい とう
+L| 回 答 -する
+L| to reply
+R| ど りょく
+R| to make an effort
+R| 努 力 -する
+L| しょ たい めん
+L| first meeting
+L| 初 対 面
+R| とう ぜん
+R| 当 然 （な）
+R| reasonable, natural
+L| タイミング
+L| timing
+R| む だ づか
+R| to waste, to squander
+R| 無 駄 遣 い-する
+L| わ だい
+L| subject
+L| 話 題
+R| た
+R| to be saved up (money)
+R| 貯 まる
+L| ぶん や
+L| field
+L| 分 野
+R| ブログ
+R| blog
+L| more ~, ~er (better
+L| した
+R| フットサル
+R| futsal (indoor football)
+L| より～（より親 しく）
+L| acquainted, closer)
+R| メンバー
+R| member
+L| はん だん
+L| to judge
+L| 判 断 -する
+R| かず
+R| number
+L| おも き
+L| to take the plunge and
+R| 数
+L| 思 い切 って
+R| い がい
+R| unexpected
+R| 意 外 （な）
+L| 1
+R| generation/decade
+L| せ だい
+L| generation
+R| だい だい
+L| 世 代
+R| ～代 （40代 ）
+R| (40s)
+R| シュート-する
+R| to shoot
+L| 19
+==== PAGE 19 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| たが
+R| fellow ~s, companions
+L| お互 い
+L| mutual
+R| どう し おとこ どう し
+R| [here: between (us)
+R| ～同 士 （男 同 士 ）
+L| チームプレー
+L| team play
+R| men]
+L| to get the feeling that
+R| huh? (We should try
+L| き
+L| 気 がする
+R| がん ば
+R| な（頑 張 ろうな）
+L| ...
+R| hard, huh?)
+L| か ごえ
+L| call, shout
+L| 掛 け声
+R| きみ
+R| you
+R| 君
+L| しゅん かん
+L| moment
+L| 瞬 間
+R| いつか
+R| sometime, someday
+L| ハイタッチ-する
+L| high five
+R| つき ひ
+R| time passes
+R| 月 日
+L| で あ
+L| 出 会 い
+L| encounter
+R| む ちゅう
+R| to be engrossed
+R| 夢 中 （な）
+L| 2
+R| 4
+L| しゅっ てん
+L| to set up a stall
+L| 出 店 -する
+R| むか
+R| to welcome
+R| 迎 える
+L| ちゅう こ
+L| 中 古
+L| used, second-hand
+R| to be impressed, to be
+R| かん どう
+R| 感 動 -する
+R| moved
+L| かい じょ けん
+L| service dog
+L| 介 助 犬
+R| field (for growing
+R| はたけ
+L| いく せい
+L| to train
+R| 畑
+L| 育 成 -する
+R| crops)
+L| き ふ
+R| わか わか
+L| to donate
+R| youthful
+L| 寄 付 -する
+R| 若 々 しい
+L| きん き ふ きん
+L| money (donation)
+R| も あ
+R| to lift (up)
+L| ～金 （寄 付 金 ）
+R| 持 ち上 げる
+L| う
+L| さそ う
+L| 受 ける（誘 いを受 ける） to accept
+R| トラック
+R| truck
+L| う あ
+L| sales
+R| まご
+R| grandchild
+L| 売 り上 げ
+R| 孫
+L| いち ぶ
+L| a part of
+R| き しょう ちょう
+R| meteorological agency
+L| 一 部
+R| 気 象 庁
+L| by chance,
+R| だん とう
+R| 暖 冬
+R| mild winter
+L| たまたま
+L| unexpectedly
+R| き たい
+R| to expect
+R| 期 待 -する
+L| いま
+L| around this time
+L| 今 ごろ
+R| to be a good son/
+R| おや こう こう
+L| だん たい
+L| group
+R| 親 孝 行 -する
+L| 団 体
+R| daughter
+L| がく えん
+L| 学 園
+L| school
+R| タイトル
+R| title
+L| ~ festival (school
+R| りっ ぱ
+R| splendid, elegant
+L| さい がく えん さい
+R| 立 派 （な）
+L| ～祭 （学 園 祭 ）
+L| festival)
+R| の
+R| to state
+R| 述 べる
+L| すべ
+L| all
+L| 全 て
+L| くる
+L| 苦 しむ
+L| to suffer
+L| 3
+L| ミーティング-する
+L| to have a meeting
+L| てい ねん
+L| retirement age
+L| 定 年
+L| たい しょく
+L| to retire
+L| 退 職 -する
+L| ただ
+L| just
+L| かみさん
+L| (speaker’s) wife
+L| うらやましい
+L| jealous
+L| to be uncomfortable
+L| ひと み し
+L| 人 見 知 り-する
+L| around strangers
+L| ひと み し
+L| type (shy type)
+L| ほう（人 見 知 りするほう）
+L| 20
+==== PAGE 20 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か き も
+L| つた
+L| 第 8課 　気 持 ちを伝 える
+L| ［できること］
+L| 1 り ゆう はな
+L| あい て てい ねい きょ か もと
+L| 理 由 を話 して、相 手 に丁 寧 に許 可 を求 めることができる。
+L| You can politely ask for permission from others and explain
+R| your reasons for asking.
+L| つた かた
+L| し
+L| じ ぶん せい かつ い
+L| 2 メッセージの伝 え方 について知 って、自 分 の生 活 に生 かすことができる。
+L| You can learn about how to convey a message, and make
+R| use of this information in your own life.
+L| あい て ぐ ち き き も り かい
+L| 3 相 手 の愚 痴 を聞 いて気 持 ちを理 解 することができる。
+L| You can listen to others’ complaints, and understand their
+R| feelings.
+L| よ
+L| おく ひと はげ
+L| き も り かい
+L| 4 メールを読 んで、送 った人 の励 ましの気 持 ちを理 解 することができる。
+L| You can read an email and understand the feelings of
+R| encouragement intended by the sender.
+L| 5 き も つた かた
+L| じ ぶん かんが り ゆう
+L| の
+L| 気 持 ちの伝 え方 について自 分 の考 えを理 由 とともに述 べることができる。
+L| You can express your own thoughts about how best to
+R| convey one’s feelings, and support them with
+L| reasons.
+L| ［ことば］
+L| し たの
+L| 知 って楽 しむ
+R| 1
+L| within (within a short
+R| きょ か
+R| to permit
+L| うち（そのうち）
+R| 許 可 -する
+L| time)
+R| end (end of next
+R| まつ らい げつ まつ
+L| ほう そう
+L| to wrap
+R| ～末 （来 月 末 ）
+L| 包 装 -する
+R| month)
+L| し かた
+R| まった
+L| 仕 方
+L| method, way
+R| 全 く
+R| (not) at all
+L| to leave it up to
+R| どう りょう
+R| colleague
+L| まか
+R| 同 僚
+L| 任 せる
+L| (someone else)
+R| to cause (to cause a
+R| めい わく
+R| かける（迷 惑 をかける）
+L| ほう そう し
+L| wrapping paper
+L| 包 装 紙
+R| problem)
+R| かい しゅう
+L| リボン
+L| ribbon
+R| 回 収 -する
+R| to collect
+L| to put on (to put on a
+R| place to put something
+L| かける（リボンをかける）
+R| お ば
+R| お ば
+R| ～置 き場 （ごみ置 き場 ）
+L| ribbon)
+R| (trash collection point)
+L| ラッピング-する
+L| to wrap
+R| いろ ちが
+R| a different color
+R| 色 違 い
+R| ちょう れい
+L| グッズ
+L| goods
+R| 朝 礼
+R| morning meeting
+L| き ぞく
+R| たん とう
+L| aristocrat
+R| to be in charge of
+L| 貴 族
+R| 担 当 -する
+L| さらす
+L| to immerse
+R| オープンキャンパス
+R| campus open day
+L| of the time, at that
+R| a trip to one’s home
+L| とう じ
+R| いち じ き こく
+L| 当 時
+R| 一 時 帰 国
+L| time
+R| country
+L| こう か
+R| to go back to one’s
+L| highly-priced
+L| 高 価 （な）
+R| き こく
+R| 帰 国 -する
+R| home country
+L| あらわ
+L| expression
+L| 表 れ
+R| 2
+L| やぶ
+L| 破 る
+L| to rip
+R| メッセージ
+R| message
+L| ブックカバー
+L| book cover
+R| ippitsusen (long, slim
+L| あるいは
+L| or
+R| いっ ぴつ せん
+R| writing pad for writing
+R| 一 筆 箋
+R| short notes)
+L| ふく
+L| 含 める
+L| to be included
+R| つた
+R| to communicate
+R| 伝 わる
+L| ぐっと
+L| considerably
+L| 21
+==== PAGE 21 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| たて
+R| to damage (to damage
+L| 縦
+L| length
+R| こわ からだ こわ
+R| 壊 す（体 を壊 す）
+R| one’s health)
+L| ～センチ（18センチ）
+L| cm (18cm)
+R| right in front of one,
+R| め まえ
+R| 目 の前
+L| ほそ なが
+L| long and thin
+R| before one’s eyes
+L| 細 長 い
+L| びん せん
+R| わ
+R| to break
+L| 便 箋
+L| writing paper
+R| 割 る
+L| rigid, stiff, formal
+R| サプライズパーティー
+R| surprise party
+L| かた かた あい さつ
+L| 堅 い（堅 い挨 拶 ）
+L| (greeting)
+R| 4
+L| ほん だい
+L| main theme
+L| 本 題
+R| こと ば づか
+R| use of language
+R| 言 葉 遣 い
+L| て が
+L| 手 書 き
+L| handwritten
+R| ま ちが
+R| to make a mistake
+R| 間 違 う
+L| おく もの
+L| present
+L| 贈 り物
+R| ショック
+R| shock
+L| Thank you for your
+L| せ わ
+L| お世 話 になっています
+R| う
+R| う
+L| (continued) support.
+R| 受 ける（ショックを受 け to receive, to get (to
+R| get a shock)
+L| き き
+R| る）
+L| 気 が利 く
+L| thoughtful
+R| to feel discouraged,
+L| き かい
+L| machine
+R| お こ
+L| 機 械
+R| 落 ち込 む
+R| down
+L| いん さつ
+L| to print
+L| 印 刷 -する
+R| がっかり
+R| disappointed
+L| to get something done
+L| す
+R| わざわざ
+R| purposely
+L| 済 ませる
+L| with, over with
+R| くち
+R| 口 うるさい
+R| nagging, critical
+L| おも
+L| thoughts
+L| 思 い
+R| はげ
+R| to encourage
+L| せん じつ
+L| the other day
+R| 励 ます
+L| 先 日
+R| たお
+R| to knock over
+L| how you are doing,
+R| 倒 す
+L| きん きょう
+L| what you have been
+L| 近 況
+R| よご
+R| 汚 す
+R| to stain, to make dirty
+L| doing lately
+R| ほん き
+R| for real
+R| 本 気 （な）
+L| ひさ
+L| It’s been a long time.
+L| お久 しぶりです
+R| わざと
+R| on purpose
+L| あい か
+L| 相 変 わらず
+L| as ever
+R| 5
+L| しゅっ さん
+L| to give birth
+L| 出 産 -する
+R| to leave (leave a record
+R| のこ き ろく のこ
+L| ちょっとした
+L| a little
+R| 残 す（記 録 に残 す）
+R| of)
+L| ひと こと
+L| 一 言
+L| a note
+R| to be left (a record has
+R| のこ き ろく のこ
+R| 残 る（記 録 が残 る）
+R| been left)
+L| そ
+L| to include, to attach
+L| 添 える
+R| こう かい
+R| 後 悔 -する
+R| to regret
+L| き い
+L| to like
+L| 気 に入 る
+R| なんで
+R| why
+L| 3
+R| そら
+R| the sky
+R| 空
+L| ぐ ち
+L| complaint
+L| 愚 痴
+R| かん しゃ
+R| 感 謝 -する
+R| to thank, to appreciate
+L| ラストオーダー
+L| last orders
+R| わ
+R| apology
+R| （お）詫 び
+L| つい か
+L| to add
+L| 追 加 -する
+L| なま
+L| draft beer
+L| 生 ビール
+L| だ め
+L| 駄 目 （な）
+L| not allowed
+L| without giving it a
+L| へい き
+L| 平 気 （な）
+L| second thought
+L| じゅう たい
+L| to clog/back up
+L| 渋 滞 -する
+L| き たく
+L| 帰 宅 -する
+L| to go home
+L| for the first time in a
+L| ひさ
+L| 久 しぶり（な）
+L| long time
+L| 22
+==== PAGE 22 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい か こと ば たの
+L| 第 9課 　言 葉 を楽 しむ
+L| ［できること］
+L| 1 し あじ
+L| し
+L| か
+L| かん そう よ
+R| し
+R| し
+L| 詩 を味 わうために、その詩 について書 かれた感 想 を読 んで詩
+R| について知 ることができる。
+L| You can gain a deeper appreciation and understanding
+R| of a poem by reading a commentary of that poem.
+L| ご ろ あ
+L| せつ めい き
+L| こと ば
+L| し
+L| 2 語 呂 合 わせの説 明 を聞 いて、言 葉 のおもしろさを知 ることができる。
+L| You can learn how interesting language can be by listening
+R| to an explanation about wordplay.
+L| ぎ おん ご ぎ たい ご し
+L| に ほん ご ひょう げん
+R| し
+L| 3 擬 音 語 や擬 態 語 を知 って、日 本 語 の表 現 のおもしろさを知
+R| ることができる。
+L| You can learn how interesting Japanese expressions can
+R| be by learning about Japanese onomatopoeia.
+L| に ほん ご つか たの
+L| むずか
+L| けい けん
+L| はな
+L| 4 日 本 語 を使 う楽 しさや難 しさについて、経 験 をもとに話 すことができる。
+L| You can speak about the fun and the difficulty of using
+R| Japanese based on your own experiences.
+L| 5 にち じょう せい かつ なか みみ
+L| に ほん ご かん しつ もん
+R| こた き り かい
+L| 日 常 生 活 の中 で耳 にした日 本 語 に関 する質 問 をしたとき、その答
+R| えを聞 いて理 解 することができる。
+L| You can ask about Japanese words and phrases you’ve
+R| heard in your daily life, and listen to the answer.
+L| ［ことば］
+L| し たの
+R| かき
+R| kaki (persimmon)
+L| 知 って楽 しむ
+R| 柿
+R| く
+L| なんか
+L| something
+R| to eat
+R| 食 う
+L| へん
+L| odd, strange
+R| パジャマ
+R| pyjamas
+L| 変 （な）
+L| ふもと
+L| foot (of a mountain)
+R| カエル
+R| frog
+L| counter for buildings (1
+R| ぴょこぴょこ
+R| hop hop
+L| けん けん
+L| ～軒 （１軒 ）
+L| building (temple))
+R| あ
+R| あ
+R| 合 わせる（２と３を合 わ add up (add up 2 and
+L| まい
+L| to visit a shrine/temple
+L| お参 り-する
+R| 3)
+R| せる）
+L| むら びと
+L| 村 人
+L| villager
+R| なぞなぞ
+R| riddle
+L| buddhist priest (in
+L| お しょう
+L| 和 尚
+R| かい ぶん
+R| palindrome
+L| charge of a temple)
+R| 回 文
+R| マウス
+R| mouse
+L| わいわい
+L| noisily
+R| がけ
+L| く
+R| cliff
+L| やって来 る
+L| to come along
+R| 崖
+R| sentence ending used
+L| ぬ はじ
+L| to start undressing
+L| 脱 ぎ始 める
+R| わ（けがしたわ）
+R| by women (I hurt
+L| くち ぐち
+L| unanimously
+L| 口 々 に
+R| myself!)
+L| ひとり のこ
+L| １ 人残 らず
+L| each and every person
+R| 1
+L| はだか
+L| naked
+R| し
+R| poem
+L| 裸
+R| 詩
+L| ご かい
+L| to misunderstand
+R| の
+R| to be published
+L| 誤 解 -する
+R| 載 る
+L| いま
+R| こ とり
+L| nowadays
+R| small bird
+L| 今 では
+R| 小 鳥
+L| ぶん しょう
+L| text, sentence
+R| すず
+R| bell
+L| 文 章
+R| 鈴
+L| わら だ
+R| りょう て
+L| 笑 い出 す
+L| to burst out laughing
+R| 両 手
+R| both hands/arms
+L| わけ
+L| reason
+R| ちっとも
+R| (not) even a little bit
+L| 訳
+L| はな
+R| じ
+R| the ground
+L| 話 してみよう
+R| 地 べた
+L| はや くち
+R| ゆ
+L| 早 口
+L| talking fast
+R| 揺 する
+R| to shake
+L| 23
+==== PAGE 23 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| うた
+L| 唄
+L| Song
+R| だって
+R| that’s because
+L| く
+R| は
+L| to live
+R| leaf
+L| 暮 らす
+R| 葉 っぱ
+L| after (after returning
+R| onomatopoeic word
+L| ご き こく ご
+L| ～後 （帰 国 後 ）
+L| to one’s home country)
+R| imitating natural
+R| ぎ おん ご
+R| 擬 音 語
+R| sounds or sounds made
+L| じ だい
+L| era
+L| 時 代
+R| by inanimate objects
+L| こ せい
+L| individuality
+L| 個 性
+R| onomatopoeic word
+L| sense of (sense of
+R| expressing actions,
+L| じ ぶん
+L| ～らしさ（自 分 らしさ）
+R| ぎ たい ご
+L| being oneself)
+R| 擬 態 語
+R| conditions and states,
+R| rather than actual
+L| みと
+L| to recognize
+L| 認 める
+R| sounds
+L| こ
+L| to include
+L| 込 める
+R| 4
+L| nursery rhyme,
+L| どう よう
+L| 童 謡
+R| かん ちが
+R| to misunderstand
+R| 勘 違 い-する
+L| children’s song
+R| ひょう げん
+L| collection (nursery
+R| 表 現 -する
+R| to express
+L| しゅう どう よう しゅう
+L| ～集 （童 謡 集 ）
+L| rhyme compilation)
+R| かお ひろ
+R| to know a lot of people
+R| 顔 が広 い
+L| ゆる
+L| 許 す
+L| to forgive
+R| かお ひ で
+R| to blush profusely
+R| 顔 から火 が出 る
+L| or less, less than,
+L| い か
+L| 以 下
+R| だま
+R| to fall silent
+L| below, the following
+R| 黙 る
+L| しょう ひ
+L| to consume
+R| ひっ し
+R| to struggle
+L| 消 費 -する
+R| 必 死 （な）
+L| かい はつ
+L| 開 発 -する
+L| to develop
+R| あはは
+R| ha ha ha
+R| to win (a tournament,
+L| じつ わ
+L| true story
+L| 実 話
+R| ゆう しょう
+R| 優 勝 -する
+R| contest, etc.)
+L| 2
+R| と あ
+R| to jump up
+R| 飛 び上 がる
+L| コマーシャル
+L| commercial
+R| ほっぺた
+R| cheek (face)
+L| フリーダイヤル
+L| toll-free number
+R| to think something is
+L| made of (made of
+R| delicious (expression
+L| せい かわ せい
+R| お
+L| ～製 （革 製 ）
+R| ほっぺたが落 ちる
+L| leather)
+R| that literally means
+L| ま ちが
+R| “one’s cheeks drop”)
+L| かけ間 違 い
+L| wrong number
+R| いきなり
+R| suddenly
+L| いったい
+L| (what) on earth
+R| と だ
+R| to run out
+L| かぞ
+L| to count
+R| 飛 び出 す
+L| 数 える
+R| important, major,
+L| えん そく
+R| だい じ
+L| school trip
+L| 遠 足
+R| 大 事 （な）
+R| valuable
+L| さっ か
+L| writer
+L| 作 家
+R| たの
+R| 楽 しさ
+R| amusement, fun, joy
+L| 3
+R| むずか
+R| (degree of) difficulty
+R| 難 しさ
+L| まん が
+L| four-frame comic strip
+L| ４こま漫 画
+R| 5
+L| せりふ
+L| dialogue
+R| にち じょう
+R| 日 常
+R| everyday
+L| とう じょう じん ぶつ
+L| 登 場 人 物
+L| character
+R| みみ
+R| to (happen to) hear
+R| 耳 にする
+L| わくわく-する
+L| to be excited
+R| じょ し こう せい
+R| 女 子 高 生
+R| high school girl
+L| to be anxious, to be
+R| ぎ もん
+L| はらはら-する
+R| doubt
+R| 疑 問
+L| nervous
+R| だん じょ
+R| male & female
+L| to be dejected, to be
+R| 男 女
+L| しょんぼり-する
+L| dispirited
+R| to use different
+R| つか わ
+R| (language) depending
+L| はしご
+L| ladder
+R| 使 い分 ける
+R| on (the situation)
+L| よし
+L| OK, all right, sure
+L| 24
+==== PAGE 24 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| わか もの
+L| 若 者
+L| youth
+L| が まん
+L| to put up with
+L| 我 慢 -する
+L| 25
+==== PAGE 25 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か に ほん たび
+L| 第 10課 　日 本 を旅 する
+L| ［できること］
+L| 1 じ ぶん きょう み あ
+L| えら
+L| りょ こう
+R| よ
+L| 自 分 の興 味 に合 ったツアーを選 ぶために旅 行 についてのパンフレットを読
+R| むことができる。
+L| You can read a travel pamphlet in order to choose a tour
+R| that suits your interests.
+L| せつ めい き
+L| み
+L| ちゅう い り かい
+L| 2 ガイドの説 明 を聞 いて、見 どころや注 意 を理 解 することができる。
+L| You can listen to your guide’s explanation to learn about
+R| places of interest and things to be careful of.
+L| ば しょ じょう きょう おも だ
+L| でん わ わす もの と あ
+L| 3 場 所 や状 況 を思 い出 しながら電 話 で忘 れ物 の問 い合 わせをすることができる。
+L| You can inquire by phone about a lost item while recalling
+R| and describing the place and situation.
+L| しゃ ない ほう そう き じょう ほう え
+L| 4 車 内 放 送 を聞 いて情 報 を得 ることができる。
+L| You can listen to an in-car announcement on the train
+R| and get information.
+L| 5 こころ のこ りょ こう
+L| まわ ひと しょう かい
+L| 心 に残 った旅 行 について周 りの人 に紹 介 することができる。
+L| You can introduce a memorable travel experience to people
+R| around you.
+L| ［ことば］
+L| し たの
+R| じょう きゃく
+R| passenger
+L| 知 って楽 しむ
+R| 乗 客
+L| のんびり
+L| leisurely
+R| ハプニング
+R| something unexpected
+L| ~ line (coastline),
+R| to miss (a train/bus),
+L| せん かい がん せん
+R| の おく
+L| ～線 （海 岸 線 ）
+R| 乗 り遅 れる
+L| ~ railway line
+R| to be left behind
+L| けい こく
+L| valley
+R| おも
+R| unforeseen
+L| 渓 谷
+R| 思 いがけない
+L| れっ しゃ
+R| で き ごと
+L| Torokko tram
+R| incident
+L| トロッコ列 車
+R| 出 来 事
+L| SL（Steam Locomotive）steam locomotive
+R| む あ
+R| to sit across from
+R| 向 かい合 う
+L| せい ぞう
+R| む
+L| 製 造 -する
+L| to manufacture
+R| 向 かう
+R| to face, to go towards
+L| きゃく しゃ
+L| (train) passenger car
+R| きっ ぷ
+R| unlimited ride ticket
+L| 客 車
+R| フリー切 符
+L| てつ
+L| iron
+R| の ふ
+R| to hop on and hop off
+L| 鉄
+R| 乗 り降 り-する
+L| せん ぷう き
+R| はい ふ
+L| 扇 風 機
+L| electric fan
+R| 配 布 -する
+R| to distribute
+L| せき たん
+L| coal
+R| かん こう
+R| sightseeing map
+L| 石 炭
+R| 観 光 マップ
+L| も
+L| to burn
+R| か こ
+R| to write down
+L| 燃 やす
+R| 書 き込 む
+L| はい こ
+L| to come in
+R| ときには
+R| from time to time
+L| 入 り込 む
+L| to be swung, to be
+R| はな
+R| to leave
+L| ゆ
+R| 離 れる
+L| 揺 られる
+L| shaken, to be rocked
+R| 1
+L| produced in (produced
+L| さん しず おか けん さん
+L| ～産 （静 岡 県 産 ）
+R| World Natural Heritage
+L| in Shizuoka)
+R| せ かい し ぜん い さん
+R| 世 界 自 然 遺 産
+R| Site
+L| しゃ そう
+L| 車 窓
+L| train window
+R| departing (departing
+R| はつ はね だ はつ
+R| ～発 （羽 田 発 ）
+L| め む
+L| to look (towards)
+L| 目 を向 ける
+R| Haneda)
+L| とお す
+L| to roll by
+R| じ もと
+R| local
+L| 通 り過 ぎる
+R| 地 元
+L| しゃ しょう
+R| ゆた
+L| 車 掌
+L| conductor
+R| 豊 かさ
+R| richness
+L| と ち
+L| countryside
+R| み
+R| highlight
+L| 土 地
+R| 見 どころ
+R| すぎ
+L| ハーモニカ
+L| harmonica
+R| 杉
+R| Japanese cedar
+L| 26
+==== PAGE 26 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| トレッキング-する
+L| to go trekking
+R| トンネル
+R| tunnel
+L| しょ よう じ かん
+R| いっ き
+L| time required
+R| all at once
+L| 所 要 時 間
+R| 一 気 に
+L| ほ こう
+L| to walk
+R| なが お
+R| to flow down
+L| 歩 行 -する
+R| 流 れ落 ちる
+L| きょ り
+R| to flow, to wander, to
+L| 距 離
+L| distance
+R| なが
+R| 流 れる
+R| spread
+L| おう ふく
+L| to make a round trip
+L| 往 復 -する
+R| はく りょく まん てん
+R| full impact
+R| 迫 力 満 点
+L| じゅ れい
+L| age of a tree
+L| 樹 齢
+R| ごうごう
+R| roaring
+L| しん ぴ てき
+L| 神 秘 的 （な）
+L| mysterious
+R| 2
+L| すがた
+L| appearance
+L| 姿
+R| しゃち
+R| carp
+R| 鯱
+L| い あらわ
+L| 言 い表 す
+L| to describe
+R| せい き せい き
+R| century (17 th century)
+R| ～世 紀 （17世 紀 ）
+L| モデル
+L| model
+R| だい ひょう
+R| 代 表 -する
+R| to represent
+L| もり
+L| forest
+L| 森
+R| ほこ
+R| pride
+R| 誇 り
+L| うみ さち
+L| 海 の幸
+L| the bounty of the sea
+R| せん そう
+R| to go to war
+R| 戦 争 -する
+L| やま さち
+L| the bounty of the land
+L| 山 の幸
+R| てん しゅ かく
+R| castle tower
+R| 天 守 閣
+L| みん しゅく
+L| guest house
+L| 民 宿
+R| ふたた
+R| again
+R| 再 び
+L| あじ
+L| to savor
+L| 味 わう
+R| きん
+R| 金
+R| gold
+L| ちょう じょう
+L| summit
+L| 頂 上
+R| declining birth rate and
+R| しょう し こう れい か
+R| 少 子 高 齢 化
+L| あさ ひ
+L| 朝 日
+L| the sunrise
+R| ageing society
+L| to accumulate, to pile
+R| げん じょう
+R| the actual situation
+R| 現 状
+L| つ
+L| 積 もる
+L| up
+R| measure (for avoiding
+R| たい さく
+R| 対 策
+L| おやつ
+L| snack
+R| or solving a problem)
+R| のぼ
+L| snack (to eat with a
+R| northbound
+R| 上 り
+L| おつまみ
+L| beer or other drink)
+R| れっ しゃ
+R| train
+R| 列 車
+L| to be supplied with (to
+R| はっ しゃ
+L| とお でん き とお
+L| be supplied with
+R| 発 車 -する
+R| to depart (vehicle)
+L| 通 る（電 気 が通 る）
+L| electricity)
+R| 3
+L| ひ がえ
+L| to take a day trip
+L| 日 帰 り-する
+R| カーディガン
+R| cardigan
+L| たき
+L| 滝
+L| waterfall
+R| おく
+R| 奥
+R| inside
+L| しょく ざい
+L| ingredients
+L| 食 材
+R| もしかしたら
+R| maybe
+L| もん
+L| gate
+L| 門
+R| ございます
+R| (we) have (it)
+L| こく ほう
+L| 国 宝
+L| national treasure
+R| ちゃく ばら
+R| COD (cash on delivery)
+R| 着 払 い
+L| し てい
+L| to designate
+L| 指 定 -する
+R| たく はい びん
+R| courier service
+R| 宅 配 便
+L| ちょう こく
+L| to carve
+L| 彫 刻 -する
+R| グレー
+R| grey
+L| ほ
+L| to carve
+L| 彫 る
+R| むね
+R| chest
+R| 胸
+L| ごう か
+L| splendor
+L| 豪 華 さ
+R| マーク
+R| emblem
+L| めい しょ
+L| 名 所
+L| famous spot
+R| to set (an alarm), to
+R| セット-する
+R| configure
+L| まるで
+L| as though, just as if
+R| サーブ-する
+R| to serve (a ball, food)
+L| え ぐ
+L| paints
+L| 絵 の具
+R| いざ
+R| now, well (then)
+L| カラフル（な）
+L| colorful
+L| 27
+==== PAGE 27 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+R| the first time in (the
+L| まだまだ
+L| still ... yet
+R| ねん
+R| ～ぶりに（10年 ぶりに）
+R| first time in 10 years)
+L| せい きゅう
+L| to invoice
+L| 請 求 -する
+R| to reunite, to meet
+R| さい かい
+R| 再 会 -する
+L| せん めん だい
+L| (bathroom) sink
+R| again
+L| 洗 面 台
+R| さすが
+R| as one would expect
+L| 4
+R| かお
+R| aroma
+L| しゃ ない
+L| inside a train, etc.
+R| 香 り
+L| 車 内
+R| りょ こう き
+L| ざ せき
+L| seat
+R| 旅 行 記
+R| travel journal
+L| 座 席
+L| てつ どう
+L| 鉄 道
+L| railway
+L| くるま
+L| 1st class carriage
+L| グリーン車
+L| てい しゃ
+L| 停 車 -する
+L| to stop (train)
+L| はん ばい
+L| to sell
+L| 販 売 -する
+L| sweets (desserts,
+L| スイーツ
+L| candy)
+L| community, locale, this
+L| とう ち
+L| ご当 地
+L| place
+L| デッキ
+L| deck
+L| きん えん
+L| to stop smoking
+L| 禁 煙 -する
+L| つう わ
+L| to make a call
+L| 通 話 -する
+L| なお
+L| also, as well
+L| まん せき
+L| fully booked
+L| 満 席
+L| あらかじめ
+L| in advance
+L| りょう しょう
+L| to note, to understand
+L| 了 承 -する
+L| from the bottom of
+L| こころ
+L| 心 より
+L| one’s heart
+L| しゃ りょう
+L| 車 両
+L| carriage
+L| うち まわ
+L| inner circle
+L| 内 回 り
+L| み あ
+L| to postpone
+L| 見 合 わせる
+L| I am truly sorry (polite
+L| もう わけ
+L| 申 し訳 ございません
+L| apology)
+L| たず
+L| to ask
+L| 尋 ねる
+L| 5
+L| こう うん
+L| 幸 運 （な）
+L| lucky
+L| くも
+L| cloud
+L| 雲
+L| (theater) stage,
+L| ぶ たい
+L| 舞 台
+L| setting, scene
+L| さっ そく
+L| 早 速
+L| straight away
+L| ろ めん でん しゃ
+L| tram
+L| 路 面 電 車
+L| てん じょう
+L| ceiling
+L| 天 井
+L| まん ぞく
+L| 満 足 （な）
+L| satisfying
+L| 28
+==== PAGE 28 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か
+L| 第 11課 　ライフスタイル
+L| ［できること］
+L| 1
+L| ばん ぐみ ちょう さ けっ か かい せつ き
+L| に ほん
+R| だい がく せい へい きん てき せい かつ
+R| し
+L| テレビのニュース番 組 で調 査 結 果 の解 説 を聞 いて、日 本 の大
+R| 学 生 の平 均 的 な生 活 について知 ることができる。
+L| You can listen to a TV news commentary about survey
+R| results, and learn about the average life of a
+L| Japanese university student.
+L| 2 じょう ほう し よ
+L| い しょく じゅう
+L| さい きん わ だい
+R| し
+L| 情 報 誌 を読 んで、衣 食 住 について最 近 話 題 になっていることを知
+R| ることができる。
+L| You can read an informational periodical and learn about
+R| current bread-and-butter issues.
+L| した ひと やく そく じ じょう せつ めい
+L| 3
+L| 親 しい人 との約 束 を、事 情 を説 明 してキャンセルすることができる。
+L| You can cancel an appointment with someone close to
+R| you and explain the circumstances.
+L| けっ こん かん き じ よ
+L| じ ぶん かんが はな
+L| 4 結 婚 に関 する記 事 を読 んで、自 分 の考 えを話 すことができる。
+L| You can read an article about marriage and talk about
+R| your own thoughts on the subject.
+L| ［ことば］
+R| to add, to increase, to
+L| し たの
+L| 知 って楽 しむ
+R| くわ
+R| 加 える
+R| let join
+L| いく きゅう いく じ きゅう ぎょう りゃく
+L| childcare leave
+L| 育 休 （育 児 休 業 の略 ）
+R| おむつ
+R| diaper
+L| いく じ
+L| 育 児 -する
+L| to raise a child
+R| じゅ にゅう
+R| 授 乳 -する
+R| to breast feed
+L| きゅう ぎょう
+L| to stop work
+L| 休 業 -する
+R| to hold (someone)
+R| いだ
+R| 抱 く
+L| ~ Law/Act (Childcare
+R| [here: to cradle]
+L| ほう いく じ きゅう ぎょう ほう
+L| ～法 （育 児 休 業 法 ）
+L| Leave Law)
+R| な や
+R| to stop crying
+R| 泣 き止 む
+L| to amend, to reform, to
+L| かい せい
+L| 改 正 -する
+R| to chase, to follow
+L| revise
+R| お じ かん お
+R| [here: to be pressed
+R| 追 う（時 間 に追 われる）
+L| to do at the same time,
+L| りょう りつ
+R| for time]
+L| 両 立 -する
+L| to go together
+R| to not get one’s way,
+L| to deal with, to engage
+L| と く
+R| おも
+R| to not go the way one
+L| 取 り組 む
+R| 思 うようにならない
+L| in, to work on
+R| wants
+L| しゅ とく
+L| to take, to redeem
+L| 取 得 -する
+R| い あらそ
+R| to argue, to dispute
+R| 言 い争 い
+L| eldest son, first-born
+L| ちょう なん
+R| ひ び
+L| 長 男
+R| 日 々
+R| every day
+L| son
+L| にん しん
+R| いや
+R| to calm
+L| to become pregnant
+R| 癒 す
+L| 妊 娠 -する
+R| ふう ふ
+L| to keep an eye on, to
+R| 夫 婦
+R| married couple
+L| み まも
+L| 見 守 る
+L| look after
+R| benefit, consequence,
+R| ため
+L| こころよ
+L| pleasant
+R| purpose, sake
+L| 快 い
+L| り かい
+R| せい ど
+R| System
+L| to understand
+R| 制 度
+L| 理 解 -する
+R| to be aware of,
+L| え
+L| to obtain
+L| 得 る
+R| じ かく
+R| 自 覚 -する
+R| to realize
+L| かん きょう
+L| 環 境
+L| environment
+R| ふっ き
+R| 復 帰 -する
+R| to return (to work)
+L| to have dual income (to
+R| あわ
+R| busy, hurried, sudden
+L| とも ばたら
+R| 慌 ただしい
+L| 共 働 き-する
+L| have both spouses
+L| working)
+R| じゅう じつ
+R| to be rich in
+R| 充 実 -する
+L| to divide (work), to
+L| ぶん たん
+R| はな
+L| 分 担 -する
+R| 話 してみよう
+L| share (responsibilities)
+R| ライフスタイル
+R| lifestyle
+L| そう ぞう
+L| 想 像 -する
+L| to imagine
+L| 29
+==== PAGE 29 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+R| は
+R| や
+L| ヘルシー（な）
+L| healthy
+R| 恥 ずかしがり屋
+R| shy person
+L| to have an unlimited
+R| おとなしい
+R| obediently
+L| め
+L| 目 がない
+L| appetite for
+R| げん しょう
+R| to reduce
+R| 減 少 -する
+L| 1
+R| き そく ただ
+R| 規 則 正 しい
+R| well regulated
+L| と あ
+L| to bring up
+L| 取 り上 げる
+R| じっ こう
+R| to put into practice
+R| 実 行 -する
+L| たい しょう
+L| target
+L| 対 象
+R| worth ~ing (worth
+R| ～がい（やりがい）
+L| しゅ と けん
+L| metropolitan area
+L| 首 都 圏
+R| doing)
+L| し りつ だい がく
+R| て づく
+L| 私 立 大 学
+L| private university
+R| 手 作 り
+R| home-made
+L| しん にゅう せい
+L| freshman
+R| かなわない
+R| nothing better than
+L| 新 入 生
+L| か てい
+L| household
+R| それほど
+R| not that
+L| 家 庭
+L| ちょう さ
+R| げん じつ
+L| 調 査 -する
+L| to survey
+R| 現 実
+R| reality
+L| number of cases
+R| こ がた
+R| small
+L| けん すう
+R| 小 型
+L| 件 数
+L| (incidents, items, etc.)
+R| すう
+R| no. of samples
+R| サンプル数
+L| counter for cases
+L| けん
+L| けん
+L| ～件 （3905件 ）
+R| あ
+R| しゅう かん あ
+L| (3905 cases of ~)
+R| per (per week)
+R| ～当 たり（１週 間 当 たり）
+L| か けい
+L| 家 計
+L| household finances
+R| じっ し
+R| to carry out
+R| 実 施 -する
+L| ふ たん
+L| to burden
+R| べつ がく ねん べつ
+L| 負 担 -する
+R| ～別 （学 年 別 ）
+R| by (by school year)
+L| このたび
+L| on this occasion
+R| ~th-year student
+R| ねん せい ねん せい
+R| ～年 生 （１年 生 ）
+R| (1st-year student)
+L| おや もと
+L| 親 元
+L| one’s parents’ house
+R| にっ すう
+R| number of days
+R| 日 数
+L| や ちん
+L| rent
+L| 家 賃
+R| 2
+L| いち がつ
+L| one month
+L| 一 月
+R| シェアハウス
+R| shared house
+L| か こ
+L| past
+L| 過 去
+R| じゅう きょ
+R| house
+R| 住 居
+L| hard (it is hard to make
+L| きび
+L| せい かつ きび
+L| 厳 しい（生 活 が厳 しい）
+L| ends meet)
+R| スタイル
+R| style
+L| がく ひ
+L| school fees
+L| 学 費
+R| リビング
+R| living room
+L| はら つづ
+L| 払 い続 ける
+L| to continue paying
+R| いっ ぱん てき
+R| typical
+R| 一 般 的 （な）
+L| つか みち
+L| way of using
+L| 使 い道
+R| たとえ
+R| even if
+L| たい へん
+L| まあ（まあ大 変 といって well (well, I say it’s
+R| しき きん
+R| security deposit
+R| 敷 金
+L| hard)
+L| も）
+R| れい きん
+R| 礼 金
+R| finder’s fee
+L| たす あ
+L| to help each other out
+L| 助 け合 う
+R| to have all the
+R| そろう
+L| くる
+L| difficult
+R| necessary (things)
+L| 苦 しい
+R| class, group, layer (age
+R| そう ねん だい そう
+L| たくましい
+L| resolute, robust
+R| ～層 （年 代 層 ）
+R| bracket)
+L| こん ご
+L| in the future
+L| 今 後
+R| connection, link,
+R| つながり
+R| relation
+L| か ふん
+L| pollen
+L| 花 粉
+R| どく しん
+R| 独 身
+R| single
+L| ~ organization (an
+L| き かん こく さい き かん
+L| international
+L| ～機 関 （国 際 機 関 ）
+R| しょく ば
+R| place of work
+R| 職 場
+L| organization)
+R| なに
+R| more than anything
+R| 何 より
+L| the most, the ~est
+L| もっと
+L| 最 も
+R| にゅう きょ
+L| (superlative)
+R| 入 居 -する
+R| to move in
+L| かっ ぱつ
+L| active, lively, vigorous
+L| 活 発 （な）
+R| てき ど
+R| moderate
+R| 適 度 （な）
+L| 30
+==== PAGE 30 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| かん ぜん
+R| てき とう
+L| 完 全 （な）
+L| completely
+R| 適 当 （な）
+R| appropriate, suitable
+L| どく りつ
+R| めぐ あ
+L| to be independent
+R| to encounter
+L| 独 立 -する
+R| 巡 り会 う
+L| けい たい
+L| configuration
+R| to go around, to visit (a
+L| 形 態
+R| めぐ
+R| 巡 る
+R| number of sights)
+L| to make an effort, to
+L| き つか
+L| 気 を遣 う
+R| うしな
+R| to lose
+L| be nice
+R| 失 う
+L| もう しょ
+R| き らく
+L| heat wave
+R| comfort, ease
+L| 猛 暑
+R| 気 楽 さ
+L| Uターン-する
+L| to make a U-turn
+R| ご らく
+R| amusement
+R| 娯 楽
+L| そだ
+R| がく ぎょう
+L| 育 つ
+L| to be brought up
+R| 学 業
+R| studies
+L| どんなに
+L| however (much)
+R| う こ
+R| to dedicate (oneself)
+R| 打 ち込 む
+L| how much, however (no
+R| み こん
+R| unmarried
+L| いそが
+R| 未 婚
+L| いくら（いくら忙 しくて
+L| matter how busy one
+R| しゃ かい ほ しょう
+L| も）
+R| 社 会 保 障
+R| social security
+L| is)
+L| かい ご
+R| しゅっ せい
+R| birth
+L| to nurse
+R| 出 生
+L| 介 護 -する
+R| どう こう
+R| trend, tendency
+L| こ そだ
+L| to bring up children
+R| 動 向
+L| 子 育 て-する
+R| basic(s),
+L| せい ひつ よう せい
+L| ～性 （必 要 性 ）
+L| suffix (necessity)
+R| き ほん
+R| 基 本
+R| fundamental(s)
+L| コミュニティー
+L| community
+R| こ じん
+R| Individual
+R| 個 人
+L| ざん ぎょう
+L| to do overtime
+L| 残 業 -する
+R| あ まえ
+R| natural
+R| 当 たり前
+L| food, clothing and
+L| い しょく じゅう
+R| は で
+L| 衣 食 住
+R| flashy, gaudy, showy
+L| shelter
+R| 派 手 （な）
+L| 3
+L| じょう し
+L| boss, superior
+L| 上 司
+L| でん わ
+L| かかる（電 話 がかかる） to get (a phone call)
+L| とつ ぜん
+L| suddenly
+L| 突 然
+L| it can’t be helped,
+L| しょうがない
+L| there’s no other way
+L| (informal)
+L| economically
+L| ふ けい き
+L| 不 景 気 （な）
+L| depressed
+L| 4
+L| しょ こん
+L| first marriage
+L| 初 婚
+L| こん かい
+L| this time
+L| 今 回
+L| しょう がい
+L| lifetime
+L| 生 涯
+L| せん たく
+L| 選 択 -する
+L| to choose
+L| か
+L| possible
+L| 可
+L| しゅう い
+L| people around you
+L| 周 囲
+L| どう い
+L| 同 意 -する
+L| to agree
+L| た
+L| to have an outlook
+L| めどが立 つ
+L| し きん
+L| 資 金
+L| fund
+L| い せい
+L| the opposite sex
+L| 異 性
+L| つ あ
+L| to interact
+L| 付 き合 う
+L| 31
+==== PAGE 31 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か こころ からだ けん こう
+L| 第 12課 　心 と体 の健 康
+L| ［できること］
+L| 1 き も お こ
+L| み ぢか ひと じょう きょう はな
+L| 気 持 ちが落 ち込 んだとき、身 近 な人 に状 況 を話 してアドバイスをもらうことができる。
+L| You can explain your situation to someone close to you
+R| when you feel depressed, and ask for their advice.
+L| じょう ほう ばん ぐみ み うん どう しゅう かん たい りょく
+L| かん けい
+R| し
+L| 2 情 報 番 組 を見 て、運 動 習 慣 と体 力 にどのような関 係 があるかについて知
+R| ることができる。
+L| You can watch an informational program and learn about
+R| the relationship between exercise habits and
+L| stamina.
+L| き じ よ
+L| すい みん かん じょう ほう え
+L| 3
+L| 記 事 を読 んで、睡 眠 に関 する情 報 を得 ることができる。
+L| You can read an article and get information about sleeping
+R| habits.
+L| しん ぶん とう しょ らん よ
+L| けん こう
+L| じ ぶん い けん い
+L| 4 新 聞 の投 書 欄 を読 んで、健 康 について自 分 の意 見 を言 うことができる。
+L| You can read the readers’ column of a newspaper and
+R| express your own opinions about health.
+L| ［ことば］
+R| しょく いく
+L| し たの
+R| nutrition education
+L| 知 って楽 しむ
+R| 食 育
+L| たい ない ど けい
+L| internal clock
+R| はな
+L| 体 内 時 計
+R| 話 してみよう
+L| き のう
+R| あ
+L| 機 能
+L| function
+R| 当 てはまる
+R| to apply
+L| かい てん
+L| rotation
+R| す きら
+R| likes and dislikes
+L| 回 転 -する
+R| 好 き嫌 い
+L| ずれる
+L| to be out of alignment
+R| ふ き そく
+R| irregular
+R| 不 規 則 （な）
+L| じっ せん
+R| いき
+L| to implement
+R| breath
+L| 実 践 -する
+R| 息
+R| to be out of (to be out
+L| リセット-する
+L| to reset
+R| き
+R| いき き
+R| 切 れる（息 が切 れる）
+R| of breath)
+L| じょ じょ
+L| 徐 々 に
+L| gradually
+R| to be annoyed, to be on
+R| いらいら-する
+L| じ さ
+L| jet lag
+R| edge
+L| 時 差 ぼけ
+R| はだ
+L| but then again, having
+R| 肌
+R| skin
+L| そうはいっても
+L| said that
+R| heading, item (on an
+R| こう もく
+R| 項 目
+L| め ざ
+L| 目 覚 める
+L| to wake up, to realize
+R| agenda)
+R| needs ~ (needs special
+L| にゅう せい ひん
+L| dairy products
+R| よう よう ちゅう い
+L| 乳 製 品
+R| 要 ～（要 注 意 ）
+R| attention)
+L| と わ
+L| to divide
+L| 取 り分 ける
+R| 1
+L| よ ぶん
+L| 余 分 （な）
+L| excess
+R| はっ さん
+R| 発 散 -する
+R| to relieve
+L| エネルギー
+L| energy
+R| to work up (to work up
+R| しょく よく
+R| わく（食 欲 がわく）
+L| し ぼう
+L| fat
+R| and appetite)
+L| 脂 肪
+R| らく
+R| better
+L| よく あさ
+R| 楽 （な）
+L| the next morning
+L| 翌 朝
+R| こう か
+R| 効 果
+R| effect
+L| しん しん
+L| body and mind
+L| 心 身
+R| あらわ
+R| to show
+L| はや
+R| 現 れる
+L| 早 めに
+L| early
+R| けん こう しん だん
+R| 健 康 診 断
+R| health check
+L| と ちょう しょく と
+L| to have (breakfast)
+L| 取 る（朝 食 を取 る）
+R| たい じゅう
+R| body weight
+L| こころ
+L| to endeavor
+R| 体 重
+L| 心 がける
+R| しょう じょう
+R| symptoms
+L| ~ Ministry (Ministry of
+R| 症 状
+L| しょう のう りん すい さん しょう
+L| Agriculture, Forestry
+L| ～省 （農 林 水 産 省 ）
+R| の
+R| 伸 びる
+R| to increase
+L| and Fisheries)
+L| 32
+==== PAGE 32 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| (inter)personal
+R| かく せい
+R| 覚 醒 -する
+R| to wake up
+L| にん げん かん けい
+L| 人 間 関 係
+L| relationships
+R| すい みん
+R| REM sleep
+R| レム睡 眠
+L| 2
+R| すい みん
+R| non-REM sleep
+R| ノンレム睡 眠
+L| stamina, physical
+L| たい りょく
+L| 体 力
+R| たい おん
+L| strength
+R| 体 温
+R| body temperature
+L| ほぼ
+L| almost
+R| ポイント
+R| important point
+L| のう りょく
+L| 能 力
+L| ability
+R| ばい すう
+R| multiple
+R| 倍 数
+L| ほう こく
+L| to report
+L| 報 告 -する
+R| というのは
+R| this means
+L| と い
+L| to incorporate
+L| 取 り入 れる
+R| のう
+R| brain
+R| 脳
+L| い じ
+L| to maintain
+R| こう ご
+L| 維 持 -する
+R| 交 互 に
+R| alternately
+L| こう はん
+L| late (latter half)
+R| こう たい
+L| 後 半
+R| to alternate
+R| 交 代 -する
+L| ぜん はん
+L| 前 半
+L| early (first half)
+R| さ
+R| to wake up
+R| 覚 ます
+L| レベル
+L| level
+R| ねむ
+R| つく（眠 りにつく）
+R| to fall (asleep)
+L| ところで
+L| incidentally
+R| to raise (to raise one’s
+R| あ
+R| こえ あ
+R| 上 がる（声 が上 がる）
+R| voice)
+L| はげ
+L| 激 しい
+L| vigorous
+R| あい じょう
+R| feelings of love
+R| 愛 情
+L| ストレッチ-する
+L| to stretch
+R| 4
+L| ぬ しょく じ ぬ
+L| to skip (meals)
+L| 抜 く（食 事 を抜 く）
+R| to write a letter (to a
+R| とう しょ
+L| ま ふゆ
+R| 投 書 -する
+L| middle of winter
+L| 真 冬
+R| newspaper, etc.)
+L| トレーナー
+L| trainer
+R| ~ column (readers’
+R| らん とう しょ らん
+R| ～欄 （投 書 欄 ）
+R| column)
+L| もく てき
+L| 目 的
+L| goal
+R| し こう ひん
+R| indulgence, luxury item
+R| 嗜 好 品
+L| てい あん
+L| to propose
+L| 提 案 -する
+R| ブーム
+R| craze
+L| とう てん
+L| this shop (restaurant)
+L| 当 店
+R| かえって
+R| end up
+L| レシピ
+L| recipe
+R| さん せい
+R| 賛 成 -する
+R| to agree
+L| と
+L| と
+L| 取 れる（バランスが取 れ
+L| to provide a balance
+R| せい しん てき
+R| mentally
+R| 精 神 的 （な）
+L| る）
+R| リラックス-する
+R| to relax
+L| frequency (of an
+L| ひん ど
+L| 頻 度
+L| occurrence)
+R| た にん
+R| 他 人
+R| other people
+L| ごう けい
+L| 合 計 -する
+L| to add up, to total
+R| じ き
+R| a time, a period
+R| 時 期
+L| 3
+R| あい
+R| to love
+R| 愛 する
+L| まん ぞく
+L| to be satisfied
+L| 満 足 -する
+R| はん たい
+R| to oppose
+R| 反 対 -する
+L| ふ まん
+L| dissatisfaction
+L| 不 満 （な）
+R| い し
+R| doctor
+R| 医 師
+L| め ざ
+L| wake-up, awakening
+L| 目 覚 め
+R| こっ か し けん
+R| 国 家 試 験
+R| national exam
+L| to have (a problem/
+L| かか
+R| かいがある
+R| to be worth doing
+L| 抱 える
+L| worry)
+R| かなら
+R| not necessarily
+R| 必 ずしも
+L| プレッシャー
+L| pressure
+L| ね つ
+L| falling asleep
+L| 寝 付 き
+L| しゅ ふ
+L| 主 婦
+L| housewife
+L| ね ぶ そく
+L| lack of sleep
+L| 寝 不 足
+L| にゅう みん
+L| to fall asleep
+L| 入 眠 -する
+L| 33
+==== PAGE 33 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か
+L| の
+L| 第 13課 　トレンドに乗 ってつながる
+L| ［できること］
+L| 1 じ ぶん おな
+L| きょう み も
+L| ひと たい けん だん よ
+R| じょう ほう え
+L| 自 分 と同 じことに興 味 を持 っている人 の体 験 談 を読 んで情
+R| 報 を得 ることができる。
+L| You can read stories about people who have the same
+R| interests as you, and get information from them.
+L| す さく ひん えい が
+L| おお
+R| み
+R| しょう かい
+L| 2 好 きな作 品 （映 画 ・ドラマ・アニメ…）の大 まかなストーリーと見
+R| どころを紹 介 することができる。
+L| You can introduce a work (film, drama, anime, etc.) that
+R| you like, as well as its general storyline and
+L| highlights.
+L| いま わ だい
+L| もの しゃ かい
+L| ひろ
+R| し
+L| 3
+L| 今 、話 題 のこと、物 が社 会 でどのように広 がっているかを知
+R| ることができる。
+L| You can learn about how topics spread in today’s society.
+L| たい せつ
+L| もの
+L| しゅう り い らい
+L| 4 大 切 にしている物 について、修 理 を依 頼 することができる。
+L| You can request the repair of an item which is important
+R| to you.
+L| かい さい ち
+L| き
+L| じょう ほう え
+L| 5 イベントの開 催 地 からのリポートを聞 いて、情 報 を得 ることができる。
+L| You can listen to a report from the venue of an event,
+R| and get information from it.
+L| ［ことば］
+L| し たの
+R| よ ぼう
+L| 知 って楽 しむ
+R| 予 防 -する
+R| to prevent
+L| しょく たく
+L| dining table
+R| こう けん
+R| to contribute
+L| 食 卓
+R| 貢 献 -する
+L| りゃく しょう
+L| abbreviation
+R| いっ ぱん
+R| ordinary
+L| 略 称
+R| 一 般
+L| せん しん こく
+R| とく てい
+L| 先 進 国
+L| developed countries
+R| 特 定 -する
+R| to identify, to specify
+L| せい かつ しゅう かん びょう
+L| lifestyle disease
+R| ハッシュタグ
+R| hashtag
+L| 生 活 習 慣 病
+L| はっ てん と じょう こく
+R| き かく
+L| 発 展 途 上 国
+L| developing countries
+R| 企 画 -する
+R| to plan
+L| う
+R| ば めん
+L| hunger
+R| situation
+L| 飢 え
+R| 場 面
+L| しょく どう
+L| cafeteria
+R| かた
+R| to talk
+L| 食 堂
+R| 語 る
+L| けん こう てき
+R| みな
+L| 健 康 的 （な）
+L| healthy
+R| 皆
+R| everyone
+L| てい きょう
+L| to provide
+R| しょく りょう
+R| food (staple food)
+L| 提 供 -する
+R| 食 糧
+L| アジア
+L| Asia
+R| じ ぎょう
+R| project
+R| 事 業
+L| しょく しょく
+R| せん ねん
+L| ～食 （１食 ）
+L| meal (one meal)
+R| 専 念 -する
+R| to devote oneself to
+L| to be equivalent to
+R| き ぎょう
+R| to start a business
+R| 起 業 -する
+L| あ
+L| しょく ぶん あ
+L| 当 たる（１食 分 に当 たる） (here: equal to 1
+R| せい か
+R| 成 果
+R| result, accomplishment
+L| serving of)
+L| うわ の
+R| ユニーク（な）
+R| unique
+L| 上 乗 せ-する
+L| to add on
+L| lunch (provided at
+R| each country/many
+R| かっ こく
+R| 各 国
+L| きゅう しょく
+R| countries
+L| 給 食
+L| school/company/
+L| hospital, etc.)
+R| かん しん
+R| 関 心
+R| interest
+L| し く
+L| system
+L| 仕 組 み
+R| よ
+R| to make (to send in)
+R| 寄 せる
+L| くう かん
+L| space
+L| 空 間
+R| み らい
+R| future
+R| 未 来
+L| わ あ
+L| to share
+L| 分 け合 う
+R| ひろ
+R| 広 がり
+R| extent, spread (of)
+L| ひ まん
+L| 肥 満
+L| obesity
+R| はん のう
+R| to react
+R| 反 応 -する
+L| 34
+==== PAGE 34 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| はな
+R| い いん
+L| 話 してみよう
+R| 委 員
+R| committee member
+R| てん かい
+L| トレンド
+L| trend
+R| to develop
+R| 展 開 -する
+L| コスプレ
+L| cosplay (costume play)
+R| れん ぞく
+R| to continue
+R| 連 続 -する
+R| to be excited, to race
+L| 1
+R| どきどき-する
+R| (pulse)
+L| たん き
+L| short-term
+L| 短 期
+R| うった
+R| to appeal/plead for
+R| 訴 える
+L| しゅ じん こう
+L| main character
+L| 主 人 公
+R| しょう じょ
+R| young girls
+R| 少 女
+L| ファン
+L| fan
+R| おお
+R| 大 まか（な）
+R| broad, general, rough
+L| after all is said and
+L| なん
+L| 何 といっても
+R| 3
+L| done
+L| ゆう き
+L| courage
+R| GPS (Global Positioning
+L| 勇 気
+R| GPS
+R| System)
+L| to appear serially (in a
+L| れん さい
+L| 連 載 -する
+L| publication)
+R| エンターテインメント
+R| entertainment
+L| ~ in total (total 72
+R| しょう てん
+R| shop
+L| ぜん ぜん かん
+R| 商 店
+L| 全 ～（全 72巻 ）
+L| volumes)
+R| to attract (to attract
+R| よ わ だい よ
+L| counter for (book)
+R| 呼 ぶ（話 題 を呼 ぶ）
+R| attention)
+L| かん ぜん かん
+L| ～巻 （全 72巻 ）
+L| volumes (total 72
+R| よ こ
+R| 呼 び込 む
+R| to attract
+L| volumes)
+L| to be careless, to do
+R| さん さく
+R| to walk, to stroll
+R| 散 策 -する
+L| うっかり-する
+L| something
+R| かた さん さく がた
+R| -type (walking-type)
+R| ～型 （散 策 型 ）
+L| inadvertently
+R| きょう どう
+R| 共 同 -する
+R| to share
+L| こぼす
+L| to spill
+R| クイズ
+R| quiz
+L| あやま
+L| to apologize
+L| 謝 る
+R| しょ てん
+R| bookshop
+L| to look up
+R| 書 店
+L| ひ じ しょ ひ
+L| 引 く（辞 書 を引 く）
+L| (in a dictionary)
+R| QRコード
+R| QR-code
+L| とう こう
+L| to post
+L| 投 稿 -する
+R| スタート-する
+R| to start
+L| 2
+R| ～キット（スタートキッ
+R| ~ kit (starter kit)
+L| まど
+R| ト）
+L| by the window
+L| 窓 ぎわ
+R| こう にゅう
+L| はい ゆう
+L| actor, actress
+R| 購 入 -する
+R| to purchase
+L| 俳 優
+R| よ こ
+R| to read
+L| タレント
+L| star, entertainer
+R| 読 み込 む
+L| to draw, to paint, to
+R| かっ き
+R| energy, liveliness
+R| 活 気
+L| えが
+L| 描 く
+L| depict
+R| life, live (broadcast),
+R| せい
+R| 生
+L| エッセイ
+L| essay
+R| natural, raw
+L| たい がく
+R| ペース
+R| pace
+L| 退 学 -する
+L| to drop out of school
+L| inconvenience, lack,
+R| to get money, to make
+R| とく
+L| ふ じ ゆう
+L| 不 自 由 （な）
+R| 得 -する
+L| impairment
+R| a profit
+L| somehow, manage to
+R| つなぐ
+R| to link
+L| なん
+L| 何 とか
+L| do, something or other
+R| こころ
+R| attempt
+R| 試 み
+L| シーン
+L| scene
+R| かぶ しき がい しゃ
+R| limited company
+R| 株 式 会 社
+L| へい わ
+L| 平 和 （な）
+L| peace
+R| ゆう じょう
+R| friendship
+R| 友 情
+L| いん しょう てき
+L| impressive, memorable
+L| 印 象 的 （な）
+R| ほう ふ
+R| plenty
+R| 豊 富 （な）
+L| to create (a film), to
+L| せい さく
+L| 制 作 -する
+R| side (on the culture
+L| produce (a work)
+R| めん ぶん か めん
+R| ～面 （文 化 面 ）
+R| side)
+L| 35
+==== PAGE 35 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| to open (a conference,
+L| かい かい
+L| 開 会 -する
+L| contest, etc.)
+L| ~ ceremony (opening
+L| しき かい かい しき
+L| ～式 （開 会 式 ）
+L| ceremony)
+L| ファンファーレ
+L| fanfare
+L| かん せい
+L| cheer
+L| 歓 声
+L| 4
+L| かなり
+L| fairly
+L| ひ う
+L| to accept
+L| 引 き受 ける
+L| だいぶ
+L| considerably
+L| つ
+L| to be full of
+L| 詰 まる
+L| どうしても
+L| no matter what
+L| あこが
+L| to aspire to
+L| 憧 れる
+L| ちょう り
+L| to cook
+L| 調 理 -する
+L| practitioner of (cook/
+L| し ちょう り し
+L| ～師 （調 理 師 ）
+L| chef)
+L| しん よう
+L| to believe
+L| 信 用 -する
+L| to actualize, to
+L| じつ げん
+L| implement, to realize
+L| 実 現 -する
+L| (one’s dream)
+L| 5
+L| げん ち
+L| on-site
+L| 現 地
+L| リポート-する
+L| to report
+L| きゅう さい だい きゅう
+L| ~ level (highest level)
+L| ～級 （最 大 級 ）
+L| た すう
+L| many
+L| 多 数
+L| to appear (in) (a TV
+L| しゅつ えん
+L| 出 演 -する
+L| program, film, etc.)
+L| ゲスト
+L| guest
+L| オープニングイベント
+L| opening event
+L| heat, enthusiasm,
+L| ねっ き
+L| 熱 気
+L| fervor
+L| to wrap, to envelop
+L| つつ ねっ き つつ
+L| (here: filled with
+L| 包 む（熱 気 に包 まれる）
+L| excitement)
+L| いよいよ
+L| at any moment
+L| も あ
+L| 盛 り上 がる
+L| to pick up steam
+L| ～ or more, more than
+L| い じょう
+L| 以 上
+L| ～, (the) above, that’s
+L| all
+L| こう かい
+L| 公 開 -する
+L| to release
+L| し しゃ かい
+L| preview
+L| 試 写 会
+L| 36
+==== PAGE 36 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か
+L| 第 14課 　カルチャーショック
+L| ［できること］
+L| 1 とう しょ よ
+L| じ ぶん こと しゅう かん
+L| り かい
+L| 投 書 を読 んで、自 分 と異 なる習 慣 などについて理 解 することができる。
+L| You can read a letter to the editor, and learn about customs
+R| that are different from your own.
+L| きゃく
+L| む り ちゅう もん たい
+L| じ じょう せつ めい
+R| てい ねい たい おう
+L| 2 客 からの無 理 な注 文 に対 して、それができない事 情 を説 明
+R| し、丁 寧 に対 応 することができる。
+L| You can politely deal with a customer who has given an
+R| impossible order, explaining why you cannot do as
+L| they asked.
+L| い ぶん か てき おう
+L| かい せつ き
+L| み
+L| こころ
+R| へん か
+R| り かい
+L| 3
+L| 異 文 化 適 応 についての解 説 を聞 き、グラフを見 ながら心 の変
+R| 化 について理 解 することができる。
+L| You can listen to a commentary on intercultural adaptation,
+R| and refer to graphs to understand changing
+L| attitudes.
+L| しゅっ しん ち す
+L| ば しょ に ほん ちが
+R| よう す じょう きょう すこ くわ びょう しゃ
+L| 4
+L| 出 身 地 や住 んだことがある場 所 と日 本 との違 いについて様
+R| 子 や状 況 を少 し詳 しく描 写 することができる。
+L| You can describe in some detail the differences between
+R| Japan and your homeland or places you’ve lived.
+L| ［ことば］
+L| し たの
+R| to float up, to emerge,
+L| 知 って楽 しむ
+R| う あ
+R| 浮 かび上 がる
+R| to stand out
+L| じ かん
+L| かける（時 間 をかける） to spend (time doing)
+R| optical illusion
+L| to create, to put
+R| え
+R| (specifically a trompe
+L| つく あ
+R| だまし絵
+L| 作 り上 げる
+L| together, to fabricate
+R| l’oeil)
+L| matters, things (one’s
+R| pluricultural,
+L| かんが かた
+L| もの（ものの考 え方 ）
+L| perspective)
+R| ふく ぶん か
+R| identifying with
+R| 複 文 化
+L| way of looking at
+R| multiple cultures
+L| み かた
+L| 見 方
+L| things
+R| group, mass, team
+R| しゅう だん
+L| し てん
+R| (refers to a collective
+L| 視 点
+L| point of view
+R| 集 団
+R| of people)
+L| はい けい
+L| background, context
+L| 背 景
+R| axis, axle, center, focal
+R| じく
+R| 軸
+L| じ ぶん か
+L| one’s own culture
+R| point
+L| 自 文 化
+R| accordingly, for that
+L| みみ かたむ
+L| 耳 を傾 ける
+L| to listen to, to heed
+R| よって
+R| reason, thus
+L| じ ぶん じ しん
+L| one’s own
+L| 自 分 自 身
+R| multiculturalism,
+R| た ぶん か きょう せい
+L| to reconsider,
+R| 文 化 共 生
+R| coexistence of multiple
+L| み なお
+R| 多
+L| 見 つめ直 す
+L| to reexamine
+R| cultures
+L| to stare at, to look
+R| きょう ぞん
+R| 共 存 -する
+R| to coexist
+L| み
+L| 見 つめる
+L| hard at
+R| ぶん か てき
+R| cultural
+R| 文 化 的 （な）
+L| つぼ
+L| pot
+R| to be blended, to be
+R| ま あ
+L| じっと
+L| intently, motionlessly
+R| 混 じり合 う
+R| mixed together
+L| ぶ ぶん
+R| to be blended with, to
+L| 部 分
+L| part, portion, section
+R| ま
+R| 混 じる
+R| be combined, to join
+L| しょう てん
+L| focus
+L| 焦 点
+R| そん ざい
+R| to exist
+R| 存 在 -する
+L| to hit, to strike [here:
+L| あ
+L| しょう てん あ
+L| 当 てる（焦 点 を当 てる）
+R| separate, in pieces,
+L| to focus]
+R| ばらばら（な）
+R| disconnected
+L| to face each other, to
+L| む あ
+L| 向 き合 う
+R| これまで
+R| up until now
+L| confront (an issue)
+L| to turn toward, to face
+R| はっ そう
+R| to conceive of
+L| む よこ む
+R| 発 想 -する
+L| 向 く（横 を向 く）
+L| [here: to look away]
+L| 37
+==== PAGE 37 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| to be confused, to be
+R| しょく
+R| 食 パン
+R| sandwich loaf
+L| と まど
+L| 戸 惑 う
+L| perplexed
+R| み あ
+R| cannot find
+R| 見 当 たらない
+L| deep, intense,
+L| ふか
+L| 深 い
+L| profound
+R| counter for slices
+R| ぎ
+R| まい ぎ
+R| ～切 り（12枚 切 り）
+R| [here: cut into 12]
+L| はな
+L| 話 してみよう
+R| や
+R| freshly-baked
+R| 焼 きたて
+L| カルチャーショック
+L| culture shock
+R| アレルギー
+R| allergy
+L| ぶん べつ
+L| 分 別 -する
+L| to separate (rubbish)
+R| to deal with,
+L| プラスチック
+L| plastic
+R| たい おう
+R| 対 応 -する
+R| to correspond to,
+R| to handle
+L| ふく そう
+L| clothes
+L| 服 装
+R| だい あん
+R| 代 案
+R| alternative plan
+L| exclusive use, for ~
+L| せん よう
+L| 専 用
+L| only
+R| てい しょく
+R| set meal
+R| 定 食
+L| 1
+R| に ざかな
+R| stewed fish
+R| 煮 魚
+L| かご
+L| basket
+R| や ざかな
+R| grilled fish
+R| 焼 き魚
+L| to be hit [here: the
+L| あ
+L| たな あ
+R| 3
+L| 当 たる（かごが棚 に当 た
+L| basket bumped the
+L| る）
+R| い ぶん か
+L| shelf]
+R| 異 文 化
+R| other cultures
+L| ばさっと
+L| with a thump
+R| てき おう
+R| to adjust
+R| 適 応 -する
+L| さっと
+L| quickly
+R| きょく せん
+R| curve
+R| 曲 線
+L| よう ひん てん
+L| clothing store
+R| かん じょう
+L| 洋 品 店
+R| 感 情
+R| feeling
+L| ブラウス
+L| blouse
+R| ハネムーン
+R| honeymoon
+L| ハンガー
+L| hanger
+R| period (honeymoon
+R| き
+R| き
+R| ～期 （ハネムーン期 ）
+R| period)
+L| するっと
+L| smoothly
+R| ま ぢか
+R| 間 近 （な）
+R| close at hand
+L| もと どお
+L| 元 通 り
+L| former state
+R| to be based on, to be
+R| もと
+R| 基 づく
+L| さりげない
+L| casually
+R| due to
+L| き くば
+L| to be mindful
+R| さく せい
+R| to create
+L| 気 を配 る
+R| 作 成 -する
+L| かん
+R| し だい
+L| 感 じ
+L| feeling, sense, vibe
+R| 次 第 に
+R| little by little
+L| にゅう しゃ
+L| to join a company
+R| こう ふん
+R| to be excited
+L| 入 社 -する
+R| 興 奮 -する
+L| onomatopoeia for
+R| because (slightly
+R| というのも
+L| ぴかっと
+L| something lighting up
+R| formal)
+L| instantaneously
+R| そういえば
+R| come to think of it
+L| ひか
+L| to light up
+L| 光 る
+R| うわ む
+R| to look up
+R| 上 向 く
+L| ぽつぽつ
+L| pitter patter
+R| さ
+R| difference
+R| 差
+L| おお つぶ
+L| 大 粒
+L| large drop
+R| せき にん
+R| 責 任
+R| responsibility
+L| うご だ
+L| to start to move
+L| 動 き出 す
+R| to take (to take
+R| も せき にん も
+R| 持 つ（責 任 を持 つ）
+L| なか
+L| relation(ship)
+R| responsibility)
+L| 仲
+R| ボクシング
+R| boxing
+L| いっ せい
+L| 一 斉 に
+L| all together
+R| diagram, drawing, map,
+L| ふ つう
+L| ordinary, normal
+R| ず
+L| 普 通
+R| 図
+R| picture
+L| 2
+R| 4
+L| や あ
+L| to be baked
+L| 焼 き上 がる
+R| かん しん
+R| to be impressed
+R| 感 心 -する
+L| あん
+L| proposal
+L| 案
+L| 38
+==== PAGE 38 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| ほんの
+L| mere
+L| けい だい
+L| the grounds of a shrine
+L| 境 内
+L| onomatopoeia for
+L| しいんと
+L| complete silence
+L| がらりと
+L| dramatically
+L| somewhere, in some
+L| さび
+L| way [here: seem
+L| どこか（どこか寂 しげ）
+L| somewhat lonely]
+L| (it) brings back
+L| なつ
+L| 懐 かしい
+L| memories
+L| to fall (leaves,
+L| ち
+L| 散 る
+L| blossom)
+L| ドーナツ
+L| donut
+L| to open a shop
+L| かい てん
+L| 開 店 -する
+L| (restaurant, etc.)
+L| おどろ
+L| surprise, wonder
+L| 驚 き
+L| experience, see and
+L| み き
+L| 見 聞 き-する
+L| hear (firsthand)
+L| 39
+==== PAGE 39 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か ち いき しゃ かい い
+L| 第 15課 　地 域 社 会 に生 きる
+L| ［できること］
+L| 1 じょう ほう あつ
+L| つか わ
+R| り ゆう
+R| の
+L| 情 報 を集 めるのにメディアをどのように使 い分 けているか、理
+R| 由 とともに述 べることができる。
+L| You can express how you use different media to gather
+R| information, and give reasons for your choices.
+L| き じ よ
+L| めん し
+L| 2 記 事 を読 んでソーシャルメディアのマイナス面 を知 ることができる。
+L| You can read an article and learn about the negative aspects
+R| of social media.
+L| ばん ぐみ き こ じん じょう ほう
+L| かんが
+R| え
+L| 3 ラジオ番 組 を聞 いて個 人 情 報 について考 えるきっかけを得
+R| ることができる。
+L| You can listen to a radio program and use the opportunity
+R| to think about the topic of personal information.
+L| じ ぶん
+L| はん だん
+L| たい り ゆう い ことわ
+L| 4 自 分 だけでは判 断 できないことに対 して理 由 を言 って断
+R| ることができる。
+L| You can refuse something that you cannot decide on your
+R| own, and give reasons for your refusal.
+L| ［ことば］
+L| し たの
+R| し めん
+L| 知 って楽 しむ
+R| 紙 面
+R| space (page)
+L| かべ しん ぶん
+L| wall newspaper
+R| フレーズ
+R| phrase
+L| 壁 新 聞
+L| マジック
+L| magic marker
+R| パニック
+R| panic
+L| じょう ぶ
+R| みずか
+L| 上 部
+L| top
+R| 自 ら
+R| oneself
+L| み だ
+L| title
+R| ライフライン
+R| lifeline
+L| 見 出 し
+L| ひ づけ
+L| date
+R| ぶっ し
+R| supplies
+L| 日 付
+R| 物 資
+L| へい せい
+R| きょう きゅう
+L| Heisei era (from 1989)
+R| to provide
+L| 平 成
+R| 供 給 -する
+L| よく じつ
+L| the following day
+R| ささ あ
+R| mutual support
+L| 翌 日
+R| 支 え合 い
+L| しん ぶん しゃ
+R| ささ
+L| 新 聞 社
+L| newspaper company
+R| 支 える
+R| to support
+L| し ぼう
+L| to die
+R| の き
+R| to overcome
+L| 死 亡 -する
+R| 乗 り切 る
+L| ゆく え ふ めい
+L| missing
+R| げき れい
+R| to encourage
+L| 行 方 不 明
+R| 激 励 -する
+L| つ
+R| to turn toward, to face
+L| 浸 かる
+L| to be submerged
+R| む まえ む い
+R| 向 く（前 を向 いて生 きる）
+R| [here: to stay positive]
+L| machine (printing
+L| き いん さつ き
+L| ～機 （印 刷 機 ）
+R| つう じょう
+R| normally
+L| press)
+R| 通 常
+L| during ~, while ~ (while
+R| しょ
+R| しょ
+R| place (6 places)
+R| ～か所 （６か所 ）
+L| なか よ しん つづ なか
+L| the aftershocks
+L| ～中 （余 震 が続 く中 ）
+R| は だ
+R| 貼 り出 す
+R| to stick up
+L| continue)
+L| はっ こう
+R| ほう どう
+R| to report, to cover
+L| 発 行 -する
+L| to issue
+R| 報 道 -する
+R| ジャーナリズム
+R| journalism
+L| あん ぴ
+L| safety
+L| 安 否
+R| えい きゅう
+L| ひ てい
+R| eternity, permanence
+L| 否 定 -する
+L| to deny
+R| 永 久
+R| to save (data), to
+L| けつ だん
+L| to decide
+R| ほ ぞん
+L| 決 断 -する
+R| 保 存 -する
+R| preserve, to store
+L| どろ みず
+L| muddy water
+L| 泥 水
+R| し めい
+R| mission
+R| 使 命
+L| けい さつ
+L| 警 察
+L| police
+R| skin [here: to
+R| はだ はだ かん
+R| understand from
+L| たず
+L| to visit
+R| 肌 （肌 で感 じる）
+L| 訪 ねる
+R| experience]
+L| はい きゅう
+L| to distribute
+L| 配 給 -する
+R| はっ たつ
+R| to develop
+R| 発 達 -する
+L| せい かく
+L| accurate
+L| 正 確 （な）
+L| 40
+==== PAGE 40 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| flood (flood of
+R| to place (to place at
+L| こう ずい じょう ほう こう ずい
+R| お きょ り お
+L| 洪 水 （情 報 の洪 水 ）
+R| 置 く（距 離 を置 く）
+L| information)
+R| arm’s length)
+L| あらた
+R| けっ きょく
+L| 改 めて
+L| anew
+R| 結 局
+R| in the end
+L| ~ more than (more
+R| to cut back (to cut
+L| あま
+L| にん あま
+L| ～余 り（20人 余 り）
+R| けず じ かん けず
+L| than 20 people)
+R| 削 る（時 間 を削 る）
+R| back on time spent
+R| doing something)
+L| そう かん
+L| to launch a publication
+L| 創 刊 -する
+R| an admission ticket for
+L| はな
+R| じゅ けん ひょう
+L| 話 してみよう
+R| 受 験 票
+R| an examination
+L| うたが
+L| to doubt
+L| 疑 う
+R| データ
+R| data
+L| はっ しん
+L| to transmit
+L| 発 信 -する
+R| バックアップ-する
+R| to back up
+L| 1
+R| ミス-する
+R| to make a mistake
+L| か
+L| indispensable
+R| よ そう がい
+L| 欠 かせない
+R| unexpected
+R| 予 想 外
+L| せい ひん
+L| 製 品
+L| product
+R| ソーシャルメディア
+R| social media
+L| しん らい
+L| to trust
+R| (social media)
+L| 信 頼 -する
+R| インフルエンサー
+R| influencer
+L| ジャンル
+L| genre
+R| ステルスマーケティング stealth marketing
+L| メディア
+L| media
+R| りゃく
+R| abbreviation
+R| 略
+L| マスメディア
+L| mass media
+R| こう こく
+R| 広 告 -する
+R| to advertise
+L| い ぞん
+L| to have a dependence
+L| 依 存 -する
+R| き づ
+R| to realize
+R| 気 付 く
+L| はん ざい
+L| crime
+L| 犯 罪
+R| to advertise, to
+R| せん でん
+L| 2
+R| 宣 伝 -する
+R| promote (a product)
+L| ~ fatigue [here: social
+R| こう い てき
+R| 好 意 的 （な）
+R| favorable (reviews)
+L| づか
+L| づか
+L| ～疲 れ（SNS疲 れ）
+L| media fatigue]
+R| to give a good
+R| いん しょう づ
+R| 印 象 付 ける
+L| コミュニケーション
+L| communication
+R| impression of
+L| いま
+L| nowadays
+R| しん り
+R| psychology
+L| 今 や
+R| 心 理
+L| however, nevertheless
+R| い と
+R| 意 図 -する
+R| to intend to
+L| ところが
+L| (something unexpected
+R| everyday, common,
+L| happens)
+R| にち じょう てき
+R| 日 常 的 （な）
+R| routine
+L| し てき
+L| to pinpoint
+L| 指 摘 -する
+R| to operate, to
+R| そう さ
+R| 操 作 -する
+L| ま
+L| before you realize it
+R| manipulate
+L| いつの間 にか
+R| かず おお
+R| many
+L| げん しょう
+R| 数 多 い
+L| 現 象
+L| phenomenon
+R| ふく すう
+R| 複 数
+R| multiple, plural
+L| つぎ つぎ
+L| one after another
+L| 次 々 （と）
+R| み きわ
+R| to ascertain
+L| あせ
+R| 見 極 める
+L| 焦 る
+L| to feel pressure
+R| 3
+L| コメント-する
+L| to comment
+R| か のう せい
+R| possibility, potential
+L| つね
+L| constantly
+R| 可 能 性
+L| 常 に
+R| ダウンロード-する
+R| to download
+L| アクセス-する
+L| to access
+R| DJ
+R| DJ (disc jockey)
+L| し ま
+L| before you know it
+L| 知 らぬ間 に
+R| が ぞう
+R| image, graphic, picture
+L| ほん らい
+L| by rights
+R| 画 像
+L| 本 来
+R| へん しゅう
+R| to edit, to compile
+L| いっ けん
+R| 編 集 -する
+L| at a glance
+L| 一 見
+R| こ じん じょう ほう
+L| feeling of being
+R| 個 人 情 報
+R| personal information
+L| いき ぐる
+L| 息 苦 しさ
+L| smothered
+R| も
+R| to leak
+R| 漏 れる
+L| 41
+==== PAGE 41 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| あく よう
+L| 悪 用 -する
+L| to misuse
+L| もと
+L| to request
+L| 求 める
+L| だい さん しゃ
+L| third party
+L| 第 三 者
+L| そう しん
+L| 送 信 -する
+L| to send, to transmit
+L| りゅう しゅつ
+L| to leak
+L| 流 出 -する
+L| あん い
+L| easy, simple, careless
+L| 安 易 （な）
+L| しん ちょう
+L| 慎 重 （な）
+L| cautious
+L| リクエスト-する
+L| to request
+L| こた
+L| 応 える
+L| to respond
+L| to clear (a doubt is
+L| は
+L| ぎ もん は
+L| 晴 れる（疑 問 が晴 れる）
+L| cleared)
+L| しょう きょ
+L| to delete
+L| 消 去 -する
+L| こう げき
+L| cyber attack
+L| サイバー攻 撃
+L| あつか
+L| to handle
+L| 扱 う
+L| よ けい
+L| uncalled-for
+L| 余 計 （な）
+L| べん り
+L| 便 利 さ
+L| convenience
+L| rightness, accuracy,
+L| ただ
+L| 正 しさ
+L| validity
+L| げん こう
+L| draft
+L| 原 稿
+L| マイナス
+L| negative
+L| 4
+L| できれば
+L| if possible
+L| to make (to make
+L| と れん らく と
+L| 取 る（連 絡 を取 る）
+L| contact)
+L| かっ て
+L| without permission
+L| 勝 手 （な）
+L| じつ ぶつ
+L| the real thing
+L| 実 物
+L| 42
+==== PAGE 42 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か がっ こう せい かつ
+L| 第 16課 　学 校 生 活
+L| ［できること］
+L| 1 がっ こう せい かつ おも で はな
+L| き
+L| に ほん がっ こう せい
+R| かつ いち ぶ し
+L| 学 校 生 活 の思 い出 を話 しているのを聞 いて、日 本 の学 校 生
+R| 活 の一 部 を知 ることができる。
+L| You can learn about some aspects of Japanese school
+R| life by listening to someone talk about their
+L| memories of their student days.
+L| 2
+L| か こ み がっ こう せい かつ
+L| じ ぶん
+R| い けん い
+L| インターネットの書 き込 みを見 て、学 校 生 活 について自 分
+R| の意 見 を言 うことができる。
+L| You can read an internet post and give your own opinions
+R| about school life.
+L| じゅ けん かん れん わ だい つた き じ よ
+L| じょう ほう え
+L| 3
+L| 受 験 関 連 の話 題 を伝 える記 事 を読 んで、情 報 を得 ることができる。
+L| You can read an article about entrance examination issues,
+R| and get information from it.
+L| じ ぶん けい けん まじ
+L| とも だち き も あと お
+L| 4 自 分 の経 験 を交 えて、友 達 の気 持 ちを後 押 しすることができる。
+L| You can cheer up your friends by sharing your own experiences.
+L| きょう いく かん わ だい
+L| かい せつ よ
+R| とく ちょう よ と
+L| 5 教 育 に関 して話 題 になっていることについて、解 説 を読 んでその特
+R| 徴 を読 み取 ることができる。
+L| You can read a commentary about educational issues and
+R| understand the main points.
+L| ［ことば］
+L| し たの
+R| なん
+R| なん かん けい
+L| 知 って楽 しむ
+R| 何 の～もない（何 の関 係 no ~ at all [here: have
+R| nothing to do with]
+R| もない）
+L| ひょっとすると
+L| maybe, possibly
+R| all right, come on now,
+L| なんとなく
+L| no particular reason
+R| さあ
+R| here goes, hmm ...,
+L| こう そつ
+L| high school graduate
+R| let’s see ...
+L| 高 卒
+R| たん ご
+L| なぜなら
+L| because
+R| 単 語
+R| word
+R| method, style, type
+L| おかしな
+L| odd, strange
+R| [here: equation
+R| しき けい さん しき
+R| ～式 （計 算 式 ）
+L| だい そつ
+L| university graduate
+L| 大 卒
+R| (method of
+R| calculating)]
+L| ま ね
+L| to imitate
+L| 真 似 -する
+R| こなす
+R| to deal with
+L| accomplishment,
+L| ぎょう せき
+L| 業 績
+L| achievement
+R| しん けん
+R| seriously
+R| 真 剣 （な）
+L| millions (thousands,
+L| ごまんと
+R| しょう たい
+R| true colors
+R| 正 体
+L| dozens, etc.) of
+R| はな
+R| 話 してみよう
+L| よう
+L| in short
+L| 要 するに
+R| じ かん わり
+R| timetable
+R| 時 間 割
+L| あやふや（な）
+L| vague
+R| くみ
+R| 組
+R| class
+L| ビジネスマン
+L| businessman
+R| しゃ かい きょう か めい
+R| social studies
+L| マーケティング
+L| marketing
+R| 社 会 [教 科 名 ]
+R| ぎ じゅつ きょう か めい
+R| technical studies
+L| べん ご し
+R| 技 術 [教 科 名 ]
+L| 弁 護 士
+L| lawyer
+R| がっ きゅう かつ どう
+R| 学 級 活 動
+R| homeroom activities
+L| コック
+L| cook
+R| こく ご きょう か めい
+R| Japanese
+L| indicates a plural
+R| 国 語 [教 科 名 ]
+L| かれ
+L| ～ら（彼 ら）
+L| (them)
+R| そう ごう きょう か めい
+R| integrated study
+R| 総 合 [教 科 名 ]
+L| せいぜい
+L| at most
+R| たい いく きょう か めい
+R| 体 育 [教 科 名 ]
+R| physical education
+L| てい ど
+L| extent
+L| 程 度
+R| り か きょう か めい
+R| science
+R| 理 科 [教 科 名 ]
+L| ぶつ り
+L| physics
+L| 物 理
+R| び じゅつ きょう か めい
+R| 美 術 [教 科 名 ]
+R| art
+L| 43
+==== PAGE 43 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| どう とく きょう か めい
+R| じょう ほう きょう か めい
+L| 道 徳 [教 科 名 ]
+L| ethics
+R| 情 報 [教 科 名 ]
+R| informatics
+L| going/coming home,
+R| じゅ けん せい
+R| examinee
+L| かえ
+R| 受 験 生
+L| 帰 り
+L| going/coming back
+R| さん こう しょ
+R| reference book
+R| 参 考 書
+L| せい そう
+L| to clean
+L| 清 掃 -する
+R| ひら きょう か しょ ひら
+R| 開 く（教 科 書 を開 く）
+R| to open (a textbook)
+L| 1
+R| ひっ き よう ぐ
+R| writing implements
+R| 筆 記 用 具
+L| ほう か ご
+L| after school
+L| 放 課 後
+R| お
+R| to finish
+R| 終 える
+L| ぶ かつ どう ぶ かつ
+L| club activities
+L| 部 活 動 （部 活 ）
+R| ぜん かい
+R| 前 回
+R| the last (previous) time
+L| サボる
+L| to skip, to bunk off
+R| to apply (for job,
+R| し がん
+R| 志 願 -する
+L| ものすごい
+L| terribly
+R| school, etc.), to aspire
+L| だけど
+L| but (informal)
+R| ぜん ねん
+R| the last (previous) year
+R| 前 年
+L| regular member of a
+R| to be less than, to fall
+L| レギュラー
+R| した まわ
+R| 下 回 る
+L| team
+R| just short of
+L| つづ
+L| to keep doing
+R| しょう し か
+R| declining birth rate
+L| やり続 ける
+R| 少 子 化
+L| しゃべる
+L| to chat
+R| success or failure,
+R| ごう ひ
+R| 合 否
+R| (test) result
+L| no one surpasses him/
+L| みぎ で もの
+L| 右 に出 る者 がいない
+R| entrance examination,
+L| her
+R| にゅう し
+R| 入 試
+R| admissions
+L| to go up and down, to
+L| のぼ くだ
+L| 上 り下 り-する
+R| the last/past/next (few
+L| rise and fall
+R| すう ねん
+R| ここ～（ここ数 年 ）
+R| years)
+L| continuation, sequel,
+L| つづ
+L| 続 き
+R| じょう しょう
+R| to increase, to rise
+L| the rest of
+R| 上 昇 -する
+R| inclination, tendency,
+L| 2
+R| けい こう
+R| 傾 向
+R| trend
+L| せい と
+L| 生 徒
+L| pupil
+R| げん めん
+R| 減 免 -する
+R| to reduce, to exempt
+L| ぎょう しゃ
+L| contractor
+L| 業 者
+R| to raise, to give
+R| あ
+R| 挙 げる
+L| to joke around
+R| (examples)
+L| ふざける
+R| national (public)
+L| inside, within [here: in/
+R| こっ こう りつ だい がく
+L| ない がっ こう ない
+R| 国 公 立 大 学
+L| ～内 （学 校 内 ）
+L| at school]
+R| university
+R| きょう か
+R| curriculum
+L| すみ ずみ
+L| corners
+R| 教 科
+L| 隅 々
+R| か もく
+L| air, care, feeling,
+R| 科 目
+R| subject
+L| き
+L| indication, spirit,
+L| 気
+R| to choose (school,
+L| temperament
+R| し ぼう
+R| 志 望 -する
+R| career, etc.), to wish
+L| natto (fermented soy
+R| for
+L| なっ とう
+L| 納 豆
+L| beans)
+R| がっ か
+R| 学 科
+R| department
+L| しつ ど
+L| humidity
+L| 湿 度
+R| かい し
+R| to start
+R| 開 始 -する
+L| しょう ぶ
+L| 勝 負 -する
+L| to fight
+R| ちか
+R| じ かん ちか
+R| almost (almost 9 hours)
+R| ～近 く（９時 間 近 く）
+L| うん
+L| luck
+L| 運
+R| ぜん いき
+R| 全 域
+R| all areas
+L| 3
+R| こう つう き かん
+R| public transport
+R| 交 通 機 関
+L| Common Test for
+L| だい がく にゅう がく きょう つう
+L| 大 学 入 学 共 通 テスト
+R| なが ねん
+R| many years
+L| University Admissions
+R| 長 年
+L| しょ にち
+L| first day
+R| マラソン
+R| marathon
+L| 初 日
+L| こう みん きょう か めい
+L| civics
+R| to gain (self-)
+L| 公 民 [教 科 名 ]
+R| つ じ しん つ
+R| 付 く（自 信 が付 く）
+R| confidence
+L| ち り きょう か めい
+L| 地 理 [教 科 名 ]
+L| geography
+R| うそ
+R| lie
+L| 44
+==== PAGE 44 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+R| う み
+L| つく（うそをつく）
+L| to tell (to tell a lie)
+R| 受 け身
+R| passive
+L| ~ edition/version (local
+R| たい かん
+R| to experience
+L| ばん ち ほう ばん
+R| 体 感 -する
+L| ～版 （地 方 版 ）
+L| edition)
+R| かか
+R| to be involved with
+R| 関 わる
+L| シーズン
+L| season
+R| ほ ご
+R| 保 護 -する
+R| to protect
+L| ピーク
+L| peak
+R| ちょ しょ
+R| book
+R| 著 書
+L| to greet, to welcome
+L| むか
+L| むか
+L| 迎 える（ピークを迎 える）
+L| [here: to reach a peak]
+R| ハンバーガー
+R| hamburger
+L| えん ぽう
+L| a long way away
+R| ~ shop (hamburger
+L| 遠 方
+R| みせ
+R| みせ
+R| ～店 （ハンバーガー店 ）
+R| restaurant)
+L| アイデア
+L| idea
+R| あ
+R| う あ あ
+R| to raise, to boost
+R| 上 げる（売 り上 げを上 げ
+L| きそ
+L| to compete
+L| 競 う
+R| (sales)
+R| る）
+L| (breaded) pork cutlet
+L| カツサンド
+R| ～ごと（グループごと） by (by group)
+L| sandwich
+L| か しつ き
+L| humidifier
+R| ディスカッション-する to have a discussion
+L| 加 湿 器
+L| き がん
+R| けっ てい
+R| to decide
+L| 祈 願 -する
+L| to pray
+R| 決 定 -する
+R| ぶん せき
+R| to analyze
+L| さつ
+L| amulet, talisman
+R| 分 析 -する
+L| お札
+R| つう こう にん
+L| someone who passes a
+R| passer-by
+R| 通 行 人
+L| university entrance
+L| げん えき
+R| よ そく
+R| to predict
+L| 現 役
+R| 予 測 -する
+L| exam straight from
+R| げん か
+L| high school
+R| 原 価
+R| cost price
+L| のぞ
+L| to face
+L| 臨 む
+R| げん ざい りょう
+R| raw materials
+R| 原 材 料
+L| ねん まつ ねん し
+L| 年 末 年 始
+L| the New Year’s holiday
+R| せっ とく
+R| to persuade
+R| 説 得 -する
+L| 4
+R| ロールプレイ
+R| role play
+L| まえ む
+L| positive
+L| 前 向 き（な）
+R| アルバム
+R| album
+L| まじ
+L| 交 える
+L| to exchange
+R| あれこれ
+R| this and that
+L| to begin to lose one’s
+R| つ
+L| まよ はじ
+R| to pack
+L| 迷 い始 める
+R| 詰 める
+L| way, to begin to worry
+L| あと お
+L| to support
+L| 後 押 し-する
+L| み つ
+L| 身 に付 ける
+L| to learn
+L| sentence ending to
+L| さ（それがさ）
+L| express assertion (it’s
+L| that ...)
+L| ば
+L| 場
+L| place
+L| せい せき
+L| results
+L| 成 績
+L| bonus
+L| ボーナス
+L| more (a few more
+L| すう しゅう かん
+L| あと～（あと数 週 間 ）
+L| weeks)
+L| のう さく ぶつ
+L| crop
+L| 農 作 物
+L| えん げき
+L| play
+L| 演 劇
+L| じっ か
+L| 実 家
+L| parent’s home
+L| 5
+L| よ なか
+L| the world, life
+L| 世 の中
+L| 45
+==== PAGE 45 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か はたら
+L| 第 17課 　働 くということ
+L| ［できること］
+L| 1 ほか ひと し ごと たい かんが き
+L| じ ぶん い けん い
+L| 他 の人 の仕 事 に対 する考 えを聞 いて、自 分 の意 見 を言 うことができる。
+L| You can listen to others’ thoughts about work, and give
+R| your own opinions.
+L| りゅう がく せい む か
+L| しゅう しょく かつ どう
+L| よ
+R| ない よう り かい じょう ほう え
+L| 2 留 学 生 向 けに書 かれた就 職 活 動 のパンフレットを読 んで、内
+R| 容 を理 解 し情 報 を得 ることができる。
+L| You can read a job-hunting pamphlet intended for international
+R| students, understand its contents, and
+L| get information from it.
+L| せん ぱい はなし き
+L| しゅう しょく かつ どう かん じょう ほう え
+L| 3
+L| 先 輩 の話 を聞 いて、就 職 活 動 に関 する情 報 を得 ることができる。
+L| You can listen to your seniors, and get information about
+R| job hunting from them.
+L| め うえ ひと
+L| てい ねい い らい
+L| 4 目 上 の人 にメールで丁 寧 に依 頼 することができる。
+L| You can write an email to make a polite request to one
+R| of your superiors.
+L| はじ あ ひと でん わ
+L| あい て つ ごう き
+L| あ
+R| やく そく
+L| 5 初 めて会 う人 に電 話 をして、相 手 の都 合 を聞 きながら、会
+R| う約 束 をすることができる。
+L| You can make a phone call to someone you will meet for
+R| the first time, ask them about their schedule, and
+L| make an appointment to meet.
+L| ［ことば］
+L| し たの
+R| のう そん
+R| farming village
+L| 知 って楽 しむ
+R| 農 村
+L| も つづ
+L| to hold on to
+R| て い
+R| to maintain
+L| 持 ち続 ける
+R| 手 入 れ-する
+L| がく ない
+R| たも
+L| 学 内
+L| on-campus
+R| 保 つ
+R| to preserve
+L| かつ どう てき
+L| active
+R| あ
+R| to run wild
+L| 活 動 的 （な）
+R| 荒 れる
+L| クライアント
+L| client
+R| めぐ
+R| blessings
+R| 恵 み
+L| い こう
+R| のう か
+L| wishes
+R| farmer
+L| 意 向
+R| 農 家
+L| to place a (high) value
+R| しょく りん
+R| tree planting
+L| じゅう し
+R| 植 林 -する
+L| 重 視 -する
+L| on
+R| くさ か
+R| 草 刈 り
+R| grass cutting
+L| えい ぎょう ぶ
+L| sales department
+L| 営 業 部
+R| ばっ さい
+R| tree felling
+R| 伐 採 -する
+L| はい ぞく
+L| to assign
+L| 配 属 -する
+R| さ ぎょう
+R| to work
+R| 作 業 -する
+L| う こ
+L| to make a sale/pitch
+L| 売 り込 む
+R| before long, one of
+R| そのうち（に）
+L| to be cut out for (I am
+R| these days, soon
+L| む わたし む
+L| 向 く（私 に向 いている）
+L| cut out for this)
+R| かけがえのない
+R| irreplaceable
+L| ぶ しょ
+L| department
+L| 部 署
+R| はな
+R| 話 してみよう
+L| しょ ぞく
+L| to belong to
+L| 所 属 -する
+R| と まわ
+R| 飛 び回 る
+R| to fly around
+L| CSR (Corporate Social
+L| しゃ かい てき せき にん
+L| 社 会 的 責 任
+L| Responsibility)
+R| むす つ
+R| to connect
+R| 結 び付 ける
+L| り えき
+L| 利 益
+L| profits
+R| to tie, to fasten,
+R| むす
+R| 結 ぶ
+R| to connect
+L| は
+L| to play (a role)
+L| 果 たす
+R| 1
+L| woodland in the
+L| さと やま
+L| 里 山
+L| countryside
+R| おや こ
+R| parent and child
+R| 親 子
+L| ぞう き ばやし
+L| 雑 木 林
+L| copse
+R| が か
+R| painter (artist)
+R| 画 家
+L| かつて
+L| in the past
+R| けい ざい てき
+R| economically
+R| 経 済 的 （な）
+L| 46
+==== PAGE 46 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| じ りつ
+R| どう き
+L| 自 立 -する
+L| to become independent
+R| 動 機
+R| motivation
+L| someone who stands on
+R| つよ
+R| strengths
+L| いち にん まえ
+R| 強 み
+L| 一 人 前
+L| one’s own two feet
+R| か ち
+R| value
+R| 価 値
+L| but, free (of charge),
+L| ただ
+R| かん か ち かん
+L| just, only, ordinary
+R| ～観 （価 値 観 ）
+R| sense (sense of values)
+L| じ こ まん ぞく
+L| self-satisfaction
+L| 自 己 満 足 -する
+R| OB
+R| alumnus (Old Boy)
+L| チャンス
+L| chance
+R| OG
+R| alumna (Old Girl)
+L| to force (responsibility)
+R| ほう もん
+L| お つ
+R| 訪 問 -する
+R| to visit
+L| 押 し付 ける
+L| onto someone
+R| インターンシップ
+R| internship
+L| かわいそう（な）
+L| cruel, unfair
+R| じっ かん
+R| 実 感 -する
+R| to actually feel
+L| 2
+R| なに
+R| whatever happens
+R| 何 がなんでも
+L| セミナー
+L| seminar
+R| to show [here: to
+L| と よ
+L| to send for
+L| 取 り寄 せる
+R| みせる（なってみせる） resolve to become
+L| さい よう
+R| something]
+L| 採 用 -する
+L| to employ
+R| たたか
+R| 戦 う
+R| to fight
+L| こく せき
+L| nationality
+L| 国 籍
+R| 4
+L| ゆう しゅう
+L| 優 秀 （な）
+L| talented
+R| い らい
+R| 依 頼 -する
+R| to request
+L| じん ざい
+L| personnel
+L| 人 材
+R| あて さき
+R| to (recipient)
+L| た よう せい
+L| diversity
+R| 宛 先
+L| 多 様 性
+R| けん めい
+R| subject
+L| たか
+R| 件 名
+L| 高 める
+L| to raise, to enhance
+L| to stimulate,
+R| ファイル
+R| file
+L| かっ せい か
+L| 活 性 化 -する
+L| to revitalize
+R| てん ぷ
+R| to attach
+R| 添 付 -する
+L| と
+L| 取 る（コミュニケーション to take [here: to
+R| Sorry I haven’t been in
+R| ぶ さ た
+L| と
+L| communicate]
+R| ご無 沙 汰 しております
+L| を取 る）
+R| touch for a long time.
+L| し や
+R| your company
+L| 視 野
+L| (one’s) horizons
+R| き しゃ
+R| 貴 社
+R| (honorific)
+L| ご がく
+L| languages
+L| 語 学
+R| の そう だん の
+R| to give (to give advice)
+R| 乗 る（相 談 に乗 る）
+L| specialized,
+L| せん もん てき
+L| 専 門 的 （な）
+L| professional, expert
+L| degree/level of ~
+L| [here: (degree of)
+L| ど り かい ど
+L| ～度 （理 解 度 ）
+L| comprehension,
+L| understanding]
+L| プラス
+L| positive
+L| こうした
+L| this kind of
+L| じ こ
+L| to promote oneself
+L| 自 己 PR-する
+L| じっくり
+L| carefully
+L| がく しゅう
+L| to study
+L| 学 習 -する
+L| AI (artificial
+L| AI
+L| intelligence)
+L| くち わる
+L| sharp-tongued
+L| 口 が悪 い
+L| 3
+L| エントリーシート
+L| entry sheet
+L| 47
+==== PAGE 47 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か ち きゅう い
+L| 第 18課 　地 球 に生 きる
+L| ［できること］
+L| 1
+L| き
+L| み ぢか かん きょう もん だい
+L| たい さく し
+L| ニュースを聞 いて、身 近 な環 境 問 題 とその対 策 を知 ることができる。
+L| You can listen to the news to learn about environmental
+R| issues in your area and what is being done to solve
+L| them.
+L| 2 ふ よう
+L| もの しょ ぶん さい き ぼう ひと
+R| もの せつ めい
+R| ゆず
+L| 不 要 になった物 を処 分 する際 、希 望 する人 にわかりやすく物
+R| の説 明 をして、譲 ることができる。
+L| You can provide a simple explanation of an unwanted item
+R| you wish to dispose of, and give it to someone
+L| who is willing to take it off your hands.
+L| 3 かん きょう へん か えい きょう う
+L| どう しょく ぶつ もん だい
+L| か
+R| き じ よ
+R| り かい
+L| 環 境 の変 化 に影 響 を受 けている動 植 物 の問 題 について書
+R| かれた記 事 を読 んで、理 解 することができる。
+L| You can read and understand an article about issues facing
+R| plant and animal life due to the impacts of
+L| environmental changes.
+L| 4 じ ぶん まわ まも
+L| し ぜん
+L| の
+L| 自 分 の周 りの守 りたい自 然 について述 べることができる。
+L| You can talk about the nature around you that you want
+R| to protect.
+L| ［ことば］
+L| し たの
+R| ゼロ
+R| zero
+L| 知 って楽 しむ
+L| しゅう しゅう
+R| せん げん
+L| to collect
+R| to declare
+L| 収 集 -する
+R| 宣 言 -する
+L| じ ち たい
+L| local government
+R| townspeople, resident
+L| 自 治 体
+R| ちょう みん
+R| 町 民
+R| of a town
+L| ねん かん
+L| 年 間
+L| yearly
+R| リサイクル-する
+R| to recycle
+L| total (total emissions
+L| そう そう はい しゅつ りょう
+L| 総 ～（総 排 出 量 ）
+R| to turn towards, to
+L| volume)
+R| む
+R| ねん む
+R| face, to aim for [here:
+R| 向 ける（2030年 に向 け
+L| はい しゅつ
+L| to emit
+L| 排 出 -する
+R| in preparation for
+R| て）
+R| 2030]
+L| ～トン（２トン）
+L| tonne (2 tonnes)
+R| せん く しゃ
+R| 先 駆 者
+R| pioneer, trailblazer
+L| とう きょう
+L| Tokyo Dome
+L| 東 京 ドーム
+R| creating (creating
+L| level, range (in the 25
+R| ひと
+R| ～づくり（人 づくり）
+R| human resources)
+L| million range), counter
+L| だい
+L| まん だい
+L| ～台 （2,500万 台 ）
+R| (point of) emphasis,
+L| for machines and
+R| じゅう てん
+L| vehicles
+R| 重 点
+R| importance, priority,
+R| stress
+L| さく げん
+L| to reduce
+L| 削 減 -する
+R| to put up (notice, flag,
+L| すい い
+L| to transition
+L| 推 移 -する
+R| かか
+R| etc.), to display, to
+R| 掲 げる
+R| tout, to publish
+L| し こく
+L| Shikoku
+L| 四 国
+R| あらゆる
+R| all, every (kind of)
+L| さん かん ぶ
+L| mountainous region
+L| 山 間 部
+R| to experiment, to (put
+R| じっ けん
+L| し げん
+L| 資 源
+L| resource
+R| 実 験 -する
+R| to the) test
+L| じゅう みん
+L| residents
+R| to challenge, to try, to
+L| 住 民
+R| チャレンジ-する
+R| attempt
+L| しゅ しゅ
+L| type (45 types)
+L| ～種 （45種 ）
+R| リーダー
+R| leader, reader
+L| もう
+L| 設 ける
+L| to provide
+R| to appear one after the
+L| も こ
+L| to take to (a place)
+L| 持 ち込 む
+R| other, to produce
+R| はい しゅつ
+R| 輩 出 -する
+R| (graduates, prize
+L| to transport, to carry
+L| うん ぱん
+L| 運 搬 -する
+R| winners, etc.)
+L| (a load)
+R| そもそも
+R| in the first place
+L| 48
+==== PAGE 48 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| しょう きゃく
+L| 焼 却 -する
+L| to incinerate
+R| アドバイザー
+R| adviser
+R| しょう
+L| もたらす
+L| to bring about
+R| energy-saving
+R| 省 エネ
+L| ゆう がい
+L| harmful, toxic
+R| せつ でん
+R| to save electricity
+L| 有 害 （な）
+R| 節 電 -する
+L| ぶっ しつ
+R| しょく ぶつ
+L| 物 質
+L| substance
+R| 植 物
+R| plant
+L| すい しつ
+L| water quality
+R| ゴーヤ
+R| bitter gourd
+L| 水 質
+L| あく えい きょう
+L| adverse effect
+R| かべ ぎわ
+R| against a wall
+L| 悪 影 響
+R| 壁 際
+L| itself (the structure
+R| へ
+R| 減 らす
+R| to reduce
+L| じ たい し く じ たい
+L| ～自 体 （仕 組 み自 体 ）
+L| itself)
+R| は
+R| leaf
+R| 葉
+L| to open (a facility,
+L| オープン-する
+R| ふせ
+L| restaurant, etc.)
+R| 防 ぐ
+R| to prevent
+L| リユース-する
+L| to reuse
+R| orientation (the
+R| む へ や む
+R| 向 き（部 屋 の向 き）
+R| orientation of a room)
+L| ショップ
+L| shop, store
+R| じ かん たい
+R| the time of day
+R| 時 間 帯
+L| to be attached or
+L| へい せつ
+L| affiliated with (a
+R| たよ
+R| to depend on
+L| 併 設 -する
+R| 頼 る
+L| school, company, etc.)
+R| み
+R| fruit
+R| 実
+L| convenience, user-
+L| り べん せい
+L| 利 便 性
+R| はん せい
+R| to repent
+L| friendliness
+R| 反 省 -する
+L| principle, ideal,
+R| さい さい り よう
+R| 再 ～（再 利 用 ）
+R| re~ (reuse), do ~ again
+L| り ねん
+L| philosophy (of a
+L| 理 念
+R| 2
+L| company, school, etc.)
+R| ふ よう
+R| unwanted
+L| め ざ
+L| to aim for
+R| 不 要 （な）
+L| 目 指 す
+R| は がみ
+L| ちょう せん
+L| to try
+R| 貼 り紙
+R| poster
+L| 挑 戦 -する
+L| た ま
+R| タイプ
+R| type
+L| constantly
+L| 絶 え間 ない
+L| そのもの
+L| itself
+R| タイヤ
+R| tire
+R| しん ぴん
+L| と
+R| brand new
+L| 問 い
+L| question
+R| 新 品
+R| どう よう
+R| same
+L| な
+L| to raise
+R| 同 様 （な）
+L| 投 げかける
+R| ぼう りょく
+L| to throw [here: throw a
+R| 暴 力
+R| violence
+L| な
+L| わ だい な
+L| topic out there for
+L| 投 げる（話 題 を投 げる）
+R| がい しゅつ
+R| to go out
+R| 外 出 -する
+L| discussion]
+R| 3
+L| はな
+L| 話 してみよう
+R| Japanese crested ibis
+L| に さん か たん そ
+L| carbon dioxide
+R| トキ
+L| 二 酸 化 炭 素
+R| (bird)
+L| たい き
+L| 大 気
+L| air
+R| パネル
+R| panel
+L| お せん
+L| to pollute
+L| 汚 染 -する
+R| しゅ りょう
+R| to hunt
+R| 狩 猟 -する
+L| はい き
+L| exhaust fumes
+L| 排 気 ガス
+R| らん かく
+R| 乱 獲 -する
+R| to overhunt
+L| しん りん
+L| 森 林
+L| forest
+R| た
+R| rice field
+R| 田 んぼ
+L| さ ばく
+L| desert
+L| 砂 漠
+R| は かい
+R| 破 壊 -する
+R| to destroy
+L| や せい
+L| wild, feral
+L| 野 生
+R| はん とう
+R| peninsula
+R| 半 島
+L| 1
+R| counter for birds (5
+R| わ わ
+R| ～羽 （５羽 ）
+R| birds)
+L| エコライフ
+L| eco-living
+R| ぜつ めつ
+R| to become extinct
+R| 絶 滅 -する
+L| ～フェア（エコライフフェ
+L| fair (eco-living fair)
+L| ア）
+R| すく
+R| to save
+R| 救 う
+L| 49
+==== PAGE 49 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| じん こう
+R| what (a), how, wow
+L| 人 工
+L| artificial, man-made
+R| なんと
+R| (shows surprise)
+L| to breed, to increase,
+L| はん しょく
+L| to multiply,
+R| タワー
+R| tower
+L| 繁 殖 -する
+L| to reproduce
+L| going well, doing OK,
+L| じゅん ちょう
+L| 順 調 （な）
+L| running smoothly
+L| ほう ちょう
+L| 放 鳥 -する
+L| to set a bird free
+L| すい てい
+L| to assume, to estimate
+L| 推 定 -する
+L| most ~, ~est (give the
+L| さい さい ゆう せん
+L| 最 ～（最 優 先 する）
+L| highest priority to)
+L| ゆう せん
+L| 優 先 -する
+L| to give priority to
+L| すん ぜん
+L| just before
+L| 寸 前
+L| お こ
+L| to drive to
+L| 追 い込 む
+L| い もの
+L| 生 き物
+L| creature
+L| て う
+L| to take measures
+L| 手 を打 つ
+L| がく めい
+L| scientific name
+L| 学 名
+L| ファンクラブ
+L| fan club
+L| plants and animals,
+L| どう しょく ぶつ
+L| 動 植 物
+L| living things
+L| しん こく
+L| serious
+L| 深 刻 （な）
+L| さんざん
+L| all sorts
+L| whatever kind of
+L| せい ぶつ
+L| どんな（どんな生 物 でも） (whatever kind of
+L| animal)
+L| 4
+L| わ みず
+L| a spring
+L| 湧 き水
+L| に ほん しゅ
+L| Japanese sake
+L| 日 本 酒
+L| さか ぐら
+L| 酒 蔵
+L| sake brewery
+L| to taste (sake, wine,
+L| し いん
+L| 試 飲 -する
+L| etc.)
+L| ひと くち
+L| a mouthful
+L| 一 口
+L| たくわ
+L| 蓄 える
+L| to store
+L| work(ings), labor,
+L| はたら
+L| 働 き
+L| function, action, ability
+L| たい りょう
+L| a large quantity of
+L| 大 量 （な）
+L| こう ずい
+L| 洪 水
+L| flood
+L| さい せい
+L| to regenerate
+L| 再 生 -する
+L| time (months and
+L| ねん げつ
+L| 年 月
+L| years)
+L| おお がた
+L| 大 型
+L| large-scale
+L| (no matter) how ~,
+L| どれほど
+L| (not) many/much
+L| 50
+==== PAGE 50 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か か がく ちから
+L| 第 19課 　科 学 の力
+L| ［できること］
+L| 1 せい かつ やく た
+L| か がく
+L| よ
+R| し
+L| 生 活 で役 に立 っている科 学 のおもしろさについて読 んで知
+R| ることができる。
+L| You can read about interesting examples of science that
+R| is useful in your everyday life.
+L| き じ よ
+L| かい ご
+L| たち ば じょう
+R| けん
+R| かんが
+R| い けん い
+L| 2 記 事 を読 んで、介 護 ロボットについてさまざまな立 場 や条
+R| 件 などを考 えて、意 見 を言 うことができる。
+L| You can read an article on nursing-care robots, consider
+R| various viewpoints and conditions concerning
+L| their use, and give your own opinions about the topic.
+L| じょう きょう せつ めい しゅう り い らい
+L| 3
+L| 状 況 を説 明 して修 理 を依 頼 することができる。
+L| You can request the repair of an item and explain its condition.
+L| くに
+L| せい さく げん じょう き き ほん てき じょう ほう え
+L| 4 ある国 のエネルギー政 策 の現 状 を聞 き、基 本 的 な情 報 を得
+R| ることができる。
+L| You can listen to someone talk about the state of energy
+R| policy in a given country, and get basic
+L| information about the topic.
+L| わ だい
+L| い りょう かん けい き じ よ
+L| き ほん てき ち しき
+R| え
+L| 5 話 題 になっている医 療 関 係 の記 事 を読 んで、基 本 的 な知 識
+R| を得 ることができる。
+L| You can read a much-talked-about medical article and
+R| gain basic knowledge about the topic.
+L| ［ことば］
+R| clashing with,
+L| し たの
+L| 知 って楽 しむ
+R| あい い
+R| 相 容 れない
+R| incompatible, in
+L| to recognize, to notice,
+L| にん しき
+L| 認 識 -する
+R| conflict
+L| to understand
+R| のう ぎょう
+R| agriculture, farming
+R| 農 業
+L| せい めい
+L| 生 命
+L| life, career
+R| call (for volunteers,
+L| ~ magazine/journal
+R| よ
+R| 呼 びかけ
+R| etc.), appeal
+L| し せい めい し
+L| (here: “Biohistory,” the
+L| ～誌 （生 命 誌 ）
+R| こん ぽん
+R| root, origin, basis
+L| name of a journal)
+R| 根 本
+L| kindergarten,
+R| システム
+R| system
+L| よう ち えん
+L| 幼 稚 園
+L| preschool
+R| へん しゅう
+R| ゲノム編 集
+R| gene editing
+L| しん ぽ
+L| 進 歩 -する
+L| to advance, to progress
+R| えい よう か
+R| nutritional value
+R| 栄 養 価
+L| て ぬ
+L| to cut corners, to skimp
+L| 手 を抜 く
+R| ひん しゅ
+R| 品 種
+R| type, breed, variety
+L| as one wants, as one
+L| おも どお
+L| 思 い通 り
+L| sees fit
+R| わる もの
+R| villain, bad person
+R| 悪 者
+L| to point, to indicate, to
+R| after all, to the utmost,
+L| さ
+L| 指 す
+R| あくまでも
+L| specify, to nominate
+R| purely, simply
+L| to give birth to,
+R| crops, agricultural
+L| う だ
+L| 生 み出 す
+R| さく もつ
+L| to produce, to cause
+R| 作 物
+R| produce
+L| to give birth,
+R| よろこ
+R| 喜 び
+R| joy, happiness
+L| う
+L| 生 む
+L| to produce, to yield
+R| み だ
+R| to discover
+L| (results)
+R| 見 出 す
+L| と ほ
+L| walking, on foot
+R| to approve, to deem
+L| 徒 歩
+R| よ
+R| 良 しとする
+R| acceptable
+L| value, virtue,
+L| ありがたさ
+R| interval, gap, period
+L| preciousness
+R| あいだ なが あいだ
+R| [here: (for) a long
+R| 間 （長 い間 ）
+L| か てい
+L| process, course
+L| 過 程
+R| time]
+L| to place a hand on, to
+L| て
+R| せい じ
+R| politics
+R| 政 治
+L| 手 をかける
+L| care for
+R| the former (as opposed
+R| ぜん しゃ
+R| 前 者
+R| to “the latter”)
+L| 51
+==== PAGE 51 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| ねら
+R| to build (to build
+L| 狙 う
+L| to aim at/for
+R| いきお
+R| つける（勢 いをつける）
+R| momentum)
+L| へん い
+L| to mutate
+L| 変 異 -する
+R| わ
+R| 輪
+R| loop
+L| to be inherited, to be
+L| い でん
+L| 遺 伝 -する
+R| さか
+R| upside-down
+L| passed down
+R| 逆 さま
+L| かん とう げん
+L| foreword, preface
+R| バケツ
+R| bucket
+L| 巻 頭 言
+L| to cooperate,
+R| ぐるぐる
+R| round and round
+L| きょう どう
+L| to collaborate,
+L| 協 同 -する
+R| ふ まわ
+R| to swing around
+R| 振 り回 す
+L| to do jointly
+R| to swing, to shake, to
+L| はな
+L| 話 してみよう
+R| ふ
+R| 振 る
+R| wave
+L| せん たん
+L| 先 端
+L| tip, forefront
+R| こぼれる
+R| to spill
+L| ロボット
+L| robot
+R| り くつ
+R| logic
+R| 理 屈
+L| い りょう
+L| medical treatment
+L| 医 療
+R| えん
+R| 円
+R| circle
+L| 1
+R| えん しん りょく
+R| centrifugal force
+R| 遠 心 力
+L| じる
+L| じる
+L| broth (cooking water)
+L| ～汁 （ゆで汁 ）
+R| スピード
+R| speed
+L| わざ
+L| 技
+L| trick
+R| あまりに
+R| too (much), overly
+L| かい めん かっ せい ざい
+L| surface-active agent
+L| 界 面 活 性 剤
+R| まん いち
+R| just in case
+R| 万 が一
+L| ぶん り
+L| to separate
+L| 分 離 -する
+R| しゃ りん
+R| wheel
+R| 車 輪
+L| なか よ
+L| 仲 良 く
+L| in a friendly manner
+R| レール
+R| rail
+L| らん おう
+L| egg yolk
+L| 卵 黄
+R| そう ち
+R| device
+R| 装 置
+L| ふく
+L| to contain
+L| 含 む
+R| 2
+L| ゆ ぶん
+L| fat content
+L| 油 分
+R| どう にゅう
+R| to introduce
+R| 導 入 -する
+L| つ もの
+L| an essential part of
+L| 付 き物
+R| じょう けん
+R| conditions
+R| 条 件
+L| to be sticky/thick, to
+L| べたべた-する
+R| かい じょ
+R| 介 助 -する
+R| to assist
+L| be all over, to cling to
+R| to undergo
+L| う あ
+L| to float to the top
+L| 浮 き上 がる
+R| リハビリ-する
+R| rehabilitation
+L| う
+L| to float
+L| 浮 く
+R| いや
+R| healing, therapy
+R| 癒 し
+L| things to be washed
+L| あら もの
+R| ひと で
+L| 洗 い物
+R| 人 手
+R| manpower
+L| (dishes, laundry, etc.)
+L| だん ぜん
+R| げん ば
+R| site
+L| 断 然
+L| much more
+R| 現 場
+R| かわいがる
+R| to cherish, to dote on
+L| ま
+L| to mix
+L| 混 ぜる
+R| to come into contact
+L| せい しつ
+L| 性 質
+L| property
+R| ふ あ
+R| with, to interact with,
+R| 触 れ合 う
+L| からむ
+L| to combine
+R| to get to know
+L| すい ぶん
+L| water content
+R| ふ
+R| to touch
+L| 水 分
+R| 触 れる
+R| あい
+L| なじむ
+L| to blend in
+R| 愛 らしい
+R| endearing
+L| こう くう
+L| air
+R| しん たい てき
+R| physical
+L| 航 空
+R| 身 体 的 （な）
+L| to draw (interest,
+R| えん じょ
+R| to support
+L| ひ かん しん ひ
+R| 援 助 -する
+L| 引 く（関 心 を引 く）
+L| attention)
+R| ふく し
+R| welfare
+R| 福 祉
+L| ジェットコースター
+L| roller coaster
+L| いきお
+L| momentum
+L| 勢 い
+L| 52
+==== PAGE 52 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| for (the purpose/use
+R| source (source of
+R| げん
+R| げん
+R| ～源 （エネルギー源 ）
+L| of) ~ [here: for use by
+R| energy)
+L| よう ふく し よう
+L| ～用 （福 祉 用 ）
+L| people with
+R| postwar (especially the
+L| disabilities]
+R| period following the
+R| せん ご
+R| 戦 後
+L| あし
+L| leg
+R| end of Second World
+L| 脚
+R| War in Japan)
+L| そう ちゃく
+L| 装 着 -する
+L| to wear (attach to)
+R| かつ
+R| at the same time
+L| み かた
+L| ally
+L| 味 方
+R| あん てい てき
+R| stable
+R| 安 定 的 （な）
+L| コスト
+L| cost
+R| けん せつ
+R| to construct
+R| 建 設 -する
+L| to have a good
+L| つか
+L| 使 いこなす
+R| de~
+L| command of
+R| (de-nuclearization,
+R| だつ だつ げん ぱつ
+L| てい こう
+L| to resist
+R| 脱 ～（脱 原 発 ）
+L| 抵 抗 -する
+R| abandoning nuclear
+L| み まわ
+L| personal (care)
+R| power)
+L| 身 の回 り
+R| nuclear energy, nuclear
+L| か だい
+R| げん ぱつ
+L| 課 題
+L| issue
+R| 原 発
+R| power (plant)
+L| め うえ
+L| elder/senior
+L| 目 上
+R| さい せい か のう
+R| renewable energy
+R| 再 生 可 能 エネルギー
+L| ぎ ろん
+L| to discuss
+L| 議 論 -する
+R| ねん りょう
+R| bio-fuel
+R| バイオ燃 料
+L| う き
+L| to sell out
+L| 売 り切 れる
+R| か ざん
+R| volcano
+R| 火 山
+L| にゅう か
+L| to arrive (goods)
+L| 入 荷 -する
+R| しゅ よう
+R| 主 要 （な）
+R| primary, main, chief
+L| 3
+R| じゅ よう
+R| (economic) demand
+R| 需 要
+L| ほ しょう しょ
+L| guarantee
+L| 保 証 書
+R| more and more, further,
+R| ますます
+R| increasingly
+L| まい ど
+L| each time
+L| 毎 度
+R| だい いち
+R| 第 一
+R| first
+L| ～でございます
+L| It is (humble)
+R| to consider, to take
+R| こう りょ
+L| でん げん
+L| power source
+R| 考 慮 -する
+L| 電 源
+R| into account
+L| し き
+L| deadline
+R| to assemble, to match,
+L| 締 め切 り
+R| く あ
+R| 組 み合 わせる
+R| to put together
+L| to stand up, to rise up,
+L| た あ
+L| 立 ち上 げる
+L| to start up
+R| かく さ
+R| gap
+R| 格 差
+L| 4
+R| しゅく しょう
+R| 縮 小 -する
+R| to reduce
+L| configuration of power
+R| ろう どう
+R| to work
+R| 労 働 -する
+L| sources (what amount
+L| でん げん こう せい
+L| 電 源 構 成
+R| だん ねん
+L| comes from coal, from
+R| 断 念 -する
+R| to give up on
+L| nuclear power, etc.)
+R| ばん こく はく らん かい
+R| world fair
+R| 万 国 博 覧 会
+L| ちょう
+L| 1 trillion
+L| 兆
+R| せい さく
+R| (political) policy
+R| 政 策
+L| おく
+L| 億
+L| 100 million
+R| 5
+L| げん し りょく
+L| nuclear power
+L| 原 子 力
+R| iPS cell (induced
+R| さい ぼう
+R| iPS細 胞
+L| てん ねん
+L| natural gas
+R| pluripotent stem cell)
+L| 天 然 ガス
+R| ばん のう
+R| pluripotent
+L| せき ゆ
+R| 万 能 （な）
+L| 石 油
+L| oil
+R| さい ぼう
+R| 細 胞
+R| (biological) cell
+L| すい りょく
+L| hydro-electric power
+L| 水 力
+R| さい せい い りょう
+R| regenerative medicine
+L| ち ねつ
+L| geothermal energy
+R| 再 生 医 療
+L| 地 熱
+R| い がく
+R| medicine
+R| 医 学
+L| バイオマス
+L| biomass
+R| ち りょう
+R| 治 療 -する
+R| to treat
+L| おも
+L| main
+L| 主 （な）
+R| なん びょう
+R| incurable disease
+R| 難 病
+L| 53
+==== PAGE 53 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| のう しん けい
+L| 脳 神 経
+L| cerebral nerve
+L| ぞう
+L| pancreas
+L| すい臓
+L| じん ぞう
+L| kidney
+L| 腎 臓
+L| ぞう き
+L| 臓 器
+L| organ
+L| to become (to become
+L| びょう き
+L| かかる（病 気 にかかる）
+L| ill)
+L| に ど
+L| never again
+L| 二 度 と
+L| たい ない
+L| 体 内
+L| inside the body
+L| ろう はい ぶつ
+L| body waste
+L| 老 廃 物
+L| か
+L| to filter
+L| ろ過 -する
+L| outside the body,
+L| たい がい
+L| 体 外
+L| external
+L| とう せき
+L| to undergo dialysis
+L| 透 析 -する
+L| じん い しょく
+L| kidney transplant
+L| 腎 移 植
+L| い しょく
+L| 移 植 -する
+L| to transplant
+L| めん えき
+L| immunity
+L| 免 疫
+L| きょ ぜつ
+L| to reject
+L| 拒 絶 -する
+L| お だ
+L| to eject
+L| 追 い出 す
+L| おさ
+L| to suppress
+L| 抑 える
+L| さい きん
+L| 細 菌
+L| bacteria
+L| かん せん
+L| to infect
+L| 感 染 -する
+L| ドナー
+L| donor
+L| じん こう てき
+L| 人 工 的 （な）
+L| artificially
+L| か のう
+L| possibility
+L| 可 能 （な）
+L| かっ き てき
+L| ground-breaking
+L| 画 期 的 （な）
+L| じ しん
+L| oneself, itself
+L| 自 身
+L| throughout the entire
+L| からだ じゅう
+L| 体 中
+L| body, from head to toe
+L| そ しき
+L| tissue
+L| 組 織
+L| じつ よう
+L| practical use, utility
+L| 実 用
+L| to excel,
+L| すぐ
+L| 優 れる
+L| to be excellent,
+L| to be superior
+L| かい りょう
+L| 改 良 -する
+L| to improve
+L| りゅう
+L| dragon
+L| 竜
+L| もの がたり
+L| tale, story
+L| 物 語
+L| けん ちく
+L| to construct, to build
+L| 建 築 -する
+L| り ろん
+L| theory
+L| 理 論
+L| がい こう
+L| 外 交
+L| diplomacy
+L| 54
+==== PAGE 54 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| だい
+L| か ゆた
+L| しあわ
+L| 第 20課 　豊 かさと幸 せ
+L| ［できること］
+L| 1 じ ぶん か ち かん つた
+L| しあわ
+L| おも
+R| ゆう せん じゅん い かんが
+R| はな
+L| 自 分 の価 値 観 を伝 えるために、あると幸 せだと思 うものについて優
+R| 先 順 位 を考 えながら話 すことができる。
+L| You can express your values while talking about what
+R| kinds of things you think would make you happy and
+L| what priority you would give them.
+L| 2 き じ よ
+L| しあわ すう ち か
+L| かんが
+R| え
+L| 記 事 を読 んで、幸 せを数 値 化 することについて考 えるきっかけを得
+R| ることができる。
+L| You can read an article and use the opportunity to think
+R| about the topic of how to quantify happiness.
+L| けい えい しゃ
+L| き
+L| り ねん し
+L| 3
+L| 経 営 者 へのインタビューを聞 いて、その理 念 を知 ることができる。
+L| You can listen to an interview with an employer, and learn
+R| about their philosophy.
+L| じん ぶつ しょう かい き じ よ
+L| ひと けつ い こう どう り かい
+L| 4 人 物 紹 介 の記 事 を読 んで、その人 の決 意 や行 動 を理 解 することができる。
+L| You can read an article about a person and understand
+R| their decisions and actions.
+L| だん たい みせ り よう
+L| かん じ
+L| き ぼう つた よ やく
+L| 5 団 体 で店 を利 用 するときに、幹 事 として希 望 を伝 えて予 約
+R| することができる。
+L| You can make a reservation for a group gathering at a
+R| restaurant while communicating your desires as the
+L| party organizer.
+L| ［ことば］
+R| wasteful, futile,
+L| し たの
+L| 知 って楽 しむ
+R| む だ
+R| 無 駄 （な）
+R| useless, pointless
+L| だい に じ せ かい たい せん
+L| the Second World War
+L| 第 二 次 世 界 大 戦
+R| to omit, to leave out, to
+R| はぶ
+R| 省 く
+L| こう ど けい ざい せい ちょう
+L| 高 度 経 済 成 長
+L| rapid economic growth
+R| reduce, to economize
+L| Gross National Product
+R| は
+R| really
+R| 果 たして
+L| こく みん そう せい さん
+L| 国 民 総 生 産 （GNP）
+L| (GNP)
+R| まめ
+R| カカオ豆
+R| cacao (cocoa) bean
+L| し ほん しゅ ぎ
+L| capitalist
+L| 資 本 主 義
+R| しょう げき
+R| shock, impact
+R| 衝 撃
+L| prefix for forming
+R| おも
+L| だい だい か
+L| ordinal numbers (20th
+R| 重 さ
+R| weight, heaviness
+L| 第 ～（第 20課 ）
+L| Lesson, Lesson No. 20)
+R| unit, denomination,
+R| たん い
+R| 単 位
+L| counter for place (1st
+R| (academic) credit
+L| い い
+L| ～位 （１位 ）
+L| place) rank, grade, etc.
+R| しゅう にゅう
+R| income, revenue
+R| 収 入
+L| せき ゆ き き
+L| oil shock
+L| 石 油 危 機
+R| マラリア
+R| malaria
+L| けい ざい たい こく
+L| 経 済 大 国
+L| economic giant
+R| こう しょう
+R| to negotiate
+R| 交 渉 -する
+L| bubble economy
+R| けん り
+R| rights, privileges
+R| 権 利
+L| (especially Japan’s
+L| けい き
+L| バブル景 気
+L| bubble economy from
+R| クラウドファンディング crowdfunding
+L| 1986 to 1991)
+R| to process (food, etc.),
+R| か こう
+L| こう けい き
+R| 加 工 -する
+L| economic prosperity
+L| 好 景 気
+R| to manufacture
+L| ほう かい
+L| to collapse
+R| boundary, bounds,
+L| 崩 壊 -する
+R| きょう かい せん
+R| 境 界 線
+R| borderline
+L| てい せい ちょう
+L| 低 成 長
+L| low growth
+R| to (cause to) melt/
+R| と
+L| to aspire to, to focus
+R| 溶 かす
+R| dissolve
+L| し こう
+L| 志 向 -する
+L| on, to orient towards
+R| キャッチフレーズ
+R| catchphrase
+L| to venture, to go on an
+L| ぼう けん
+R| そう ほう
+R| both (parties)
+L| 冒 険 -する
+L| adventure, to take a
+R| 双 方
+L| risk
+R| ゆた
+R| rich, abundant, wealthy
+R| 豊 か（な）
+L| 55
+==== PAGE 55 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| to struggle against, to
+R| to curb, to stop, to hold
+R| く と
+R| 食 い止 める
+L| ふん とう
+L| work hard, to fight
+R| back
+L| 奮 闘 -する
+L| hard
+R| たん
+R| 単 に
+R| simply
+L| そう ぞう
+L| to create
+L| 創 造 -する
+R| よう そ
+R| element
+R| 要 素
+L| はつ ねつ
+L| to have a fever
+L| 発 熱 -する
+R| むす つ
+R| to be linked with
+R| 結 び付 く
+L| おう と
+L| 嘔 吐 -する
+L| to vomit
+R| to elapse,
+R| へ
+R| to experience,
+L| はっ しょう
+L| to develop symptoms
+R| 経 る
+L| 発 症 -する
+R| to go through
+L| to become severe (of
+L| じゅう しょう か
+L| 重 症 化 -する
+R| せい ふ
+R| government
+L| an illness)
+R| 政 府
+L| はな
+R| GDP (Gross Domestic
+L| 話 してみよう
+R| こく ない そう せい さん
+R| GDP ［国 内 総 生 産 ］
+R| Product)
+L| から あ
+L| fried chicken
+L| 唐 揚 げ
+R| しつ てき
+R| qualitative
+R| 質 的 （な）
+L| かみ がた
+L| hairstyle
+L| 髪 型
+R| こ じん てき
+R| personal
+R| 個 人 的 （な）
+L| ばっちり
+L| perfect
+R| あい まい
+R| 曖 昧 （な）
+R| vague
+L| to look good [here: to
+L| き
+L| かみ がた き
+L| 決 まる（髪 型 が決 まる）
+R| こ こ じん
+R| individual people
+L| have a great hair day]
+R| 個 々 人
+L| れつ
+L| line, queue
+R| ちゃく もく
+R| to focus attention on
+L| 列
+R| 着 目 -する
+L| き い
+R| い ぎ
+L| favorite
+R| significance
+L| お気 に入 り
+R| 意 義
+R| quality, character,
+L| 1
+R| しつ
+R| 質
+R| nature
+L| じゅん い
+L| 順 位
+L| order
+R| my, our, one’s own (our
+R| わ
+R| わ くに
+R| 我 が～（我 が国 ）
+L| き
+L| to think about
+R| country) (formal)
+L| 気 にかける
+L| to meet for the first
+R| ウェルビーイング（Well-
+L| し あ
+R| well-being
+L| 知 り合 う
+R| being）
+L| time
+L| あらそ
+R| がい よう
+L| 争 う
+L| to fight
+R| 概 要
+R| summary, overview
+L| だが
+L| however
+R| ない かく ふ
+R| the Cabinet Office
+R| 内 閣 府
+L| つらい
+L| hard
+R| こわ
+R| 怖 さ
+R| fear(fulness), fright
+L| 2
+R| 3
+L| しゅ かん てき
+L| subjective
+R| かい ちょう
+R| chairman
+L| 主 観 的 （な）
+R| 会 長
+L| かん かく
+L| feeling
+R| まか
+L| 感 覚
+R| 任 す
+R| to be put in charge of
+L| (numerical) value,
+R| とう さん
+R| to declare bankruptcy
+L| すう ち
+R| 倒 産 -する
+L| 数 値
+L| figure
+R| と こ
+R| to stay overnight
+R| 泊 まり込 む
+L| すでに
+L| already
+R| worn-out, ragged,
+R| ぼろぼろ（な）
+L| こう ふく
+L| happiness
+L| 幸 福 （な）
+R| exhausted
+L| しょ とく
+L| 所 得
+L| income
+R| てつ や
+R| to stay up all night
+R| 徹 夜 -する
+L| じゅ みょう
+L| life expectancy
+R| の こ
+R| to overcome
+L| 寿 命
+R| 乗 り越 える
+L| きゃっ かん てき
+R| ぜん いん
+L| 客 観 的 （な）
+L| objective
+R| 全 員
+R| all (people)
+L| りょう しゃ
+L| both sides
+R| かく じつ
+R| steadily
+L| 両 者
+R| 確 実 （な）
+L| きょう そう
+L| to compete
+R| ねん りん
+L| 競 争 -する
+R| 年 輪
+R| growth ring (tree)
+L| to fall, to decline, to
+R| ひどい
+R| terrible
+L| てい か
+L| 低 下 -する
+L| deteriorate
+R| の
+R| to postpone
+R| 延 ばす
+L| 56
+==== PAGE 56 ====
+R| できる日本語 中級 本冊【第2版】　2025/03/01
+L| to have an uphill
+R| えん そう
+R| 演 奏 -する
+R| to perform (music)
+L| く せん
+L| 苦 戦 -する
+L| struggle
+R| completed (reservation
+R| ず よ やく ず
+R| ～済 み（予 約 済 み）
+L| ようやく
+L| finally
+R| is made)
+L| しょう り
+L| to be victorious
+R| ひ
+R| date
+L| 勝 利 -する
+R| 日 にち
+L| つかむ
+L| to snatch
+R| ～people (how many
+R| めい さま なん めい さま
+R| ～名 様 （何 名 様 ）
+R| people?) (humble)
+L| 4
+R| とりあえず
+R| for now
+L| せい
+L| holy
+L| 聖 なる
+R| お
+R| to hold
+R| 押 さえる
+L| れん ざん
+L| 連 山
+L| mountain range
+L| さい こう ほう
+L| the highest peak
+L| 最 高 峰
+L| member of the
+L| さん がく ぶ いん
+L| 山 岳 部 員
+L| mountaineering club
+L| そう なん
+L| 遭 難 -する
+L| to go missing
+L| がく し
+L| bachelor’s degree
+L| 学 士
+L| さん じ
+L| tragedy
+L| 惨 事
+L| ひょう が
+L| 氷 河
+L| glacier
+L| い たい
+L| body (remains)
+L| 遺 体
+L| そう さく
+L| to search
+L| 捜 索 -する
+L| まえ ぶ
+L| warning
+L| 前 触 れ
+L| たい いん
+L| member
+L| 隊 員
+L| しゅう よう
+L| 収 容 -する
+L| to recover
+L| つと
+L| to work
+L| 勤 める
+L| こころざ
+L| to aspire to
+L| 志 す
+L| あん てい
+L| 安 定 -する
+L| to stabilize
+L| doubt, bewilderment,
+L| まよ
+L| 迷 い
+L| delusion, hesitation
+L| い ぞく
+L| bereaved family
+L| 遺 族
+L| で あ
+L| 出 合 い
+L| encounter, meeting
+L| はい ご
+L| background
+L| 背 後
+L| to make up one’s mind,
+L| けっ しん
+L| 決 心 -する
+L| to resolve to
+L| ゴルフ
+L| golf
+L| to borrow money, to
+L| しゃっ きん
+L| 借 金 -する
+L| take out a loan
+L| ふっ こう
+L| to recover
+L| 復 興 -する
+L| 5
+L| う あ
+L| wrap (party)
+L| 打 ち上 げ
+L| かん じ
+L| organizer
+L| 幹 事
+L| いま
+L| 今 のところ
+L| at the moment
+L| こ しつ
+L| private room
+L| 個 室
+L| 57
+==== PAGE 57 ====

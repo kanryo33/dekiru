@@ -1,0 +1,1989 @@
+﻿== 第1课 词条数=99 ==
+   p4 財産 (ざいさん) <- possessions
+   p4 中心 (ちゅうしん) <- center
+   p4 立場 (たちば) <- position
+   p4 試す (ため) <- try (out)
+   p4 移動-する (いどう) <- to move, to travel
+   p4 手段 (しゅだん) <- means
+   p4 旅-する (たび) <- to travel
+   p4 表す (あらわ) <- to represent
+   p4 出る（旅に出る） (でたびで) <- to go out, to leave [here: to go on a trip]
+   p4 困難（な） (こんなん) <- adversity
+   p4 お供 (とも) <- companion
+   p4 守る (まも) <- to protect
+   p4 動物 (どうぶつ) <- animal
+   p4 羊 (ひつじ) <- sheep
+   p4 与える（牛乳を与える） (あたぎゅうにゅうあた) <- to give [here: to give/ provide with milk]
+   p4 馬 (うま) <- horse
+   p4 順番 (じゅんばん) <- order
+   p4 人生 (じんせい) <- life
+   p4 牛 (うし) <- cow
+   p4 出合う (であ) <- to encounter
+   p4 協力し合う (きょうりょくあ) <- each other), to work
+   p4 自然（な） (しぜん) <- naturally
+   p4 協力-する (きょうりょく) <- to cooperate
+   p4 昔話 (むかしばなし) <- folk tale
+   p4 順に (じゅん) <- in order, in turn
+   p4 連れる (つ) <- to take someone (with)
+   p4 手放す (てばな) <- let go
+   p4 鬼退治 (おにたいじ) <- ogre hunting
+   p4 付ける（番号を付ける） (つばんごうつ) <- to attach [here: to assign a number]
+   p4 重大（な） (じゅうだい) <- major, important
+   p4 周り (まわ) <- around
+   p4 象徴-する (しょうちょう) <- to represent
+   p4 種明かし (たねあ) <- answer
+   p5 定員 (ていいん) <- limit to the number of participants
+   p5 新た（な） (あら) <- new
+   p5 確か（確か、明日テストだよね） (たしたしあす) <- I’m pretty sure (we
+   p5 掲示板 (けいじばん) <- noticeboard
+   p5 作る（友達を作る） (つくともだちつく) <- to make [here: to make friends]
+   p5 気分 (きぶん) <- mood
+   p5 交流-する (こうりゅう) <- to interact, to exchange
+   p5 広場 (ひろば) <- space, place
+   p5 天気予報 (てんきよほう) <- weather forecast
+   p5 できる（友達ができる） (ともだち) <- to be able to do [here: to become friends]
+   p5 気象予報士 (きしょうよほうし) <- weather forecaster
+   p5 日時 (にちじ) <- date and time
+   p5 青空 (あおぞら) <- clear sky
+   p5 人数 (にんずう) <- no. of people
+   p5 広がる (ひろ) <- to prevail
+   p5 先着 (せんちゃく) <- first
+   p5 日中 (にっちゅう) <- during the day
+   p5 ～名（50名 (めいめい) <- people (50 people)
+   p5 最高 (さいこう) <- highest
+   p5 見込み (みこ) <- expectation
+   p5 協会 (きょうかい) <- association
+   p5 当日 (とうじつ) <- on the day
+   p5 汗ばむ (あせ) <- to bring out a slight sweat
+   p5 支払う (しはら) <- to pay
+   p5 陽気 (ようき) <- warm
+   p5 雨天 (うてん) <- rain
+   p5 ～日和（洗濯日和 (びよりせんたくびより) <- perfect weather (for doing laundry)
+   p5 現代 (げんだい) <- nowadays
+   p5 星空 (ほしぞら) <- starry sky
+   p5 就職活動-する (しゅうしょくかつどう) <- to job-hunt
+   p5 重要（な） (じゅうよう) <- important
+   p5 前日 (ぜんじつ) <- the day before
+   p5 評価-する (ひょうか) <- to appreciate
+   p5 続く (つづ) <- to continue
+   p5 年 (ねんねん) <- year after year
+   p5 平年 (へいねん) <- average year
+   p5 高まる (たか) <- to increase
+   p5 ～並み（平年並み） (なへいねんな) <- equal to (equal to an average year)
+   p5 金額 (きんがく) <- amount (of money)
+   p5 領収書 (りょうしゅうしょ) <- receipt
+   p5 予想-する (よそう) <- to expect
+   p5 サイン-する () <- to sign
+   p5 肌寒い (はだざむ) <- chilly
+   p5 完成-する (かんせい) <- to complete
+   p5 感じる (かん) <- to feel
+   p5 ～品（完成品 (ひんかんせいひん) <- item
+   p5 連休 (れんきゅう) <- holiday weekend
+   p5 品質 (ひんしつ) <- quality
+   p5 工事-する (こうじ) <- to construct
+   p5 立てる（音を立てる） (たおとた) <- to make (noise)
+   p5 関東 (かんとう) <- comprising Tokyo and the surrounding
+   p5 お知らせ (し) <- notice
+   p5 ～地方（関東地方 (ちほうかんとうちほう) <- (Kanto) region, (Kanto) area
+   p5 以前 (いぜん) <- before
+   p6 東北 (とうほく) <- comprising the northern
+   p6 崩れる（天気が崩れる） (くずてんきくず) <- to get worse (the weather gets worse)
+   p6 各地 (かくち) <- everywhere, all over the place
+   p6 助かる (たす) <- to be helped
+   p6 実際 (じっさい) <- actually, really, in fact
+   p6 実は (じつ) <- in reality
+   p6 性格 (せいかく) <- character
+   p6 気が短い (きみじか) <- to have a short temper
+   p6 怒る (おこ) <- to get angry
+   p6 行動-する (こうどう) <- behavior
+   p6 欠点 (けってん) <- shortcoming
+   p7 第2課　楽しい食 (だいかたの) <- しょく じ じょうず か もの 事 ・上 手な買 い物
+== 第2课 词条数=65 ==
+   p7 行列-する (ぎょうれつ) <- to line, to queue
+   p7 お待たせいたしました (ま) <- thank you for waiting
+   p7 評判 (ひょうばん) <- reputation
+   p7 加わる (くわ) <- to join
+   p7 好み (この) <- taste, preference
+   p7 ～感（安心感 (かんあんしんかん) <- sense (sense of security)
+   p7 関西 (かんさい) <- Kansai
+   p7 異なる (こと) <- to differ
+   p7 印象 (いんしょう) <- impression
+   p7 与える（印象を与える） (あたいんしょうあた) <- to give (an impression)
+   p7 お役立ち情報 (やくだじょうほう) <- useful information
+   p7 ある～（ある留学生 (りゅうがくせい) <- a certain (a certain overseas student)
+   p7 予算 (よさん) <- budget
+   p7 検索-する (けんさく) <- to search
+   p7 思ったより (おも) <- more than I had imagined
+   p7 登録-する (とうろく) <- to register
+   p7 口コミ (くち) <- word of mouth
+   p7 拒否-する (きょひ) <- to resist
+   p7 感想 (かんそう) <- impressions, thoughts
+   p7 舌 (した) <- tongue
+   p7 比較-する (ひかく) <- to compare
+   p7 参考 (さんこう) <- reference
+   p7 写真立て (しゃしんた) <- photo frame
+   p7 安全 (あんぜん) <- safety
+   p8 ～ほど（２時間ほど） (じかん) <- around (around 2 hours)
+   p8 大～（大セール） (だいだい) <- big~, huge~, mega~ (a mega-sale)
+   p8 ～以降（４時以降 (いこうじいこう) <- after (after 4 o’clock)
+   p8 キャンセル-する (あいにく) <- to cancel
+   p8 品 (しな) <- product
+   p8 待ち (ま) <- waiting (for), waiting time
+   p8 手に入る (てはい) <- to get hold of, to acquire
+   p8 お買い得 (かどく) <- bargain, good buy
+   p8 申し訳ありません (もうわけ) <- I’m sorry
+   p8 お買い上げ (かあ) <- purchase
+   p8 延期-する (えんき) <- to postpone
+   p8 次回 (じかい) <- next (time)
+   p8 組み立てる (くた) <- to assemble
+   p8 福袋 (ふくぶくろ) <- lucky bag
+   p8 品物 (しなもの) <- goods
+   p8 閉店-する (へいてん) <- to close down
+   p8 薦める (すす) <- to recommend
+   p8 来店-する (らいてん) <- to visit a shop
+   p8 合う（サイズが合う） (ああ) <- to match [here: the
+   p8 中身 (なかみ) <- contents
+   p8 応募-する (おうぼ) <- to apply
+   p8 交換-する (こうかん) <- to exchange
+   p8 国内 (こくない) <- domestic (in Japan)
+   p8 振り仮名 (ふがな) <- furigana (reading printed beside kanji)
+   p8 在住-する (ざいじゅう) <- to reside
+   p8 家電 (かでん) <- consumer electronics
+   p8 共有-する (きょうゆう) <- to share
+   p8 出入り口 (でいぐち) <- door, entrance/exit
+   p8 駐車-する (ちゅうしゃ) <- to park
+   p8 禁止-する (きんし) <- to ban, to forbid, to prohibit
+   p8 好評（な） (こうひょう) <- popular, well-received
+   p8 期間 (きかん) <- (time) period, term
+   p8 延長-する (えんちょう) <- to extend, to prolong
+   p8 看板 (かんばん) <- sign
+   p8 直し (なお) <- correction, do over
+   p8 試着-する (しちゃく) <- to try on (clothes)
+   p8 ～室（試着室 (しつしちゃくしつ) <- (dressing, fitting) room
+   p8 裾 (すそ) <- hem
+   p8 長さ (なが) <- length
+   p8 受け取る (うと) <- to collect
+   p9 第3課　時間を生 (だいかじかん) <- い かす
+== 第3课 词条数=64 ==
+   p9 やる気 (き) <- will, motivation, enthusiasm
+   p9 効率 (こうりつ) <- efficiency
+   p9 立てる（スケジュールを立てる） (た) <- た to create (to create a
+   p9 アップ-する () <- to increase
+   p9 ～法（管理法 (ほうかんりほう) <- method (management method)
+   p9 設定-する (せってい) <- to set
+   p9 少しも (すこ) <- not at all
+   p9 注目-する (ちゅうもく) <- to focus (on)
+   p9 受信-する (じゅしん) <- to receive
+   p9 気が散る (きち) <- to be distracted
+   p9 ～力（集中力 (りょくしゅうちゅうりょく) <- power (power of concentration)
+   p9 登録商標 (とうろくしょうひょう) <- registered trademark
+   p9 役立つ (やくだ) <- to be useful
+   p9 生かす (い) <- to make (the best) use of, to put to (good) use
+   p9 繰り返す (くかえ) <- to repeat
+   p9 有効（な） (ゆうこう) <- efficient
+   p9 長め (なが) <- longish, extended
+   p9 記事 (きじ) <- article
+   p9 取る（休憩を取る） (ときゅうけいと) <- take (a rest)
+   p9 朝活 (あさかつ) <- using the early morning for a particular activity
+   p9 利点 (りてん) <- benefit, advantage
+   p9 終了-する (しゅうりょう) <- to end, to complete
+   p9 声（学生の声を紹介する） (こえがくせいこえしょうかい) <- are some student
+   p9 鳴る (な) <- to ring
+   p9 解消-する (かいしょう) <- to relieve
+   p9 関係 (かんけい) <- relation
+   p9 勧める (すす) <- encourage (someone to
+   p9 早起きは三文の徳 (はやおさんもんとく) <- the early bird catches the worm
+   p10 早朝 (そうちょう) <- early morning
+   p10 貴重（な） (きちょう) <- precious
+   p10 キャリアアップ-する (ぴったり（な）) <- career enhancement
+   p10 出勤-する (しゅっきん) <- to go to work
+   p10 楽しむ (たの) <- to enjoy
+   p10 講座 (こうざ) <- course
+   p10 公民館 (こうみんかん) <- community center
+   p10 集中-する (しゅうちゅう) <- to concentrate
+   p10 太鼓 (たいこ) <- (Japanese) drum
+   p10 活用-する (かつよう) <- to utilize
+   p10 資格 (しかく) <- qualification, certification
+   p10 実際に (じっさい) <- actually
+   p10 合う（自分に合う） (あじぶんあ) <- to be a good fit (for someone), to suit
+   p10 悪いけど (わる) <- sorry but,
+   p10 筆者 (ひっしゃ) <- writer
+   p10 初心者 (しょしんしゃ) <- beginner
+   p10 かける（声をかける） (こえ) <- to address (talk to) someone
+   p10 信じる (しん) <- to believe
+   p10 山頂 (さんちょう) <- summit
+   p10 詳しい (くわ) <- detailed
+   p10 近づく (ちか) <- to get close to
+   p10 眺め (なが) <- view
+   p10 一休み-する (ひとやす) <- to take a quick break
+   p10 あっという間 (ま) <- in the blink of an eye
+   p10 過ぎる（時間が過ぎる） (すじかんす) <- to pass (time passes)
+   p10 振り返る (ふかえ) <- to reflect, look back on
+   p10 結構 (けっこう) <- fairly
+   p10 浮かぶ（頭に浮かぶ） (うあたまう) <- to come (to mind), to pop into (one’s head)
+   p10 手帳 (てちょう) <- notebook
+   p10 メモ-する () <- to make a note, to take
+   p10 落ち着く (おつ) <- to calm down
+   p10 余裕 (よゆう) <- margin
+   p10 見直す (みなお) <- to review
+   p10 宝物 (たからもの) <- prized possession
+   p10 通勤-する (つうきん) <- to commute
+   p11 第4課　地域を知 (だいかちいき) <- し せい かつ って生 活 する
+== 第4课 词条数=76 ==
+   p11 解説-する (かいせつ) <- explanation
+   p11 公共 (こうきょう) <- public
+   p11 損（な） (そん) <- (a) waste
+   p11 納得-する (なっとく) <- to be won over, satisfied
+   p11 定期的（な） (ていきてき) <- regular
+   p11 事前に (じぜん) <- in advance
+   p11 上映-する (じょうえい) <- to show (a film)
+   p11 回る（施設を回る） (まわしせつまわ) <- to go around [here: to tour a facility]
+   p11 専門家 (せんもんか) <- expert
+   p11 絵画 (かいが) <- painting
+   p11 和紙 (わし) <- Japanese paper
+   p11 織物 (おりもの) <- textiles
+   p11 格安（な） (かくやす) <- cheap, reasonable
+   p11 身近（な） (みぢか) <- nearby, close
+   p11 仲間 (なかま) <- (group of) friends
+   p11 市町村 (しちょうそん) <- cities, towns and villages
+   p11 手軽（な） (てがる) <- easy, casual, offhand
+   p11 工夫-する (くふう) <- to be creative
+   p11 貸し出し (かだ) <- lending out
+   p11 タイムスリップ-する () <- to be transported back
+   p11 本人 (ほんにん) <- the person in question
+   p11 例えば (たと) <- for example
+   p11 科学 (かがく) <- science
+   p11 自宅 (じたく) <- home
+   p11 知識 (ちしき) <- knowledge
+   p11 郵便物 (ゆうびんぶつ) <- mail (postal)
+   p11 増やす (ふ) <- to increase
+   p11 芸術 (げいじゅつ) <- art
+   p11 日当たり (ひあ) <- exposure to the sun
+   p11 鑑賞-する (かんしょう) <- to appreciate
+   p11 ～者（経験者 (しゃけいけんしゃ) <- (experienced) person
+   p11 喜ぶ (よろこ) <- to be pleased
+   p12 天候 (てんこう) <- weather
+   p12 取る（予約を取る） (とよやくと) <- a reservation/
+   p12 施設 (しせつ) <- facility
+   p12 職員 (しょくいん) <- member of staff
+   p12 特徴 (とくちょう) <- feature(s)
+   p12 管理人 (かんりにん) <- concierge, (building) manager
+   p12 寄る (よ) <- to drop in
+   p12 解決-する (かいけつ) <- to solve, to resolve
+   p12 音声 (おんせい) <- audio
+   p12 眺める (なが) <- to gaze at, to watch, to view
+   p12 ～号室（203号室 (ごうしつごうしつ) <- apartment numbers
+   p12 展示-する (てんじ) <- to exhibit
+   p12 気軽（な） (きがる) <- easy
+   p12 偶然 (ぐうぜん) <- suddenly, by chance
+   p12 伺う (うかが) <- to ask
+   p12 急用 (きゅうよう) <- emergency
+   p12 通路 (つうろ) <- corridor, hallway
+   p12 切れる（電気が切れる） (きでんきき) <- to go out (lights, electricity)
+   p12 ずっと（ずっと聞いている） (き) <- continuously, much
+   p12 取り換える (とか) <- to replace
+   p12 使用-する (しよう) <- to use, to utilize
+   p12 トレーニング-する (ようこそ) <- to train
+   p12 進む（100メートルぐら (すす) <- to advance (100 meters), to move
+   p12 い進む） (すす) <- meters), to move forward, to progress
+   p12 在勤-する (ざいきん) <- to be working at (a company, etc.)
+   p12 先 (さき) <- (up) ahead
+   p12 在学-する (ざいがく) <- to be attending (a school, etc.)
+   p12 灰色 (はいいろ) <- grey
+   p12 講習 (こうしゅう) <- course
+   p12 斜め (なな) <- diagonally
+   p12 器具 (きぐ) <- equipment
+   p12 正面 (しょうめん) <- front
+   p12 有無 (うむ) <- with or without
+   p12 方針 (ほうしん) <- policy
+   p12 指導-する (しどう) <- to instruct, to guide
+   p12 進める (すす) <- to proceed
+   p12 通年 (つうねん) <- all year round
+   p12 卓球 (たっきゅう) <- table tennis
+   p12 各～（各20人 (かくかくひと) <- each (20 people each)
+   p12 持参-する (じさん) <- to bring something (with you)
+   p12 年齢 (ねんれい) <- age
+   p12 性別 (せいべつ) <- gender
+   p12 返事-する (へんじ) <- to reply
+   p13 第5課　緊急事 (だいかきんきゅうじ) <- たい 態 ！
+== 第5课 词条数=120 ==
+   p13 張る (は) <- to pitch (a tent)
+   p13 数～（数日 (すうすうじつ) <- several (several days)
+   p13 国土 (こくど) <- country, (national) territory
+   p13 陸地 (りくち) <- land
+   p13 送る（避難生活を送る） (おくひなんせいかつおく) <- to live (to live in an evacuation shelter)
+   p13 設備 (せつび) <- facilities
+   p13 起きる（地震が起きる） (おじしんお) <- to happen (an earthquake happens)
+   p13 普段 (ふだん) <- everyday
+   p13 ～割（２割 (わりわり) <- percent (20%)
+   p13 別 (べつ) <- different
+   p13 起こる（地震が起こる） (おじしんお) <- to happen (an earthquake happens)
+   p13 役割 (やくわり) <- role
+   p13 人間 (にんげん) <- human
+   p13 力 (ちから) <- strength, power
+   p13 被害 (ひがい) <- damage
+   p13 簡易 (かんい) <- easy, simple
+   p13 非常 (ひじょう) <- emergency
+   p13 便器 (べんき) <- urinal, toilet bowl
+   p13 持ち出す (もだ) <- to take out
+   p13 載せる (の) <- to put on
+   p13 震災 (しんさい) <- earthquake disaster
+   p13 下水道 (げすいどう) <- sewer
+   p13 処理-する (しょり) <- to treat, to process
+   p13 被災-する (ひさい) <- to be a victim (of a disaster)
+   p13 十分（な） (じゅうふん) <- adequately
+   p13 受け入れる (うい) <- to accommodate
+   p13 貯水槽 (ちょすいそう) <- water tank
+   p13 全国 (ぜんこく) <- nationwide, all over the country
+   p13 くみ上げる (あ) <- to pump
+   p13 仮設-する (かせつ) <- facilities (during a
+   p14 用水 (ようすい) <- water for irrigation
+   p14 乾燥-する (かんそう) <- to dry
+   p14 防火 (ぼうか) <- fire prevention
+   p14 火災 (かさい) <- fire
+   p14 電灯 (でんとう) <- electric light
+   p14 発生-する (はっせい) <- to occur
+   p14 太陽光 (たいようこう) <- Sunlight
+   p14 呼びかける (よ) <- to appeal to
+   p14 発電-する (はつでん) <- to generate power
+   p14 固定-する (こてい) <- to fix, to secure
+   p14 雷雨 (らいう) <- thunderstorm
+   p14 停電-する (ていでん) <- to lose power, to have a power cut
+   p14 示す (しめ) <- to show
+   p14 状況 (じょうきょう) <- circumstances
+   p14 目印 (めじるし) <- mark, sign
+   p14 捻挫-する (ねんざ) <- to sprain, to twist
+   p14 備えあれば憂いなし (そなうれ) <- be prepared and have no regrets
+   p14 緊急 (きんきゅう) <- emergency
+   p14 変更-する (へんこう) <- to change
+   p14 人身事故 (じんしんじこ) <- accident between a vehicle and a person
+   p14 事態 (じたい) <- (usually with a
+   p14 帰省-する (きせい) <- to return to one’s home (town/country)
+   p14 休暇 (きゅうか) <- leave, time off
+   p14 速報 (そくほう) <- news flash
+   p14 幸せ（な） (しあわ) <- happiness
+   p14 ただ今 (いま) <- right now, just now
+   p14 心 (こころ) <- heart
+   p14 震度 (しんど) <- seismic intensity
+   p14 ～弱（震度５弱 (じゃくしんどじゃく) <- lower (seismic intensity 5-lower)
+   p14 状態 (じょうたい) <- situation
+   p14 念のため (ねん) <- just in case
+   p14 津波 (つなみ) <- tsunami, tidal wave
+   p14 横断歩道 (おうだんほどう) <- pedestrian crossing
+   p14 警戒-する (けいかい) <- to be careful of
+   p14 患者 (かんじゃ) <- patient
+   p14 身 (み) <- self
+   p14 手首 (てくび) <- wrist
+   p14 確保-する (かくほ) <- to ensure
+   p14 先ほど (さき) <- a little while ago
+   p14 道路 (どうろ) <- road
+   p14 震源 (しんげん) <- epicenter
+   p14 たつ（時間がたつ） (じかん) <- to pass (time passes)
+   p14 沖 (おき) <- open sea
+   p14 足首 (あしくび) <- ankle
+   p14 深さ (ふか) <- depth
+   p14 痛める (いた) <- to hurt
+   p14 診る (み) <- to examine (medical)
+   p14 記録-する (きろく) <- to register (on the Richter scale)
+   p14 不思議（な） (ふしぎ) <- strange
+   p14 余震 (よしん) <- aftershock
+   p14 社会 (しゃかい) <- society, the public, the wider community
+   p14 接近-する (せっきん) <- to approach
+   p14 変化-する (へんか) <- to change
+   p14 欠航-する (けっこう) <- to cancel (flight)
+   p14 人 (ひとびと) <- people
+   p14 影響-する (えいきょう) <- to affect
+   p14 消防署 (しょうぼうしょ) <- fire department
+   p14 避難-する (ひなん) <- to evacuate
+   p15 溺れる (おぼ) <- to drown
+   p15 訓練-する (くんれん) <- to train
+   p15 飛び込む (とこ) <- to jump into
+   p15 注意事項 (ちゅういじこう) <- important points, points to note
+   p15 傷 (きず) <- scratch
+   p15 倉庫 (そうこ) <- warehouse
+   p15 慌てる (あわ) <- to panic
+   p15 日ごろ (ひ) <- daily
+   p15 指示-する (しじ) <- to instruct
+   p15 決して (けっ) <- never
+   p15 煙 (けむり) <- smoke
+   p15 覆う (おお) <- to cover
+   p15 組む (く) <- to cross (legs, arms, etc.)
+   p15 ～時（避難時 (じひなんじ) <- the event of
+   p15 防災 (ぼうさい) <- disaster prevention
+   p15 災害 (さいがい) <- disaster
+   p15 遭う (あ) <- to encounter
+   p15 急病 (きゅうびょう) <- sudden illness
+   p15 ハイキング-する () <- to hike
+   p15 斜面 (しゃめん) <- slope
+   p15 滑り落ちる (すべお) <- to slide
+   p15 雨上がり (あめあ) <- after rain
+   p15 飛ばす (と) <- to fly/blow (away)
+   p15 崩す (くず) <- to give way
+   p15 擦りむく (す) <- to graze
+   p15 擦る (こす) <- to scrape, to scratch, to rub
+   p15 血 (ち) <- blood
+   p15 全身 (ぜんしん) <- whole body
+   p15 泥 (どろ) <- mud
+   p15 無事（な） (ぶじ) <- safely
+   p15 元 (もと) <- original
+   p16 第6課　地図を広 (だいかちず) <- ひろ げる
+== 第6课 词条数=116 ==
+   p16 作戦 (さくせん) <- grand plan
+   p16 快適（な） (かいてき) <- comfortably
+   p16 開催-する (かいさい) <- to hold
+   p16 梅雨 (つゆ) <- rainy season
+   p16 ～でも（少しでも） (すこ) <- even (a little), (any) at all
+   p16 焼ける (や) <- to burn
+   p16 水道水 (すいどうすい) <- tap water
+   p16 太陽 (たいよう) <- the sun
+   p16 残り湯 (のこゆ) <- leftover bathwater
+   p16 今でこそ (いま) <- nowadays
+   p16 雨水 (あまみず) <- rainwater
+   p16 普及-する (ふきゅう) <- to be widespread
+   p16 気化熱 (きかねつ) <- (amount of energy needed to transform a
+   p16 魔除け (まよ) <- talisman (to ward off evil spirits)
+   p16 広げる (ひろ) <- to spread out
+   p16 平均 (へいきん) <- average
+   p16 降水量 (こうすいりょう) <- amount of rainfall
+   p16 打ち水 (うみず) <- sprinkling water
+   p16 地面 (じめん) <- the ground
+   p16 気候 (きこう) <- climate
+   p16 光景 (こうけい) <- sight, scene
+   p16 南北 (なんぼく) <- north to south
+   p16 蒸発-する (じょうはつ) <- to evaporate
+   p16 島 (しま) <- island
+   p16 奪う (うば) <- to take away
+   p16 山林 (さんりん) <- mountains and forests
+   p16 近年 (きんねん) <- in recent years
+   p17 ～分の～（３分の２） (ぶんぶん) <- xx parts of xx (two thirds)
+   p17 現金 (げんきん) <- cash
+   p17 地形 (ちけい) <- terrain
+   p17 電子マネー (でんし) <- electronic money
+   p17 温帯 (おんたい) <- temperate zone
+   p17 位置-する (いち) <- to be located
+   p17 体調 (たいちょう) <- physical condition, health
+   p17 蒸し暑い (むあつ) <- humid
+   p17 何だか (なん) <- a little, somewhat
+   p17 ～側（太平洋側 (がわたいへいようがわ) <- side (pacific ocean side)
+   p17 和菓子 (わがし) <- Japanese sweets
+   p17 港 (みなと) <- port
+   p17 割合 (わりあい) <- ratio
+   p17 ～町（港町 (まちみなとまち) <- ~ town (a port town)
+   p17 例年 (れいねん) <- average year
+   p17 栄える (さか) <- to thrive, to flourish
+   p17 連なる (つら) <- to extend, to stretch
+   p17 面する (めん) <- to face, to look out on to, to border
+   p17 現在 (げんざい) <- current
+   p17 恵まれる (めぐ) <- to be rich in
+   p17 人口 (じんこう) <- population
+   p17 美しい (うつく) <- beautiful
+   p17 都市 (とし) <- city
+   p17 平野 (へいや) <- plain
+   p17 県庁 (けんちょう) <- prefectural office
+   p17 庭 (にわ) <- garden
+   p17 周辺 (しゅうへん) <- vicinity, surrounding area, outskirts
+   p17 名園 (めいえん) <- great gardens
+   p17 地区 (ちく) <- district
+   p17 石垣 (いしがき) <- stone wall
+   p17 商業 (しょうぎょう) <- commerce
+   p17 軒 (のき) <- eaves
+   p17 ～年代（1600年代 (ねんだいねんだい) <- era, century (in the 17th century)
+   p17 瓦 (かわら) <- roof tile
+   p17 塀 (へい) <- wall
+   p17 ～街（中華街 (まちちゅうかがい) <- quarter (Chinese quarter)
+   p17 石 (いし) <- stone
+   p17 砂浜 (すなはま) <- sandy beach
+   p17 付く（名前が付く） (つなまえつ) <- bear a name, to be
+   p17 合わせる (あ) <- to adjust, to be suited to
+   p17 日差し (ひざ) <- sunlight
+   p17 村 (むら) <- village
+   p17 一説 (いっせつ) <- one theory, one account
+   p17 延びる (の) <- to extend
+   p17 固める (かた) <- to secure
+   p17 名付ける (なづ) <- to name
+   p17 鉄筋 (てっきん) <- rebar (iron reinforcing bar)
+   p17 埋め立てる (うた) <- to reclaim (land)
+   p17 埋める (う) <- to bury, to fill
+   p17 気象 (きしょう) <- weather
+   p17 浜 (はま) <- beach
+   p17 小論文 (しょうろんぶん) <- short essay
+   p17 地名 (ちめい) <- place name
+   p17 風景 (ふうけい) <- scenery
+   p17 畳 (たたみ) <- tatami (straw floor mats)
+   p18 一生 (いっしょう) <- a lifetime
+   p18 浮かべる (う) <- to float (something)
+   p18 頑固（な） (がんこ) <- stubborn
+   p18 職人 (しょくにん) <- artisan
+   p18 あり続ける (つづ) <- to remain, to continue to be
+   p18 地方 (ちほう) <- region
+   p18 名産 (めいさん) <- famous local specialty
+   p18 海洋 (かいよう) <- ocean
+   p18 生物 (せいぶつ) <- creature
+   p18 化石 (かせき) <- fossil
+   p18 辺り (あた) <- area
+   p18 最大 (さいだい) <- the biggest, the maximum, the most
+   p18 町人 (ちょうにん) <- townspeople, merchant
+   p18 産業 (さんぎょう) <- industry
+   p18 盛ん（な） (さか) <- thriving
+   p18 生産-する (せいさん) <- to produce
+   p18 天下の台所（大阪の別名 (てんかだいどころおおさかべつめい) <- The Nation’s Kitchen (a ） nickname for Osaka)
+   p18 企業 (きぎょう) <- company
+   p18 工業 (こうぎょう) <- industry
+   p18 発展する (はってん) <- to develop
+   p18 訪れる (おとず) <- to visit
+   p18 特産 (とくさん) <- produced in a particular region
+   p18 ～物（特産物 (ぶつとくさんぶつ) <- ~ product (local specialty product)
+   p18 空っ風 (からかぜ) <- karakkaze (dry wind)
+   p18 吹く (ふ) <- to blow
+   p18 湿る (しめ) <- to be moist, humid
+   p18 越える (こ) <- to go/come over
+   p18 北風 (きたかぜ) <- northerly wind
+   p18 風力 (ふうりょく) <- wind power
+   p18 凧揚げ (たこあ) <- kite flying
+   p18 凧 (たこ) <- kite
+   p18 揚げる (あ) <- to fly, to hoist
+   p18 思い浮かべる (おもう) <- to think of
+   p19 第7課　世代を超 (だいかせだい) <- こ こう りゅう えた交 流
+== 第7课 词条数=78 ==
+   p19 超える (こ) <- to cross, to go beyond, to surpass
+   p19 ～言葉（友達言葉 (ことばともだちことば) <- (casual speech, baby
+   p19 ～談（体験談 (だんたいけんだん) <- a talk, a recounting (of one’s experiences)
+   p19 海岸 (かいがん) <- coast
+   p19 同年代 (どうねんだい) <- the same generation
+   p19 年代 (ねんだい) <- generation, age
+   p19 ～分け（グループ分け） (わわ) <- division (division into groups)
+   p19 返る (かえ) <- to come back
+   p19 タメ口 (ぐち) <- peer language
+   p19 年配 (ねんぱい) <- older
+   p19 違和感 (いわかん) <- uncomfortable feeling
+   p19 要る (い) <- to need
+   p19 共通-する (きょうつう) <- to share, to have in common
+   p19 ～以外（勉強以外 (いがいべんきょういがい) <- other than (other than studying)
+   p19 友人 (ゆうじん) <- friend
+   p19 景気 (けいき) <- the economy
+   p19 対等（な） (たいとう) <- equal
+   p19 都心 (としん) <- city centre
+   p19 回答-する (かいとう) <- to reply
+   p19 努力-する (どりょく) <- to make an effort
+   p19 初対面 (しょたいめん) <- first meeting
+   p19 当然（な） (とうぜん) <- reasonable, natural
+   p19 無駄遣い-する (むだづか) <- to waste, to squander
+   p19 話題 (わだい) <- subject
+   p19 貯まる (た) <- to be saved up (money)
+   p19 分野 (ぶんや) <- field
+   p19 より～（より親しく） (した) <- more ~, ~er (better acquainted, closer)
+   p19 判断-する (はんだん) <- to judge
+   p19 数 (かず) <- number
+   p19 思い切って (おもき) <- to take the plunge and
+   p19 意外（な） (いがい) <- unexpected
+   p19 ～代（40代 (だいだい) <- generation/decade (40s)
+   p19 世代 (せだい) <- generation
+   p19 シュート-する () <- to shoot
+   p20 お互い (たが) <- mutual
+   p20 ～同士（男同士 (どうしおとこどうし) <- [here: between (us)
+   p20 気がする (き) <- to get the feeling that ...
+   p20 な（頑張ろうな） (がんば) <- huh? (We should try hard, huh?)
+   p20 掛け声 (かごえ) <- call, shout
+   p20 君 (きみ) <- you
+   p20 瞬間 (しゅんかん) <- moment
+   p20 ハイタッチ-する () <- high five
+   p20 月日 (つきひ) <- time passes
+   p20 出会い (であ) <- encounter
+   p20 夢中（な） (むちゅう) <- to be engrossed
+   p20 出店-する (しゅってん) <- to set up a stall
+   p20 迎える (むか) <- to welcome
+   p20 中古 (ちゅうこ) <- used, second-hand
+   p20 感動-する (かんどう) <- to be impressed, to be moved
+   p20 介助犬 (かいじょけん) <- service dog
+   p20 畑 (はたけ) <- field (for growing crops)
+   p20 育成-する (いくせい) <- to train
+   p20 寄付-する (きふ) <- to donate
+   p20 若しい (わかわか) <- youthful
+   p20 ～金（寄付金 (きんきふきん) <- money (donation)
+   p20 持ち上げる (もあ) <- to lift (up)
+   p20 受ける（誘いを受ける） (うさそう) <- to accept
+   p20 売り上げ (うあ) <- sales
+   p20 孫 (まご) <- grandchild
+   p20 一部 (いちぶ) <- a part of
+   p20 気象庁 (きしょうちょう) <- meteorological agency
+   p20 暖冬 (だんとう) <- mild winter
+   p20 期待-する (きたい) <- to expect
+   p20 今ごろ (いま) <- around this time
+   p20 親孝行-する (おやこうこう) <- to be a good son/ daughter
+   p20 団体 (だんたい) <- group
+   p20 学園 (がくえん) <- school
+   p20 立派（な） (りっぱ) <- splendid, elegant
+   p20 ～祭（学園祭 (さいがくえんさい) <- ~ festival (school festival)
+   p20 述べる (の) <- to state
+   p20 全て (すべ) <- all
+   p20 苦しむ (くる) <- to suffer
+   p20 ミーティング-する () <- to have a meeting
+   p20 定年 (ていねん) <- retirement age
+   p20 退職-する (たいしょく) <- to retire
+   p20 人見知り-する (ひとみし) <- to be uncomfortable around strangers
+   p20 ほう（人見知りするほう） (ひとみし) <- type (shy type)
+   p21 第8課　気持ちを伝 (だいかきも) <- つた える
+== 第8课 词条数=74 ==
+   p21 許可-する (きょか) <- to permit
+   p21 ～末（来月末 (まつらいげつまつ) <- end (end of next month)
+   p21 包装-する (ほうそう) <- to wrap
+   p21 仕方 (しかた) <- method, way
+   p21 全く (まった) <- (not) at all
+   p21 同僚 (どうりょう) <- colleague
+   p21 任せる (まか) <- to leave it up to (someone else)
+   p21 かける（迷惑をかける） (めいわく) <- to cause (to cause a problem)
+   p21 包装紙 (ほうそうし) <- wrapping paper
+   p21 回収-する (かいしゅう) <- to collect
+   p21 ～置き場（ごみ置き場 (おばおば) <- place to put something (trash collection point)
+   p21 ラッピング-する (かける（リボンをかける）) <- to wrap
+   p21 色違い (いろちが) <- a different color
+   p21 朝礼 (ちょうれい) <- morning meeting
+   p21 貴族 (きぞく) <- aristocrat
+   p21 担当-する (たんとう) <- to be in charge of
+   p21 一時帰国 (いちじきこく) <- a trip to one’s home country
+   p21 当時 (とうじ) <- of the time, at that time
+   p21 高価（な） (こうか) <- highly-priced
+   p21 帰国-する (きこく) <- to go back to one’s home country
+   p21 表れ (あらわ) <- expression
+   p21 破る (やぶ) <- to rip
+   p21 一筆箋 (いっぴつせん) <- writing pad for writing
+   p21 含める (ふく) <- to be included
+   p21 伝わる (つた) <- to communicate
+   p22 縦 (たて) <- length
+   p22 壊す（体を壊す） (こわからだこわ) <- to damage (to damage one’s health)
+   p22 ～センチ（18センチ） () <- cm (18cm)
+   p22 目の前 (めまえ) <- right in front of one, before one’s eyes
+   p22 細長い (ほそなが) <- long and thin
+   p22 割る (わ) <- to break
+   p22 便箋 (びんせん) <- writing paper
+   p22 堅い（堅い挨拶 (かたかたあいさつ) <- rigid, stiff, formal (greeting)
+   p22 本題 (ほんだい) <- main theme
+   p22 言葉遣い (ことばづか) <- use of language
+   p22 手書き (てが) <- handwritten
+   p22 間違う (まちが) <- to make a mistake
+   p22 贈り物 (おくもの) <- present
+   p22 お世話になっています (せわ) <- Thank you for your (continued) support.
+   p22 受ける（ショックを受ける） (うう) <- to receive, to get (to
+   p22 気が利く (きき) <- thoughtful
+   p22 機械 (きかい) <- machine
+   p22 落ち込む (おこ) <- to feel discouraged, down
+   p22 印刷-する (いんさつ) <- to print
+   p22 済ませる (す) <- to get something done with, over with
+   p22 口うるさい (くち) <- nagging, critical
+   p22 思い (おも) <- thoughts
+   p22 励ます (はげ) <- to encourage
+   p22 先日 (せんじつ) <- the other day
+   p22 倒す (たお) <- to knock over
+   p22 近況 (きんきょう) <- what you have been
+   p22 汚す (よご) <- to stain, to make dirty
+   p22 本気（な） (ほんき) <- for real
+   p22 お久しぶりです (ひさ) <- It’s been a long time.
+   p22 相変わらず (あいか) <- as ever
+   p22 出産-する (しゅっさん) <- to give birth
+   p22 残す（記録に残す） (のこきろくのこ) <- to leave (leave a record of)
+   p22 一言 (ひとこと) <- a note
+   p22 残る（記録が残る） (のこきろくのこ) <- to be left (a record has been left)
+   p22 添える (そ) <- to include, to attach
+   p22 後悔-する (こうかい) <- to regret
+   p22 気に入る (きい) <- to like
+   p22 空 (そら) <- the sky
+   p22 愚痴 (ぐち) <- complaint
+   p22 感謝-する (かんしゃ) <- to thank, to appreciate
+   p22 （お）詫び (わ) <- apology
+   p22 追加-する (ついか) <- to add
+   p22 生ビール (なま) <- draft beer
+   p22 駄目（な） (だめ) <- not allowed
+   p22 平気（な） (へいき) <- without giving it a second thought
+   p22 渋滞-する (じゅうたい) <- to clog/back up
+   p22 帰宅-する (きたく) <- to go home
+   p22 久しぶり（な） (ひさ) <- for the first time in a long time
+   p23 第9課　言葉を楽 (だいかことば) <- たの しむ
+== 第9课 词条数=75 ==
+   p23 柿 (かき) <- kaki (persimmon)
+   p23 食う (く) <- to eat
+   p23 変（な） (へん) <- odd, strange
+   p23 ～軒（１軒 (けんけん) <- counter for buildings (1 building (temple))
+   p23 合わせる（２と３を合わせる） (ああ) <- add up (add up 2 and
+   p23 お参り-する (まい) <- to visit a shrine/temple
+   p23 村人 (むらびと) <- villager
+   p23 和尚 (おしょう) <- buddhist priest (in charge of a temple)
+   p23 回文 (かいぶん) <- palindrome
+   p23 崖 (がけ) <- cliff
+   p23 やって来る (く) <- to come along
+   p23 脱ぎ始める (ぬはじ) <- to start undressing
+   p23 口に (くちぐち) <- unanimously
+   p23 人残らず (ひとりのこ) <- each and every person
+   p23 裸 (はだか) <- naked
+   p23 詩 (し) <- poem
+   p23 誤解-する (ごかい) <- to misunderstand
+   p23 載る (の) <- to be published
+   p23 今では (いま) <- nowadays
+   p23 小鳥 (ことり) <- small bird
+   p23 文章 (ぶんしょう) <- text, sentence
+   p23 鈴 (すず) <- bell
+   p23 笑い出す (わらだ) <- to burst out laughing
+   p23 両手 (りょうて) <- both hands/arms
+   p23 訳 (わけ) <- reason
+   p23 地べた (じ) <- the ground
+   p23 早口 (はやくち) <- talking fast
+   p23 揺する (ゆ) <- to shake
+   p24 唄 (うた) <- Song
+   p24 暮らす (く) <- to live
+   p24 葉っぱ (は) <- leaf
+   p24 ～後（帰国後 (ごきこくご) <- after (after returning to one’s home country)
+   p24 擬音語 (ぎおんご) <- imitating natural sounds or sounds made
+   p24 時代 (じだい) <- era
+   p24 個性 (こせい) <- individuality
+   p24 ～らしさ（自分らしさ） (じぶん) <- sense of (sense of being oneself)
+   p24 擬態語 (ぎたいご) <- conditions and states,
+   p24 認める (みと) <- to recognize
+   p24 込める (こ) <- to include
+   p24 童謡 (どうよう) <- nursery rhyme, children’s song
+   p24 勘違い-する (かんちが) <- to misunderstand
+   p24 表現-する (ひょうげん) <- to express
+   p24 ～集（童謡集 (しゅうどうようしゅう) <- collection (nursery rhyme compilation)
+   p24 顔が広い (かおひろ) <- to know a lot of people
+   p24 許す (ゆる) <- to forgive
+   p24 顔から火が出る (かおひで) <- to blush profusely
+   p24 以下 (いか) <- or less, less than, below, the following
+   p24 黙る (だま) <- to fall silent
+   p24 必死（な） (ひっし) <- to struggle
+   p24 消費-する (しょうひ) <- to consume
+   p24 開発-する (かいはつ) <- to develop
+   p24 実話 (じつわ) <- true story
+   p24 優勝-する (ゆうしょう) <- to win (a tournament, contest, etc.)
+   p24 飛び上がる (とあ) <- to jump up
+   p24 ～製（革製 (せいかわせい) <- made of (made of leather)
+   p24 ほっぺたが落ちる (お) <- delicious (expression that literally means
+   p24 かけ間違い (まちが) <- wrong number
+   p24 飛び出す (とだ) <- to run out
+   p24 数える (かぞ) <- to count
+   p24 大事（な） (だいじ) <- important, major, valuable
+   p24 遠足 (えんそく) <- school trip
+   p24 作家 (さっか) <- writer
+   p24 楽しさ (たの) <- amusement, fun, joy
+   p24 難しさ (むずか) <- (degree of) difficulty
+   p24 ４こま漫画 (まんが) <- four-frame comic strip
+   p24 日常 (にちじょう) <- everyday
+   p24 登場人物 (とうじょうじんぶつ) <- character
+   p24 耳にする (みみ) <- to (happen to) hear
+   p24 女子高生 (じょしこうせい) <- high school girl
+   p24 疑問 (ぎもん) <- doubt
+   p24 男女 (だんじょ) <- male & female
+   p24 使い分ける (つかわ) <- (language) depending
+   p25 若者 (わかもの) <- youth
+   p25 我慢-する (がまん) <- to put up with
+   p26 第10課　日本 (だいかにほん) <- たび を旅 する
+== 第10课 词条数=118 ==
+   p26 乗客 (じょうきゃく) <- passenger
+   p26 ～線（海岸線 (せんかいがんせん) <- ~ line (coastline), ~ railway line
+   p26 乗り遅れる (のおく) <- to miss (a train/bus), to be left behind
+   p26 渓谷 (けいこく) <- valley
+   p26 思いがけない (おも) <- unforeseen
+   p26 トロッコ列車 (れっしゃ) <- Torokko tram
+   p26 出来事 (できごと) <- incident
+   p26 向かい合う (むあ) <- to sit across from
+   p26 製造-する (せいぞう) <- to manufacture
+   p26 向かう (む) <- to face, to go towards
+   p26 客車 (きゃくしゃ) <- (train) passenger car
+   p26 フリー切符 (きっぷ) <- unlimited ride ticket
+   p26 乗り降り-する (のふ) <- to hop on and hop off
+   p26 鉄 (てつ) <- iron
+   p26 扇風機 (せんぷうき) <- electric fan
+   p26 配布-する (はいふ) <- to distribute
+   p26 石炭 (せきたん) <- coal
+   p26 観光マップ (かんこう) <- sightseeing map
+   p26 燃やす (も) <- to burn
+   p26 書き込む (かこ) <- to write down
+   p26 入り込む (はいこ) <- to come in
+   p26 離れる (はな) <- to leave
+   p26 揺られる (ゆ) <- to be swung, to be shaken, to be rocked
+   p26 ～産（静岡県産 (さんしずおかけんさん) <- produced in (produced in Shizuoka)
+   p26 世界自然遺産 (せかいしぜんいさん) <- World Natural Heritage Site
+   p26 車窓 (しゃそう) <- train window
+   p26 ～発（羽田発 (はつはねだはつ) <- departing (departing Haneda)
+   p26 目を向ける (めむ) <- to look (towards)
+   p26 通り過ぎる (とおす) <- to roll by
+   p26 地元 (じもと) <- local
+   p26 車掌 (しゃしょう) <- conductor
+   p26 豊かさ (ゆた) <- richness
+   p26 土地 (とち) <- countryside
+   p26 見どころ (み) <- highlight
+   p26 杉 (すぎ) <- Japanese cedar
+   p27 トレッキング-する () <- to go trekking
+   p27 所要時間 (しょようじかん) <- time required
+   p27 一気に (いっき) <- all at once
+   p27 歩行-する (ほこう) <- to walk
+   p27 流れ落ちる (ながお) <- to flow down
+   p27 距離 (きょり) <- distance
+   p27 流れる (なが) <- to flow, to wander, to spread
+   p27 往復-する (おうふく) <- to make a round trip
+   p27 迫力満点 (はくりょくまんてん) <- full impact
+   p27 樹齢 (じゅれい) <- age of a tree
+   p27 神秘的（な） (しんぴてき) <- mysterious
+   p27 姿 (すがた) <- appearance
+   p27 鯱 (しゃち) <- carp
+   p27 言い表す (いあらわ) <- to describe
+   p27 ～世紀（17世紀 (せいきせいき) <- th century (17 century)
+   p27 代表-する (だいひょう) <- to represent
+   p27 森 (もり) <- forest
+   p27 誇り (ほこ) <- pride
+   p27 海の幸 (うみさち) <- the bounty of the sea
+   p27 戦争-する (せんそう) <- to go to war
+   p27 山の幸 (やまさち) <- the bounty of the land
+   p27 天守閣 (てんしゅかく) <- castle tower
+   p27 民宿 (みんしゅく) <- guest house
+   p27 再び (ふたた) <- again
+   p27 味わう (あじ) <- to savor
+   p27 金 (きん) <- gold
+   p27 頂上 (ちょうじょう) <- summit
+   p27 少子高齢化 (しょうしこうれいか) <- declining birth rate and ageing society
+   p27 朝日 (あさひ) <- the sunrise
+   p27 現状 (げんじょう) <- the actual situation
+   p27 積もる (つ) <- to accumulate, to pile up
+   p27 対策 (たいさく) <- measure (for avoiding or solving a problem)
+   p27 上り (のぼ) <- northbound
+   p27 列車 (れっしゃ) <- train
+   p27 発車-する (はっしゃ) <- to depart (vehicle)
+   p27 通る（電気が通る） (とおでんきとお) <- be supplied with
+   p27 日帰り-する (ひがえ) <- to take a day trip
+   p27 滝 (たき) <- waterfall
+   p27 奥 (おく) <- inside
+   p27 食材 (しょくざい) <- ingredients
+   p27 門 (もん) <- gate
+   p27 国宝 (こくほう) <- national treasure
+   p27 着払い (ちゃくばら) <- COD (cash on delivery)
+   p27 指定-する (してい) <- to designate
+   p27 宅配便 (たくはいびん) <- courier service
+   p27 彫刻-する (ちょうこく) <- to carve
+   p27 彫る (ほ) <- to carve
+   p27 胸 (むね) <- chest
+   p27 豪華さ (ごうか) <- splendor
+   p27 名所 (めいしょ) <- famous spot
+   p27 セット-する (マーク) <- to set (an alarm), to
+   p27 サーブ-する () <- to serve (a ball, food)
+   p27 絵の具 (えぐ) <- paints
+   p28 ～ぶりに（10年ぶりに） (ねん) <- the first time in (the first time in 10 years)
+   p28 請求-する (せいきゅう) <- to invoice
+   p28 再会-する (さいかい) <- to reunite, to meet again
+   p28 洗面台 (せんめんだい) <- (bathroom) sink
+   p28 香り (かお) <- aroma
+   p28 車内 (しゃない) <- inside a train, etc.
+   p28 旅行記 (りょこうき) <- travel journal
+   p28 座席 (ざせき) <- seat
+   p28 鉄道 (てつどう) <- railway
+   p28 グリーン車 (くるま) <- 1st class carriage
+   p28 停車-する (ていしゃ) <- to stop (train)
+   p28 販売-する (はんばい) <- to sell
+   p28 ご当地 (とうち) <- community, locale, this place
+   p28 禁煙-する (きんえん) <- to stop smoking
+   p28 通話-する (つうわ) <- to make a call
+   p28 満席 (まんせき) <- fully booked
+   p28 了承-する (りょうしょう) <- to note, to understand
+   p28 心より (こころ) <- from the bottom of one’s heart
+   p28 車両 (しゃりょう) <- carriage
+   p28 内回り (うちまわ) <- inner circle
+   p28 見合わせる (みあ) <- to postpone
+   p28 申し訳ございません (もうわけ) <- I am truly sorry (polite apology)
+   p28 尋ねる (たず) <- to ask
+   p28 幸運（な） (こううん) <- lucky
+   p28 雲 (くも) <- cloud
+   p28 舞台 (ぶたい) <- (theater) stage, setting, scene
+   p28 早速 (さっそく) <- straight away
+   p28 路面電車 (ろめんでんしゃ) <- tram
+   p28 天井 (てんじょう) <- ceiling
+   p28 満足（な） (まんぞく) <- satisfying
+== 第11课 词条数=129 ==
+   p29 加える (くわ) <- to add, to increase, to let join
+   p29 育休（育児休業の略 (いくきゅういくじきゅうぎょうりゃく) <- childcare leave
+   p29 育児-する (いくじ) <- to raise a child
+   p29 授乳-する (じゅにゅう) <- to breast feed
+   p29 休業-する (きゅうぎょう) <- to stop work
+   p29 抱く (いだ) <- to hold (someone) [here: to cradle]
+   p29 ～法（育児休業法 (ほういくじきゅうぎょうほう) <- ~ Law/Act (Childcare Leave Law)
+   p29 泣き止む (なや) <- to stop crying
+   p29 改正-する (かいせい) <- to amend, to reform, to revise
+   p29 追う（時間に追われる） (おじかんお) <- [here: to be pressed
+   p29 両立-する (りょうりつ) <- to do at the same time, to go together
+   p29 思うようにならない (おも) <- to not go the way one
+   p29 取り組む (とく) <- to deal with, to engage in, to work on
+   p29 取得-する (しゅとく) <- to take, to redeem
+   p29 言い争い (いあらそ) <- to argue, to dispute
+   p29 長男 (ちょうなん) <- eldest son, first-born son
+   p29 日 (ひび) <- every day
+   p29 癒す (いや) <- to calm
+   p29 妊娠-する (にんしん) <- to become pregnant
+   p29 夫婦 (ふうふ) <- married couple
+   p29 見守る (みまも) <- to keep an eye on, to look after
+   p29 快い (こころよ) <- pleasant
+   p29 制度 (せいど) <- System
+   p29 理解-する (りかい) <- to understand
+   p29 得る (え) <- to obtain
+   p29 自覚-する (じかく) <- to be aware of, to realize
+   p29 環境 (かんきょう) <- environment
+   p29 復帰-する (ふっき) <- to return (to work)
+   p29 慌ただしい (あわ) <- busy, hurried, sudden
+   p29 共働き-する (ともばたら) <- have both spouses
+   p29 充実-する (じゅうじつ) <- to be rich in
+   p29 分担-する (ぶんたん) <- to divide (work), to share (responsibilities)
+   p29 想像-する (そうぞう) <- to imagine
+   p30 恥ずかしがり屋 (はや) <- shy person
+   p30 目がない (め) <- to have an unlimited appetite for
+   p30 減少-する (げんしょう) <- to reduce
+   p30 規則正しい (きそくただ) <- well regulated
+   p30 取り上げる (とあ) <- to bring up
+   p30 実行-する (じっこう) <- to put into practice
+   p30 対象 (たいしょう) <- target
+   p30 首都圏 (しゅとけん) <- metropolitan area
+   p30 手作り (てづく) <- home-made
+   p30 私立大学 (しりつだいがく) <- private university
+   p30 新入生 (しんにゅうせい) <- freshman
+   p30 家庭 (かてい) <- household
+   p30 現実 (げんじつ) <- reality
+   p30 調査-する (ちょうさ) <- to survey
+   p30 小型 (こがた) <- small
+   p30 件数 (けんすう) <- number of cases (incidents, items, etc.)
+   p30 サンプル数 (すう) <- no. of samples
+   p30 ～件（3905件 (けんけん) <- counter for cases (3905 cases of ~)
+   p30 ～当たり（１週間当たり） (あしゅうかんあ) <- per (per week)
+   p30 家計 (かけい) <- household finances
+   p30 実施-する (じっし) <- to carry out
+   p30 負担-する (ふたん) <- to burden
+   p30 ～別（学年別 (べつがくねんべつ) <- by (by school year)
+   p30 ～年生（１年生 (ねんせいねんせい) <- ~th-year student (1st-year student)
+   p30 親元 (おやもと) <- one’s parents’ house
+   p30 日数 (にっすう) <- number of days
+   p30 家賃 (やちん) <- rent
+   p30 一月 (いちがつ) <- one month
+   p30 過去 (かこ) <- past
+   p30 住居 (じゅうきょ) <- house
+   p30 厳しい（生活が厳しい） (きびせいかつきび) <- hard (it is hard to make ends meet)
+   p30 学費 (がくひ) <- school fees
+   p30 払い続ける (はらつづ) <- to continue paying
+   p30 一般的（な） (いっぱんてき) <- typical
+   p30 使い道 (つかみち) <- way of using
+   p30 まあ（まあ大変といっても） (たいへん) <- well (well, I say it’s
+   p30 敷金 (しききん) <- security deposit
+   p30 礼金 (れいきん) <- finder’s fee
+   p30 助け合う (たすあ) <- to help each other out
+   p30 苦しい (くる) <- difficult
+   p30 ～層（年代層 (そうねんだいそう) <- class, group, layer (age bracket)
+   p30 今後 (こんご) <- in the future
+   p30 花粉 (かふん) <- pollen
+   p30 独身 (どくしん) <- single
+   p30 ～機関（国際機関 (きかんこくさいきかん) <- international
+   p30 職場 (しょくば) <- place of work
+   p30 何より (なに) <- more than anything
+   p30 最も (もっと) <- the most, the ~est (superlative)
+   p30 入居-する (にゅうきょ) <- to move in
+   p30 活発（な） (かっぱつ) <- active, lively, vigorous
+   p30 適度（な） (てきど) <- moderate
+   p31 完全（な） (かんぜん) <- completely
+   p31 適当（な） (てきとう) <- appropriate, suitable
+   p31 独立-する (どくりつ) <- to be independent
+   p31 巡り会う (めぐあ) <- to encounter
+   p31 形態 (けいたい) <- configuration
+   p31 巡る (めぐ) <- to go around, to visit (a number of sights)
+   p31 気を遣う (きつか) <- to make an effort, to be nice
+   p31 失う (うしな) <- to lose
+   p31 猛暑 (もうしょ) <- heat wave
+   p31 気楽さ (きらく) <- comfort, ease
+   p31 Uターン-する () <- to make a U-turn
+   p31 娯楽 (ごらく) <- amusement
+   p31 育つ (そだ) <- to be brought up
+   p31 学業 (がくぎょう) <- studies
+   p31 打ち込む (うこ) <- to dedicate (oneself)
+   p31 未婚 (みこん) <- unmarried
+   p31 いくら（いくら忙しくても） (いそが) <- how much, however (no matter how busy one
+   p31 社会保障 (しゃかいほしょう) <- social security
+   p31 出生 (しゅっせい) <- birth
+   p31 介護-する (かいご) <- to nurse
+   p31 動向 (どうこう) <- trend, tendency
+   p31 子育て-する (こそだ) <- to bring up children
+   p31 ～性（必要性 (せいひつようせい) <- suffix (necessity)
+   p31 基本 (きほん) <- basic(s), fundamental(s)
+   p31 個人 (こじん) <- Individual
+   p31 残業-する (ざんぎょう) <- to do overtime
+   p31 当たり前 (あまえ) <- natural
+   p31 衣食住 (いしょくじゅう) <- food, clothing and shelter
+   p31 派手（な） (はで) <- flashy, gaudy, showy
+   p31 上司 (じょうし) <- boss, superior
+   p31 かかる（電話がかかる） (でんわ) <- to get (a phone call)
+   p31 突然 (とつぜん) <- suddenly
+   p31 不景気（な） (ふけいき) <- economically depressed
+   p31 初婚 (しょこん) <- first marriage
+   p31 今回 (こんかい) <- this time
+   p31 生涯 (しょうがい) <- lifetime
+   p31 選択-する (せんたく) <- to choose
+   p31 可 (か) <- possible
+   p31 周囲 (しゅうい) <- people around you
+   p31 同意-する (どうい) <- to agree
+   p31 めどが立つ (た) <- to have an outlook
+   p31 資金 (しきん) <- fund
+   p31 異性 (いせい) <- the opposite sex
+   p31 付き合う (つあ) <- to interact
+   p32 第12課　心と体 (だいかこころ) <- からだ けん こう の健 康
+== 第12课 词条数=88 ==
+   p32 食育 (しょくいく) <- nutrition education
+   p32 体内時計 (たいないどけい) <- internal clock
+   p32 機能 (きのう) <- function
+   p32 当てはまる (あ) <- to apply
+   p32 回転-する (かいてん) <- rotation
+   p32 好き嫌い (すきら) <- likes and dislikes
+   p32 不規則（な） (ふきそく) <- irregular
+   p32 実践-する (じっせん) <- to implement
+   p32 息 (いき) <- breath
+   p32 リセット-する () <- to reset
+   p32 切れる（息が切れる） (きいきき) <- to be out of (to be out of breath)
+   p32 徐に (じょじょ) <- gradually
+   p32 時差ぼけ (じさ) <- jet lag
+   p32 肌 (はだ) <- skin
+   p32 項目 (こうもく) <- heading, item (on an agenda)
+   p32 目覚める (めざ) <- to wake up, to realize
+   p32 乳製品 (にゅうせいひん) <- dairy products
+   p32 要～（要注意 (ようようちゅうい) <- needs ~ (needs special attention)
+   p32 取り分ける (とわ) <- to divide
+   p32 余分（な） (よぶん) <- excess
+   p32 発散-する (はっさん) <- to relieve
+   p32 わく（食欲がわく） (しょくよく) <- to work up (to work up and appetite)
+   p32 脂肪 (しぼう) <- fat
+   p32 楽（な） (らく) <- better
+   p32 翌朝 (よくあさ) <- the next morning
+   p32 効果 (こうか) <- effect
+   p32 心身 (しんしん) <- body and mind
+   p32 現れる (あらわ) <- to show
+   p32 早めに (はや) <- early
+   p32 健康診断 (けんこうしんだん) <- health check
+   p32 取る（朝食を取る） (とちょうしょくと) <- to have (breakfast)
+   p32 体重 (たいじゅう) <- body weight
+   p32 心がける (こころ) <- to endeavor
+   p32 症状 (しょうじょう) <- symptoms
+   p32 ～省（農林水産省 (しょうのうりんすいさんしょう) <- Agriculture, Forestry
+   p32 伸びる (の) <- to increase
+   p33 覚醒-する (かくせい) <- to wake up
+   p33 人間関係 (にんげんかんけい) <- (inter)personal relationships
+   p33 レム睡眠 (すいみん) <- REM sleep
+   p33 ノンレム睡眠 (すいみん) <- non-REM sleep
+   p33 体力 (たいりょく) <- stamina, physical strength
+   p33 体温 (たいおん) <- body temperature
+   p33 能力 (のうりょく) <- ability
+   p33 倍数 (ばいすう) <- multiple
+   p33 報告-する (ほうこく) <- to report
+   p33 取り入れる (とい) <- to incorporate
+   p33 脳 (のう) <- brain
+   p33 維持-する (いじ) <- to maintain
+   p33 交互に (こうご) <- alternately
+   p33 後半 (こうはん) <- late (latter half)
+   p33 交代-する (こうたい) <- to alternate
+   p33 前半 (ぜんはん) <- early (first half)
+   p33 覚ます (さ) <- to wake up
+   p33 つく（眠りにつく） (ねむ) <- to fall (asleep)
+   p33 上がる（声が上がる） (あこえあ) <- to raise (to raise one’s voice)
+   p33 激しい (はげ) <- vigorous
+   p33 愛情 (あいじょう) <- feelings of love
+   p33 ストレッチ-する () <- to stretch
+   p33 抜く（食事を抜く） (ぬしょくじぬ) <- to skip (meals)
+   p33 投書-する (とうしょ) <- to write a letter (to a newspaper, etc.)
+   p33 真冬 (まふゆ) <- middle of winter
+   p33 ～欄（投書欄 (らんとうしょらん) <- ~ column (readers’ column)
+   p33 目的 (もくてき) <- goal
+   p33 嗜好品 (しこうひん) <- indulgence, luxury item
+   p33 提案-する (ていあん) <- to propose
+   p33 当店 (とうてん) <- this shop (restaurant)
+   p33 賛成-する (さんせい) <- to agree
+   p33 取れる（バランスが取れる） (とと) <- to provide a balance
+   p33 精神的（な） (せいしんてき) <- mentally
+   p33 リラックス-する () <- to relax
+   p33 頻度 (ひんど) <- frequency (of an occurrence)
+   p33 他人 (たにん) <- other people
+   p33 合計-する (ごうけい) <- to add up, to total
+   p33 時期 (じき) <- a time, a period
+   p33 愛する (あい) <- to love
+   p33 満足-する (まんぞく) <- to be satisfied
+   p33 反対-する (はんたい) <- to oppose
+   p33 不満（な） (ふまん) <- dissatisfaction
+   p33 医師 (いし) <- doctor
+   p33 目覚め (めざ) <- wake-up, awakening
+   p33 国家試験 (こっかしけん) <- national exam
+   p33 抱える (かか) <- to have (a problem/ worry)
+   p33 必ずしも (かなら) <- not necessarily
+   p33 寝付き (ねつ) <- falling asleep
+   p33 主婦 (しゅふ) <- housewife
+   p33 寝不足 (ねぶそく) <- lack of sleep
+   p33 入眠-する (にゅうみん) <- to fall asleep
+   p34 第13課　トレンドに乗 (だいか) <- の ってつながる
+== 第13课 词条数=102 ==
+   p34 予防-する (よぼう) <- to prevent
+   p34 貢献-する (こうけん) <- to contribute
+   p34 食卓 (しょくたく) <- dining table
+   p34 一般 (いっぱん) <- ordinary
+   p34 略称 (りゃくしょう) <- abbreviation
+   p34 特定-する (とくてい) <- to identify, to specify
+   p34 先進国 (せんしんこく) <- developed countries
+   p34 生活習慣病 (せいかつしゅうかんびょう) <- lifestyle disease
+   p34 発展途上国 (はってんとじょうこく) <- developing countries
+   p34 企画-する (きかく) <- to plan
+   p34 場面 (ばめん) <- situation
+   p34 飢え (う) <- hunger
+   p34 食堂 (しょくどう) <- cafeteria
+   p34 語る (かた) <- to talk
+   p34 健康的（な） (けんこうてき) <- healthy
+   p34 皆 (みな) <- everyone
+   p34 食糧 (しょくりょう) <- food (staple food)
+   p34 提供-する (ていきょう) <- to provide
+   p34 事業 (じぎょう) <- project
+   p34 専念-する (せんねん) <- to devote oneself to
+   p34 ～食（１食 (しょくしょく) <- meal (one meal)
+   p34 起業-する (きぎょう) <- to start a business
+   p34 当たる（１食分に当たる） (あしょくぶんあ) <- (here: equal to 1
+   p34 成果 (せいか) <- result, accomplishment
+   p34 上乗せ-する (うわの) <- to add on
+   p34 各国 (かっこく) <- each country/many countries
+   p34 給食 (きゅうしょく) <- school/company/
+   p34 関心 (かんしん) <- interest
+   p34 仕組み (しく) <- system
+   p34 寄せる (よ) <- to make (to send in)
+   p34 空間 (くうかん) <- space
+   p34 未来 (みらい) <- future
+   p34 分け合う (わあ) <- to share
+   p34 広がり (ひろ) <- extent, spread (of)
+   p34 肥満 (ひまん) <- obesity
+   p34 反応-する (はんのう) <- to react
+   p35 委員 (いいん) <- committee member
+   p35 展開-する (てんかい) <- to develop
+   p35 連続-する (れんぞく) <- to continue
+   p35 短期 (たんき) <- short-term
+   p35 訴える (うった) <- to appeal/plead for
+   p35 主人公 (しゅじんこう) <- main character
+   p35 少女 (しょうじょ) <- young girls
+   p35 大まか（な） (おお) <- broad, general, rough
+   p35 何といっても (なん) <- after all is said and done
+   p35 勇気 (ゆうき) <- courage
+   p35 連載-する (れんさい) <- to appear serially (in a publication)
+   p35 商店 (しょうてん) <- shop
+   p35 全～（全72巻 (ぜんぜんかん) <- ~ in total (total 72 volumes)
+   p35 呼ぶ（話題を呼ぶ） (よわだいよ) <- to attract (to attract attention)
+   p35 ～巻（全72巻 (かんぜんかん) <- volumes (total 72
+   p35 呼び込む (よこ) <- to attract
+   p35 散策-する (さんさく) <- to walk, to stroll
+   p35 ～型（散策型 (かたさんさくがた) <- -type (walking-type)
+   p35 共同-する (きょうどう) <- to share
+   p35 謝る (あやま) <- to apologize
+   p35 書店 (しょてん) <- bookshop
+   p35 引く（辞書を引く） (ひじしょひ) <- to look up (in a dictionary)
+   p35 QRコード () <- QR-code
+   p35 投稿-する (とうこう) <- to post
+   p35 スタート-する () <- to start
+   p35 ～キット（スタートキット） () <- ~ kit (starter kit)
+   p35 窓ぎわ (まど) <- by the window
+   p35 購入-する (こうにゅう) <- to purchase
+   p35 俳優 (はいゆう) <- actor, actress
+   p35 読み込む (よこ) <- to read
+   p35 活気 (かっき) <- energy, liveliness
+   p35 描く (えが) <- to draw, to paint, to depict
+   p35 生 (せい) <- life, live (broadcast), natural, raw
+   p35 退学-する (たいがく) <- to drop out of school
+   p35 得-する (とく) <- to get money, to make a profit
+   p35 不自由（な） (ふじゆう) <- inconvenience, lack, impairment
+   p35 何とか (なん) <- somehow, manage to do, something or other
+   p35 試み (こころ) <- attempt
+   p35 株式会社 (かぶしきがいしゃ) <- limited company
+   p35 平和（な） (へいわ) <- peace
+   p35 友情 (ゆうじょう) <- friendship
+   p35 印象的（な） (いんしょうてき) <- impressive, memorable
+   p35 豊富（な） (ほうふ) <- plenty
+   p35 制作-する (せいさく) <- to create (a film), to produce (a work)
+   p35 ～面（文化面 (めんぶんかめん) <- side (on the culture side)
+   p36 開会-する (かいかい) <- to open (a conference, contest, etc.)
+   p36 ～式（開会式 (しきかいかいしき) <- ~ ceremony (opening ceremony)
+   p36 歓声 (かんせい) <- cheer
+   p36 引き受ける (ひう) <- to accept
+   p36 詰まる (つ) <- to be full of
+   p36 憧れる (あこが) <- to aspire to
+   p36 調理-する (ちょうり) <- to cook
+   p36 ～師（調理師 (しちょうりし) <- practitioner of (cook/ chef)
+   p36 信用-する (しんよう) <- to believe
+   p36 実現-する (じつげん) <- implement, to realize
+   p36 現地 (げんち) <- on-site
+   p36 リポート-する () <- to report
+   p36 ～級（最大級 (きゅうさいだいきゅう) <- ~ level (highest level)
+   p36 多数 (たすう) <- many
+   p36 出演-する (しゅつえん) <- to appear (in) (a TV program, film, etc.)
+   p36 熱気 (ねっき) <- heat, enthusiasm, fervor
+   p36 包む（熱気に包まれる） (つつねっきつつ) <- (here: filled with
+   p36 盛り上がる (もあ) <- to pick up steam
+   p36 以上 (いじょう) <- ～, (the) above, that’s
+   p36 公開-する (こうかい) <- to release
+   p36 試写会 (ししゃかい) <- preview
+== 第14课 词条数=80 ==
+   p37 浮かび上がる (うあ) <- to float up, to emerge, to stand out
+   p37 かける（時間をかける） (じかん) <- to spend (time doing)
+   p37 だまし絵 (え) <- trompe (specifically a
+   p37 作り上げる (つくあ) <- to create, to put together, to fabricate
+   p37 もの（ものの考え方 (かんがかた) <- matters, things (one’s perspective)
+   p37 複文化 (ふくぶんか) <- identifying with
+   p37 見方 (みかた) <- way of looking at things
+   p37 集団 (しゅうだん) <- (refers to a collective
+   p37 視点 (してん) <- point of view
+   p37 背景 (はいけい) <- background, context
+   p37 軸 (じく) <- axis, axle, center, focal point
+   p37 自文化 (じぶんか) <- one’s own culture
+   p37 耳を傾ける (みみかたむ) <- to listen to, to heed
+   p37 自分自身 (じぶんじしん) <- one’s own
+   p37 多文化共生 (たぶんかきょうせい) <- coexistence of multiple
+   p37 見つめ直す (みなお) <- to reconsider, to reexamine
+   p37 共存-する (きょうぞん) <- to coexist
+   p37 見つめる (み) <- to stare at, to look hard at
+   p37 文化的（な） (ぶんかてき) <- cultural
+   p37 混じり合う (まあ) <- to be blended, to be mixed together
+   p37 部分 (ぶぶん) <- part, portion, section
+   p37 混じる (ま) <- to be blended with, to be combined, to join
+   p37 焦点 (しょうてん) <- focus
+   p37 存在-する (そんざい) <- to exist
+   p37 当てる（焦点を当てる） (あしょうてんあ) <- to hit, to strike [here: to focus]
+   p37 向き合う (むあ) <- to face each other, to confront (an issue)
+   p37 発想-する (はっそう) <- to conceive of
+   p37 向く（横を向く） (むよこむ) <- to turn toward, to face [here: to look away]
+   p38 食パン (しょく) <- sandwich loaf
+   p38 戸惑う (とまど) <- to be confused, to be perplexed
+   p38 見当たらない (みあ) <- cannot find
+   p38 深い (ふか) <- deep, intense, profound
+   p38 ～切り（12枚切り） (ぎまいぎ) <- counter for slices [here: cut into 12]
+   p38 焼きたて (や) <- freshly-baked
+   p38 分別-する (ぶんべつ) <- to separate (rubbish)
+   p38 対応-する (たいおう) <- to correspond to,
+   p38 服装 (ふくそう) <- clothes
+   p38 代案 (だいあん) <- alternative plan
+   p38 専用 (せんよう) <- exclusive use, for ~ only
+   p38 定食 (ていしょく) <- set meal
+   p38 煮魚 (にざかな) <- stewed fish
+   p38 焼き魚 (やざかな) <- grilled fish
+   p38 当たる（かごが棚に当たる） (あたなあ) <- to be hit [here: the basket bumped the
+   p38 異文化 (いぶんか) <- other cultures
+   p38 適応-する (てきおう) <- to adjust
+   p38 曲線 (きょくせん) <- curve
+   p38 洋品店 (ようひんてん) <- clothing store
+   p38 感情 (かんじょう) <- feeling
+   p38 ～期（ハネムーン期 (きき) <- period (honeymoon period)
+   p38 間近（な） (まぢか) <- close at hand
+   p38 元通り (もとどお) <- former state
+   p38 基づく (もと) <- to be based on, to be due to
+   p38 作成-する (さくせい) <- to create
+   p38 気を配る (きくば) <- to be mindful
+   p38 次第に (しだい) <- little by little
+   p38 感じ (かん) <- feeling, sense, vibe
+   p38 興奮-する (こうふん) <- to be excited
+   p38 入社-する (にゅうしゃ) <- to join a company
+   p38 光る (ひか) <- to light up
+   p38 上向く (うわむ) <- to look up
+   p38 差 (さ) <- difference
+   p38 大粒 (おおつぶ) <- large drop
+   p38 責任 (せきにん) <- responsibility
+   p38 動き出す (うごだ) <- to start to move
+   p38 持つ（責任を持つ） (もせきにんも) <- to take (to take responsibility)
+   p38 仲 (なか) <- relation(ship)
+   p38 一斉に (いっせい) <- all together
+   p38 普通 (ふつう) <- ordinary, normal
+   p38 図 (ず) <- diagram, drawing, map, picture
+   p38 焼き上がる (やあ) <- to be baked
+   p38 感心-する (かんしん) <- to be impressed
+   p38 案 (あん) <- proposal
+   p39 境内 (けいだい) <- the grounds of a shrine
+   p39 どこか（どこか寂しげ） (さび) <- way [here: seem
+   p39 懐かしい (なつ) <- (it) brings back memories
+   p39 散る (ち) <- to fall (leaves, blossom)
+   p39 開店-する (かいてん) <- to open a shop (restaurant, etc.)
+   p39 驚き (おどろ) <- surprise, wonder
+   p39 見聞き-する (みき) <- experience, see and hear (firsthand)
+   p40 第15課　地域 (だいかちいき) <- しゃ かい い 社 会 に生 きる
+== 第15课 词条数=111 ==
+   p40 紙面 (しめん) <- space (page)
+   p40 壁新聞 (かべしんぶん) <- wall newspaper
+   p40 上部 (じょうぶ) <- top
+   p40 自ら (みずか) <- oneself
+   p40 見出し (みだ) <- title
+   p40 日付 (ひづけ) <- date
+   p40 物資 (ぶっし) <- supplies
+   p40 平成 (へいせい) <- Heisei era (from 1989)
+   p40 供給-する (きょうきゅう) <- to provide
+   p40 翌日 (よくじつ) <- the following day
+   p40 支え合い (ささあ) <- mutual support
+   p40 新聞社 (しんぶんしゃ) <- newspaper company
+   p40 支える (ささ) <- to support
+   p40 死亡-する (しぼう) <- to die
+   p40 乗り切る (のき) <- to overcome
+   p40 行方不明 (ゆくえふめい) <- missing
+   p40 激励-する (げきれい) <- to encourage
+   p40 浸かる (つ) <- to be submerged
+   p40 向く（前を向いて生きる） (むまえむい) <- to turn toward, to face [here: to stay positive]
+   p40 ～機（印刷機 (きいんさつき) <- machine (printing press)
+   p40 通常 (つうじょう) <- normally
+   p40 ～か所（６か所 (しょしょ) <- place (6 places)
+   p40 ～中（余震が続く中 (なかよしんつづなか) <- the aftershocks
+   p40 貼り出す (はだ) <- to stick up
+   p40 報道-する (ほうどう) <- to report, to cover
+   p40 発行-する (はっこう) <- to issue
+   p40 安否 (あんぴ) <- safety
+   p40 永久 (えいきゅう) <- eternity, permanence
+   p40 否定-する (ひてい) <- to deny
+   p40 決断-する (けつだん) <- to decide
+   p40 保存-する (ほぞん) <- to save (data), to preserve, to store
+   p40 泥水 (どろみず) <- muddy water
+   p40 使命 (しめい) <- mission
+   p40 警察 (けいさつ) <- police
+   p40 肌（肌で感じる） (はだはだかん) <- understand from
+   p40 訪ねる (たず) <- to visit
+   p40 配給-する (はいきゅう) <- to distribute
+   p40 発達-する (はったつ) <- to develop
+   p40 正確（な） (せいかく) <- accurate
+   p41 置く（距離を置く） (おきょりお) <- to place (to place at arm’s length)
+   p41 洪水（情報の洪水 (こうずいじょうほうこうずい) <- flood (flood of information)
+   p41 結局 (けっきょく) <- in the end
+   p41 改めて (あらた) <- anew
+   p41 ～余り（20人余り） (あまにんあま) <- ~ more than (more than 20 people)
+   p41 削る（時間を削る） (けずじかんけず) <- back on time spent
+   p41 創刊-する (そうかん) <- to launch a publication
+   p41 受験票 (じゅけんひょう) <- an admission ticket for an examination
+   p41 疑う (うたが) <- to doubt
+   p41 発信-する (はっしん) <- to transmit
+   p41 バックアップ-する (データ) <- to back up
+   p41 ミス-する () <- to make a mistake
+   p41 欠かせない (か) <- indispensable
+   p41 予想外 (よそうがい) <- unexpected
+   p41 製品 (せいひん) <- product
+   p41 信頼-する (しんらい) <- to trust
+   p41 略 (りゃく) <- abbreviation
+   p41 広告-する (こうこく) <- to advertise
+   p41 依存-する (いぞん) <- to have a dependence
+   p41 気付く (きづ) <- to realize
+   p41 犯罪 (はんざい) <- crime
+   p41 宣伝-する (せんでん) <- to advertise, to promote (a product)
+   p41 好意的（な） (こういてき) <- favorable (reviews)
+   p41 ～疲れ（SNS疲れ） (づかづか) <- ~ fatigue [here: social media fatigue]
+   p41 印象付ける (いんしょうづ) <- to give a good impression of
+   p41 心理 (しんり) <- psychology
+   p41 今や (いま) <- nowadays
+   p41 意図-する (いと) <- to intend to
+   p41 日常的（な） (にちじょうてき) <- everyday, common, routine
+   p41 指摘-する (してき) <- to pinpoint
+   p41 操作-する (そうさ) <- to operate, to manipulate
+   p41 いつの間にか (ま) <- before you realize it
+   p41 数多い (かずおお) <- many
+   p41 現象 (げんしょう) <- phenomenon
+   p41 複数 (ふくすう) <- multiple, plural
+   p41 次（と） (つぎつぎ) <- one after another
+   p41 見極める (みきわ) <- to ascertain
+   p41 焦る (あせ) <- to feel pressure
+   p41 コメント-する () <- to comment
+   p41 可能性 (かのうせい) <- possibility, potential
+   p41 常に (つね) <- constantly
+   p41 ダウンロード-する () <- to download
+   p41 アクセス-する () <- to access
+   p41 知らぬ間に (しま) <- before you know it
+   p41 画像 (がぞう) <- image, graphic, picture
+   p41 本来 (ほんらい) <- by rights
+   p41 編集-する (へんしゅう) <- to edit, to compile
+   p41 一見 (いっけん) <- at a glance
+   p41 個人情報 (こじんじょうほう) <- personal information
+   p41 息苦しさ (いきぐる) <- feeling of being smothered
+   p41 漏れる (も) <- to leak
+   p42 悪用-する (あくよう) <- to misuse
+   p42 求める (もと) <- to request
+   p42 第三者 (だいさんしゃ) <- third party
+   p42 送信-する (そうしん) <- to send, to transmit
+   p42 流出-する (りゅうしゅつ) <- to leak
+   p42 安易（な） (あんい) <- easy, simple, careless
+   p42 慎重（な） (しんちょう) <- cautious
+   p42 リクエスト-する () <- to request
+   p42 応える (こた) <- to respond
+   p42 晴れる（疑問が晴れる） (はぎもんは) <- to clear (a doubt is cleared)
+   p42 消去-する (しょうきょ) <- to delete
+   p42 サイバー攻撃 (こうげき) <- cyber attack
+   p42 扱う (あつか) <- to handle
+   p42 余計（な） (よけい) <- uncalled-for
+   p42 便利さ (べんり) <- convenience
+   p42 正しさ (ただ) <- rightness, accuracy, validity
+   p42 原稿 (げんこう) <- draft
+   p42 取る（連絡を取る） (とれんらくと) <- to make (to make contact)
+   p42 勝手（な） (かって) <- without permission
+   p42 実物 (じつぶつ) <- the real thing
+   p43 第16課　学校 (だいかがっこう) <- せい かつ 生 活
+== 第16课 词条数=114 ==
+   p43 何の～もない（何の関係もない） (なんなんかんけい) <- no ~ at all [here: have
+   p43 高卒 (こうそつ) <- high school graduate
+   p43 単語 (たんご) <- word
+   p43 ～式（計算式 (しきけいさんしき) <- [here: equation (method of
+   p43 大卒 (だいそつ) <- university graduate
+   p43 真似-する (まね) <- to imitate
+   p43 業績 (ぎょうせき) <- accomplishment, achievement
+   p43 真剣（な） (しんけん) <- seriously
+   p43 正体 (しょうたい) <- true colors
+   p43 要するに (よう) <- in short
+   p43 時間割 (じかんわり) <- timetable
+   p43 組 (くみ) <- class
+   p43 社会[教科名 (しゃかいきょうかめい) <- social studies
+   p43 技術[教科名 (ぎじゅつきょうかめい) <- technical studies
+   p43 弁護士 (べんごし) <- lawyer
+   p43 学級活動 (がっきゅうかつどう) <- homeroom activities
+   p43 国語[教科名 (こくごきょうかめい) <- Japanese
+   p43 ～ら（彼ら） (かれ) <- indicates a plural (them)
+   p43 総合[教科名 (そうごうきょうかめい) <- integrated study
+   p43 体育[教科名 (たいいくきょうかめい) <- physical education
+   p43 程度 (ていど) <- extent
+   p43 理科[教科名 (りかきょうかめい) <- science
+   p43 物理 (ぶつり) <- physics
+   p43 美術[教科名 (びじゅつきょうかめい) <- art
+   p44 情報[教科名 (じょうほうきょうかめい) <- informatics
+   p44 道徳[教科名 (どうとくきょうかめい) <- ethics
+   p44 受験生 (じゅけんせい) <- examinee
+   p44 帰り (かえ) <- going/coming home, going/coming back
+   p44 参考書 (さんこうしょ) <- reference book
+   p44 清掃-する (せいそう) <- to clean
+   p44 開く（教科書を開く） (ひらきょうかしょひら) <- to open (a textbook)
+   p44 筆記用具 (ひっきようぐ) <- writing implements
+   p44 放課後 (ほうかご) <- after school
+   p44 終える (お) <- to finish
+   p44 部活動（部活 (ぶかつどうぶかつ) <- club activities
+   p44 前回 (ぜんかい) <- the last (previous) time
+   p44 志願-する (しがん) <- to apply (for job, school, etc.), to aspire
+   p44 前年 (ぜんねん) <- the last (previous) year
+   p44 下回る (したまわ) <- to be less than, to fall just short of
+   p44 少子化 (しょうしか) <- declining birth rate
+   p44 やり続ける (つづ) <- to keep doing
+   p44 合否 (ごうひ) <- success or failure, (test) result
+   p44 右に出る者がいない (みぎでもの) <- no one surpasses him/ her
+   p44 入試 (にゅうし) <- entrance examination, admissions
+   p44 上り下り-する (のぼくだ) <- to go up and down, to rise and fall
+   p44 ここ～（ここ数年 (すうねん) <- the last/past/next (few years)
+   p44 続き (つづ) <- continuation, sequel, the rest of
+   p44 上昇-する (じょうしょう) <- to increase, to rise
+   p44 傾向 (けいこう) <- inclination, tendency, trend
+   p44 生徒 (せいと) <- pupil
+   p44 減免-する (げんめん) <- to reduce, to exempt
+   p44 業者 (ぎょうしゃ) <- contractor
+   p44 挙げる (あ) <- to raise, to give (examples)
+   p44 国公立大学 (こっこうりつだいがく) <- national (public) university
+   p44 ～内（学校内 (ないがっこうない) <- inside, within [here: in/ at school]
+   p44 教科 (きょうか) <- curriculum
+   p44 隅 (すみずみ) <- corners
+   p44 科目 (かもく) <- subject
+   p44 気 (き) <- indication, spirit,
+   p44 志望-する (しぼう) <- career, etc.), to wish
+   p44 納豆 (なっとう) <- natto (fermented soy beans)
+   p44 学科 (がっか) <- department
+   p44 湿度 (しつど) <- humidity
+   p44 開始-する (かいし) <- to start
+   p44 勝負-する (しょうぶ) <- to fight
+   p44 ～近く（９時間近く） (ちかじかんちか) <- almost (almost 9 hours)
+   p44 運 (うん) <- luck
+   p44 全域 (ぜんいき) <- all areas
+   p44 交通機関 (こうつうきかん) <- public transport
+   p44 大学入学共通テスト (だいがくにゅうがくきょうつう) <- Common Test for University Admissions
+   p44 長年 (ながねん) <- many years
+   p44 初日 (しょにち) <- first day
+   p44 公民[教科名 (こうみんきょうかめい) <- civics
+   p44 付く（自信が付く） (つじしんつ) <- to gain (self-) confidence
+   p44 地理[教科名 (ちりきょうかめい) <- geography
+   p45 受け身 (うみ) <- passive
+   p45 体感-する (たいかん) <- to experience
+   p45 ～版（地方版 (ばんちほうばん) <- ~ edition/version (local edition)
+   p45 関わる (かか) <- to be involved with
+   p45 保護-する (ほご) <- to protect
+   p45 著書 (ちょしょ) <- book
+   p45 迎える（ピークを迎える） (むかむか) <- to greet, to welcome [here: to reach a peak]
+   p45 遠方 (えんぽう) <- a long way away
+   p45 ～店（ハンバーガー店 (みせみせ) <- ~ shop (hamburger restaurant)
+   p45 上げる（売り上げを上げる） (あうああ) <- to raise, to boost
+   p45 競う (きそ) <- to compete
+   p45 ～ごと（グループごと） (る）) <- by (by group)
+   p45 ディスカッション-する () <- to have a discussion
+   p45 加湿器 (かしつき) <- humidifier
+   p45 決定-する (けってい) <- to decide
+   p45 祈願-する (きがん) <- to pray
+   p45 分析-する (ぶんせき) <- to analyze
+   p45 お札 (さつ) <- amulet, talisman
+   p45 通行人 (つうこうにん) <- passer-by
+   p45 現役 (げんえき) <- university entrance exam straight from
+   p45 予測-する (よそく) <- to predict
+   p45 原価 (げんか) <- cost price
+   p45 臨む (のぞ) <- to face
+   p45 原材料 (げんざいりょう) <- raw materials
+   p45 年末年始 (ねんまつねんし) <- the New Year’s holiday
+   p45 説得-する (せっとく) <- to persuade
+   p45 前向き（な） (まえむ) <- positive
+   p45 交える (まじ) <- to exchange
+   p45 詰める (つ) <- to pack
+   p45 迷い始める (まよはじ) <- to begin to lose one’s way, to begin to worry
+   p45 後押し-する (あとお) <- to support
+   p45 身に付ける (みつ) <- to learn
+   p45 場 (ば) <- place
+   p45 成績 (せいせき) <- results
+   p45 あと～（あと数週間 (すうしゅうかん) <- more (a few more weeks)
+   p45 農作物 (のうさくぶつ) <- crop
+   p45 演劇 (えんげき) <- play
+   p45 実家 (じっか) <- parent’s home
+   p45 世の中 (よなか) <- the world, life
+== 第17课 词条数=69 ==
+   p46 農村 (のうそん) <- farming village
+   p46 持ち続ける (もつづ) <- to hold on to
+   p46 手入れ-する (てい) <- to maintain
+   p46 学内 (がくない) <- on-campus
+   p46 保つ (たも) <- to preserve
+   p46 活動的（な） (かつどうてき) <- active
+   p46 荒れる (あ) <- to run wild
+   p46 恵み (めぐ) <- blessings
+   p46 意向 (いこう) <- wishes
+   p46 農家 (のうか) <- farmer
+   p46 植林-する (しょくりん) <- tree planting
+   p46 重視-する (じゅうし) <- to place a (high) value on
+   p46 草刈り (くさか) <- grass cutting
+   p46 営業部 (えいぎょうぶ) <- sales department
+   p46 伐採-する (ばっさい) <- tree felling
+   p46 配属-する (はいぞく) <- to assign
+   p46 作業-する (さぎょう) <- to work
+   p46 売り込む (うこ) <- to make a sale/pitch
+   p46 向く（私に向いている） (むわたしむ) <- to be cut out for (I am cut out for this)
+   p46 部署 (ぶしょ) <- department
+   p46 所属-する (しょぞく) <- to belong to
+   p46 飛び回る (とまわ) <- to fly around
+   p46 社会的責任 (しゃかいてきせきにん) <- CSR (Corporate Social Responsibility)
+   p46 結び付ける (むすつ) <- to connect
+   p46 利益 (りえき) <- profits
+   p46 結ぶ (むす) <- to tie, to fasten, to connect
+   p46 果たす (は) <- to play (a role)
+   p46 里山 (さとやま) <- woodland in the countryside
+   p46 親子 (おやこ) <- parent and child
+   p46 雑木林 (ぞうきばやし) <- copse
+   p46 画家 (がか) <- painter (artist)
+   p46 経済的（な） (けいざいてき) <- economically
+   p47 動機 (どうき) <- motivation
+   p47 自立-する (じりつ) <- to become independent
+   p47 強み (つよ) <- strengths
+   p47 一人前 (いちにんまえ) <- someone who stands on one’s own two feet
+   p47 価値 (かち) <- value
+   p47 ～観（価値観 (かんかちかん) <- sense (sense of values)
+   p47 自己満足-する (じこまんぞく) <- self-satisfaction
+   p47 訪問-する (ほうもん) <- to visit
+   p47 押し付ける (おつ) <- to force (responsibility) onto someone
+   p47 実感-する (じっかん) <- to actually feel
+   p47 何がなんでも (なに) <- whatever happens
+   p47 取り寄せる (とよ) <- to send for
+   p47 採用-する (さいよう) <- to employ
+   p47 戦う (たたか) <- to fight
+   p47 国籍 (こくせき) <- nationality
+   p47 優秀（な） (ゆうしゅう) <- talented
+   p47 依頼-する (いらい) <- to request
+   p47 人材 (じんざい) <- personnel
+   p47 宛先 (あてさき) <- to (recipient)
+   p47 多様性 (たようせい) <- diversity
+   p47 件名 (けんめい) <- subject
+   p47 高める (たか) <- to raise, to enhance
+   p47 活性化-する (かっせいか) <- to stimulate, to revitalize
+   p47 添付-する (てんぷ) <- to attach
+   p47 取る（コミュニケーション (と) <- to take [here: to
+   p47 ご無沙汰しております (ぶさた) <- Sorry I haven’t been in touch for a long time.
+   p47 を取る） (と) <- communicate]
+   p47 視野 (しや) <- (one’s) horizons
+   p47 貴社 (きしゃ) <- your company (honorific)
+   p47 語学 (ごがく) <- languages
+   p47 乗る（相談に乗る） (のそうだんの) <- to give (to give advice)
+   p47 専門的（な） (せんもんてき) <- specialized, professional, expert
+   p47 ～度（理解度 (どりかいど) <- [here: (degree of) comprehension,
+   p47 自己PR-する (じこ) <- to promote oneself
+   p47 学習-する (がくしゅう) <- to study
+   p47 口が悪い (くちわる) <- sharp-tongued
+   p48 第18課　地球 (だいかちきゅう) <- い に生 きる
+== 第18课 词条数=109 ==
+   p48 収集-する (しゅうしゅう) <- to collect
+   p48 宣言-する (せんげん) <- to declare
+   p48 自治体 (じちたい) <- local government
+   p48 町民 (ちょうみん) <- townspeople, resident of a town
+   p48 年間 (ねんかん) <- yearly
+   p48 リサイクル-する () <- to recycle
+   p48 総～（総排出量 (そうそうはいしゅつりょう) <- total (total emissions volume)
+   p48 向ける（2030年に向けて） (むねんむ) <- face, to aim for [here:
+   p48 排出-する (はいしゅつ) <- to emit
+   p48 ～トン（２トン） () <- tonne (2 tonnes)
+   p48 先駆者 (せんくしゃ) <- pioneer, trailblazer
+   p48 東京ドーム (とうきょう) <- Tokyo Dome
+   p48 ～づくり（人づくり） (ひと) <- creating (creating human resources)
+   p48 ～台（2,500万台 (だいまんだい) <- million range), counter for machines and
+   p48 重点 (じゅうてん) <- importance, priority,
+   p48 削減-する (さくげん) <- to reduce
+   p48 推移-する (すいい) <- to transition
+   p48 掲げる (かか) <- etc.), to display, to
+   p48 四国 (しこく) <- Shikoku
+   p48 山間部 (さんかんぶ) <- mountainous region
+   p48 実験-する (じっけん) <- to experiment, to (put to the) test
+   p48 資源 (しげん) <- resource
+   p48 住民 (じゅうみん) <- residents
+   p48 チャレンジ-する () <- to challenge, to try, to
+   p48 ～種（45種 (しゅしゅ) <- type (45 types)
+   p48 設ける (もう) <- to provide
+   p48 持ち込む (もこ) <- to take to (a place)
+   p48 輩出-する (はいしゅつ) <- other, to produce (graduates, prize
+   p48 運搬-する (うんぱん) <- to transport, to carry (a load)
+   p49 焼却-する (しょうきゃく) <- to incinerate
+   p49 省エネ (しょう) <- energy-saving
+   p49 有害（な） (ゆうがい) <- harmful, toxic
+   p49 節電-する (せつでん) <- to save electricity
+   p49 物質 (ぶっしつ) <- substance
+   p49 植物 (しょくぶつ) <- plant
+   p49 水質 (すいしつ) <- water quality
+   p49 悪影響 (あくえいきょう) <- adverse effect
+   p49 壁際 (かべぎわ) <- against a wall
+   p49 減らす (へ) <- to reduce
+   p49 ～自体（仕組み自体 (じたいしくじたい) <- itself (the structure itself)
+   p49 葉 (は) <- leaf
+   p49 オープン-する () <- to open (a facility,
+   p49 防ぐ (ふせ) <- to prevent
+   p49 リユース-する () <- to reuse
+   p49 向き（部屋の向き） (むへやむ) <- orientation (the orientation of a room)
+   p49 時間帯 (じかんたい) <- the time of day
+   p49 頼る (たよ) <- to depend on
+   p49 併設-する (へいせつ) <- affiliated with (a
+   p49 実 (み) <- fruit
+   p49 利便性 (りべんせい) <- convenience, user- friendliness
+   p49 反省-する (はんせい) <- to repent
+   p49 再～（再利用 (さいさいりよう) <- re~ (reuse), do ~ again
+   p49 理念 (りねん) <- philosophy (of a
+   p49 不要（な） (ふよう) <- unwanted
+   p49 目指す (めざ) <- to aim for
+   p49 貼り紙 (はがみ) <- poster
+   p49 挑戦-する (ちょうせん) <- to try
+   p49 絶え間ない (たま) <- constantly
+   p49 新品 (しんぴん) <- brand new
+   p49 問い (と) <- question
+   p49 同様（な） (どうよう) <- same
+   p49 投げかける (な) <- to raise
+   p49 暴力 (ぼうりょく) <- violence
+   p49 投げる（話題を投げる） (なわだいな) <- topic out there for
+   p49 外出-する (がいしゅつ) <- to go out
+   p49 二酸化炭素 (にさんかたんそ) <- carbon dioxide
+   p49 大気 (たいき) <- air
+   p49 汚染-する (おせん) <- to pollute
+   p49 狩猟-する (しゅりょう) <- to hunt
+   p49 排気ガス (はいき) <- exhaust fumes
+   p49 乱獲-する (らんかく) <- to overhunt
+   p49 森林 (しんりん) <- forest
+   p49 田んぼ (た) <- rice field
+   p49 砂漠 (さばく) <- desert
+   p49 破壊-する (はかい) <- to destroy
+   p49 野生 (やせい) <- wild, feral
+   p49 半島 (はんとう) <- peninsula
+   p49 ～羽（５羽 (わわ) <- counter for birds (5 birds)
+   p49 絶滅-する (ぜつめつ) <- to become extinct
+   p49 ～フェア（エコライフフェア） (エコライフ) <- fair (eco-living fair)
+   p49 救う (すく) <- to save
+   p50 人工 (じんこう) <- artificial, man-made
+   p50 繁殖-する (はんしょく) <- to multiply,
+   p50 順調（な） (じゅんちょう) <- going well, doing OK, running smoothly
+   p50 放鳥-する (ほうちょう) <- to set a bird free
+   p50 推定-する (すいてい) <- to assume, to estimate
+   p50 最～（最優先する） (さいさいゆうせん) <- most ~, ~est (give the highest priority to)
+   p50 優先-する (ゆうせん) <- to give priority to
+   p50 寸前 (すんぜん) <- just before
+   p50 追い込む (おこ) <- to drive to
+   p50 生き物 (いもの) <- creature
+   p50 手を打つ (てう) <- to take measures
+   p50 学名 (がくめい) <- scientific name
+   p50 動植物 (どうしょくぶつ) <- plants and animals, living things
+   p50 深刻（な） (しんこく) <- serious
+   p50 どんな（どんな生物でも） (せいぶつ) <- (whatever kind of
+   p50 湧き水 (わみず) <- a spring
+   p50 日本酒 (にほんしゅ) <- Japanese sake
+   p50 酒蔵 (さかぐら) <- sake brewery
+   p50 試飲-する (しいん) <- to taste (sake, wine, etc.)
+   p50 一口 (ひとくち) <- a mouthful
+   p50 蓄える (たくわ) <- to store
+   p50 働き (はたら) <- work(ings), labor, function, action, ability
+   p50 大量（な） (たいりょう) <- a large quantity of
+   p50 洪水 (こうずい) <- flood
+   p50 再生-する (さいせい) <- to regenerate
+   p50 年月 (ねんげつ) <- time (months and years)
+   p50 大型 (おおがた) <- large-scale
+   p51 第19課　科学 (だいかかがく) <- ちから の力
+== 第19课 词条数=165 ==
+   p51 相容れない (あいい) <- incompatible, in
+   p51 認識-する (にんしき) <- to recognize, to notice, to understand
+   p51 農業 (のうぎょう) <- agriculture, farming
+   p51 生命 (せいめい) <- life, career
+   p51 呼びかけ (よ) <- call (for volunteers, etc.), appeal
+   p51 ～誌（生命誌 (しせいめいし) <- (here: “Biohistory,” the
+   p51 根本 (こんぽん) <- root, origin, basis
+   p51 幼稚園 (ようちえん) <- kindergarten, preschool
+   p51 ゲノム編集 (へんしゅう) <- gene editing
+   p51 進歩-する (しんぽ) <- to advance, to progress
+   p51 栄養価 (えいようか) <- nutritional value
+   p51 手を抜く (てぬ) <- to cut corners, to skimp
+   p51 品種 (ひんしゅ) <- type, breed, variety
+   p51 思い通り (おもどお) <- as one wants, as one sees fit
+   p51 悪者 (わるもの) <- villain, bad person
+   p51 指す (さ) <- to point, to indicate, to specify, to nominate
+   p51 生み出す (うだ) <- to give birth to, to produce, to cause
+   p51 作物 (さくもつ) <- crops, agricultural produce
+   p51 喜び (よろこ) <- joy, happiness
+   p51 生む (う) <- to produce, to yield
+   p51 見出す (みだ) <- to discover
+   p51 徒歩 (とほ) <- walking, on foot
+   p51 良しとする (よ) <- to approve, to deem acceptable
+   p51 間（長い間 (あいだながあいだ) <- [here: (for) a long
+   p51 過程 (かてい) <- process, course
+   p51 政治 (せいじ) <- politics
+   p51 手をかける (て) <- to place a hand on, to care for
+   p51 前者 (ぜんしゃ) <- the former (as opposed to “the latter”)
+   p52 狙う (ねら) <- to aim at/for
+   p52 つける（勢いをつける） (いきお) <- to build (to build momentum)
+   p52 変異-する (へんい) <- to mutate
+   p52 輪 (わ) <- loop
+   p52 遺伝-する (いでん) <- to be inherited, to be passed down
+   p52 逆さま (さか) <- upside-down
+   p52 巻頭言 (かんとうげん) <- foreword, preface
+   p52 協同-する (きょうどう) <- to collaborate,
+   p52 振り回す (ふまわ) <- to swing around
+   p52 振る (ふ) <- to swing, to shake, to wave
+   p52 先端 (せんたん) <- tip, forefront
+   p52 理屈 (りくつ) <- logic
+   p52 医療 (いりょう) <- medical treatment
+   p52 円 (えん) <- circle
+   p52 遠心力 (えんしんりょく) <- centrifugal force
+   p52 ～汁（ゆで汁 (じるじる) <- broth (cooking water)
+   p52 技 (わざ) <- trick
+   p52 界面活性剤 (かいめんかっせいざい) <- surface-active agent
+   p52 万が一 (まんいち) <- just in case
+   p52 分離-する (ぶんり) <- to separate
+   p52 車輪 (しゃりん) <- wheel
+   p52 仲良く (なかよ) <- in a friendly manner
+   p52 卵黄 (らんおう) <- egg yolk
+   p52 装置 (そうち) <- device
+   p52 含む (ふく) <- to contain
+   p52 油分 (ゆぶん) <- fat content
+   p52 導入-する (どうにゅう) <- to introduce
+   p52 付き物 (つもの) <- an essential part of
+   p52 条件 (じょうけん) <- conditions
+   p52 介助-する (かいじょ) <- to assist
+   p52 リハビリ-する () <- to undergo
+   p52 浮き上がる (うあ) <- to float to the top
+   p52 浮く (う) <- to float
+   p52 癒し (いや) <- healing, therapy
+   p52 洗い物 (あらもの) <- things to be washed (dishes, laundry, etc.)
+   p52 人手 (ひとで) <- manpower
+   p52 現場 (げんば) <- site
+   p52 断然 (だんぜん) <- much more
+   p52 混ぜる (ま) <- to mix
+   p52 性質 (せいしつ) <- property
+   p52 触れ合う (ふあ) <- with, to interact with,
+   p52 水分 (すいぶん) <- water content
+   p52 触れる (ふ) <- to touch
+   p52 愛らしい (あい) <- endearing
+   p52 航空 (こうくう) <- air
+   p52 身体的（な） (しんたいてき) <- physical
+   p52 援助-する (えんじょ) <- to support
+   p52 引く（関心を引く） (ひかんしんひ) <- to draw (interest, attention)
+   p52 福祉 (ふくし) <- welfare
+   p52 勢い (いきお) <- momentum
+   p53 ～源（エネルギー源 (げんげん) <- source (source of energy)
+   p53 ～用（福祉用 (ようふくしよう) <- of) ~ [here: for use by people with
+   p53 戦後 (せんご) <- period following the end of Second World
+   p53 脚 (あし) <- leg
+   p53 装着-する (そうちゃく) <- to wear (attach to)
+   p53 味方 (みかた) <- ally
+   p53 安定的（な） (あんていてき) <- stable
+   p53 建設-する (けんせつ) <- to construct
+   p53 使いこなす (つか) <- to have a good command of
+   p53 脱～（脱原発 (だつだつげんぱつ) <- (de-nuclearization, abandoning nuclear
+   p53 抵抗-する (ていこう) <- to resist
+   p53 身の回り (みまわ) <- personal (care)
+   p53 課題 (かだい) <- issue
+   p53 原発 (げんぱつ) <- nuclear energy, nuclear power (plant)
+   p53 目上 (めうえ) <- elder/senior
+   p53 再生可能エネルギー (さいせいかのう) <- renewable energy
+   p53 議論-する (ぎろん) <- to discuss
+   p53 バイオ燃料 (ねんりょう) <- bio-fuel
+   p53 売り切れる (うき) <- to sell out
+   p53 火山 (かざん) <- volcano
+   p53 入荷-する (にゅうか) <- to arrive (goods)
+   p53 主要（な） (しゅよう) <- primary, main, chief
+   p53 需要 (じゅよう) <- (economic) demand
+   p53 保証書 (ほしょうしょ) <- guarantee
+   p53 毎度 (まいど) <- each time
+   p53 第一 (だいいち) <- first
+   p53 考慮-する (こうりょ) <- to consider, to take into account
+   p53 電源 (でんげん) <- power source
+   p53 締め切り (しき) <- deadline
+   p53 組み合わせる (くあ) <- to assemble, to match, to put together
+   p53 立ち上げる (たあ) <- to stand up, to rise up, to start up
+   p53 格差 (かくさ) <- gap
+   p53 縮小-する (しゅくしょう) <- to reduce
+   p53 労働-する (ろうどう) <- to work
+   p53 電源構成 (でんげんこうせい) <- sources (what amount comes from coal, from
+   p53 断念-する (だんねん) <- to give up on
+   p53 万国博覧会 (ばんこくはくらんかい) <- world fair
+   p53 兆 (ちょう) <- 1 trillion
+   p53 政策 (せいさく) <- (political) policy
+   p53 億 (おく) <- 100 million
+   p53 原子力 (げんしりょく) <- nuclear power
+   p53 iPS細胞 (さいぼう) <- iPS cell (induced pluripotent stem cell)
+   p53 天然ガス (てんねん) <- natural gas
+   p53 万能（な） (ばんのう) <- pluripotent
+   p53 石油 (せきゆ) <- oil
+   p53 細胞 (さいぼう) <- (biological) cell
+   p53 水力 (すいりょく) <- hydro-electric power
+   p53 再生医療 (さいせいいりょう) <- regenerative medicine
+   p53 地熱 (ちねつ) <- geothermal energy
+   p53 医学 (いがく) <- medicine
+   p53 治療-する (ちりょう) <- to treat
+   p53 主（な） (おも) <- main
+   p53 難病 (なんびょう) <- incurable disease
+   p54 脳神経 (のうしんけい) <- cerebral nerve
+   p54 すい臓 (ぞう) <- pancreas
+   p54 腎臓 (じんぞう) <- kidney
+   p54 臓器 (ぞうき) <- organ
+   p54 かかる（病気にかかる） (びょうき) <- to become (to become ill)
+   p54 二度と (にど) <- never again
+   p54 体内 (たいない) <- inside the body
+   p54 老廃物 (ろうはいぶつ) <- body waste
+   p54 ろ過-する (か) <- to filter
+   p54 体外 (たいがい) <- outside the body, external
+   p54 透析-する (とうせき) <- to undergo dialysis
+   p54 腎移植 (じんいしょく) <- kidney transplant
+   p54 移植-する (いしょく) <- to transplant
+   p54 免疫 (めんえき) <- immunity
+   p54 拒絶-する (きょぜつ) <- to reject
+   p54 追い出す (おだ) <- to eject
+   p54 抑える (おさ) <- to suppress
+   p54 細菌 (さいきん) <- bacteria
+   p54 感染-する (かんせん) <- to infect
+   p54 人工的（な） (じんこうてき) <- artificially
+   p54 可能（な） (かのう) <- possibility
+   p54 画期的（な） (かっきてき) <- ground-breaking
+   p54 自身 (じしん) <- oneself, itself
+   p54 体中 (からだじゅう) <- throughout the entire body, from head to toe
+   p54 組織 (そしき) <- tissue
+   p54 実用 (じつよう) <- practical use, utility
+   p54 優れる (すぐ) <- to be excellent,
+   p54 改良-する (かいりょう) <- to improve
+   p54 竜 (りゅう) <- dragon
+   p54 物語 (ものがたり) <- tale, story
+   p54 建築-する (けんちく) <- to construct, to build
+   p54 理論 (りろん) <- theory
+   p54 外交 (がいこう) <- diplomacy
+   p55 第20課　豊かさと幸 (だいかゆた) <- しあわ せ
+== 第20课 词条数=117 ==
+   p55 無駄（な） (むだ) <- wasteful, futile, useless, pointless
+   p55 第二次世界大戦 (だいにじせかいたいせん) <- the Second World War
+   p55 省く (はぶ) <- to omit, to leave out, to reduce, to economize
+   p55 高度経済成長 (こうどけいざいせいちょう) <- rapid economic growth
+   p55 果たして (は) <- really
+   p55 国民総生産 (こくみんそうせいさん) <- Gross National Product (GNP)
+   p55 カカオ豆 (まめ) <- cacao (cocoa) bean
+   p55 資本主義 (しほんしゅぎ) <- capitalist
+   p55 衝撃 (しょうげき) <- shock, impact
+   p55 重さ (おも) <- weight, heaviness
+   p55 第～（第20課 (だいだいか) <- ordinal numbers (20th
+   p55 単位 (たんい) <- unit, denomination, (academic) credit
+   p55 ～位（１位 (いい) <- counter for place (1st place) rank, grade, etc.
+   p55 収入 (しゅうにゅう) <- income, revenue
+   p55 石油危機 (せきゆきき) <- oil shock
+   p55 経済大国 (けいざいたいこく) <- economic giant
+   p55 交渉-する (こうしょう) <- to negotiate
+   p55 権利 (けんり) <- rights, privileges
+   p55 バブル景気 (けいき) <- (especially Japan’s bubble economy from
+   p55 加工-する (かこう) <- to process (food, etc.), to manufacture
+   p55 好景気 (こうけいき) <- economic prosperity
+   p55 崩壊-する (ほうかい) <- to collapse
+   p55 境界線 (きょうかいせん) <- boundary, bounds, borderline
+   p55 低成長 (ていせいちょう) <- low growth
+   p55 溶かす (と) <- to (cause to) melt/ dissolve
+   p55 志向-する (しこう) <- to aspire to, to focus on, to orient towards
+   p55 双方 (そうほう) <- both (parties)
+   p55 冒険-する (ぼうけん) <- adventure, to take a
+   p55 豊か（な） (ゆた) <- rich, abundant, wealthy
+   p56 食い止める (くと) <- to curb, to stop, to hold back
+   p56 奮闘-する (ふんとう) <- work hard, to fight
+   p56 単に (たん) <- simply
+   p56 創造-する (そうぞう) <- to create
+   p56 要素 (ようそ) <- element
+   p56 発熱-する (はつねつ) <- to have a fever
+   p56 結び付く (むすつ) <- to be linked with
+   p56 嘔吐-する (おうと) <- to vomit
+   p56 経る (へ) <- to experience,
+   p56 発症-する (はっしょう) <- to develop symptoms
+   p56 重症化-する (じゅうしょうか) <- to become severe (of an illness)
+   p56 政府 (せいふ) <- government
+   p56 ［国内総生産 (こくないそうせいさん) <- GDP (Gross Domestic Product)
+   p56 唐揚げ (からあ) <- fried chicken
+   p56 質的（な） (しつてき) <- qualitative
+   p56 髪型 (かみがた) <- hairstyle
+   p56 個人的（な） (こじんてき) <- personal
+   p56 曖昧（な） (あいまい) <- vague
+   p56 決まる（髪型が決まる） (きかみがたき) <- to look good [here: to have a great hair day]
+   p56 個人 (ここじん) <- individual people
+   p56 着目-する (ちゃくもく) <- to focus attention on
+   p56 列 (れつ) <- line, queue
+   p56 お気に入り (きい) <- favorite
+   p56 意義 (いぎ) <- significance
+   p56 質 (しつ) <- quality, character, nature
+   p56 順位 (じゅんい) <- order
+   p56 我が～（我が国 (わわくに) <- my, our, one’s own (our country) (formal)
+   p56 気にかける (き) <- to think about
+   p56 ウェルビーイング（Well- () <- well-being
+   p56 知り合う (しあ) <- to meet for the first time
+   p56 争う (あらそ) <- to fight
+   p56 概要 (がいよう) <- summary, overview
+   p56 内閣府 (ないかくふ) <- the Cabinet Office
+   p56 怖さ (こわ) <- fear(fulness), fright
+   p56 主観的（な） (しゅかんてき) <- subjective
+   p56 会長 (かいちょう) <- chairman
+   p56 感覚 (かんかく) <- feeling
+   p56 任す (まか) <- to be put in charge of
+   p56 倒産-する (とうさん) <- to declare bankruptcy
+   p56 数値 (すうち) <- (numerical) value, figure
+   p56 泊まり込む (とこ) <- to stay overnight
+   p56 幸福（な） (こうふく) <- happiness
+   p56 所得 (しょとく) <- income
+   p56 徹夜-する (てつや) <- to stay up all night
+   p56 寿命 (じゅみょう) <- life expectancy
+   p56 乗り越える (のこ) <- to overcome
+   p56 客観的（な） (きゃっかんてき) <- objective
+   p56 全員 (ぜんいん) <- all (people)
+   p56 両者 (りょうしゃ) <- both sides
+   p56 確実（な） (かくじつ) <- steadily
+   p56 競争-する (きょうそう) <- to compete
+   p56 年輪 (ねんりん) <- growth ring (tree)
+   p56 低下-する (ていか) <- to fall, to decline, to deteriorate
+   p56 延ばす (の) <- to postpone
+   p57 演奏-する (えんそう) <- to perform (music)
+   p57 苦戦-する (くせん) <- to have an uphill struggle
+   p57 ～済み（予約済み） (ずよやくず) <- completed (reservation is made)
+   p57 勝利-する (しょうり) <- to be victorious
+   p57 日にち (ひ) <- date
+   p57 ～名様（何名様 (めいさまなんめいさま) <- ～people (how many people?) (humble)
+   p57 聖なる (せい) <- holy
+   p57 押さえる (お) <- to hold
+   p57 連山 (れんざん) <- mountain range
+   p57 最高峰 (さいこうほう) <- the highest peak
+   p57 山岳部員 (さんがくぶいん) <- member of the mountaineering club
+   p57 遭難-する (そうなん) <- to go missing
+   p57 学士 (がくし) <- bachelor’s degree
+   p57 惨事 (さんじ) <- tragedy
+   p57 氷河 (ひょうが) <- glacier
+   p57 遺体 (いたい) <- body (remains)
+   p57 捜索-する (そうさく) <- to search
+   p57 前触れ (まえぶ) <- warning
+   p57 隊員 (たいいん) <- member
+   p57 収容-する (しゅうよう) <- to recover
+   p57 勤める (つと) <- to work
+   p57 志す (こころざ) <- to aspire to
+   p57 安定-する (あんてい) <- to stabilize
+   p57 迷い (まよ) <- doubt, bewilderment, delusion, hesitation
+   p57 遺族 (いぞく) <- bereaved family
+   p57 出合い (であ) <- encounter, meeting
+   p57 背後 (はいご) <- background
+   p57 決心-する (けっしん) <- to make up one’s mind, to resolve to
+   p57 借金-する (しゃっきん) <- to borrow money, to take out a loan
+   p57 復興-する (ふっこう) <- to recover
+   p57 打ち上げ (うあ) <- wrap (party)
+   p57 幹事 (かんじ) <- organizer
+   p57 今のところ (いま) <- at the moment
+   p57 個室 (こしつ) <- private room

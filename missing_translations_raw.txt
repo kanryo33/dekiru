@@ -1,0 +1,2511 @@
+########## 第1课 缺失词翻译提取 ##########
+=== どうぞよろしくお願いします
+  EN: [line] どうぞよろしくお願 いし
+  EN: [trans] (EMPTY)
+  CN: [line] どうぞよろしくお願 いし
+  CN: [trans] (EMPTY)
+  NE: [line] どうぞよろしくお願 いし
+  NE: [trans] (EMPTY)
+=== 教師
+  EN: [line] 教 師
+  EN: [trans] (EMPTY)
+  CN: [line] きょう 教 師 し
+  CN: [trans] きょうし
+  NE: [line] きょう 教 師 し शिक्षक (पेशा)
+  NE: [trans] きょうしशिक्षक(पेशा)
+=== 社員
+  EN: [line] かい 会 しゃ 社 いん 員 business person
+  EN: [trans] 会businessperson
+  CN: [line] 社 員 职员
+  CN: [trans] 职员
+  NE: [line] 会 社 員
+  NE: [trans] 会
+=== お国はどちらですか
+  EN: [line] 簡 かん たん 単 に自 じ ぶん 分 のこと（名 な まえ 前 ・国 くに ・趣 しゅ 味 み など）を話 はな したり相 あい 手 て のことを聞
+  EN: [trans] 簡単自分（名前趣味）話相手聞
+  CN: [line] お国 はどちらですか。 您来自哪个国家？
+  CN: [trans] 。您来自哪个国家？
+  NE: [line] 簡 かん たん 単 に自 じ ぶん 分 のこと（名 な まえ 前 ・国 くに ・趣 しゅ 味 み など）を話 はな したり相 あい 手 て のことを聞
+  NE: [trans] 簡単自分（名前趣味）話相手聞
+=== あのう
+  EN: [line] あのう “Ah”/“Um”
+  EN: [trans] “Ah”/“Um”
+  CN: [line] あのう 请问……
+  CN: [trans] 请问……
+  NE: [line] あのう “अँ”/“के होो भनने”
+  NE: [trans] “अँ”/“केहोोभनने”
+=== あのう、すみません
+  EN: [line] あのう、すみません。 “Ah, excuse me.”
+  EN: [trans] 。“Ah,excuseme.”
+  CN: [line] あのう、すみません。 对不起，请问……
+  CN: [trans] 。对不起，请问……
+  NE: [line] あのう、すみません。 “ए सुन्नोस् त”
+  NE: [trans] 。“एसुन्नोस्त”
+=== そうですか
+  EN: [line] そうですか
+  EN: [trans] (EMPTY)
+  CN: [line] そうですか 是这样吗
+  CN: [trans] 是这样吗
+  NE: [line] そうですか “ए, होो र?”/ “ओ होो साच्चि होो र ?”
+  NE: [trans] “ए,होोर?”/“ओहोोसाच्चिहोोर?”
+=== ブラジル
+  EN: [line] ブラジル Brazil
+  EN: [trans] Brazil
+  CN: [line] ブラジル 巴西
+  CN: [trans] 巴西
+  NE: [line] ブラジル ब्राजिल
+  NE: [trans] ब्राजिल
+=== いつ
+  EN: [line] いつ
+  EN: [trans] (EMPTY)
+  CN: [line] いつ 什么时候
+  CN: [trans] 什么时候
+  NE: [line] いつ कहिले (प्रश्न गर्दाा मात्र प्रयोोग हुनने)
+  NE: [trans] कहिले(प्रश्नगर्दाामात्रप्रयोोगहुनने)
+=== ～から来ました
+  EN: [line] ～から来 き ました come from ～
+  EN: [trans] comefrom～
+  CN: [line] ～から来 き ました 来自……、从……来
+  CN: [trans] 来自……、从……来
+  NE: [line] ～から来 き ました ‌बाट आएकोो
+  NE: [trans] ‌बाटआएकोो
+=== 私の趣味は料理です
+  EN: [line] わたし 私 の趣 しゅ 味 み は料 りょう 理 り です。 “My hobby is cooking.”
+  EN: [trans] 。“Myhobbyiscooking.”
+  CN: [line] 私 の趣 味 は料 理 です。 我的兴趣是烹饪。
+  CN: [trans] 。我的兴趣是烹饪。
+  NE: [line] 私 の趣 味 は料 理 です。
+  NE: [trans] 。
+=== あ（っ）
+  EN: [line] あ（っ） “Ah”
+  EN: [trans] “Ah”
+  CN: [line] あ（っ） 啊
+  CN: [trans] 啊
+  NE: [line] あ（っ） “ए !”
+  NE: [trans] “ए!”
+=== わあ
+  EN: [line] わあ “Wow!”
+  EN: [trans] “Wow!”
+  CN: [line] わあ 啊
+  CN: [trans] 啊
+  NE: [line] わあ “ओहोो!”
+  NE: [trans] “ओहोो!”
+=== 同じですね
+  EN: [line] おな 同 じですね It’s the same, isn’t it?
+  EN: [trans] おなIt’sthesame,isn’tit?
+  CN: [line] おな 同 じですね
+  CN: [trans] おな
+  NE: [line] おな 同 じですね एउटै होो, होोइनन र?
+  NE: [trans] おなएउटैहोो,होोइननर?
+########## 第2课 缺失词翻译提取 ##########
+=== こちら
+  EN: [line] こちらこそ “Me, too.”
+  EN: [trans] こそ“Me,too.”
+  CN: [line] こちらこそ 彼此彼此
+  CN: [trans] こそ彼此彼此
+  NE: [line] こちらこそ “म पनि चाहन्ु।”
+  NE: [trans] こそ“मपनिचाहन्ु।”
+=== そちら
+  EN: [line] そこ／そちら
+  EN: [trans] そこ／
+  CN: [line] そこ／そちら 那里/那边
+  CN: [trans] そこ／那里/那边
+  NE: [line] そこ／そちら
+  NE: [trans] そこ／
+=== あちら
+  EN: [line] あそこ／あちら
+  EN: [trans] あそこ／
+  CN: [line] あそこ／あちら 那里/那边
+  CN: [trans] あそこ／那里/那边
+  NE: [line] あそこ／あちら
+  NE: [trans] あそこ／
+=== タブレット
+  EN: [line] タブレット tablets
+  EN: [trans] tablets
+  CN: [line] タブレット 平板电脑
+  CN: [trans] 平板电脑
+  NE: [line] タブレット ट्ाबलेट
+  NE: [trans] ट्ाबलेट
+=== トイレットペーパー
+  EN: [line] トイレットペーパー bathroom tissue
+  EN: [trans] bathroomtissue
+  CN: [line] トイレットペーパー 卫生纸
+  CN: [trans] 卫生纸
+  NE: [line] トイレットペーパー टोोइलेट पेपर
+  NE: [trans] टोोइलेटपेपर
+=== 油
+  EN: [line] あぶら 油 oil
+  EN: [trans] あぶらoil
+  CN: [line] 油 油
+  CN: [trans] 油
+  NE: [line] あぶら 油 तेल
+  NE: [trans] あぶらतेल
+=== 店員
+  EN: [line] ショッピングビルの案 内 所 や売 り場 で店 員 などに場 所 を聞 いています。
+  EN: [trans] ショッピングビルの案内所や売り場でなどに場所を聞いています。
+  CN: [line] ショッピングビルの案 内 所 や売 り場 で店 員 などに場 所 を聞 いています。
+  CN: [trans] ショッピングビルの案内所や売り場でなどに場所を聞いています。
+  NE: [line] ショッピングビルの案 あん ない 内 じょ 所 や売 う り場 ば で店 てん いん 員 などに場 ば しょ 所 を聞 き いています。
+  NE: [trans] 案内所売場場所聞。
+=== 地下
+  EN: [line] 地 ち 下 か basement
+  EN: [trans] basement
+  CN: [line] 地 下 地下
+  CN: [trans] 地下
+  NE: [line] 地 下
+  NE: [trans] (EMPTY)
+=== ～階
+  EN: [line] ～階 かい ～floor
+  EN: [trans] かい～floor
+  CN: [line] ～階 かい ……层、……楼
+  CN: [trans] かい……层、……楼
+  NE: [line] ～階
+  NE: [trans] (EMPTY)
+=== ～屋
+  EN: [line] ～屋 （例 ：本 屋 ）
+  EN: [trans] （例：本屋）
+  CN: [line] ～屋 や （例 れい ：本 ほん 屋 や ） ……店（例：书店）
+  CN: [trans] や（例れい：本ほん屋や）……店（例：书店）
+  NE: [line] ～屋 や （例 れい ：本 ほん 屋 や ）
+  NE: [trans] や（例れい：本ほん屋や）
+=== いらっしゃいませ
+  EN: [line] いらっしゃいませ “Welcome”
+  EN: [trans] “Welcome”
+  CN: [line] いらっしゃいませ 欢迎光临
+  CN: [trans] 欢迎光临
+  NE: [line] いらっしゃいませ “स्ागतम्”
+  NE: [trans] “स्ागतम्”
+=== ありがとうございます
+  EN: (NOT FOUND)
+  CN: (NOT FOUND)
+  NE: (NOT FOUND)
+=== この
+  EN: [line] 　このリストは『できる日 本 語 初 級 本 冊 【第 ２版 】』の「目
+  EN: [trans] リストは『できる日本語初級本冊【第２版】』の「目
+  CN: [line] 　このリストは『できる日 本 語 初 級 本 冊 【第 ２版 】』の「目
+  CN: [trans] リストは『できる日本語初級本冊【第２版】』の「目
+  NE: [line] 　このリストは『できる日 本 語 初 級 本 冊 【第 ２版 】』の「目
+  NE: [trans] リストは『できる日本語初級本冊【第２版】』の「目
+=== その
+  EN: [line] ニュースや身 み ぢか 近 な情 じょう ほう 報 を友 とも だち 達 や周 まわ りの人 ひと に簡 かん たん 単 に伝 つた えることができる。また、その情
+  EN: [trans] ニュースや身みぢか近な情じょうほう報を友ともだち達や周まわりの人ひとに簡かんたん単に伝つたえることができる。また、情
+  CN: [line] ニュースや身 み ぢか 近 な情 じょう ほう 報 を友 とも だち 達 や周 まわ りの人 ひと に簡 かん たん 単 に伝 つた えることができる。また、その情
+  CN: [trans] ニュースや身みぢか近な情じょうほう報を友ともだち達や周まわりの人ひとに簡かんたん単に伝つたえることができる。また、情
+  NE: [line] ニュースや身 み ぢか 近 な情 じょう ほう 報 を友 とも だち 達 や周 まわ りの人 ひと に簡 かん たん 単 に伝 つた えることができる。また、その情
+  NE: [trans] ニュースや身みぢか近な情じょうほう報を友ともだち達や周まわりの人ひとに簡かんたん単に伝つたえることができる。また、情
+=== あの
+  EN: [line] あのう “Ah”/“Um”
+  EN: [trans] う“Ah”/“Um”
+  CN: [line] あのう 请问……
+  CN: [trans] う请问……
+  NE: [line] あのう “अँ”/“के होो भनने”
+  NE: [trans] う“अँ”/“केहोोभनने”
+=== かばん
+  EN: [line] かばん bag
+  EN: [trans] bag
+  CN: [line] かばん 包
+  CN: [trans] 包
+  NE: [line] かばん झोोला
+  NE: [trans] झोोला
+=== ズボン
+  EN: [line] ズボン pants/ slacks
+  EN: [trans] pants/slacks
+  CN: [line] ズボン 裤子
+  CN: [trans] 裤子
+  NE: [line] ズボン सुरुवाल/ पैन्ट
+  NE: [trans] सुरुवाल/पैन्ट
+=== Ｔシャツ
+  EN: [line] Ｔシャツ T-shirt
+  EN: [trans] T-shirt
+  CN: [line] Ｔシャツ T恤
+  CN: [trans] T恤
+  NE: [line] Ｔシャツ टि- सर््ट
+  NE: [trans] टि-सर््ट
+=== じゃ
+  EN: [line] じゃ “Well,”/ “OK,”
+  EN: [trans] “Well,”/“OK,”
+  CN: [line] じゃ 那么就
+  CN: [trans] 那么就
+  NE: [line] じゃ “त्यसोो भए,”/ “ल त”
+  NE: [trans] “त्यसोोभए,”/“लत”
+=== イチゴ
+  EN: [line] イチゴ strawberry
+  EN: [trans] strawberry
+  CN: [line] イチゴ 草莓
+  CN: [trans] 草莓
+  NE: [line] イチゴ स्टट्रबेरी
+  NE: [trans] स्टट्रबेरी
+=== リンゴ
+  EN: [line] リンゴ apple
+  EN: [trans] apple
+  CN: [line] リンゴ 苹果
+  CN: [trans] 苹果
+  NE: [line] リンゴ स्ाउ
+  NE: [trans] स्ाउ
+=== 料理
+  EN: [line] りょう 料 理 り cooking
+  EN: [trans] りょうりcooking
+  CN: [line] りょう 料 理 り
+  CN: [trans] りょうり
+  NE: [line] りょう 料 理 り परिकार/खानना बननाउनने
+  NE: [trans] りょうりपरिकार/खाननाबननाउनने
+=== これは魚の料理です
+  EN: [line] これは魚 の料 理 です。
+  EN: [trans] 。
+  CN: [line] これは魚 さかな の料 りょう 理 り です。 这道菜是鱼。
+  CN: [trans] 。这道菜是鱼。
+  NE: [line] これは魚 の料 理 です。
+  NE: [trans] 。
+=== とんかつ
+  EN: [line] とんかつ deep-fried pork cutlet
+  EN: [trans] deep-friedporkcutlet
+  CN: [line] とんかつ 炸猪排
+  CN: [trans] 炸猪排
+  NE: [line] とんかつ डिप फ्ाइड पोर््क कटलेट
+  NE: [trans] डिपफ्ाइडपोर््ककटलेट
+=== ハンバーグ
+  EN: [line] ハンバーグ hamburger meat
+  EN: [trans] hamburgermeat
+  CN: [line] ハンバーグ 汉堡肉排
+  CN: [trans] 汉堡肉排
+  NE: [line] ハンバーグ ह्ामबर््ग
+  NE: [trans] ह्ामबर््ग
+=== ご飯を2つください
+  EN: [line] ご飯 を2つください。
+  EN: [trans] 。
+  CN: [line] ご飯 を2つください。 我要两碗米饭。
+  CN: [trans] 。我要两碗米饭。
+  NE: [line] ご飯 を2つください。
+  NE: [trans] 。
+=== ライス
+  EN: [line] ライス rice
+  EN: [trans] rice
+  CN: [line] ライス 米饭
+  CN: [trans] 米饭
+  NE: [line] ライス चामल/भात
+  NE: [trans] चामल/भात
+=== （お）茶
+  EN: [line] （お）茶 ちゃ green tea
+  EN: [trans] ちゃgreentea
+  CN: [line] （お）茶 ちゃ
+  CN: [trans] ちゃ
+  NE: [line] （お）茶 ちゃ ग्रिनन टि
+  NE: [trans] ちゃग्रिननटि
+=== インド
+  EN: [line] インド India (here: Indian)
+  EN: [trans] India(here:Indian)
+  CN: [line] インド 印度
+  CN: [trans] 印度
+  NE: [line] インド भारत (यहा: भारतिय)
+  NE: [trans] भारत(यहा:भारतिय)
+=== ドイツ
+  EN: [line] ドイツ
+  EN: [trans] (EMPTY)
+  CN: [line] ドイツ 德国
+  CN: [trans] 德国
+  NE: [line] ドイツ जर््मननी (यहा: जर््मनन)
+  NE: [trans] जर््मननी(यहा:जर््मनन)
+=== フランス
+  EN: [line] フランス France (here: French)
+  EN: [trans] France(here:French)
+  CN: [line] フランス 法国
+  CN: [trans] 法国
+  NE: [line] フランス फ्रान्स (यहा: फ्ेन्च)
+  NE: [trans] फ्रान्स(यहा:फ्ेन्च)
+=== 財布
+  EN: [line] 財 布
+  EN: [trans] (EMPTY)
+  CN: [line] さい 財 布 ふ
+  CN: [trans] さいふ
+  NE: [line] さい 財 布 ふ पर््स/ विल फोोल्ड
+  NE: [trans] さいふपर््स/विलफोोल्ड
+=== 英語
+  EN: [line] 英 語 翻 訳
+  EN: [trans] 翻訳
+  CN: [line] えい 英 語 ご
+  CN: [trans] えいご
+  NE: [line] えい 英 語 ご अंग्रेेजी भाषा
+  NE: [trans] えいごअंग्रेेजीभाषा
+=== ～語
+  EN: [line] ～語 ご （例 れい ：日 に ほん 本 語 ご ）
+  EN: [trans] ご（例れい：日にほん本語ご）
+  CN: [line] ～語 （例 ：日 本 語 ） ……语（例：日语）
+  CN: [trans] （例：日本語）……语（例：日语）
+  NE: [line] ～語 （例 ：日 本 語 ）
+  NE: [trans] （例：日本語）
+=== ～つ
+  EN: [line] ～つ counter
+  EN: [trans] counter
+  CN: [line] ～つ ……份
+  CN: [trans] ……份
+  NE: [line] ～つ ～वटा
+  NE: [trans] ～वटा
+=== 誰
+  EN: [line] レストランで注 ちゅう もん 文 することができる。また、忘 わす れ物 もの の持 も ち主 ぬし が誰
+  EN: [trans] レストランで注ちゅうもん文することができる。また、忘わすれ物ものの持もち主ぬしが
+  CN: [line] レストランで注 ちゅう もん 文 することができる。また、忘 わす れ物 もの の持 も ち主 ぬし が誰
+  CN: [trans] レストランで注ちゅうもん文することができる。また、忘わすれ物ものの持もち主ぬしが
+  NE: [line] レストランで注 ちゅう もん 文 することができる。また、忘 わす れ物 もの の持 も ち主 ぬし が誰
+  NE: [trans] レストランで注ちゅうもん文することができる。また、忘わすれ物ものの持もち主ぬしが
+=== 注文をお願いします
+  EN: [line] ちゅう 注 もん 文 をお願 ねが いします “I’d like to order now.”
+  EN: [trans] “I’dliketoordernow.”
+  CN: [line] ちゅう 注 もん 文 をお願 ねが いします 我要点餐
+  CN: [trans] 我要点餐
+  NE: [line] ちゅう 注 もん 文 をお願 ねが いします “अर््डर गर््न चाहन्ु”
+  NE: [trans] “अर््डरगर््नचाहन्ु”
+=== どうぞ
+  EN: [line] どうぞよろしくお願 いし
+  EN: [trans] よろしくお願いし
+  CN: [line] どうぞよろしくお願 いし
+  CN: [trans] よろしくお願いし
+  NE: [line] どうぞよろしくお願 いし
+  NE: [trans] よろしくお願いし
+=== メニュー
+  EN: [line] メニュー menu
+  EN: [trans] menu
+  CN: [line] メニュー 菜单
+  CN: [trans] 菜单
+  NE: [line] メニュー मेन्यु
+  NE: [trans] मेन्यु
+=== こちらへどうぞ
+  EN: [line] こちらへどうぞ　 “This way, please.”
+  EN: [trans] “Thisway,please.”
+  CN: [line] こちらへどうぞ　 这边请
+  CN: [trans] 这边请
+  NE: [line] こちらへどうぞ “कृृपया यता आउननुहोोला।”
+  NE: [trans] “कृृपयायताआउननुहोोला।”
+=== 少々お待ちください
+  EN: [line] 少 々 お待 ちください
+  EN: [trans] (EMPTY)
+  CN: [line] 少 々 お待 ちください 请您稍等
+  CN: [trans] 请您稍等
+  NE: [line] 少 々 お待 ちください
+  NE: [trans] (EMPTY)
+########## 第3课 缺失词翻译提取 ##########
+=== 昼
+  EN: [line] 昼
+  EN: [trans] (EMPTY)
+  CN: [line] 昼 中午
+  CN: [trans] 中午
+  NE: [line] ひる 昼 दिउसोो
+  NE: [trans] ひるदिउसोो
+=== 時間
+  EN: [line] 教 室 で休 み時 間 にクラスメイトと話 しています。
+  EN: [trans] 教室で休みにクラスメイトと話しています。
+  CN: [line] ～時 間 ……个小时
+  CN: [trans] ～……个小时
+  NE: [line] 教 室 で休 み時 間 にクラスメイトと話 しています。
+  NE: [trans] 教室で休みにクラスメイトと話しています。
+=== 今、9時20分です
+  EN: [line] 今 、9時 20分 です。
+  EN: [trans] 。
+  CN: [line] いま 今 、9時 じ 20分 ぷん です。
+  CN: [trans] 。
+  NE: [line] いま 今 、9時 じ 20分 ぷん です。 “अहिले ९बजेर २०मिननेट (पूर्वााह्ण)”
+  NE: [trans] 。“अहिले९बजेर२०मिननेट(पूर्वााह्ण)”
+=== ～時半
+  EN: [line] ～時 半
+  EN: [trans] (EMPTY)
+  CN: [line] ～時 半 ……点半
+  CN: [trans] ……点半
+  NE: [line] ～時 じ はん 半 साढे～बजे
+  NE: [trans] साढे～बजे
+=== バーベキュー
+  EN: [line] バーベキュー barbecue
+  EN: [trans] barbecue
+  CN: [line] バーベキュー 烧烤
+  CN: [trans] 烧烤
+  NE: [line] バーベキュー बार्बेेक्ु
+  NE: [trans] बार्बेेक्ु
+=== 花火
+  EN: [line] 花 火
+  EN: [trans] (EMPTY)
+  CN: [line] 花 火 烟花
+  CN: [trans] 烟花
+  NE: [line] 花 はな 火 び आतसबाजी
+  NE: [trans] आतसबाजी
+=== （お）花見
+  EN: [line] （お）花 見
+  EN: [trans] (EMPTY)
+  CN: [line] （お）花 見 赏花
+  CN: [trans] 赏花
+  NE: [line] （お）花 はな 見 み ओहाननामी (फूल अवलोोकनन)
+  NE: [trans] ओहाननामी(फूलअवलोोकनन)
+=== ホームステイ
+  EN: [line] ホームステイ home stay
+  EN: [trans] homestay
+  CN: [line] ホームステイ 家庭寄宿
+  CN: [trans] 家庭寄宿
+  NE: [line] ホームステイ होोमस्े
+  NE: [trans] होोमस्े
+=== （お）祭り
+  EN: [line] （お）祭 まつ り festival
+  EN: [trans] festival
+  CN: [line] （お）祭 まつ り 节日、庙会
+  CN: [trans] 节日、庙会
+  NE: [line] （お）祭 り
+  NE: [trans] (EMPTY)
+=== （お）酒
+  EN: [line] （お）酒
+  EN: [trans] (EMPTY)
+  CN: [line] （お）酒 さけ
+  CN: [trans] さけ
+  NE: [line] （お）酒 さけ साके/ रक्ी
+  NE: [trans] さけसाके/रक्ी
+=== （お）すし
+  EN: [line] （お）すし sushi
+  EN: [trans] sushi
+  CN: [line] （お）すし 寿司
+  CN: [trans] 寿司
+  NE: [line] （お）すし सुसी
+  NE: [trans] सुसी
+=== バス
+  EN: [line] 第 だい 10課 か 　バスツアー
+  EN: [trans] 第だい10課かツアー
+  CN: [line] 第 だい 10課 か 　バスツアー
+  CN: [trans] 第だい10課かツアー
+  NE: [line] 第 だい 10課 か 　バスツアー
+  NE: [trans] 第だい10課かツアー
+=== （お）弁当
+  EN: [line] （お）弁 べん とう 当 bento/ boxed meal
+  EN: [trans] bento/boxedmeal
+  CN: [line] （お）弁 当 便当、盒饭
+  CN: [trans] 便当、盒饭
+  NE: [line] （お）弁 当
+  NE: [trans] (EMPTY)
+=== 1年
+  EN: [line] 学 がっ こう 校 の1年 ねん のスケジュールについて質 しつ もん 問 したり、自 じ ぶん 分 の1年 ねん の予
+  EN: [trans] 学がっこう校のねんのスケジュールについて質しつもん問したり、自じぶん分の1年ねんの予
+  CN: [line] 学 がっ こう 校 の1年 ねん のスケジュールについて質 しつ もん 問 したり、自 じ ぶん 分 の1年 ねん の予
+  CN: [trans] 学がっこう校のねんのスケジュールについて質しつもん問したり、自じぶん分の1年ねんの予
+  NE: [line] 学 校 の1年 のスケジュールについて質 問 したり、自 分 の1年 の予
+  NE: [trans] 学校ののスケジュールについて質問したり、自分の1年の予
+=== ゴールデンウィーク
+  EN: [line] ゴールデンウィーク
+  EN: [trans] (EMPTY)
+  CN: [line] ゴールデンウィーク
+  CN: [trans] (EMPTY)
+  NE: [line] ゴールデンウィーク
+  NE: [trans] (EMPTY)
+=== 何
+  EN: [line] 周 まわ りの状 じょう きょう 況 を簡 かん たん 単 に友 とも だち 達 に伝 つた えることができる。また、何 なに かを頼
+  EN: [trans] 周まわりの状じょうきょう況を簡かんたん単に友ともだち達に伝つたえることができる。また、なにかを頼
+  CN: [line] 周 りの状 況 を簡 単 に友 達 に伝 えることができる。また、何 かを頼
+  CN: [trans] 周りの状況を簡単に友達に伝えることができる。また、かを頼
+  NE: [line] 周 りの状 況 を簡 単 に友 達 に伝 えることができる。また、何 かを頼
+  NE: [trans] 周りの状況を簡単に友達に伝えることができる。また、かを頼
+=== スキーをします
+  EN: [line] スキーをします。 go skiing
+  EN: [trans] 。goskiing
+  CN: [line] スキーをします。 滑雪。
+  CN: [trans] 。滑雪。
+  NE: [line] スキーをします。 स्ी खेल््न जानने
+  NE: [trans] 。स्ीखेल््नजानने
+=== いいですね
+  EN: [line] いいですね “That’s nice.”
+  EN: [trans] “That’snice.”
+  CN: [line] いいですね 真不错呀
+  CN: [trans] 真不错呀
+  NE: [line] いいですね “धेरै राम्रोो !”
+  NE: [trans] “धेरैराम्रोो!”
+=== えっ
+  EN: [line] えっ “What?”
+  EN: [trans] “What?”
+  CN: [line] えっ 嗯？
+  CN: [trans] 嗯？
+  NE: [line] えっ “के?”
+  NE: [trans] “के?”
+=== へえ
+  EN: [line] へえ “Oh.”
+  EN: [trans] “Oh.”
+  CN: [line] へえ 啊（是这样啊）
+  CN: [trans] 啊（是这样啊）
+  NE: [line] へえ “ए”
+  NE: [trans] “ए”
+=== 毎朝
+  EN: [line] まい 毎 あさ 朝 every morning
+  EN: [trans] everymorning
+  CN: [line] 毎 朝 每天早上
+  CN: [trans] 每天早上
+  NE: [line] まい 毎 あさ 朝 हरेक बिहानन
+  NE: [trans] हरेकबिहानन
+=== 毎晩
+  EN: [line] まい 毎 ばん 晩 every evening
+  EN: [trans] everyevening
+  CN: [line] 毎 晩 每天晚上
+  CN: [trans] 每天晚上
+  NE: [line] まい 毎 ばん 晩 हरेक साँझ, बेलुका
+  NE: [trans] हरेकसाँझ,बेलुका
+=== 朝ご飯
+  EN: [line] あさ 朝 ご飯 はん breakfast
+  EN: [trans] あさはんbreakfast
+  CN: [line] 朝 ご飯 早餐
+  CN: [trans] 早餐
+  NE: [line] 朝 ご飯
+  NE: [trans] (EMPTY)
+=== 昼ご飯
+  EN: [line] 昼 ご飯
+  EN: [trans] (EMPTY)
+  CN: [line] ひる 昼 ご飯 はん 午餐
+  CN: [trans] ひるはん午餐
+  NE: [line] 昼 ご飯
+  NE: [trans] (EMPTY)
+=== うち
+  EN: [line] うち home
+  EN: [trans] home
+  CN: [line] うち 家中
+  CN: [trans] 家中
+  NE: [line] うち घर
+  NE: [trans] घर
+=== うちで勉強します
+  EN: [line] うちで勉 べん きょう 強 します。
+  EN: [trans] 。
+  CN: [line] うちで勉 べん きょう 強 します。
+  CN: [trans] 。
+  NE: [line] うちで勉 べん きょう 強 します。 घरमा अध्ययनन गर््छछु।
+  NE: [trans] 。घरमाअध्ययननगर््छछु।
+=== 会社
+  EN: [line] 発 行 所 ：株 式 会 社 アルク
+  EN: [trans] 発行所：株式アルク
+  CN: [line] 発 行 所 ：株 式 会 社 アルク
+  CN: [trans] 発行所：株式アルク
+  NE: [line] 発 行 所 ：株 式 会 社 アルク
+  NE: [trans] 発行所：株式アルク
+=== 果物
+  EN: [line] くだ 果 もの 物 fruit
+  EN: [trans] fruit
+  CN: [line] 果 物 水果
+  CN: [trans] 水果
+  NE: [line] 果 物
+  NE: [trans] (EMPTY)
+=== サラダ
+  EN: [line] サラダ salad
+  EN: [trans] salad
+  CN: [line] サラダ 色拉
+  CN: [trans] 色拉
+  NE: [line] サラダ सलाद
+  NE: [trans] सलाद
+=== チーズ
+  EN: [line] チーズ cheese
+  EN: [trans] cheese
+  CN: [line] チーズ 奶酪
+  CN: [trans] 奶酪
+  NE: [line] チーズ चिज
+  NE: [trans] चिज
+=== メール
+  EN: [line] メール e-mail
+  EN: [trans] e-mail
+  CN: [line] メール 电子邮件
+  CN: [trans] 电子邮件
+  NE: [line] メール इ-मेल
+  NE: [trans] इ-मेल
+=== 何も
+  EN: [line] 何 も
+  EN: [trans] (EMPTY)
+  CN: [line] 何 も 什么也
+  CN: [trans] 什么也
+  NE: [line] 何 も
+  NE: [trans] (EMPTY)
+=== どこ（へ）も
+  EN: [line] どこ（へ）も nowhere
+  EN: [trans] nowhere
+  CN: [line] どこ（へ）も 哪里也
+  CN: [trans] 哪里也
+  NE: [line] どこ（へ）も कही पनि
+  NE: [trans] कहीपनि
+=== 買います
+  EN: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  EN: [trans] 第2課物食事
+  CN: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  CN: [trans] 第2課物食事
+  NE: [line] 買 います ［買 う］
+  NE: [trans] ［買う］
+=== 聞きます
+  EN: [line] 音 楽 を聞 きます。
+  EN: [trans] 音楽を。
+  CN: [line] できること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一
+  CN: [trans] 状況説明」、「（「話読書」「一
+  NE: [line] 聞 きます［聞 く］
+  NE: [trans] ［聞く］
+=== 音楽を聞きます
+  EN: [line] 音 楽 を聞 きます。
+  EN: [trans] 。
+  CN: [line] 音 おん がく 楽 を聞 き きます。
+  CN: [trans] 。
+  NE: [line] 音 おん がく 楽 を聞 き きます。 सङ्ीत सुन्ु।
+  NE: [trans] 。सङ्ीतसुन्ु।
+=== 働きます
+  EN: [line] はたら 働 きます［働 はたら く］ work
+  EN: [trans] はたら［働はたらく］work
+  CN: [line] はたら 働 きます［働 はたら く］
+  CN: [trans] はたら［働はたらく］
+  NE: [line] 働 はたら きます［働 はたら く］ काम गर््ननु
+  NE: [trans] ［働］कामगर््ननु
+=== 読みます
+  EN: [line] できること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一
+  EN: [trans] 状況説明」、「（「話聞書」「一
+  CN: [line] できること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一
+  CN: [trans] 状況説明」、「（「話聞書」「一
+  NE: [line] できること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一
+  NE: [trans] 状況説明」、「（「話聞書」「一
+=== 起きます
+  EN: [line] 起 お きます［起 お きる］ wake/ get up
+  EN: [trans] ［起］wake/getup
+  CN: [line] 起 きます［起 きる］ 起床
+  CN: [trans] ［起きる］起床
+  NE: [line] 起 お きます［起 お きる］ उठ्ननु
+  NE: [trans] ［起］उठ्ननु
+=== 寝ます
+  EN: [line] 寝 ね ます［寝 ね る］ sleep
+  EN: [trans] ［寝］sleep
+  CN: [line] 寝 ます［寝 る］ 睡觉
+  CN: [trans] ［寝る］睡觉
+  NE: [line] 寝 ます［寝 る］
+  NE: [trans] ［寝る］
+=== 勉強します
+  EN: [line] うちで勉 べん きょう 強 します。
+  EN: [trans] 。
+  CN: [line] うちで勉 べん きょう 強 します。
+  CN: [trans] 。
+  NE: [line] うちで勉 べん きょう 強 します。 घरमा अध्ययनन गर््छछु।
+  NE: [trans] 。घरमाअध्ययननगर््छछु।
+=== 来ます
+  EN: [line] 来 ます［来 る］
+  EN: [trans] ［来る］
+  CN: [line] 来 ます［来 る］ 到、来
+  CN: [trans] ［来る］到、来
+  NE: [line] 来 ます［来 る］
+  NE: [trans] ［来る］
+=== これから
+  EN: [line] これからの生 せい かつ 活 や周 まわ りの人 ひと との関 かん けい 係 づくりのために、予 よ てい 定 を聞
+  EN: [trans] の生せいかつ活や周まわりの人ひととの関かんけい係づくりのために、予よてい定を聞
+  CN: [line] これからの生 せい かつ 活 や周 まわ りの人 ひと との関 かん けい 係 づくりのために、予 よ てい 定 を聞
+  CN: [trans] の生せいかつ活や周まわりの人ひととの関かんけい係づくりのために、予よてい定を聞
+  NE: [line] これからの生 せい かつ 活 や周 まわ りの人 ひと との関 かん けい 係 づくりのために、予 よ てい 定 を聞
+  NE: [trans] の生せいかつ活や周まわりの人ひととの関かんけい係づくりのために、予よてい定を聞
+########## 第4课 缺失词翻译提取 ##########
+=== いろいろ（な）
+  EN: [line] いろいろ（な）　 a variety of
+  EN: [trans] avarietyof
+  CN: [line] いろいろ（な）　 各种各样（的）
+  CN: [trans] 各种各样（的）
+  NE: [line] いろいろ（な）　 अननेक थरिका/विभिन्न
+  NE: [trans] अननेकथरिका/विभिन्न
+=== ぜひ来てください
+  EN: [line] やす 休 みの日 ひ の出 で 来 き ごと 事 や予 よ てい 定 について友 とも だち 達 や周 まわ りの人 ひと と簡 かん たん 単 に話 はな
+  EN: [trans] 休日出事予定友達周人簡単話
+  CN: [line] 休 みの日 の出 来 事 や予 定 について友 達 や周 りの人 と簡 単 に話
+  CN: [trans] 休日出事予定友達周人簡単話
+  NE: [line] ぜひ来 てください
+  NE: [trans] (EMPTY)
+=== 真ん中
+  EN: [line] 真 ま ん中 なか in the middle/ center
+  EN: [trans] inthemiddle/center
+  CN: [line] 真 ん中 正中
+  CN: [trans] 正中
+  NE: [line] 真 ん中
+  NE: [trans] (EMPTY)
+=== ～時間
+  EN: [line] ～時 じ かん 間 ～hours
+  EN: [trans] ～hours
+  CN: [line] ～時 間 ……个小时
+  CN: [trans] ……个小时
+  NE: [line] ～時 じ かん 間 ～घण्ा
+  NE: [trans] ～घण्ा
+=== ～時間半
+  EN: [line] ～時 じ かん 間 はん 半 ～and a half hours
+  EN: [trans] ～andahalfhours
+  CN: [line] ～時 間 半 ……个半小时
+  CN: [trans] ……个半小时
+  NE: [line] ～時 じ かん 間 はん 半 साढे～घण्ा
+  NE: [trans] साढे～घण्ा
+=== ～分
+  EN: [line] ～分 ふん
+  EN: [trans] ふん
+  CN: [line] ～分 ふん
+  CN: [trans] ふん
+  NE: [line] ～分
+  NE: [trans] (EMPTY)
+=== うちから学校まで20分です
+  EN: [line] うちから学 校 まで20分 で
+  EN: [trans] (EMPTY)
+  CN: [line] うちから学 がっ こう 校 まで20分 ぷん で
+  CN: [trans] (EMPTY)
+  NE: [line] うちから学 校 まで20分 で
+  NE: [trans] (EMPTY)
+=== 歩いて
+  EN: [line] 歩 いて
+  EN: [trans] (EMPTY)
+  CN: [line] ある 歩 いて 走路、徒步
+  CN: [trans] ある走路、徒步
+  NE: [line] 歩 いて
+  NE: [trans] (EMPTY)
+=== ～くらい
+  EN: [line] ～くらい about
+  EN: [trans] about
+  CN: [line] ～くらい ……左右
+  CN: [trans] ……左右
+  NE: [line] ～くらい लगभग～
+  NE: [trans] लगभग～
+=== どのくらい
+  EN: [line] どのくらい
+  EN: [trans] (EMPTY)
+  CN: [line] どのくらい 多长时间
+  CN: [trans] 多长时间
+  NE: [line] どのくらい कति
+  NE: [trans] कति
+=== （お）城
+  EN: [line] （お）城
+  EN: [trans] (EMPTY)
+  CN: [line] （お）城 しろ 城堡
+  CN: [trans] しろ城堡
+  NE: [line] （お）城
+  NE: [trans] (EMPTY)
+=== （お）寺
+  EN: [line] （お）寺 てら temple
+  EN: [trans] てらtemple
+  CN: [line] （お）寺 てら
+  CN: [trans] てら
+  NE: [line] （お）寺 てら (बौद्ध) मन्दिर
+  NE: [trans] てら(बौद्ध)मन्दिर
+=== ビル
+  EN: [line] ショッピングビルの案 内 所 や売 り場 で店 員 などに場 所 を聞 いています。
+  EN: [trans] ショッピングの案内所や売り場で店員などに場所を聞いています。
+  CN: [line] ショッピングビルの案 内 所 や売 り場 で店 員 などに場 所 を聞 いています。
+  CN: [trans] ショッピングの案内所や売り場で店員などに場所を聞いています。
+  NE: [line] ショッピングビルの案 あん ない 内 じょ 所 や売 う り場 ば で店 てん いん 員 などに場 ば しょ 所 を聞 き いています。
+  NE: [trans] ショッピングの案あんない内じょ所や売うり場ばで店てんいん員などに場ばしょ所を聞きいています。
+=== ところ
+  EN: [line] 友 達 を誘 ったり、行 きたいところやしたいことを一 緒 に相 談
+  EN: [trans] 友達を誘ったり、行きたいやしたいことを一緒に相談
+  CN: [line] 友 とも だち 達 を誘 さそ ったり、行 い きたいところやしたいことを一 いっ しょ 緒 に相 そう だん 談
+  CN: [trans] 友ともだち達を誘さそったり、行いきたいやしたいことを一いっしょ緒に相そうだん談
+  NE: [line] 友 達 を誘 ったり、行 きたいところやしたいことを一 緒 に相 談
+  NE: [trans] 友達を誘ったり、行きたいやしたいことを一緒に相談
+=== 緑
+  EN: [line] 緑
+  EN: [trans] (EMPTY)
+  CN: [line] みどり 緑 绿色、树叶及草叶的颜色
+  CN: [trans] みどり绿色、树叶及草叶的颜色
+  NE: [line] みどり 緑 हरियोो
+  NE: [trans] みどりहरियोो
+=== あります
+  EN: [line] あります［ある］ there is/ are
+  EN: [trans] ［ある］thereis/are
+  CN: [line] あります［ある］ 有
+  CN: [trans] ［ある］有
+  NE: [line] あります［ある］ छ
+  NE: [trans] ［ある］छ
+=== 箱根に温泉があります
+  EN: [line] はこ 箱 根 ね に温 おん せん 泉 があります。
+  EN: [trans] 。
+  CN: [line] はこ 箱 根 ね に温 おん せん 泉 があります。
+  CN: [trans] 。
+  NE: [line] はこ 箱 根 ね に温 おん せん 泉 があります。
+  NE: [trans] 。
+=== いい
+  EN: [line] とも だち さそ い いっ しょ そう だん
+  EN: [trans] ともだちさそっしょそうだん
+  CN: [line] ねん れい い たん じょう び い き
+  CN: [trans] ねんれたんじょうびいき
+  NE: [line] とも だち さそ い いっ しょ そう だん
+  NE: [trans] ともだちさそっしょそうだん
+=== （～が）多い
+  EN: [line] （～が）多 おお い a lot of ～
+  EN: [trans] alotof～
+  CN: [line] （～が）多 い （……）多
+  CN: [trans] （……）多
+  NE: [line] （～が）多 い
+  NE: [trans] (EMPTY)
+=== （～が）少ない
+  EN: [line] （～が）少 すく ない few ～
+  EN: [trans] few～
+  CN: [line] （～が）少 ない （……）少
+  CN: [trans] （……）少
+  NE: [line] （～が）少 ない
+  NE: [trans] (EMPTY)
+=== 富士山は高いです
+  EN: [line] 富 士 山 は高 いです。
+  EN: [trans] 。
+  CN: [line] 富 ふ 士 じ さん 山 は高 たか いです。
+  CN: [trans] 。
+  NE: [line] 富 ふ 士 じ さん 山 は高 たか いです。 “माउन्ट फुजी अग्लोो छ।”
+  NE: [trans] 。“माउन्टफुजीअग्लोोछ।”
+=== どんな
+  EN: [line] 3　どんな毎 まい 日 にち ？　
+  EN: [trans] 3毎まい日にち？
+  CN: [line] 3　どんな毎 まい 日 にち ？　
+  CN: [trans] 3毎まい日にち？
+  NE: [line] 3　どんな毎 まい 日 にち ？　
+  NE: [trans] 3毎まい日にち？
+=== そして
+  EN: [line] そして and
+  EN: [trans] and
+  CN: [line] そして 而且
+  CN: [trans] 而且
+  NE: [line] そして र/अनि
+  NE: [trans] र/अनि
+=== 日
+  EN: [line] 『できる日 本 語 初 級
+  EN: [trans] 『できる本語初級
+  CN: [line] 『できる日 本 語 初 級
+  CN: [trans] 『できる本語初級
+  NE: [line] 『できる日 本 語 初 級
+  NE: [trans] 『できる本語初級
+=== メロン
+  EN: [line] メロン melon
+  EN: [trans] melon
+  CN: [line] メロン 甜瓜
+  CN: [trans] 甜瓜
+  NE: [line] メロン तरबूजोो, खरबुजा
+  NE: [trans] तरबूजोो,खरबुजा
+=== 天気がいい
+  EN: [line] 天 気 がいい
+  EN: [trans] (EMPTY)
+  CN: [line] 天 気 がいい 天气好
+  CN: [trans] 天气好
+  NE: [line] 天 気 がいい
+  NE: [trans] (EMPTY)
+=== 天気が悪い
+  EN: [line] 天 気が悪 い
+  EN: [trans] (EMPTY)
+  CN: [line] 天 気が悪 い 天气不好
+  CN: [trans] 天气不好
+  NE: [line] 天 気が悪 い
+  NE: [trans] (EMPTY)
+=== 温かい
+  EN: [line] あたた 温 かい warm
+  EN: [trans] あたたwarm
+  CN: [line] おん 温 せん 泉
+  CN: [trans] 泉
+  NE: [line] 温 かい
+  NE: [trans] (EMPTY)
+=== 熱い
+  EN: [line] あつ 熱 い hot
+  EN: [trans] あつhot
+  CN: [line] あつ 熱 い 热
+  CN: [trans] あつ热
+  NE: [line] あつ 熱 い गर्मीी, तातोो
+  NE: [trans] あつगर्मीी,तातोो
+=== 冷たい
+  EN: [line] つめ 冷 たい cold
+  EN: [trans] つめcold
+  CN: [line] つめ 冷 たい
+  CN: [trans] つめ
+  NE: [line] つめ 冷 たい ठन्ा, चिसोो
+  NE: [trans] つめठन्ा,चिसोो
+=== 一年中
+  EN: [line] いち 一 ねん 年 じゅう 中 all year round
+  EN: [trans] allyearround
+  CN: [line] いち 一 ねん 年 じゅう 中
+  CN: [trans] (EMPTY)
+  NE: [line] いち 一 ねん 年 じゅう 中 बर्षैैभरि
+  NE: [trans] बर्षैैभरि
+=== あまり
+  EN: [line] あまり not very/ not so
+  EN: [trans] notvery/notso
+  CN: [line] あまり 不怎么、不太
+  CN: [trans] 不怎么、不太
+  NE: [line] あまり त्यति (धेरै त होोइनन)
+  NE: [trans] त्यति(धेरैतहोोइनन)
+=== 私の国は夏、あまり暑くないです
+  EN: [line] わたし 私 の国 くに は夏 なつ 、あまり暑 あつ く “Summers are not so
+  EN: [trans] “Summersarenotso
+  CN: [line] わたし 私 の国 くに は夏 なつ 、あまり暑 あつ く
+  CN: [trans] (EMPTY)
+  NE: [line] わたし 私 の国 くに は夏 なつ 、あまり暑 あつ く “मेरोो देशमा ग्रीीष्ममा त्यति गर्मीी
+  NE: [trans] “मेरोोदेशमाग्रीीष्ममात्यतिगर्मीी
+=== 少し
+  EN: [line] 少 々 お待 ちください
+  EN: [trans] 々待
+  CN: [line] いくら 多少钱
+  CN: [trans] 多钱
+  NE: [line] 少 々 お待 ちください
+  NE: [trans] 々待
+=== とても
+  EN: [line] とても very
+  EN: [trans] very
+  CN: [line] とても 很、非常
+  CN: [trans] 很、非常
+  NE: [line] とても एकदम/धेरै
+  NE: [trans] एकदम/धेरै
+=== どう
+  EN: [line] もく じ こう どう もく ひょう
+  EN: [trans] もくじこうもくひょう
+  CN: [line] もく じ こう どう もく ひょう
+  CN: [trans] もくじこうもくひょう
+  NE: [line] もく じ こう どう もく ひょう
+  NE: [trans] もくじこうもくひょう
+=== そうですね
+  EN: [line] そうですね “Yes, it is.”
+  EN: [trans] “Yes,itis.”
+  CN: [line] そうですね 是啊
+  CN: [trans] 是啊
+  NE: [line] そうですね “हजुर, होो”
+  NE: [trans] “हजुर,होो”
+=== たくさん
+  EN: [line] たくさん a lot of/ many
+  EN: [trans] alotof/many
+  CN: [line] たくさん 很多、许多
+  CN: [trans] 很多、许多
+  NE: [line] たくさん थुप्रै/धेरै
+  NE: [trans] थुप्रै/धेरै
+########## 第5课 缺失词翻译提取 ##########
+=== 1日
+  EN: [line] 1日 にち 　 1 day
+  EN: [trans] にち1day
+  CN: [line] 1日 にち
+  CN: [trans] にち
+  NE: [line] 1日 にち 　 १ दिनन
+  NE: [trans] にち१दिनन
+=== 近く
+  EN: [line] 近 く
+  EN: [trans] (EMPTY)
+  CN: [line] ちか 近 く
+  CN: [trans] ちか
+  NE: [line] ちか 近 く नजिक
+  NE: [trans] ちかनजिक
+=== また
+  EN: [line] 周 まわ りの状 じょう きょう 況 を簡 かん たん 単 に友 とも だち 達 に伝 つた えることができる。また、何 なに かを頼
+  EN: [trans] 周まわりの状じょうきょう況を簡かんたん単に友ともだち達に伝つたえることができる。、何なにかを頼
+  CN: [line] 周 りの状 況 を簡 単 に友 達 に伝 えることができる。また、何 かを頼
+  CN: [trans] 周りの状況を簡単に友達に伝えることができる。、何かを頼
+  NE: [line] 周 りの状 況 を簡 単 に友 達 に伝 えることができる。また、何 かを頼
+  NE: [trans] 周りの状況を簡単に友達に伝えることができる。、何かを頼
+=== 今日
+  EN: [line] 今 日
+  EN: [trans] (EMPTY)
+  CN: [line] 今 日 今天
+  CN: [trans] 今天
+  NE: [line] 今 日
+  NE: [trans] (EMPTY)
+=== あさって
+  EN: [line] あさって the day after tomorrow
+  EN: [trans] thedayaftertomorrow
+  CN: [line] あさって 后天
+  CN: [trans] 后天
+  NE: [line] あさって पर््ससि
+  NE: [trans] पर््ससि
+=== おととい
+  EN: [line] おととい
+  EN: [trans] (EMPTY)
+  CN: [line] おととい 前天
+  CN: [trans] 前天
+  NE: [line] おととい अस्ति
+  NE: [trans] अस्ति
+=== 先週
+  EN: [line] せん 先 しゅう 週 last week
+  EN: [trans] lastweek
+  CN: [line] せん 先 しゅう 週
+  CN: [trans] (EMPTY)
+  NE: [line] せん 先 しゅう 週 गत हप्ा
+  NE: [trans] गतहप्ा
+=== 週末
+  EN: [line] しゅう 週 まつ 末 weekend
+  EN: [trans] weekend
+  CN: [line] 週 末 周末
+  CN: [trans] 周末
+  NE: [line] 週 末
+  NE: [trans] (EMPTY)
+=== 家
+  EN: [line] 第 だい 7課 か 　友 とも 達 だち の家 いえ で
+  EN: [trans] 第だい7課か友とも達だちのいえで
+  CN: [line] 能向朋友及周围的人简单介绍自己的家乡。
+  CN: [trans] 能向朋友及周围的人简单介绍自己的乡。
+  NE: [line] 第 だい 7課 か 　友 とも 達 だち の家 いえ で
+  NE: [trans] 第だい7課か友とも達だちのいえで
+=== 部屋
+  EN: [line] 部 へ 屋 や room
+  EN: [trans] room
+  CN: [line] 部 屋 房间
+  CN: [trans] 房间
+  NE: [line] 部 へ 屋 や कोोठा
+  NE: [trans] कोोठा
+=== デパート
+  EN: [line] デパート department store
+  EN: [trans] departmentstore
+  CN: [line] デパート 百货店
+  CN: [trans] 百货店
+  NE: [line] デパート डिपार््टमेन्ट स्टोोर
+  NE: [trans] डिपार््टमेन्टस्टोोर
+=== 美術館
+  EN: [line] 美 術 館 　
+  EN: [trans] (EMPTY)
+  CN: [line] 美 術 館 　 美术馆
+  CN: [trans] 美术馆
+  NE: [line] 美 術 館 にいます。
+  NE: [trans] にいます。
+=== ゲーム
+  EN: [line] ゲーム game
+  EN: [trans] game
+  CN: [line] ゲーム 游戏
+  CN: [trans] 游戏
+  NE: [line] ゲーム गेम
+  NE: [trans] गेम
+=== SNS
+  EN: [line] SNS (Social Networking
+  EN: [trans] (SocialNetworking
+  CN: [line] SNS 社交平台
+  CN: [trans] 社交平台
+  NE: [line] SNS
+  NE: [trans] (EMPTY)
+=== 家族
+  EN: [line] 家 族 や友 達 がどんな人 か話 すことができる。
+  EN: [trans] や友達がどんな人か話すことができる。
+  CN: [line] 家 族 や友 達 がどんな人 か話 すことができる。
+  CN: [trans] や友達がどんな人か話すことができる。
+  NE: [line] かん 簡 たん 単 に自 じ ぶん 分 の家 か ぞく 族 や友 とも だち 達 について友 とも だち 達 や周 まわ りの人 ひと に紹 しょう かい 介 することができる。
+  NE: [trans] 簡単自分友達友達周人紹介。
+=== 恋人
+  EN: [line] 恋 人
+  EN: [trans] (EMPTY)
+  CN: [line] 恋人
+  CN: [trans] (EMPTY)
+  NE: [line] こい 恋 びと 人 प्रेमी/प्रेमिका
+  NE: [trans] प्रेमी/प्रेमिका
+=== 友達
+  EN: [line] お店 の人 や友 達 と簡 単 なやりとりをして、買 い物 をしたり料
+  EN: [trans] お店の人やと簡単なやりとりをして、買い物をしたり料
+  CN: [line] 休 みの日 の出 来 事 や予 定 について友 達 や周 りの人 と簡 単 に話
+  CN: [trans] 休みの日の出来事や予定についてや周りの人と簡単に話
+  NE: [line] 簡 単 に自 分 の出 身 地 について友 達 や周 りの人 に紹 介 することができる。
+  NE: [trans] 簡単に自分の出身地についてや周りの人に紹介することができる。
+=== ルームメイト
+  EN: [line] ルームメイト roommate
+  EN: [trans] roommate
+  CN: [line] ルームメイト 室友
+  CN: [trans] 室友
+  NE: [line] ルームメイト रुममेट
+  NE: [trans] रुममेट
+=== どこか（へ）
+  EN: [line] どこか（へ） (to) somewhere
+  EN: [trans] (to)somewhere
+  CN: [line] どこか（へ） （去）哪里
+  CN: [trans] （去）哪里
+  NE: [line] どこか（へ） कतैतिर
+  NE: [trans] कतैतिर
+=== 会います
+  EN: [line] 発 行 所 ：株 式 会 社 アルク
+  EN: [trans] 発行所：株式社
+  CN: [line] 会 います［会 う］ 见面
+  CN: [trans] ［会う］见面
+  NE: [line] 会 います［会 う］
+  NE: [trans] ［会う］
+=== 作ります
+  EN: [line] 作 つく ります［作 つく る］ make
+  EN: [trans] ［作］make
+  CN: [line] 作 ります［作 る］ 做
+  CN: [trans] ［作る］做
+  NE: [line] 作 つく ります［作 つく る］ बननाउननु
+  NE: [trans] ［作］बननाउननु
+=== 買い物します
+  EN: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  EN: [trans] 第2課食事
+  CN: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  CN: [trans] 第2課食事
+  NE: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  NE: [trans] 第2課食事
+=== 食事します
+  EN: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  EN: [trans] 第2課買物
+  CN: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  CN: [trans] 第2課買物
+  NE: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  NE: [trans] 第2課買物
+=== 洗濯します
+  EN: [line] 洗 せん たく 濯 ・します［洗 せん たく 濯 ・す launder/ do the
+  EN: [trans] ［洗濯launder/dothe
+  CN: [line] 洗 せん たく 濯 ・します［洗 せん たく 濯 ・す
+  CN: [trans] ［洗濯
+  NE: [line] 洗 せん たく 濯 ・します［洗 せん たく 濯 ・す
+  NE: [trans] ［洗濯
+=== 掃除します
+  EN: [line] 掃 そう 除 じ ・します［掃 そう 除 じ ・す
+  EN: [trans] ［掃除
+  CN: [line] 掃 そう 除 じ ・します［掃 そう 除 じ ・す
+  CN: [trans] ［掃除
+  NE: [line] 掃 そう 除 じ ・します［掃 そう 除 じ ・す
+  NE: [trans] ［掃除
+=== それから
+  EN: [line] それから after that
+  EN: [trans] afterthat
+  CN: [line] それから 然后
+  CN: [trans] 然后
+  NE: [line] それから त्यसपछि
+  NE: [trans] त्यसपछि
+=== 1人で
+  EN: [line] 1 人で
+  EN: [trans] (EMPTY)
+  CN: [line] 1 ひとり 人で
+  CN: [trans] (EMPTY)
+  NE: [line] 1 ひとり 人で एक्ै
+  NE: [trans] एक्ै
+=== 先月
+  EN: [line] せん 先 げつ 月 last month
+  EN: [trans] lastmonth
+  CN: [line] 先 月 上个月
+  CN: [trans] 上个月
+  NE: [line] 先 月
+  NE: [trans] (EMPTY)
+=== 風邪
+  EN: [line] 風 か 邪 ぜ a cold
+  EN: [trans] acold
+  CN: [line] 風 か 邪 ぜ 感冒
+  CN: [trans] 感冒
+  NE: [line] 風 か 邪 ぜ चिसोो लाग्ु, रुघाखोोकी
+  NE: [trans] चिसोोलाग्ु,रुघाखोोकी
+=== 天気
+  EN: [line] 天 気 がいい
+  EN: [trans] がいい
+  CN: [line] 天 気 がいい 天气好
+  CN: [trans] がいい天气好
+  NE: [line] 天 気 がいい
+  NE: [trans] がいい
+=== 晩ご飯
+  EN: [line] 晩 ご飯
+  EN: [trans] (EMPTY)
+  CN: [line] ばん 晩 ご飯 はん
+  CN: [trans] ばんはん
+  NE: [line] ばん 晩 ご飯 はん बेलुकाकोो खानना
+  NE: [trans] ばんはんबेलुकाकोोखानना
+=== 服
+  EN: [line] 服
+  EN: [trans] (EMPTY)
+  CN: [line] インフォメーション 咨询处、服务台
+  CN: [trans] インフォメーション咨询处、务台
+  NE: [line] ふく 服 लुगाफाटा
+  NE: [trans] ふくलुगाफाटा
+=== 登ります
+  EN: [line] 登 ります［登 る］
+  EN: [trans] ［登る］
+  CN: [line] のぼ 登 ります［登 のぼ る］
+  CN: [trans] のぼ［登のぼる］
+  NE: [line] のぼ 登 ります［登 のぼ る］ चढ्ननु
+  NE: [trans] のぼ［登のぼる］चढ्ननु
+=== 入ります
+  EN: [line] はい 入 ります［入 はい る］ enter (here: take)
+  EN: [trans] はい［入はいる］enter(here:take)
+  CN: [line] 入 ります［入 る］ 泡
+  CN: [trans] ［入る］泡
+  NE: [line] 入 ります［入 る］
+  NE: [trans] ［入る］
+=== 温泉に入ります
+  EN: [line] おん 温 せん 泉 に入 はい ります。 take a hot spring bath
+  EN: [trans] 。takeahotspringbath
+  CN: [line] 温 泉 に入 ります。 泡温泉。
+  CN: [trans] 。泡温泉。
+  NE: [line] 温 泉 に入 ります。
+  NE: [trans] 。
+=== 忙しい
+  EN: [line] 忙 いそが しい busy
+  EN: [trans] busy
+  CN: [line] 忙 しい 忙
+  CN: [trans] 忙
+  NE: [line] 忙 しい
+  NE: [trans] (EMPTY)
+=== おもしろい
+  EN: [line] おもしろい interesting/ fun
+  EN: [trans] interesting/fun
+  CN: [line] おもしろい 有趣
+  CN: [trans] 有趣
+  NE: [line] おもしろい रमाइलोो
+  NE: [trans] रमाइलोो
+=== 気持ちがいい
+  EN: [line] 気 持 ちがいい
+  EN: [trans] (EMPTY)
+  CN: [line] 気 き 持 も ちがいい 舒服
+  CN: [trans] 舒服
+  NE: [line] 気 き 持 も ちがいい एकदम रमाइलोो/मज्ा
+  NE: [trans] एकदमरमाइलोो/मज्ा
+=== 高い
+  EN: [line] たか 高 い high/ tall
+  EN: [trans] たかhigh/tall
+  CN: [line] たか 高 い
+  CN: [trans] たか
+  NE: [line] たか 高 い अग्लोो
+  NE: [trans] たかअग्लोो
+=== パソコンは高かったです
+  EN: [line] こう 高 こう 校 high school
+  EN: [trans] 校highschool
+  CN: [line] こう 高 こう 校 高中
+  CN: [trans] 校高中
+  NE: [line] こう 高 こう 校 हाइ स्ूल/उच्चमाध्यमिक विद्ालय
+  NE: [trans] 校हाइस्ूल/उच्चमाध्यमिकविद्ालय
+=== 安い
+  EN: [line] やす 安 い inexpensive
+  EN: [trans] やすinexpensive
+  CN: [line] 安 い 便宜
+  CN: [trans] 便宜
+  NE: [line] 安 い
+  NE: [trans] (EMPTY)
+=== 楽しい
+  EN: [line] 楽 しい
+  EN: [trans] (EMPTY)
+  CN: [line] 楽 しい 高兴、开心
+  CN: [trans] 高兴、开心
+  NE: [line] 楽 しい
+  NE: [trans] (EMPTY)
+=== 難しい
+  EN: [line] 難 しい
+  EN: [trans] (EMPTY)
+  CN: [line] 難 しい 难
+  CN: [trans] 难
+  NE: [line] 難 しい
+  NE: [trans] (EMPTY)
+=== 簡単（な）
+  EN: [line] 簡 単 （な）
+  EN: [trans] (EMPTY)
+  CN: [line] かん 簡 たん 単 （な） 简单（的）
+  CN: [trans] 简单（的）
+  NE: [line] かん 簡 たん 単 （な） सजिलोो
+  NE: [trans] सजिलोो
+=== 大変（な）
+  EN: [line] たい 大 へん 変 （な） awful (ly)
+  EN: [trans] awful(ly)
+  CN: [line] たい 大 へん 変 （な） 很辛苦、很艰难（的）
+  CN: [trans] 很辛苦、很艰难（的）
+  NE: [line] たい 大 へん 変 （な） डरलाग्दोो, गाह्रोो
+  NE: [trans] डरलाग्दोो,गाह्रोो
+=== 暇（な）
+  EN: [line] ひま 暇 （な） at leisure/ free
+  EN: [trans] ひまatleisure/free
+  CN: [line] ひま 暇 （な）
+  CN: [trans] ひま
+  NE: [line] ひま 暇 （な） फुर््सदिलोो
+  NE: [trans] ひまफुर््सदिलोो
+=== どうして
+  EN: [line] どうして why
+  EN: [trans] why
+  CN: [line] どうして 为什么
+  CN: [trans] 为什么
+  NE: [line] どうして किनन
+  NE: [trans] किनन
+=== 今度
+  EN: [line] また今 度
+  EN: [trans] また
+  CN: [line] 今 度 下次、下回
+  CN: [trans] 下次、下回
+  NE: [line] 今 度
+  NE: [trans] (EMPTY)
+=== 今年
+  EN: [line] 今 年
+  EN: [trans] (EMPTY)
+  CN: [line] 今 年 今年
+  CN: [trans] 今年
+  NE: [line] 今 年
+  NE: [trans] (EMPTY)
+=== アニメ
+  EN: [line] アニメ animation
+  EN: [trans] animation
+  CN: [line] アニメ 动画、动漫
+  CN: [trans] 动画、动漫
+  NE: [line] アニメ एनिमेशनन
+  NE: [trans] एनिमेशनन
+=== 絵
+  EN: [line] 絵 え picture
+  EN: [trans] えpicture
+  CN: [line] 絵 え
+  CN: [trans] え
+  NE: [line] 絵 え चित्र/पिक्चर
+  NE: [trans] えचित्र/पिक्चर
+=== 景色
+  EN: [line] 景 け しき 色 view
+  EN: [trans] view
+  CN: [line] 风景、景色
+  CN: [trans] 风景、
+  NE: [line] 景 け しき 色 दृश्य
+  NE: [trans] दृश्य
+=== 自転車
+  EN: [line] 自 じ てん 転 しゃ 車 bicycle
+  EN: [trans] bicycle
+  CN: [line] 自 転 車 自行车
+  CN: [trans] 自行车
+  NE: [line] 自 転 車
+  NE: [trans] (EMPTY)
+=== 写真
+  EN: [line] 写 真
+  EN: [trans] (EMPTY)
+  CN: [line] 教 室 で国 や町 の写 真 を見 ながらクラスメイトと話 しています。
+  CN: [trans] 教室で国や町のを見ながらクラスメイトと話しています。
+  NE: [line] 写 真
+  NE: [trans] (EMPTY)
+=== 撮ります
+  EN: [line] 撮 ります［撮 る］
+  EN: [trans] ［撮る］
+  CN: [line] 撮 ります［撮 る］ 拍照
+  CN: [trans] ［撮る］拍照
+  NE: [line] 撮 ります［撮 る］
+  NE: [trans] ［撮る］
+=== 借ります
+  EN: [line] 借 ります［借 りる］
+  EN: [trans] ［借りる］
+  CN: [line] 借 か ります［借 か りる］ 借
+  CN: [trans] ［借］借
+  NE: [line] 借 か ります［借 か りる］ सापट लिननु
+  NE: [trans] ［借］सापटलिननु
+=== ほしい
+  EN: [line] ほしい want
+  EN: [trans] want
+  CN: [line] ほしい 想要
+  CN: [trans] 想要
+  NE: [line] ほしい चाहननु
+  NE: [trans] चाहननु
+=== 好き（な）
+  EN: [line] 好 き（な）
+  EN: [trans] (EMPTY)
+  CN: [line] 好 す き（な）
+  CN: [trans] (EMPTY)
+  NE: [line] 好 す き（な） मनन पराउननु
+  NE: [trans] मननपराउननु
+=== 嫌い（な）
+  EN: [line] きら 嫌 い（な） dislike
+  EN: [trans] きらdislike
+  CN: [line] きら 嫌 い（な）
+  CN: [trans] きら
+  NE: [line] きら 嫌 い（な） मनन ननपराउननु
+  NE: [trans] きらमननननपराउननु
+=== 寮
+  EN: [line] りょう 寮 で最 さい きん 近 知 し り合 あ った人 ひと と話 はな しています。
+  EN: [trans] りょうで最さいきん近知しり合あった人ひとと話はなしています。
+  CN: [line] りょう 寮 で最 さい きん 近 知 し り合 あ った人 ひと と話 はな しています。
+  CN: [trans] りょうで最さいきん近知しり合あった人ひとと話はなしています。
+  NE: [line] 寮 で最 近 知 り合 った人 と話 しています。
+  NE: [trans] で最近知り合った人と話しています。
+=== それはよかったですね
+  EN: [line] それはよかったですね
+  EN: [trans] (EMPTY)
+  CN: [line] それはよかったですね 那太好了。/真是太好了。
+  CN: [trans] 那太好了。/真是太好了。
+  NE: [line] それはよかったですね
+  NE: [trans] (EMPTY)
+########## 第6课 缺失词翻译提取 ##########
+=== 皆さん
+  EN: [line] みな 皆 さん everyone
+  EN: [trans] みなeveryone
+  CN: [line] 皆 さん　 大家、各位
+  CN: [trans] 大家、各位
+  NE: [line] 皆 さん　
+  NE: [trans] (EMPTY)
+=== あります
+  EN: [line] あります［ある］ there is/ are
+  EN: [trans] ［ある］thereis/are
+  CN: [line] あります［ある］ 有
+  CN: [trans] ［ある］有
+  NE: [line] あります［ある］ छ
+  NE: [trans] ［ある］छ
+=== 今晩、用事があります
+  EN: [line] こん 今 ばん 晩 、用 よう 事 じ があります。
+  EN: [trans] 。
+  CN: [line] 今 晩 、用 事 があります。 今晚有点事。
+  CN: [trans] 。今晚有点事。
+  NE: [line] 今 晩 、用 事 があります。
+  NE: [trans] 。
+=== 横浜で野球の試合があります
+  EN: [line] 横 よこ はま 浜 で野 や きゅう 球 の試 し あい 合 があり “There is a baseball
+  EN: [trans] “Thereisabaseball
+  CN: [line] 横 よこ はま 浜 で野 や きゅう 球 の試 し あい 合 があり
+  CN: [trans] (EMPTY)
+  NE: [line] よこ 横 はま 浜 で野 や きゅう 球 の試 し あい 合 があり “योोकोोहामामा बेसबल गेम (कोो
+  NE: [trans] “योोकोोहामामाबेसबलगेम(कोो
+=== チケットが2枚あります
+  EN: [line] チケットが2枚 まい あります。 “I have 2 tickets.”
+  EN: [trans] 。“Ihave2tickets.”
+  CN: [line] チケットが2枚 まい あります。 有2张票。
+  CN: [trans] 。有2张票。
+  NE: [line] チケットが2枚 まい あります。 “म सँग २ वटा टिकेट छ।”
+  NE: [trans] 。“मसँग२वटाटिकेटछ।”
+=== いいですね
+  EN: [line] いいですね “That’s nice.”
+  EN: [trans] “That’snice.”
+  CN: [line] いいですね 真不错呀
+  CN: [trans] 真不错呀
+  NE: [line] いいですね “धेरै राम्रोो !”
+  NE: [trans] “धेरैराम्रोो!”
+=== ああ
+  EN: [line] ああ “Ah.”
+  EN: [trans] “Ah.”
+  CN: [line] あ あ
+  CN: [trans] (EMPTY)
+  NE: [line] あ あ भेट्ननु
+  NE: [trans] भेट्ननु
+=== ああ、日曜日はちょっと
+  EN: [line] ああ、日 曜 日 はちょっと
+  EN: [trans] (EMPTY)
+  CN: [line] ああ、日 曜 日 はちょっと
+  CN: [trans] (EMPTY)
+  NE: [line] ああ、日 曜 日 はちょっと
+  NE: [trans] (EMPTY)
+=== すみません
+  EN: [line] すみません “Excuse me.”
+  EN: [trans] “Excuseme.”
+  CN: [line] すみません 对不起
+  CN: [trans] 对不起
+  NE: [line] すみません “माफ गर्नोस्”
+  NE: [trans] “माफगर्नोस्”
+=== ～はちょっと
+  EN: [line] ～はちょっと “～’s a bit difficult.”
+  EN: [trans] “～’sabitdifficult.”
+  CN: [line] ～はちょっと ……有点
+  CN: [trans] ……有点
+  NE: [line] ～はちょっと ～अलि गाह्रोो छ
+  NE: [trans] ～अलिगाह्रोोछ
+=== また今度
+  EN: [line] また今 度
+  EN: [trans] (EMPTY)
+  CN: [line] 3　今 こん 度 ど の休 やす みに　
+  CN: [trans] 3休
+  NE: [line] 3　今 こん 度 ど の休 やす みに　
+  NE: [trans] 3休
+=== わあ
+  EN: [line] わあ “Wow!”
+  EN: [trans] “Wow!”
+  CN: [line] わあ 啊
+  CN: [trans] 啊
+  NE: [line] わあ “ओहोो!”
+  NE: [trans] “ओहोो!”
+=== そうですねえ
+  EN: [line] そうですねえ “Well.”
+  EN: [trans] “Well.”
+  CN: [line] そうですねえ 是啊
+  CN: [trans] 是啊
+  NE: [line] そうですねえ “अँ～हजुर”
+  NE: [trans] “अँ～हजुर”
+########## 第7课 缺失词翻译提取 ##########
+=== 皆さん
+  EN: [line] みな 皆 さん everyone
+  EN: [trans] みなeveryone
+  CN: [line] 皆 さん　 大家、各位
+  CN: [trans] 大家、各位
+  NE: [line] 皆 さん　
+  NE: [trans] (EMPTY)
+=== 私は本屋の中にいます
+  EN: [line] 私 は本 屋 の中 にいます。
+  EN: [trans] 。
+  CN: [line] わたし 私 は本 ほん 屋 や の中 なか にいます。
+  CN: [trans] 。
+  NE: [line] 私 は本 屋 の中 にいます。
+  NE: [trans] 。
+=== 書きます
+  EN: [line] できること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一
+  EN: [trans] 状況説明」、「（「話読聞」「一
+  CN: [line] 書 きます［書 く］ 写
+  CN: [trans] ［書く］写
+  NE: [line] できること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一
+  NE: [trans] 状況説明」、「（「話読聞」「一
+=== パクさんに電話番号を聞きます
+  EN: [line] パクさんに電 でん 話 わ ばん 番 ごう 号 を聞 き “I’ll ask Pak for the
+  EN: [trans] “I’llaskPakforthe
+  CN: [line] パクさんに電 でん 話 わ ばん 番 ごう 号 を聞 き
+  CN: [trans] (EMPTY)
+  NE: [line] パクさんに電 話 番 号 を聞
+  NE: [trans] (EMPTY)
+=== 冷蔵庫からジュースを出します
+  EN: [line] れい 冷 ぞう 蔵 庫 こ からジュースを出 だ “I’ll take the juice out
+  EN: [trans] “I’lltakethejuiceout
+  CN: [line] れい 冷 ぞう 蔵 庫 こ からジュースを出 だ
+  CN: [trans] (EMPTY)
+  NE: [line] れい 冷 ぞう 蔵 庫 こ からジュースを出 だ
+  NE: [trans] (EMPTY)
+=== ああ、これですね
+  EN: [line] ああ、これですね。 “Oh, this one?”
+  EN: [trans] 。“Oh,thisone?”
+  CN: [line] ああ、これですね。 啊，是这个吧。
+  CN: [trans] 。啊，是这个吧。
+  NE: [line] ああ、これですね。 “ओहोो, योो होो, होोइनन त?”
+  NE: [trans] 。“ओहोो,योोहोो,होोइननत?”
+=== 友達に電話をかけます
+  EN: [line] 友 達 に電 話 をかけます。
+  EN: [trans] 。
+  CN: [line] みち 道 に迷 まよ って友 とも だち 達 に電 でん 話 わ しています。
+  CN: [trans] 道迷。
+  NE: [line] 道 に迷 って友 達 に電 話 しています。
+  NE: [trans] 道迷。
+########## 第8课 缺失词翻译提取 ##########
+=== 兄弟
+  EN: [line] きょう 兄 だい 弟 Brothers and sisters
+  EN: [trans] Brothersandsisters
+  CN: [line] きょう 兄 だい 弟 兄弟姐妹
+  CN: [trans] きょう兄だい弟姐妹
+  NE: [line] きょう 兄 だい 弟 दाजुभाइ दिदीबहिननी
+  NE: [trans] दाजुभाइदिदीबहिननी
+=== お兄さん
+  EN: [line] お兄 さん ※2
+  EN: [trans] ※2
+  CN: [line] お兄 さん ※2 哥哥
+  CN: [trans] ※2哥哥
+  NE: [line] きょう 兄 だい 弟 दाजुभाइ दिदीबहिननी
+  NE: [trans] 弟दाजुभाइदिदीबहिननी
+=== お姉さん
+  EN: [line] あね 姉 ※1 elder sister
+  EN: [trans] ※1eldersister
+  CN: [line] あね 姉 ※1
+  CN: [trans] ※1
+  NE: [line] 姉 ※1
+  NE: [trans] ※1
+=== 弟さん
+  EN: [line] おとうと 弟 さん ※2 younger brother
+  EN: [trans] おとうと※2youngerbrother
+  CN: [line] おとうと 弟 さん ※2 弟弟
+  CN: [trans] おとうと※2弟弟
+  NE: [line] おとうと 弟 さん ※2 (कसैकोो) भाइ
+  NE: [trans] おとうと※2(कसैकोो)भाइ
+=== 妹さん
+  EN: [line] いもうと 妹 さん ※2 younger sister
+  EN: [trans] いもうと※2youngersister
+  CN: [line] いもうと 妹 さん ※2
+  CN: [trans] いもうと※2
+  NE: [line] 妹 さん
+  NE: [trans] (EMPTY)
+=== お子さん
+  EN: [line] 監 修 ：嶋 田 和 子
+  EN: [trans] 監修：嶋田和
+  CN: [line] 監 修 ：嶋 田 和 子
+  CN: [trans] 監修：嶋田和
+  NE: [line] お子 さん ※2
+  NE: [trans] ※2
+=== ピアノ
+  EN: [line] ピアノ piano
+  EN: [trans] piano
+  CN: [line] ピアノ 钢琴
+  CN: [trans] 钢琴
+  NE: [line] ピアノ पियानोनो
+  NE: [trans] पियानोनो
+=== 医者
+  EN: [line] 歯 医 者
+  EN: [trans] 歯
+  CN: [line] 医 者 医生
+  CN: [trans] 医生
+  NE: [line] 病 院 で簡 単 に症 状 を話 したり医 者 の指 示 を聞 いたりすることができる。
+  NE: [trans] 病院で簡単に症状を話したりの指示を聞いたりすることができる。
+=== ～人
+  EN: [line] ～人
+  EN: [trans] (EMPTY)
+  CN: [line] ～人 にん
+  CN: [trans] にん
+  NE: [line] ～人
+  NE: [trans] (EMPTY)
+=== ～匹
+  EN: [line] ～匹 ひき
+  EN: [trans] ひき
+  CN: [line] ～匹 ひき
+  CN: [trans] ひき
+  NE: [line] ～匹 ひき (जननावर) ～वटा
+  NE: [trans] ひき(जननावर)～वटा
+=== 私は弟がいます
+  EN: [line] わたし 私 は弟 おとうと がいます。
+  EN: [trans] 。
+  CN: [line] 私 は弟 がいます。 我有弟弟。
+  CN: [trans] 。我有弟弟。
+  NE: [line] 私 は弟 がいます。
+  NE: [trans] 。
+=== うち
+  EN: [line] うち home
+  EN: [trans] home
+  CN: [line] うち 家中
+  CN: [trans] 家中
+  NE: [line] うち घर
+  NE: [trans] घर
+=== うちのペット
+  EN: [line] うちのペット family pet
+  EN: [trans] familypet
+  CN: [line] うちのペット 我的宠物
+  CN: [trans] 我的宠物
+  NE: [line] うちのペット घरकोो पालेकोो जननावर
+  NE: [trans] घरकोोपालेकोोजननावर
+=== 友達の誕生日にカードを送ります
+  EN: (NOT FOUND)
+  CN: (NOT FOUND)
+  NE: (NOT FOUND)
+=== （お）金
+  EN: [line] （お）金
+  EN: [trans] (EMPTY)
+  CN: [line] （お）金 かね 钱
+  CN: [trans] かね钱
+  NE: [line] （お）金
+  NE: [trans] (EMPTY)
+=== 何か
+  EN: [line] パーティーの準 備 をしているとき、何 か頼 んだり指 示 したりすることができる。
+  EN: [trans] パーティーの準備をしているとき、頼んだり指示したりすることができる。
+  CN: [line] 周 りの状 況 を簡 単 に友 達 に伝 えることができる。また、何 かを頼
+  CN: [trans] 周りの状況を簡単に友達に伝えることができる。また、を頼
+  NE: [line] 周 りの状 況 を簡 単 に友 達 に伝 えることができる。また、何 かを頼
+  NE: [trans] 周りの状況を簡単に友達に伝えることができる。また、を頼
+=== もうすぐ
+  EN: [line] もうすぐ very soon
+  EN: [trans] verysoon
+  CN: [line] もうすぐ 马上、很快
+  CN: [trans] 马上、很快
+  NE: [line] もうすぐ शिघ्र
+  NE: [trans] शिघ्र
+=== よかったですね
+  EN: [line] それはよかったですね
+  EN: [trans] それは
+  CN: [line] それはよかったですね 那太好了。/真是太好了。
+  CN: [trans] それは那太好了。/真是太好了。
+  NE: [line] それはよかったですね
+  NE: [trans] それは
+########## 第9课 缺失词翻译提取 ##########
+=== 最近
+  EN: [line] りょう 寮 で最 さい きん 近 知 し り合 あ った人 ひと と話 はな しています。
+  EN: [trans] 寮知合人話。
+  CN: [line] 在宿舍和最近认识的人说话。
+  CN: [trans] 在宿舍和认识的人说话。
+  NE: [line] 寮 で最 近 知 り合 った人 と話 しています。
+  NE: [trans] 寮で知り合った人と話しています。
+=== ～日
+  EN: [line] ～日 にち ～day (as in Monday)
+  EN: [trans] にち～day(asinMonday)
+  CN: [line] ～日 ……日
+  CN: [trans] ……日
+  NE: [line] ～日
+  NE: [trans] (EMPTY)
+=== ～週間
+  EN: [line] ～週 しゅう かん 間 ～week(s)
+  EN: [trans] ～week(s)
+  CN: [line] ～週 しゅう かん 間
+  CN: [trans] (EMPTY)
+  NE: [line] ～週 しゅう かん 間 ～हप्ा
+  NE: [trans] ～हप्ा
+=== ～か月
+  EN: [line] ～か月 げつ ～month(s)
+  EN: [trans] げつ～month(s)
+  CN: [line] ～か月 げつ
+  CN: [trans] げつ
+  NE: [line] ～か月 げつ ～महिनना
+  NE: [trans] げつ～महिनना
+=== ～年
+  EN: [line] ～年 ねん ～year(s)
+  EN: [trans] ねん～year(s)
+  CN: [line] ～年 ……年
+  CN: [trans] ……年
+  NE: [line] ～年 ねん ～बर््ष
+  NE: [trans] ねん～बर््ष
+=== 私はよく映画を見ます
+  EN: [line] 私 はよく映 画 を見 ます。
+  EN: [trans] 。
+  CN: [line] わたし 私 はよく映 えい 画 が を見 み ます。 我经常看电影。
+  CN: [trans] 。我经常看电影。
+  NE: [line] わたし 私 はよく映 えい 画 が を見 み ます。 “म प्रायजसोो सिननेमा हेर्ने गर््छछु
+  NE: [trans] 。“मप्रायजसोोसिननेमाहेर्नेगर््छछु
+=== あまりテレビを見ません
+  EN: [line] し り、自 じ ぶん 分 の意 い けん 見 を簡 かん たん 単 に言 い うことができる。
+  EN: [trans] 、自分意簡単言。
+  CN: [line] り、自 分 の意 見 を簡 単 に言 うことができる。
+  CN: [trans] 、自分意簡単言。
+  NE: [line] あまりテレビを見 ません。
+  NE: [trans] 。
+=== ダンスクラブに入ります
+  EN: [line] ダンスクラブに入 ります。
+  EN: [trans] 。
+  CN: [line] ダンスクラブに入 ります。 加入跳舞俱乐部。
+  CN: [trans] 。加入跳舞俱乐部。
+  NE: [line] 入 ります［入 る］
+  NE: [trans] ［入］
+=== スキーができます
+  EN: [line] スキーができます。 “I can ski.”
+  EN: [trans] 。“Icanski.”
+  CN: [line] スキーができます。 我会滑雪。
+  CN: [trans] 。我会滑雪。
+  NE: [line] スキーができます。 “म स्ी खेल््न सक्षम छु।”
+  NE: [trans] 。“मस्ीखेल््नसक्षमछु।”
+=== すごい
+  EN: [line] すごい amazing
+  EN: [trans] amazing
+  CN: [line] すごい 了不起
+  CN: [trans] 了不起
+  NE: [line] すごい अति सुन्दर
+  NE: [trans] अतिसुन्दर
+=== いろいろ（な）
+  EN: [line] いろいろ（な）　 a variety of
+  EN: [trans] avarietyof
+  CN: [line] いろいろ（な）　 各种各样（的）
+  CN: [trans] 各种各样（的）
+  NE: [line] いろいろ（な）　 अननेक थरिका/विभिन्न
+  NE: [trans] अननेकथरिका/विभिन्न
+=== 上手に
+  EN: [line] 上 手 に
+  EN: [trans] (EMPTY)
+  CN: [line] 上 手 に 好
+  CN: [trans] 好
+  NE: [line] じょう 上 手 ず （な） पोोख्त
+  NE: [trans] （）पोोख्त
+=== 図書館のカードを作ります
+  EN: [line] 図 書 館 のカードを作 りま
+  EN: [trans] (EMPTY)
+  CN: [line] 図 と しょ 書 かん 館 のカードを作 つく りま
+  CN: [trans] (EMPTY)
+  NE: [line] 図 と しょ 書 かん 館 のカードを作 つく りま
+  NE: [trans] (EMPTY)
+=== ～番
+  EN: [line] ～番 ばん number ～
+  EN: [trans] ばんnumber～
+  CN: [line] ～番 ……路
+  CN: [trans] ……路
+  NE: [line] ～番
+  NE: [trans] (EMPTY)
+=== どうやって
+  EN: [line] どうやって how?/ in what way?
+  EN: [trans] how?/inwhatway?
+  CN: [line] どうやって 怎么
+  CN: [trans] 怎么
+  NE: [line] どうやって कसरी?/ कुनन उपायद्ारा?
+  NE: [trans] कसरी?/कुननउपायद्ारा?
+########## 第10课 缺失词翻译提取 ##########
+=== 飲みます
+  EN: [line] 薬 を飲 みます。
+  EN: [trans] 薬を。
+  CN: [line] 飲 みます［飲 む］ 喝
+  CN: [trans] ［飲む］喝
+  NE: [line] 飲 みます［飲 む］
+  NE: [trans] ［飲む］
+=== 薬を飲みます
+  EN: [line] 薬 を飲 みます。
+  EN: [trans] 。
+  CN: [line] 薬 を飲 みます。 吃药。
+  CN: [trans] 。吃药。
+  NE: [line] 薬 くすり を飲 の みます。 “म औषधी खान्ु”
+  NE: [trans] 。“मऔषधीखान्ु”
+=== まっすぐ
+  EN: [line] まっすぐ straight ahead
+  EN: [trans] straightahead
+  CN: [line] まっすぐ 一直
+  CN: [trans] 一直
+  NE: [line] まっすぐ सिधै
+  NE: [trans] सिधै
+=== よく
+  EN: [line] よく often
+  EN: [trans] often
+  CN: [line] よく 经常
+  CN: [trans] 经常
+  NE: [line] よく प्रायजसोो/राम्ररी
+  NE: [trans] प्रायजसोो/राम्ररी
+=== よくわかりません
+  EN: [line] よくわかりません。
+  EN: [trans] 。
+  CN: [line] よくわかりません。 不太明白。/不太清楚。
+  CN: [trans] 。不太明白。/不太清楚。
+  NE: [line] よくわかりません。 “त्यति बुझिननँ।”
+  NE: [trans] 。“त्यतिबुझिननँ।”
+=== ちょっと
+  EN: [line] ああ、日 曜 日 はちょっと
+  EN: [trans] ああ、日曜日は
+  CN: [line] ああ、日 曜 日 はちょっと
+  CN: [trans] ああ、日曜日は
+  NE: [line] ああ、日 曜 日 はちょっと
+  NE: [trans] ああ、日曜日は
+=== ええと
+  EN: [line] ええと “Umm.”
+  EN: [trans] “Umm.”
+  CN: [line] ええと 嗯……
+  CN: [trans] 嗯……
+  NE: [line] ええと “अँ के होो भनने”
+  NE: [trans] “अँकेहोोभनने”
+=== カーテン
+  EN: [line] カーテン curtain
+  EN: [trans] curtain
+  CN: [line] カーテン 窗帘
+  CN: [trans] 窗帘
+  NE: [line] カーテン पर्दाा
+  NE: [trans] पर्दाा
+=== （お）客（さん）
+  EN: [line] （お）客 きゃく （さん） guest/ customer
+  EN: [trans] guest/customer
+  CN: [line] （お）客 きゃく （さん）
+  CN: [trans] (EMPTY)
+  NE: [line] （お）客 きゃく （さん） अतिथी/ग्रााहक
+  NE: [trans] अतिथी/ग्रााहक
+=== 携帯電話
+  EN: [line] けい 携 たい 帯 でん 電 話 わ cell/ mobile phones
+  EN: [trans] cell/mobilephones
+  CN: [line] けい 携 たい 帯 でん 電 話 わ
+  CN: [trans] (EMPTY)
+  NE: [line] けい 携 たい 帯 でん 電 話 わ सेल / मोोबाइल फोनन
+  NE: [trans] सेल/मोोबाइलफोनन
+=== ごみ
+  EN: [line] ごみ trash
+  EN: [trans] trash
+  CN: [line] ごみ 垃圾
+  CN: [trans] 垃圾
+  NE: [line] ごみ फोोहोोर
+  NE: [trans] फोोहोोर
+=== 芝生
+  EN: [line] しば 芝 生 ふ grass
+  EN: [trans] しばふgrass
+  CN: [line] 芝 生 草坪
+  CN: [trans] 草坪
+  NE: [line] しば 芝 生 ふ घाँस
+  NE: [trans] しばふघाँस
+=== 手
+  EN: [line] 簡 かん たん 単 に自 じ ぶん 分 のこと（名 な まえ 前 ・国 くに ・趣 しゅ 味 み など）を話 はな したり相 あい 手 て のことを聞
+  EN: [trans] 簡かんたん単に自じぶん分のこと（名なまえ前・国くに・趣しゅ味みなど）を話はなしたり相あいてのことを聞
+  CN: [line] 簡 かん たん 単 に自 じ ぶん 分 のこと（名 な まえ 前 ・国 くに ・趣 しゅ 味 み など）を話 はな したり相 あい 手 て のことを聞
+  CN: [trans] 簡かんたん単に自じぶん分のこと（名なまえ前・国くに・趣しゅ味みなど）を話はなしたり相あいてのことを聞
+  NE: [line] 簡 かん たん 単 に自 じ ぶん 分 のこと（名 な まえ 前 ・国 くに ・趣 しゅ 味 み など）を話 はな したり相 あい 手 て のことを聞
+  NE: [trans] 簡かんたん単に自じぶん分のこと（名なまえ前・国くに・趣しゅ味みなど）を話はなしたり相あいてのことを聞
+=== 荷物
+  EN: [line] 荷 物
+  EN: [trans] (EMPTY)
+  CN: [line] 荷 物 行李
+  CN: [trans] 行李
+  NE: [line] 荷 物
+  NE: [trans] (EMPTY)
+=== パンフレット
+  EN: [line] パンフレット pamphlet
+  EN: [trans] pamphlet
+  CN: [line] パンフレット 手册
+  CN: [trans] 手册
+  NE: [line] パンフレット प्ामप्लेट
+  NE: [trans] प्ामप्लेट
+=== 他
+  EN: [line] ほか 他 other
+  EN: [trans] ほかother
+  CN: [line] ギター 吉他
+  CN: [trans] ギター吉
+  NE: [line] 他
+  NE: [trans] (EMPTY)
+=== 皆さん
+  EN: [line] みな 皆 さん everyone
+  EN: [trans] みなeveryone
+  CN: [line] 皆 さん　 大家、各位
+  CN: [trans] 大家、各位
+  NE: [line] 皆 さん　
+  NE: [trans] (EMPTY)
+=== （お）土産
+  EN: [line] （お）土 みやげ 産 souvenirs
+  EN: [trans] souvenirs
+  CN: [line] （お）土 みやげ 産
+  CN: [trans] (EMPTY)
+  NE: [line] （お）土 みやげ 産 उपहार
+  NE: [trans] उपहार
+=== なくします
+  EN: [line] なくします［なくす］ lose
+  EN: [trans] ［なくす］lose
+  CN: [line] なくします［なくす］ 丢失
+  CN: [trans] ［なくす］丢失
+  NE: [line] なくします［なくす］ गुमाउननु
+  NE: [trans] ［なくす］गुमाउननु
+=== 教室に入ります
+  EN: [line] きょう 教 しつ 室 に入 はい ります。
+  EN: [trans] 。
+  CN: [line] きょう 教 しつ 室 に入 はい ります。
+  CN: [trans] 。
+  NE: [line] きょう 教 しつ 室 に入 はい ります。 “म कक्षाकोोठाभित्र पस्छु।”
+  NE: [trans] 。“मकक्षाकोोठाभित्रपस्छु।”
+=== 持って帰ります
+  EN: [line] 持 って帰 ります［持 って
+  EN: [trans] ［持って
+  CN: [line] 持 も って帰 かえ ります［持 も って
+  CN: [trans] ［持
+  NE: [line] 持 も って帰 かえ ります［持 も って
+  NE: [trans] ［持
+=== 遅れます
+  EN: [line] 遅 れます［遅 れる］
+  EN: [trans] ［遅れる］
+  CN: [line] おく 遅 れます［遅 おく れる］
+  CN: [trans] おく［遅おくれる］
+  NE: [line] おく 遅 れます［遅 おく れる］ ढिला हुननु
+  NE: [trans] おく［遅おくれる］ढिलाहुननु
+=== 入り口
+  EN: [line] 入 い り口 ぐち entrance
+  EN: [trans] entrance
+  CN: [line] 入 り口 入口
+  CN: [trans] 入口
+  NE: [line] 入 い り口 ぐち प्रवेश
+  NE: [trans] प्रवेश
+=== 出口
+  EN: [line] 出 で ぐち 口 exit
+  EN: [trans] exit
+  CN: [line] 出 で ぐち 口 出口
+  CN: [trans] 出でぐち口
+  NE: [line] 出 口
+  NE: [trans] (EMPTY)
+=== えさ
+  EN: [line] お姉 ねえ さん ※2 elder sister
+  EN: [trans] お姉ねん※2eldersister
+  CN: [line] お姉 ねえ さん ※2 姐姐
+  CN: [trans] お姉ねん※2姐姐
+  NE: [line] お姉 ねえ さん ※2 (कसैकोो) दिदी
+  NE: [trans] お姉ねん※2(कसैकोो)दिदी
+=== おなか
+  EN: [line] おなか stomach
+  EN: [trans] stomach
+  CN: [line] おなか 肚子
+  CN: [trans] 肚子
+  NE: [line] おなか पेट
+  NE: [trans] पेट
+=== 観覧車
+  EN: [line] 観 覧 車
+  EN: [trans] (EMPTY)
+  CN: [line] かん 観 らん 覧 しゃ 車
+  CN: [trans] (EMPTY)
+  NE: [line] かん 観 らん 覧 しゃ 車 रोटे पिङ
+  NE: [trans] रोटेपिङ
+=== ～たち
+  EN: [line] ～たち and others
+  EN: [trans] andothers
+  CN: [line] ～たち ……们
+  CN: [trans] ……们
+  NE: [line] ～たち ～हरू
+  NE: [trans] ～हरू
+=== なります
+  EN: [line] なります［なる］ become/ get
+  EN: [trans] ［なる］become/get
+  CN: [line] なります［なる］ 变
+  CN: [trans] ［なる］变
+  NE: [line] なります［なる］ हुननु
+  NE: [trans] ［なる］हुननु
+=== あそこのベンチで休みましょう
+  EN: [line] 第 だい 5課 か 　休 やす みの日 ひ
+  EN: [trans] 第5課日
+  CN: [line] 第 だい 5課 か 　休 やす みの日 ひ
+  CN: [trans] 第5課日
+  NE: [line] 第 だい 5課 か 　休 やす みの日 ひ
+  NE: [trans] 第5課日
+=== そろそろ
+  EN: [line] そろそろ before long
+  EN: [trans] beforelong
+  CN: [line] そろそろ 差不多该
+  CN: [trans] 差不多该
+  NE: [line] そろそろ बिस्ारै
+  NE: [trans] बिस्ारै
+=== 本当だ
+  EN: [line] 本 当 だ
+  EN: [trans] (EMPTY)
+  CN: [line] 本 当 だ 真的
+  CN: [trans] 真的
+  NE: [line] ほん 本 とう 当 だ सत्य होो।
+  NE: [trans] सत्यहोो।
+=== 場所
+  EN: [line] ショッピングビルの案 内 所 や売 り場 で店 員 などに場 所 を聞 いています。
+  EN: [trans] ショッピングビルの案内所や売り場で店員などにを聞いています。
+  CN: [line] ショッピングビルの案 内 所 や売 り場 で店 員 などに場 所 を聞 いています。
+  CN: [trans] ショッピングビルの案内所や売り場で店員などにを聞いています。
+  NE: [line] バスツアーの日 、集 合 場 所 でリーダーが点 呼 をしています。
+  NE: [trans] バスツアーの日、集合でリーダーが点呼をしています。
+=== 待ち合わせ
+  EN: [line] 待 ま ち合 あ わせ meet up
+  EN: [trans] meetup
+  CN: [line] 待 ま ち合 あ わせ 碰头
+  CN: [trans] 碰头
+  NE: [line] 待 ち合 わせ
+  NE: [trans] (EMPTY)
+=== ゆっくり
+  EN: [line] ゆっくり leisurely
+  EN: [trans] leisurely
+  CN: [line] ゆっくり 慢慢地
+  CN: [trans] 慢慢地
+  NE: [line] ゆっくり बिस्ारै/फुर््सदले
+  NE: [trans] बिस्ारै/फुर््सदले
+########## 第11课 缺失词翻译提取 ##########
+=== 雑誌
+  EN: [line] 寮 のロビーで雑 誌 や情 報 サイトを見 ながら友 達 と話 しています。
+  EN: [trans] 寮のロビーでや情報サイトを見ながら友達と話しています。
+  CN: [line] 寮 で雑 誌 やテレビを見 ながら、友 達 と話 しています。
+  CN: [trans] 寮でやテレビを見ながら、友達と話しています。
+  NE: [line] 雑 誌
+  NE: [trans] (EMPTY)
+=== ジョギング
+  EN: [line] ジョギング jogging
+  EN: [trans] jogging
+  CN: [line] ジョギング 慢跑
+  CN: [trans] 慢跑
+  NE: [line] ジョギング जोोगिङ
+  NE: [trans] जोोगिङ
+=== 初め
+  EN: [line] 学 校 で初 めて会 った人 に自 己 紹 介 をしています。
+  EN: [trans] 学校でて会った人に自己紹介をしています。
+  CN: [line] 学 校 で初 めて会 った人 に自 己 紹 介 をしています。
+  CN: [trans] 学校でて会った人に自己紹介をしています。
+  NE: [line] はじ 初 めて पहिलोो पटक
+  NE: [trans] はじてपहिलोोपटक
+=== 毎週
+  EN: [line] 毎 まい しゅう 週 every week/ weekly
+  EN: [trans] everyweek/weekly
+  CN: [line] 毎 まい しゅう 週
+  CN: [trans] (EMPTY)
+  NE: [line] 毎 まい しゅう 週 हप्ैपिछे
+  NE: [trans] हप्ैपिछे
+=== 祖父
+  EN: [line] 祖 父
+  EN: [trans] (EMPTY)
+  CN: [line] 祖父
+  CN: [trans] (EMPTY)
+  NE: [line] 祖 そ 父 ふ हजुरबुबा
+  NE: [trans] हजुरबुबा
+=== 卒業します
+  EN: [line] そつ 卒 ぎょう 業 ・します［卒 そつ ぎょう 業 ・す
+  EN: [trans] ［卒業
+  CN: [line] そつ 卒 ぎょう 業 ・します［卒 そつ ぎょう 業 ・す
+  CN: [trans] ［卒業
+  NE: [line] そつ 卒 ぎょう 業 ・します［卒 そつ ぎょう 業 ・す
+  NE: [trans] ［卒業
+=== 入学します
+  EN: [line] にゅう 入 がく 学 ・します［入 にゅう がく 学 ・す
+  EN: [trans] ［入学
+  CN: [line] にゅう 入 がく 学 ・します［入 にゅう がく 学 ・す
+  CN: [trans] ［入学
+  NE: [line] にゅう 入 がく 学 ・します［入 にゅう がく 学 ・す
+  NE: [trans] ［入学
+=== だんだん
+  EN: [line] だんだん gradually
+  EN: [trans] gradually
+  CN: [line] だんだん 渐渐地
+  CN: [trans] 渐渐地
+  NE: [line] だんだん बिस्ार बिस्ार
+  NE: [trans] बिस्ारबिस्ार
+=== 初めて
+  EN: [line] 学 校 で初 めて会 った人 に自 己 紹 介 をしています。
+  EN: [trans] 学校で会った人に自己紹介をしています。
+  CN: [line] 学 校 で初 めて会 った人 に自 己 紹 介 をしています。
+  CN: [trans] 学校で会った人に自己紹介をしています。
+  NE: [line] はじ 初 めて पहिलोो पटक
+  NE: [trans] はじपहिलोोपटक
+=== それで
+  EN: [line] それで
+  EN: [trans] (EMPTY)
+  CN: [line] それで 因此、所以
+  CN: [trans] 因此、所以
+  NE: [line] それで त्यस कारणले
+  NE: [trans] त्यसकारणले
+=== また
+  EN: [line] 周 まわ りの状 じょう きょう 況 を簡 かん たん 単 に友 とも だち 達 に伝 つた えることができる。また、何 なに かを頼
+  EN: [trans] 周まわりの状じょうきょう況を簡かんたん単に友ともだち達に伝つたえることができる。、何なにかを頼
+  CN: [line] 周 りの状 況 を簡 単 に友 達 に伝 えることができる。また、何 かを頼
+  CN: [trans] 周りの状況を簡単に友達に伝えることができる。、何かを頼
+  NE: [line] 周 りの状 況 を簡 単 に友 達 に伝 えることができる。また、何 かを頼
+  NE: [trans] 周りの状況を簡単に友達に伝えることができる。、何かを頼
+########## 第12课 缺失词翻译提取 ##########
+=== キャベツ
+  EN: [line] キャベツ cabbage
+  EN: [trans] cabbage
+  CN: [line] キャベツ 卷心菜
+  CN: [trans] 卷心菜
+  NE: [line] キャベツ बन्ाकोोबी
+  NE: [trans] बन्ाकोोबी
+=== 材料
+  EN: [line] ざい 材 りょう 料 ingredients
+  EN: [trans] ingredients
+  CN: [line] 蔬菜等自己喜欢的材料后
+  CN: [trans] 蔬菜等自己喜欢的后
+  NE: [line] 材 料
+  NE: [trans] (EMPTY)
+=== ジューサー
+  EN: [line] ジューサー juicer
+  EN: [trans] juicer
+  CN: [line] ジューサー 果汁机
+  CN: [trans] 果汁机
+  NE: [line] ジューサー जुस बननाउनने मेशिनन
+  NE: [trans] जुसबननाउननेमेशिनन
+=== トマト
+  EN: [line] トマト tomato
+  EN: [trans] tomato
+  CN: [line] トマト 西红柿、番茄
+  CN: [trans] 西红柿、番茄
+  NE: [line] トマト गोोलभेडा
+  NE: [trans] गोोलभेडा
+=== ニンジン
+  EN: [line] ニンジン carrot
+  EN: [trans] carrot
+  CN: [line] ニンジン 胡萝卜
+  CN: [trans] 胡萝卜
+  NE: [line] ニンジン गाजर
+  NE: [trans] गाजर
+=== 飲み会
+  EN: [line] 飲 み会
+  EN: [trans] (EMPTY)
+  CN: [line] 飲 の み会 かい
+  CN: [trans] (EMPTY)
+  NE: [line] 飲 の み会 かい भेला भएर रक्ी पिउनने
+  NE: [trans] भेलाभएररक्ीपिउनने
+=== ～度
+  EN: [line] ～度 ど degrees
+  EN: [trans] どdegrees
+  CN: [line] ～度 ど
+  CN: [trans] ど
+  NE: [line] ～度 ど डिग्रीी
+  NE: [trans] どडिग्रीी
+=== 学校を休みます
+  EN: [line] 学 校 を休 みます。
+  EN: [trans] 。
+  CN: [line] 学 校 を休 みます。 向学校请假。/不去上学。
+  CN: [trans] 。向学校请假。/不去上学。
+  NE: [line] 学 がっ こう 校 を休 やす みます。 “आज स्ुल गयल हुन्ु”
+  NE: [trans] 。“आजस्ुलगयलहुन्ु”
+=== 早く
+  EN: [line] 早 い
+  EN: [trans] (EMPTY)
+  CN: [line] はや 早 く
+  CN: [trans] はや
+  NE: [line] はや 早 く छिटोो
+  NE: [trans] はやछिटोो
+=== 体
+  EN: [line] 体 たい ちょう 調 について友 とも だち 達 や周 まわ りの人 ひと と簡 かん たん 単 に話 はな すことができる。また、病
+  EN: [trans] たいちょう調について友ともだち達や周まわりの人ひとと簡かんたん単に話はなすことができる。また、病
+  CN: [line] 体 たい ちょう 調 について友 とも だち 達 や周 まわ りの人 ひと と簡 かん たん 単 に話 はな すことができる。また、病
+  CN: [trans] たいちょう調について友ともだち達や周まわりの人ひとと簡かんたん単に話はなすことができる。また、病
+  NE: [line] 体 調 について友 達 や周 りの人 と簡 単 に話 すことができる。また、病
+  NE: [trans] 調について友達や周りの人と簡単に話すことができる。また、病
+=== シャワー
+  EN: [line] シャワー shower
+  EN: [trans] shower
+  CN: [line] シャワー 淋浴
+  CN: [trans] 淋浴
+  NE: [line] シャワー शावर
+  NE: [trans] शावर
+=== 睡眠
+  EN: [line] 睡 眠
+  EN: [trans] (EMPTY)
+  CN: [line] 睡 眠 睡眠
+  CN: [trans] 睡眠
+  NE: [line] 睡 すい みん 眠 सुत्ु
+  NE: [trans] सुत्ु
+=== こと
+  EN: [line] できること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一
+  EN: [trans] できる・状況説明」、「ことば（「話読聞書」「もう一
+  CN: [line] できること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一
+  CN: [trans] できる・状況説明」、「ことば（「話読聞書」「もう一
+  NE: [line] できること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一
+  NE: [trans] できる・状況説明」、「ことば（「話読聞書」「もう一
+=== 物
+  EN: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  EN: [trans] 第だい2課か買かいもの・食しょく事じ
+  CN: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  CN: [trans] 第だい2課か買かいもの・食しょく事じ
+  NE: [line] 第 だい 2課 か 　買 か い物 もの ・食 しょく 事 じ
+  NE: [trans] 第だい2課か買かいもの・食しょく事じ
+=== ～以上
+  EN: [line] ～以 上 （例 ：8時 間 以 上 ）
+  EN: [trans] （例：8時間以上）
+  CN: [line] ～以 上 （例 ：8時 間 以 上 ）
+  CN: [trans] （例：8時間以上）
+  NE: [line] ～以 い じょう 上 （例 れい ：8時 じ かん 間 以 い じょう 上 ）
+  NE: [trans] （例：8時間以上）
+=== 声を出します
+  EN: [line] 声 を出 します。
+  EN: [trans] 。
+  CN: [line] こえ 声 を出 だ します。
+  CN: [trans] 。
+  NE: [line] 声 を出 します。
+  NE: [trans] 。
+=== 自分で
+  EN: [line] 自 分 で
+  EN: [trans] (EMPTY)
+  CN: [line] 簡 かん たん 単 に自 じ ぶん 分 のこと（名 な まえ 前 ・国 くに ・趣 しゅ 味 み など）を話 はな したり相 あい 手 て のことを聞
+  CN: [trans] 簡単（名前国趣味）話相手聞
+  NE: [line] 自 分 で
+  NE: [trans] (EMPTY)
+=== できるだけ
+  EN: [line] できるだけ as much as possible
+  EN: [trans] asmuchaspossible
+  CN: [line] できるだけ 尽可能、尽量
+  CN: [trans] 尽可能、尽量
+  NE: [line] できるだけ सकेसम्म
+  NE: [trans] सकेसम्म
+=== ゆっくり
+  EN: [line] ゆっくり leisurely
+  EN: [trans] leisurely
+  CN: [line] ゆっくり 慢慢地
+  CN: [trans] 慢慢地
+  NE: [line] ゆっくり बिस्ारै/फुर््सदले
+  NE: [trans] बिस्ारै/फुर््सदले
+=== 上着
+  EN: [line] 上 うわ 着 ぎ coat
+  EN: [trans] coat
+  CN: [line] 上 うわ 着 ぎ 上衣
+  CN: [trans] 上衣
+  NE: [line] 上 うわ 着 ぎ कोट
+  NE: [trans] कोट
+=== コンタクトレンズ
+  EN: [line] コンタクトレンズ（コンタ
+  EN: [trans] （コンタ
+  CN: [line] コンタクトレンズ（コンタ
+  CN: [trans] （コンタ
+  NE: [line] コンタクトレンズ（コンタ
+  NE: [trans] （コンタ
+=== （お）風呂
+  EN: [line] （お）風 呂
+  EN: [trans] (EMPTY)
+  CN: [line] （お）風 呂 洗澡、泡澡
+  CN: [trans] 洗澡、泡澡
+  NE: [line] （お）風 ふ 呂 ろ स्नानन गृृह, ननुहाउनने ठाउँ
+  NE: [trans] स्नाननगृृह,ननुहाउननेठाउँ
+=== 口
+  EN: [line] 入 い り口 ぐち entrance
+  EN: [trans] 入いりぐちentrance
+  CN: [line] 检票口
+  CN: [trans] 检票
+  NE: [line] 入 い り口 ぐち प्रवेश
+  NE: [trans] 入いりぐちप्रवेश
+########## 第13课 缺失词翻译提取 ##########
+=== ～分
+  EN: [line] ～分 ふん
+  EN: [trans] ふん
+  CN: [line] ～分 ふん
+  CN: [trans] ふん
+  NE: [line] ～分
+  NE: [trans] (EMPTY)
+=== 紅葉
+  EN: [line] 紅 こう よう 葉 autumn leaves
+  EN: [trans] autumnleaves
+  CN: [line] 紅 葉 红叶
+  CN: [trans] 红叶
+  NE: [line] 紅 葉
+  NE: [trans] (EMPTY)
+=== 相撲
+  EN: [line] 相 す もう 撲 sumo
+  EN: [trans] sumo
+  CN: [line] 相 す もう 撲 相扑
+  CN: [trans] 相扑
+  NE: [line] 相 す もう 撲 सुमोो खेल
+  NE: [trans] सुमोोखेल
+=== 1回も
+  EN: [line] 1回 かい も once
+  EN: [trans] once
+  CN: [line] 1回 かい も 1次都没
+  CN: [trans] 1次都没
+  NE: [line] 1回 も
+  NE: [trans] (EMPTY)
+=== 何回も
+  EN: [line] なん 何 かい 回 も a number of times
+  EN: [trans] anumberoftimes
+  CN: [line] 何 なん かい 回 も 好几次
+  CN: [trans] 好几次
+  NE: [line] 何 なん かい 回 も थुप्रै पटक
+  NE: [trans] थुप्रैपटक
+=== （お）店
+  EN: [line] （お）店 みせ shop (here: restaurant)
+  EN: [trans] みせshop(here:restaurant)
+  CN: [line] （お）店 商店
+  CN: [trans] 商店
+  NE: [line] （お）店 みせ पसल (यहाँ: रेस्ुरेन्ट)
+  NE: [trans] みせपसल(यहाँ:रेस्ुरेन्ट)
+=== 眼鏡をかけます
+  EN: [line] 眼 鏡
+  EN: [trans] (EMPTY)
+  CN: [line] 眼 め がね 鏡 眼镜
+  CN: [trans] 眼镜
+  NE: [line] 眼 め がね 鏡 चस्ा
+  NE: [trans] चस्ा
+=== します
+  EN: [line] よろしくお願 いします
+  EN: [trans] よろしくお願い
+  CN: [line] よろしくお願 ねが いします 请多多关照
+  CN: [trans] よろしくお願ねがい请多多关照
+  NE: [line] よろしくお願 いします
+  NE: [trans] よろしくお願い
+=== ネクタイをします
+  EN: [line] ネクタイをします。 “I wear a necktie.”
+  EN: [trans] 。“Iwearanecktie.”
+  CN: [line] ネクタイをします。 打领带。
+  CN: [trans] 。打领带。
+  NE: [line] ネクタイをします。 “म ननेकटाइ लगाउँछु।”
+  NE: [trans] 。“मननेकटाइलगाउँछु।”
+=== どこか
+  EN: [line] どこか（へ） (to) somewhere
+  EN: [trans] （へ）(to)somewhere
+  CN: [line] どこか（へ） （去）哪里
+  CN: [trans] （へ）（去）哪里
+  NE: [line] どこか（へ） कतैतिर
+  NE: [trans] （へ）कतैतिर
+=== みんなで
+  EN: [line] 3　みんなで楽 たの しいパーティー　
+  EN: [trans] 3楽たのしいパーティー
+  CN: [line] 3　みんなで楽 たの しいパーティー　
+  CN: [trans] 3楽たのしいパーティー
+  NE: [line] 3　みんなで楽 たの しいパーティー　
+  NE: [trans] 3楽たのしいパーティー
+########## 第14课 缺失词翻译提取 ##########
+=== びっくりします
+  EN: (NOT FOUND)
+  CN: (NOT FOUND)
+  NE: (NOT FOUND)
+=== 字
+  EN: [line] かん 漢 字 じ
+  EN: [trans] かん漢じ
+  CN: [line] かん 漢 字 じ 汉字
+  CN: [trans] かん漢じ汉字
+  NE: [line] かん 漢 字 じ कान्ी / चिनिया अक्षर
+  NE: [trans] かん漢じकान्ी/चिनियाअक्षर
+=== 食券
+  EN: [line] しょっ 食 けん 券 meal ticket/ coupon
+  EN: [trans] mealticket/coupon
+  CN: [line] 食 券 餐劵
+  CN: [trans] 餐劵
+  NE: [line] 食 券
+  NE: [trans] (EMPTY)
+=== （お）釣り
+  EN: [line] （お）釣 り
+  EN: [trans] (EMPTY)
+  CN: [line] （お）釣 つ り
+  CN: [trans] (EMPTY)
+  NE: [line] （お）釣 つ り खुद्ा पैसा
+  NE: [trans] खुद्ापैसा
+=== 電気
+  EN: [line] 電 気
+  EN: [trans] (EMPTY)
+  CN: [line] 電 気 电
+  CN: [trans] 电
+  NE: [line] でん 電 気 き बिजुली/बत्ी
+  NE: [trans] でんきबिजुली/बत्ी
+=== ドア
+  EN: [line] ドア door
+  EN: [trans] door
+  CN: [line] ドア 门
+  CN: [trans] 门
+  NE: [line] ドア ढोोका
+  NE: [trans] ढोोका
+=== パスワード
+  EN: [line] パスワード password
+  EN: [trans] password
+  CN: [line] パスワード 密码
+  CN: [trans] 密码
+  NE: [line] パスワード पास वर््ड
+  NE: [trans] पासवर््ड
+=== （お）湯
+  EN: [line] （お）湯
+  EN: [trans] (EMPTY)
+  CN: [line] （お）湯 热水
+  CN: [trans] 热水
+  NE: [line] （お）湯 ゆ तातोो पाननी
+  NE: [trans] ゆतातोोपाननी
+=== Wi-Fi
+  EN: [line] Wi-Fi Wi-Fi
+  EN: [trans] Wi-Fi
+  CN: [line] Wi-Fi Wi-Fi、无线网
+  CN: [trans] Wi-Fi、无线网
+  NE: [line] Wi-Fi वाइफाइ
+  NE: [trans] वाइफाइ
+=== 開きます
+  EN: [line] ひら 開 きます［開 ひら く］ open
+  EN: [trans] ひら［開ひらく］open
+  CN: [line] ひら 開 きます［開 ひら く］ 打开
+  CN: [trans] ひら［開ひらく］打开
+  NE: [line] ひら 開 きます［開 ひら く］ खुल््नु
+  NE: [trans] ひら［開ひらく］खुल््नु
+=== 出ます
+  EN: [line] 出 ます［出 る］
+  EN: [trans] ［出る］
+  CN: [line] 出 ます［出 る］ 出来
+  CN: [trans] ［出る］出来
+  NE: [line] お釣 りが出 ます。
+  NE: [trans] お釣りが。
+=== お釣りが出ます
+  EN: [line] お釣 つ りが出 で ます。
+  EN: [trans] 。
+  CN: [line] お釣 りが出 ます。 有找的零钱出来。/有找头。
+  CN: [trans] 。有找的零钱出来。/有找头。
+  NE: [line] お釣 りが出 ます。
+  NE: [trans] 。
+=== おなかがいっぱいです
+  EN: [line] おなかがいっぱいです
+  EN: [trans] (EMPTY)
+  CN: [line] おなかがいっぱいです 吃饱了
+  CN: [trans] 吃饱了
+  NE: [line] おなかがいっぱいです “म त टन्न भएँ”/ “पेट भरियोो।”
+  NE: [trans] “मतटन्नभएँ”/“पेटभरियोो।”
+=== シートベルト
+  EN: [line] シートベルト seatbelt
+  EN: [trans] seatbelt
+  CN: [line] シートベルト 安全带
+  CN: [trans] 安全带
+  NE: [line] シートベルト सीट बेल्ट
+  NE: [trans] सीटबेल्ट
+=== コート
+  EN: [line] コート court
+  EN: [trans] court
+  CN: [line] コート 球场
+  CN: [trans] 球场
+  NE: [line] コート कोर््ट
+  NE: [trans] कोर््ट
+=== バスケットコート
+  EN: [line] バスケットコート basketball court
+  EN: [trans] basketballcourt
+  CN: [line] バスケットコート 篮球场
+  CN: [trans] 篮球场
+  NE: [line] バスケットコート बास्केट कोर््ट
+  NE: [trans] बास्केटकोर््ट
+=== ～以下
+  EN: [line] ～以 下 （例 ：3歳 以 下 ）
+  EN: [trans] （例：3歳以下）
+  CN: [line] ～以 い 下 か （例 れい ：3歳 さい 以 い 下 か ） ……以下（例：3岁以下）
+  CN: [trans] （例：3歳以下）……以下（例：3岁以下）
+  NE: [line] ～以 い 下 か （例 れい ：3歳 さい 以 い 下 か ）
+  NE: [trans] （例：3歳以下）
+=== 電気製品
+  EN: [line] 電 でん 気 き せい 製 ひん 品 electrical appliances
+  EN: [trans] electricalappliances
+  CN: [line] 電 でん 気 き せい 製 ひん 品 家电产品
+  CN: [trans] 家电产品
+  NE: [line] 電 でん 気 き せい 製 ひん 品 बिद्युतिय सरसमाननहरु
+  NE: [trans] बिद्युतियसरसमाननहरु
+=== 番組
+  EN: [line] 番 ばん ぐみ 組 TV/ radio program
+  EN: [trans] TV/radioprogram
+  CN: [line] 番 ばん ぐみ 組 节目
+  CN: [trans] 节目
+  NE: [line] 番 組
+  NE: [trans] (EMPTY)
+=== ファッション
+  EN: [line] ファッション fashion
+  EN: [trans] fashion
+  CN: [line] ファッション 时尚
+  CN: [trans] 时尚
+  NE: [line] ファッション फेशनन
+  NE: [trans] फेशनन
+=== フリープラン
+  EN: [line] フリープラン free plan
+  EN: [trans] freeplan
+  CN: [line] フリープラン 自由行
+  CN: [trans] 自由行
+  NE: [line] フリープラン फ्रि प्लानन
+  NE: [trans] फ्रिप्लानन
+=== 思います
+  EN: [line] 思 います［思 う］
+  EN: [trans] ［思う］
+  CN: [line] 思 います［思 う］ 认为、想
+  CN: [trans] ［思う］认为、想
+  NE: [line] おも 思 います［思 おも う］ जस्तोो लाग्ु
+  NE: [trans] おも［思おもう］जस्तोोलाग्ु
+=== 経験します
+  EN: [line] 1　経 けい 験 けん から
+  EN: [trans] 1
+  CN: [line] 1　経 けい 験 けん から
+  CN: [trans] 1
+  NE: [line] 1　経 けい 験 けん から
+  NE: [trans] 1
+=== 化粧します
+  EN: [line] 化 粧 ・します［化 粧 ・す
+  EN: [trans] ［化粧
+  CN: [line] 化 け しょう 粧 ・します［化 け しょう 粧 ・す
+  CN: [trans] ［化粧
+  NE: [line] 化 け しょう 粧 ・します［化 け しょう 粧 ・す
+  NE: [trans] ［化粧
+=== 留学します
+  EN: [line] りゅう 留 がく 学 せい 生 exchange student
+  EN: [trans] 生exchangestudent
+  CN: [line] りゅう 留 がく 学 せい 生 留学生
+  CN: [trans] 生留学生
+  NE: [line] 留 学 生
+  NE: [trans] 生
+=== うーん
+  EN: [line] うーん “Well,”/ “Hmmm...”
+  EN: [trans] “Well,”/“Hmmm...”
+  CN: [line] うーん 嗯……
+  CN: [trans] 嗯……
+  NE: [line] うーん “अँ”/ “के होो भनने ..”
+  NE: [trans] “अँ”/“केहोोभनने..”
+=== 最初
+  EN: [line] さい 最 しょ 初 (at) first
+  EN: [trans] (at)first
+  CN: [line] さい 最 しょ 初
+  CN: [trans] (EMPTY)
+  NE: [line] さい 最 しょ 初 सबभन्ा पहिले
+  NE: [trans] सबभन्ापहिले
+=== 無料
+  EN: [line] 無 料
+  EN: [trans] (EMPTY)
+  CN: [line] 無 料 免费
+  CN: [trans] 免费
+  NE: [line] 無 料
+  NE: [trans] (EMPTY)

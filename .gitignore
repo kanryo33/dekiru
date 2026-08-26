@@ -1,0 +1,53 @@
+# ==============================================
+# できる日本語 単語カード プロジェクト - .gitignore
+# 用户选择“全部提交”，这里只排除系统/临时文件
+# ==============================================
+
+# --- macOS 系统垃圾 ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# --- 编辑器/IDE ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- Python 运行时 ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# --- 虚拟环境 ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- 本地临时备份（明确的临时输出/备份） ---
+*.bak
+*_test.html
+*_temp.*
+lightbox_*.html
+
+# --- 日志 ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- 其他缓存 ---
+.cache/
+.tmp/
+tmp/
+temp/
+Thumbs.db

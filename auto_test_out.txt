@@ -1,0 +1,56 @@
+### どうぞよろしくお願いします
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### 教師
+ EN => ['教 師']
+ CN => ['きょう 教 師 し']
+ NE => ['きょう 教 師 し शिक्षक (पेशा)']
+### 社員
+ EN => ['かい 会 しゃ 社 いん 員 business person', 'しゃ 社 いん 員 company employee']
+ CN => ['かい 会 しゃ 社 いん 員', '社 員 职员']
+ NE => ['会 社 員', '社 員']
+### お国はどちらですか
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### あのう
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### あのう、すみません
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### そうですか
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### ブラジル
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### いつ
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### ～から来ました
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### 私の趣味は料理です
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### あ（っ）
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### わあ
+ EN => (none)
+ CN => (none)
+ NE => (none)
+### 同じですね
+ EN => (none)
+ CN => (none)
+ NE => (none)

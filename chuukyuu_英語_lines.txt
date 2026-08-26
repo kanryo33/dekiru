@@ -1,0 +1,2686 @@
+L 初刷～
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L に ほん ご しょ ちゅう | R きゅう ほん さつ だい はん
+L 『できる日 本 語 初 中 | R 級 本 冊 【第 2版 】』
+L えい ご ほん やく
+L 英 語 翻 訳 | R リスト
+L に ほん ご しょ ちゅう きゅう ほん さつ だい はん | R もく じ こう どう もく ひょう かく か
+L 　このリストは『できる日 本 語 初 中 級 本 冊 【第 2版 】』の「目 | R 次 と行 動 目 標 」、各 課 の「スモールトピック
+L じょう きょう せつ めい わ どく ぶん しょ | R いち ど き らん がい ご い ふく えい ご やく
+L のできること・状 況 説 明 」、「ことば（「話 読 聞 書 」「もう一 | R 度 聞 こう」欄 外 の語 彙 を含 む）」を英 語 に訳 し、
+L いち らん
+L 一 覧 にしたものです。
+L This is a list of English translations of vocabulary | R and phrases from 「目次と行動目標」, and
+L the「スモールトピックのできること・状況説明」and「ことば（including | R vocabulary outside the「話
+L 読聞書」and「もう一度聞こう」columns)」 for each | R lesson.
+R に ほん ご しょ ちゅう きゅう ほん さつ だい はん
+R 『できる日 本 語 初 中 級 本 冊 【第 2版 】』
+R ねん がつ か しょ はん はっ こう
+R 2024年 12月 20日 　初 版 発 行
+R かん しゅう しま だ かず こ
+R 監 修 ：嶋 田 和 子
+R ちょ しゃ に ほん ご きょう ざい かい はつ
+R 著 者 ：できる日 本 語 教 材 開 発 プロジェクト
+R はっ こう じょ かぶ しき がい しゃ
+R 発 行 所 ：株 式 会 社 アルク
+L もく じ こう どう もく ひょう
+L 目 次 と行 動 目 標
+L だい か あたら いっ ぽ
+L 第 1課 　新 しい一 歩
+L はじ あ ひと てい ねい じ こ しょう かい いん しょう と あ
+L 初 めて会 った人 に丁 寧 に自 己 紹 介 したり、印 象 よく問 い合 わせしたりすることができる。
+L Become able to politely introduce yourself to people you | R meet for the first time and make inquires that
+L leave a good impression.
+L だい か たの
+L 第 2課 　楽 しいショッピング
+L みせ とも だち しょう ひん はな | R みせ ひと はな か もの
+L お店 やレストランで友 達 と商 品 やメニューについて話 したり、お店 | R の人 と話 しながら買 い物 したりすることができる。
+L Become able to talk about products in stores and menus | R in restaurants with friends and shop while talking
+L to shop assistants.
+L だい か わたし もく ひょう
+L 第 3課 　私 の目 標
+L じ ぶん もく ひょう けい かく はな しん ろ さん こう まわ ひと | R はなし き
+L 自 分 の目 標 や計 画 を話 したり進 路 の参 考 のために周 りの人 から話 | R を聞 いたりすることができる。
+L Become able to talk about your goals and plans and ask | R advice from people around you about what path to
+L choose.
+L だい か す まち
+L 第 4課 　住 んでいる町 で
+L に ほん せい かつ たの す まち じょう ほう おし あ | R じょう ほう こう どう
+L 日 本 の生 活 を楽 しむために住 んでいる町 の情 報 を教 え合 って、その情 | R 報 をもとに行 動 することができる。
+L Become able to share information on the town where you | R live and take action based on such information in
+L order to enjoy your life in Japan.
+L 1
+==== PAGE 1 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か たい へん にち
+L 第 5課 　大 変 な1日
+L とつ ぜん かん たん じ じょう せつ めい | R たい しょ
+L 突 然 のハプニングにあったとき、簡 単 なことなら事 情 を説 明 | R して、対 処 することができる。
+L Become able to explain situations, if simple ones, that | R you have suddenly encountered and respond to such
+L situations.
+L だい か りょ こう い
+L 第 6課 　旅 行 に行 こう
+L りょ こう い じ ぜん じょう ほう しゅう しゅう そう だん | R りょ こう い まえ じゅん び
+L 旅 行 に行 くために事 前 に情 報 を収 集 したり相 談 したりして、旅 | R 行 に行 く前 の準 備 ができる。
+L Become able to make preparations before going on a trip | R such as collecting information and consulting
+L with others.
+L だい か にし かわ いえ
+L 第 7課 　西 川 さんの家 へ
+L に ほん じん いえ い ば めん かん けい せい かんが | R いえ ひと こう りゅう たの
+L 日 本 人 の家 へ行 ったとき、場 面 と関 係 性 を考 えながら、その家 | R の人 との交 流 を楽 しむことができる。
+L Become able to enjoy interacting with Japanese people | R when visiting their house while considering the
+L situation there and the relationship with them.
+L だい か
+L 第 8課 　ありがとう
+L けい けん なか | R かん しゃ き も ひょう げん
+L これまでの経 験 の中 でしてもらってうれしかったことについて感 | R 謝 の気 持 ちを表 現 することができる。
+L Become able to express your feeling of gratitude about | R something someone has done for you that made
+L you happy.
+L だい か さき
+L 第 9課 　アルバイト先 で
+L しゅう だん なか き も し ごと まわ ひと | R かんが かい わ
+L 集 団 の中 で気 持 ちよく仕 事 ができるように、周 りの人 のことを考 | R えながら、会 話 することができる。
+L Become able to converse with co-workers in order to work | R happily within a group while considering the
+L people around you.
+L だい か りょ こう い
+L 第 10課 　旅 行 に行 って
+L りょ こう ちゅう お こま じょう きょう いま じょう きょう ほか ひと つた | R かん こう め ふう けい たて もの かん たん せつ
+L 旅 行 中 に起 こった困 った状 況 や今 の状 況 を他 の人 に伝 えたり、観 | R 光 スポットで目 にした風 景 や建 物 について簡 単 に説
+L めい
+L 明 することができる。
+L Become able to communicate difficult situations you experienced | R during a trip to others and simply explain
+L the scenery and buildings you saw at tourist spots.
+L だい か ち いき しゃ かい なか
+L 第 11課 　地 域 社 会 の中 で
+L ち いき に ほん じん じ ぶん さい きん せい かつ いま こま | R はな ち いき かつ どう さん か
+L 地 域 の日 本 人 に、自 分 の最 近 の生 活 や今 困 っていることなどについて話 | R したり、地 域 の活 動 に参 加 したりすることが
+L できる。
+L Become able to talk about your life and the difficulties | R you have now in Japan with Japanese people in
+L your local area and participate in local activities.
+L だい か わたし けん こう ほう
+L 第 12課 　私 の健 康 法
+L けん こう い じ ほう ほう たい ちょう たい しょ ほう | R しゅう い ひと じょう ほう こう かん
+L 健 康 を維 持 するための方 法 や体 調 がよくないときの対 処 法 について、周 | R 囲 の人 と情 報 を交 換 することができる。
+L Become able to exchange information with people around | R you about how you maintain your health and
+L what you do when you don’t feel well.
+L だい か おや き も こ き も
+L 第 13課 　親 の気 持 ち・子 の気 持 ち
+L まち なか き み | R い けん い かん じ ぶん けい けん はな
+L テレビや街 中 で気 になることを見 かけたとき、それについて意 | R 見 を言 ったり、それに関 する自 分 の経 験 を話 したりす
+L ることができる。
+L Become able to express your opinion about something | R interesting you saw on television or on the street
+L and talk about your related experiences.
+L 2
+==== PAGE 2 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か ぎょう じ
+L 第 14課 　イベント・行 事
+L まわ に ほん じん じ ぶん くに まち し | R じ ぶん くに まち ぎょう じ しゅう かん せつ めい
+L 周 りの日 本 人 に自 分 の国 ・町 についてより知 ってもらうために、自 | R 分 の国 ・町 の行 事 や習 慣 について説 明 することが
+L できる。
+L Become able to explain events and customs from your | R country/region. so that Japanese people around you
+L can learn more about your country/region.
+L だい か き
+L 第 15課 　気 になるニュース
+L ひ び せい かつ なか き こと がら じ ぶん | R ぎ もん も しら かんが まわ ひと つた
+L 日 々 の生 活 の中 で気 になるニュースや事 柄 について、自 分 なりに疑 | R 問 を持 って調 べ考 えたことを周 りの人 に伝 えて、
+L やりとりすることができる。
+L Become able to communicate and converse with people | R around you about what you researched and
+L considered with your own questions about the news and | R events which interest you in your everyday life.
+L 3
+==== PAGE 3 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か あたら いっ ぽ
+L 第 1課 　新 しい一 歩
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L さが
+L 1　アルバイトを探 す　
+L と あ めん せつ かん たん
+L アルバイトの問 い合 わせをしたり、面 接 での簡 単 なやりとりをしたりすることができる。
+L You can make inquires about part-time jobs and ask and | R answer simple questions at interviews.
+L りょう じょう ほう し み でん わ
+L 寮 でアルバイト情 報 誌 を見 て電 話 しています。
+L You are making a phone call in the dormitory while looking | R at a magazine for part-time jobs.
+L めん せつ い
+L アルバイトの面 接 に行 きました。
+L You went to an interview for a part-time job.
+L 2　新 あたら しい友 とも 達 だち 　
+L さき はじ あ ひと しゅ み に ほん | R せい かつ はな
+L アルバイト先 やサークルで初 めて会 った人 と趣 味 や日 本 での生 | R 活 について話 すことができる。
+L You can talk about your hobbies and life in Japan with | R people you meet for the first time at your part-time
+L jobs and interest groups.
+L はじ みせ へい てん ご せん ぱい はな
+L アルバイトを始 めた店 で閉 店 後 、先 輩 と話 しています。
+L You are talking to a superior at your new part-time job | R after the store closed.
+L ［ことば］
+L わ どく ぶん しょ | R well, then (at beginning
+L 話 読 聞 書
+R それでは
+R of a sentence)
+L じ こ しょう かい self-introduction
+L 自 己 紹 介
+R では in that case, if so
+L さが
+L 1　アルバイトを探 す
+R go, come (respectful
+L person (respectful
+R いらっしゃいます language referring to
+L かた language referring to
+L 方 | R someone else)
+L someone else)
+R go, come (humble
+L person (humble | R language referring to
+R まい
+L もの | R 参 りました まい
+L 者 language referring to | R oneself; past form of 参
+L oneself)
+R ります)
+L sashimi (thinly sliced,
+R “My name is ~.”
+L さし み | R もう
+L （お）刺 身
+L raw seafood) | R ～と申 します
+R (humble language)
+L チラシ leaflet, flyer | R “Excuse me for going
+R さき しつ れい
+R お先 に失 礼 します
+R ahead of you”
+L と あ inquiry
+L 問 い合 わせ
+R こちらへどうぞ “Please come this way”
+L にち じょう かい わ
+L 日 常 会 話 daily conversation
+R しつ れい “Excuse me”
+R 失 礼 します
+L はん とし half-year
+L 半 年
+R しょう しょう ま
+R 少 々 お待 ちください “Please wait a moment”
+L ホームページ website
+R ねが “I am looking forward
+R よろしくお願 いいたしま
+L めん せつ
+L 面 接 interview
+R to knowing you”
+R す
+L り れき しょ resume, CV
+L 履 歴 書
+R あたら とも だち
+R 2　新 しい友 達
+L おも だ
+L 思 い出 す remember, recall
+R い けん
+R 意 見 opinion
+L き ぼう desire
+L 希 望 ・する
+R とし よ elderly person
+R お年 寄 り
+L recruit, put out a call
+L ぼ しゅう
+L 募 集 ・する | R がっ き musical instrument
+R 楽 器
+L for
+R こと ば
+L にゅう りょく | R words, language
+L 入 力 ・する input | R 言 葉
+L 4
+==== PAGE 4 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L じ ぶん
+L 自 分 oneself
+L hometown, home
+L しゅっ しん
+L 出 身
+L country
+L たて もの building
+L 建 物
+L はなし conversation
+L 話
+L や がい
+L live outdoor concert
+L 野 外 ライブ
+L れき し history
+L 歴 史
+L こ
+L ～個 things (counter word)
+L place, spot (example:
+L ち れい かん こう ち
+L ～地 （例 ：観 光 地 ）
+L “sightseeing spot”)
+L き と hear and understand
+L 聞 き取 る
+L おぼ
+L 覚 える remember, memorize
+L おう えん encourage, cheer on
+L 応 援 ・する
+L サイクリング・する do cycling
+L おそ
+L 遅 い slow
+L はや fast
+L 速 い
+L つまらない boring
+L とく い
+L good at (something)
+L 得 意 （な）
+L にが て bad at (something)
+L 苦 手 （な）
+L unable to do
+L む り
+L 無 理 （な）
+L (something)
+L あさ はや
+L early morning
+L 朝 早 く
+L いち ど き
+L もう一 度 聞 こう
+L じ まく
+L 字 幕 subtitles
+L だい す favorite
+L 大 好 き（な）
+L mostly, most of the
+L だいたい
+L time
+L at first (at beginning
+L まず
+L of a sentence)
+L 5
+==== PAGE 5 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か たの
+L 第 2課 　楽 しいショッピング
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L じょう ず か もの
+L 1　上 手 に買 い物 　
+L なに か もの み よう す とも だち はな | R みせ ひと じ ぶん し じょう ほう き じ ぶん
+L 何 か買 うときに、その物 を見 てどんな様 子 かを友 達 と話 したり、お店 | R の人 に自 分 が知 りたい情 報 を聞 いたりして、自 分
+L こう どう き
+L の行 動 を決 めることができる。
+L You can talk with your friends about how the items you | R wish to buy look like, ask shop assistants for
+L information and make your own decisions.
+L とも だち か もの き
+L 友 達 とショッピングビルへ買 い物 に来 ました。
+L You are at a shopping center with a friend.
+L いっ しょ しょく じ
+L 2　一 緒 に食 事 　
+L しょく じ さい いっ しょ い とも だち みせ | R ひと
+L レストランなどで食 事 をする際 に、一 緒 に行 った友 達 や店 の人 | R などとやりとりすることができる。
+L You can converse with your friends and the staff while | R eating at restaurants etc.
+L まえ とも だち はな
+L ショッピングビルのレストランの前 で友 達 と話 しています。
+L You are talking with your friends in front of a restaurant | R in a shopping center.
+L とも だち ひる はん た
+L 友 達 と昼 ご飯 を食 べています。
+L You are eating lunch with your friends.
+L ［ことば］
+L わ どく ぶん しょ | R fastener (example:
+L 話 読 聞 書
+R ファスナー
+R zipper, velcro, etc.)
+L うれしい happy, glad
+R ボタン button
+L は embarrassing
+L 恥 ずかしい
+R うご move
+R 動 く
+L つぎ
+L 次 next
+R differ from, be
+R ちが
+R 違 う
+L いち ど
+L one more time, again | R different
+L もう一 度
+L じょう ず か もの | R イメージ・する imagine, visualize
+L 1　上 手 に買 い物
+L うで ど けい | R せつ めい explain
+L 腕 時 計 wristwatch | R 説 明 ・する
+R はい たつ deliver
+L ゆび わ ring | R 配 達 ・する
+L 指 輪
+R おも
+L コート coat | R 重 い heavy (weight)
+L き | R かる light (weight)
+L コートを着 る。 “put on a coat” | R 軽 い
+R ちょうどいい perfect
+L ジーンズ jeans
+R じょう ぶ
+R sturdy
+L セーター sweater | R 丈 夫 （な）
+L が めん | R もっと more
+L screen
+L 画 面
+R おお
+L サイズ size | R もっと大 きいかばんがほ
+R “I want a larger bag”
+R しい。
+L すう じ
+L 数 字 number
+R ちょっと a little
+L スーツケース suitcase
+R いかがですか “How is it?”
+L たな shelf
+L 棚
+R “I understand” (humble
+L と て | R かしこまりました
+L handle, knob
+L 取 っ手 | R language)
+L ヒール (high) heels
+L 6
+==== PAGE 6 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L いっ しょ しょく じ | R put sauce on
+L 2　一 緒 に食 事
+R ソースをかける。
+R (something)
+L い み
+L meaning
+L 意 味
+R exchange for small
+R りょう がえ
+R 両 替 ・する
+L えい ぎょう ちゅう open (for business) | R money
+L 営 業 中
+L てい きゅう び | R わり びき discount
+L 定 休 日 regular holiday | R 割 引 ・する
+R とく good at (something)
+L おお も extra-large helping | R 得 （な）
+L 大 盛 り
+L おかわり refill, second helping | R どういう what kind of
+R another ~, more ~
+L oyako-don (bowl of
+R れい いっ ぱい
+L おや こ どん rice topped with boiled | R もう～（例 ：もう一 杯 ） (example: “one more
+L 親 子 丼
+R drink”)
+L chicken and eggs)
+R いち ど き
+L gyu-don (bowl of rice | R もう一 度 聞 こう
+L ぎゅう どん
+L 牛 丼 topped with seasoned
+R お がさ
+R folding umbrella
+R 折 りたたみ傘
+L beef)
+R リュックサック rucksack, backpack
+L サンドイッチ Sandwich
+R デザート dessert
+L ソース Sauce
+R せ お carry on one’s back
+L とんかつにソースをかけ “put sauce on pork | R 背 負 う
+L る。 cutlet”
+R たい へん very
+R 大 変
+L セット set
+L self-service drink area
+L ドリンクバー
+L in a restaurant
+L かべ wall
+L 壁
+L カレンダー calendar
+L き かん げん てい limited period
+L 期 間 限 定
+L さい しん latest, newest
+L 最 新
+L しょう ひん
+L 商 品 product, goods
+L せ かい ち ず world map
+L 世 界 地 図
+L そう りょう shipping charges
+L 送 料
+L タイムサービス limited time offer
+L はん がく half-price
+L 半 額
+L フロアガイド floor guide
+L ほん じつ today
+L 本 日
+L りょう amount
+L 量
+L ticket (example:
+L けん れい わり びき けん discount ticket,
+L ～券 （例 ：割 引 券 ）
+L coupon)
+L all-you-can ~
+L ほう だい れい の ほう だい
+L ～放 題 （例 ：飲 み放 題 ） (example: “all-you-
+L can-drink”)
+L は
+L 貼 る affix
+L hang, attach, put on
+L かける
+L (something)
+L カレンダーをかける。 hang up a calendar
+L 7
+==== PAGE 7 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か わたし もく ひょう
+L 第 3課 　私 の目 標
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L けい かく
+L 1　これからの計 画 　
+L らい にち もく てき こん ご もく ひょう けい かく はな
+L 来 日 の目 的 や今 後 の目 標 、計 画 などを話 すことができる。
+L You can talk about your reasons for coming to Japan and | R goals and plans, etc., in the future.
+L けい じ ばん み はな
+L 掲 示 板 を見 ながら話 しています。
+L You are talking while looking at a bulletin board.
+L ゆめ む
+L 2　夢 に向 かって
+L じ ぶん しょう らい きょう み まわ ひと はな | R しつ もん
+L 自 分 の将 来 のことで興 味 があることについて、周 りの人 に話 | R したり質 問 したりすることができる。
+L You can talk about your future plans and ask people around | R you questions.
+L ほう か ご とも だち はな
+L 放 課 後 、友 達 と話 しています。
+L You are talking with your friend after class.
+L けん がく さき がっ こう がく せい はな
+L 見 学 先 の学 校 の学 生 と話 しています。
+L You are talking to a student at a school you are visiting.
+L つぎ ひ きょう しつ とも だち はな
+L 次 の日 、教 室 で友 達 と話 しています。
+L The next day, you are talking to your friends in class.
+L ［ことば］
+R Japanese Language
+L わ どく ぶん しょ
+L 話 読 聞 書 | R に ほん ご のう りょく し けん
+R 日 本 語 能 力 試 験
+R Proficiency Test
+L え がお smile
+L 笑 顔
+R ビジネス business
+L かな
+L 悲 しい sad
+R ほう りつ
+R 法 律 law
+L けい かく
+L １　これからの計 画
+R ま ちが
+R mistake
+R 間 違 い
+L アクセサリー jewelry
+R もく ひょう goal, target
+R 目 標
+L がく ぶ
+L academic department
+L 学 部
+R りょう
+R 寮 dormitory
+L カナダ Canada
+R ~ company (example:
+R かい しゃ れい りょ こう がい しゃ
+R ～会 社 （例 ：旅 行 会 社 ）
+L きゅう りょう
+L 給 料 salary | R travel company)
+R charges, fees
+L けい かく plan, program, project | R りょう れい じゅ ぎょう りょう
+L 計 画 | R ～料 （例 ：授 業 料 ）
+R (example: tuition)
+L けい ざい economics, economy
+L 経 済
+R えら select, choose
+R 選 ぶ
+L けん がく かい
+L observation tour
+L 見 学 会 | R be troubled over, be
+R なや
+R 悩 む
+R worried about
+L こた answer, response
+L 答 え
+R ひら open
+R 開 く
+L サークル club, group
+R じ ぶん みせ ひら open your own store
+R 自 分 の店 を開 く。
+L し けん examination
+L 試 験
+R まよ
+R 迷 う waver, hesitate
+L しょう らい future
+L 将 来
+R “wavering whether to
+L せつ めい かい | R くに かえ まよ
+L 説 明 会 explanatory meeting | R 国 へ帰 るかどうか迷 って
+R return to my country or
+R いる。
+L せん もん がっ こう vocational school | R not”
+L 専 門 学 校
+R う
+L listening | R 受 ける receive, take
+L ちょう かい
+L 聴 解
+L comprehension
+L 8
+==== PAGE 8 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L take an entrance | R たい けん
+R 体 験 ・する experience
+L にゅう がく し けん う
+L 入 学 試 験 を受 ける。
+L examination
+R デッサン・する produce a drawing
+L かんが
+L 考 える think about
+R ふく しゅう review (a lesson)
+R 復 習 ・する
+L き decide
+L 決 める
+R よ しゅう
+R 予 習 ・する prepare for (a lesson)
+L しら examine
+L 調 べる
+R いち ど き
+R もう一 度 聞 こう
+L つづ
+L continue
+L 続 ける
+R pastry baker (from the
+R パティシエ
+L や stop, quit
+L 辞 める | R French word pâtissier)
+L あん ない | R interpret (translate
+L 案 内 ・する guide
+R つう やく
+R 通 訳 ・する
+R orally)
+L かく にん confirm, check
+L 確 認 ・する
+L けん がく tour, observe
+L 見 学 ・する
+L ごう かく
+L 合 格 ・する pass (an examination)
+L proceed to higher
+L しん がく
+L 進 学 ・する
+L education
+L しゅう しょく find a job
+L 就 職 ・する
+L せん こう
+L 専 攻 ・する specialize in, major in
+L consult with, ask
+L そう だん
+L 相 談 ・する
+L someone’s advice
+L ちょ きん save up money
+L 貯 金 ・する
+L つう がく
+L 通 学 ・する commute to school
+L ほん やく translate
+L 翻 訳 ・する
+L ただ correct
+L 正 しい
+L いっ しょう けん めい
+L (do) one’s very best
+L 一 生 懸 命
+L ゆめ む
+L ２　夢 に向 かって
+L がん しょ
+L 願 書 application
+L けん ちく か architect
+L 建 築 家
+L じ む しつ office
+L 事 務 室
+L しょ るい
+L 書 類 documents
+L スーツ business suit
+L デザイナー designer
+L dream (here:
+L ゆめ
+L 夢
+L aspiration)
+L しょう らい ゆめ (one’s) future dream
+L 将 来 の夢
+L during (a period)
+L ちゅう れい きょう じゅう (example: during
+L ～中 （例 ：今 日中 ）
+L today)
+L がん ば
+L do oneʼs best
+L 頑 張 る
+L けい えい manage (a business)
+L 経 営 ・する
+L じゅ けん
+L 受 験 ・する take an examination
+L スピーチ・する give a speech
+L 9
+==== PAGE 9 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か す まち
+L 第 4課 　住 んでいる町 で
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L せい かつ たの
+L 1　生 活 を楽 しむ　
+L す まち し せつ みせ じょう ほう き おし
+L 住 んでいる町 の施 設 やお店 の情 報 を聞 いたり教 えたりすることができる。
+L You can ask and answer questions about the facilities | R and shops in the town where you live.
+L とも だち ある はな
+L 友 達 と歩 きながら話 しています。
+L You are walking and talking with a friend.
+L い かた おし
+L 2　行 き方 を教 える　
+L みち あん ない みち まよ みち き
+L 道 案 内 をしたり道 に迷 ったとき道 を聞 いたりすることができる。
+L You can give directions for others and ask others for directions | R when you are lost.
+L おそ ば しょ でん わ
+L 教 わった場 所 がわからなくなって電 話 しています。
+L You are asking directions on the telephone to a place | R which you received instructions about but cannot
+L find.
+L ［ことば］
+L わ どく ぶん しょ | R sado (traditional
+L 話 読 聞 書
+R さ どう Japanese tea
+R 茶 道
+L あじ taste, flavor
+L 味 | R ceremony)
+L maʼam (familiar term | R shamisen (three-
+L おばさん for an older woman or | R しゃ み せん
+R 三 味 線 stringed Japanese
+L oneʼs own aunt)
+R musical instrument)
+L タコ octopus | R し みん
+R 市 民 citizen
+L takoyaki (fried octopus
+L や | R しゅ るい type
+L たこ焼 き | R 種 類
+L dumpling balls)
+R じょう ほう information
+R 情 報
+L におい smell
+R すい どう
+R 水 道 waterworks, waterway
+L とお
+L pass through
+L 通 る
+R タオル towel
+L に be similar to
+L 似 る
+R tempura (battered and
+L まる
+L 丸 い round
+R てんぷら deep-fried vegetables
+R and seafood)
+L ちい small
+L 小 さな
+R method, technique, way
+L ～がする make a (noise, smell) | R ほう ほう
+R 方 法
+R of doing something
+L せい かつ たの
+L 1　生 活 を楽 しむ
+R り ゆう reason
+R 理 由
+L くう こう airport
+L 空 港 | R place, location
+R じょう れい じょう
+R ～場 （例 ：サッカー場 ）
+R (example: soccer field)
+L し か dentist
+L 歯 科
+R れい し みん
+R ～センター（例 ：市 民 セン ~ center (example:
+L し やく しょ
+L city hall
+L 市 役 所
+R community center)
+R ター）
+L しょう がっ こう elementary school
+L 小 学 校
+R entrance, exit
+R ぐち れい にし ぐち
+R ～口 （例 ：西 口 ）
+L び よう いん
+L 美 容 院 beauty salon | R (example: west exit)
+R つ arrive
+L ふ どう さん real estate | R 着 く
+L 不 動 産
+R と
+L (cultural) exchange | R 止 まる stop
+L こう りゅう かい
+L 交 流 会
+L meeting
+R the water has stopped
+R みず と
+R 水 が止 まる。
+R running
+L 10
+==== PAGE 10 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L し
+L 知 らせる notify, inform
+L で
+L operate
+L 出 る
+L (They) run a bus
+L で
+L バスが出 る。
+L service.
+L カット・する cut
+L しつ もん
+L ask a question
+L 質 問 ・する
+L しゅう り repair
+L 修 理 ・する
+L り よう
+L 利 用 ・する use
+L ひつ よう needed, necessary
+L 必 要 （な）
+L い かた おし
+L 2　行 き方 を教 える
+L く やく しょ
+L 区 役 所 ward office
+L たい し かん embassy
+L 大 使 館
+L さか hill, slope
+L 坂
+L つぎ
+L next
+L 次
+L かい だ building with ~ floors
+L ～階 建 て
+L number ~ train/subway
+L ばん せん
+L ～番 線
+L line
+L meter (units of
+L ～メートル
+L measurement)
+L destination (example:
+L い れい しん じゅく い
+L ～行 き（例 ：新 宿 行 き） train/subway heading
+L to Shinjuku)
+L のぼ
+L 上 る move upward
+L お
+L move downward
+L 下 りる
+L ちゅう しゃ park (a vehicle)
+L 駐 車 ・する
+L いち ど き
+L もう一 度 聞 こう
+L middle school, junior
+L ちゅう がっ こう
+L 中 学 校
+L high school
+L ほう towards, side
+L 方
+L ラケット racket
+L 11
+==== PAGE 11 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か たい へん にち
+L 第 5課 　大 変 な1日
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L こま
+L 1　困 ったな……　
+L こま じょう きょう せつ めい とく ちょう | R じょう きょう せつ めい
+L 困 った状 況 を説 明 したり、なくしたものの特 徴 やなくしたときの状 | R 況 について説 明 したりすることができる。
+L You can explain your problems. Also, you can explain the | R characteristics of something you lost and how you
+L lost it.
+L えき なか み さい ふ
+L 駅 でかばんの中 を見 たとき、財 布 がありませんでした。
+L You have discovered at the train station that your wallet | R is not in your bag.
+L こう ばん い さい ふ いろ かたち ば しょ | R せつ めい
+L 交 番 へ行 って、なくした財 布 の色 や形 、なくした場 所 などを説 | R 明 しています。
+L You are at a police box and explaining the shape and color | R of the wallet you lost and place where you lost it.
+L えき
+L 2　駅 で
+L えき みち こま かん たん じ じょう せつ めい たの あやま
+L 駅 や道 で困 ったとき、簡 単 に事 情 を説 明 して、頼 んだり謝 ったりすることができる。
+L You can simply explain circumstances, make requests and | R apologize when encountering difficult situations
+L at train stations or on the street.
+L えき でん しゃ ま
+L 駅 で電 車 を待 っています。
+L You are waiting for a train at the station.
+L やく そく じ かん じ かん おそ えき つ とも だち り ゆう せつ めい
+L 約 束 の時 間 より1時 間 遅 く駅 に着 いて、友 達 に理 由 を説 明 しています。
+L You are explaining to a friend the reason for arriving at | R the train station one hour late.
+L ［ことば］
+L わ どく ぶん しょ | R ほし star
+L 話 読 聞 書 | R 星
+L しっ ぱい | R かわ
+L fail, make a mistake | R leather
+L 失 敗 ・する | R 革
+L こま | R きっ ぷ ticket
+L 1　困 ったな…… | R 切 符
+L いけ | R きょう か しょ
+L 池 pond | R 教 科 書 textbook
+L いろ color | R ケース case
+L 色
+L ピンク pink | R せん ろ (train, subway) line
+R 線 路
+L みどり | R in the middle of (doing
+L 緑 green
+R と ちゅう
+R 途 中
+R something)
+L えき いん station employee
+L 駅 員
+R まど ぐち (ticket) counter
+R 窓 口
+L けい かん
+L 警 官 policeman
+R よこ なが long from side to side
+R 横 長
+L おお
+L size
+L 大 きさ
+R lost items, lost-and-
+R わす もの
+R 忘 れ物
+L カード card | R found
+R IC card, smart card
+L さい ふ はい
+L 財 布 にカードが入 ってい “The card is in my
+R ICカード (plastic card with an
+L wallet.”
+L る。
+R embedded IC chip)
+L かい だん stairs
+L 階 段 | R somewhere around ~
+R (example:
+L かぎ key
+L 鍵 | R へん れい へん
+R ～辺 （例 ：どの辺 ）
+R “Whereabouts?”,
+L かたち
+L 形 shape | R “Around where?”)
+L ハート heart | R お drop
+R 落 とす
+L 12
+==== PAGE 12 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L こま | R leave (something,
+L 困 る be in trouble
+R someone) in someoneʼs
+L ころ | R あず
+L fall down | R 預 かる
+L 転 ぶ | R care, check in
+L こわ break, destroy | R (baggage)
+L 壊 す
+R と take, get
+L つ | R 取 る
+L 付 く attach
+R てん と
+R 100点 を取 る。 get 100 points
+L つ “A pocket is attached.”
+L ポケットが付 いている。
+R もど return
+L なくなる lose (something) | R 戻 る
+R か change
+L じ てん しゃ | R 変 える
+L 自 転 車 がなくなった。 “I lost my bicycle.”
+R アナウンス・する announce
+L の す miss one’s stop
+L 乗 り過 ごす
+R relieve (someone’s
+L まよ
+L 迷 う lose (one’s way)
+R あん しん
+R 安 心 ・する fears), give peace of
+L みち まよ
+L get lost | R mind
+L 道 に迷 う。
+R ち こく
+L み find | R 遅 刻 ・する be late
+L 見 つかる
+L で | R ね ぼう sleep late
+L 出 る go out, leave | R 寝 坊 ・する
+R びっくり・する be surprised
+L えき で leave a station
+L 駅 を出 る。
+R うす
+L の か change (trains, planes) | R 薄 い thin, weak, faint
+L 乗 り換 える
+R “This cooking has a
+L ま ちが
+L make a mistake | R りょう り あじ うす
+L 間 違 える | R この料 理 は味 が薄 い。
+R weak flavor.”
+L しん ぱい worry
+L 心 配 ・する
+R すぐ immediately
+L れん らく
+L 連 絡 ・する contact
+R ほん とう
+R 本 当 に really, truly
+L き notice, realize
+L 気 がつく
+R すこ a little more
+R もう少 し
+L きゅう suddenly
+L 急 に
+R ゆっくり slowly
+L さっき a moment ago
+R はな
+R “Please speak slowly.”
+R ゆっくり話 してください。
+L しばらく in a little while
+R いち ど き
+R もう一 度 聞 こう
+L ぜん ぶ altogether
+L 全 部 で
+R しろ
+R 白 white
+L たし
+L I am certain that
+L 確 かに
+R ごう しゃ number ~ train
+R ～号 車
+L それが…… That is ....
+R ～ずつ every ~
+L どうしよう What should I do?
+L えき
+L 2　駅 で
+L きゅう こう express (train)
+L 急 行
+L とっ きゅう
+L 特 急 limited express (train)
+L コインロッカー coin locker
+L しゅう てん final stop
+L 終 点
+L しゅう でん
+L final train
+L 終 電
+L タクシー taxi
+L てい き けん
+L 定 期 券 commuter pass
+L はこ box
+L 箱
+L も じ character
+L 文 字
+L point(s) (e.g., 100
+L てん れい てん
+L ～点 （例 ：100点 ）
+L points)
+L 13
+==== PAGE 13 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か りょ こう い
+L 第 6課 　旅 行 に行 こう
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L りょ こう けい かく
+L 1　旅 行 の計 画 　
+L りょ こう い り ゆう てい あん
+L どこへ旅 行 に行 きたいか、理 由 とともに提 案 することができる。
+L You can state where you want to travel and the reasons.
+L がっ こう ふゆ やす い とも だち そう だん
+L 学 校 で冬 休 みどこへ行 くか友 達 と相 談 しています。
+L You are discussing where to go for the winter vacation | R with your friends at school.
+L りょ こう がい しゃ み
+L 旅 行 会 社 のホームページを見 ています。
+L You are looking at a travel agency’s website.
+L 2　旅 りょ 行 こう の準 じゅん 備 び 　
+L りょ こう まえ なに はな
+L 旅 行 の前 に何 をしておくか話 すことができる。
+L You can talk about what to do before traveling.
+L がっ こう りょ こう じゅん び はな
+L 学 校 で旅 行 の準 備 について話 しています。
+L You are talking about preparing for your trip at school.
+L ［ことば］
+L わ どく ぶん しょ | R しゅく はく lodging
+L 話 読 聞 書 | R 宿 泊
+R すい ぞく かん
+L ウニ sea urchin | R 水 族 館 aquarium
+L カヌー canoe | R スノーボード snowboard
+L し ぜん nature | R だい きん charges, fees
+L 自 然 | R 代 金
+L しつ げん | R ちょう しょく
+L 湿 原 marsh | R 朝 食 breakfast
+L potato | R ゆう しょく dinner
+L ジャガイモ | R 夕 食
+L じょう ば horseback riding | R と ざん mountain climbing
+L 乗 馬 | R 登 山
+R ない よう
+L トウモロコシ corn | R details
+R 内 容
+L ぼく じょう ranch | R なし none
+L 牧 場
+L ばたけ | R ね だん
+L ラベンダー畑 Lavender Farm | R 値 段 price
+L たの enjoy | R ふね ship, boat
+L 楽 しむ | R 船
+L りょ こう けい かく | R プラン plan
+L 1　旅 行 の計 画
+L おとな | R ふん い き
+L 大 人 adult | R 雰 囲 気 atmosphere, mood
+L カニ crab | R まち town
+R 街
+L き もの clothing | R むし bugs, insects
+L 着 物 | R 虫
+R りょ かん
+L こっち this way (informal) | R Japanese-style inn
+R 旅 館
+L そっち that way (informal) | R ~ included (example:
+R つ れい ちょう しょく つ
+R ～付 き（例 ：朝 食 付 き）
+R breakfast included)
+L さい ご
+L 最 後 last
+R ~ nights ~ days
+L し ない within the city | R はく か れい はく か (example: 2 nights 3
+L 市 内 | R ～泊 ～日 （例 ：2泊 3日 ）
+R days)
+L ショッピングセンター shopping center, mall
+L 14
+==== PAGE 14 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L ~ fee (example:
+L ひ れい こう つう ひ
+L ～費 （例 ：交 通 費 ）
+L transportation fee)
+L どっち which
+L ま あ meet with
+L 待 ち合 わせる
+L ガイド・する guide
+L かん こう
+L go sightseeing, tour
+L 観 光 ・する
+L キャンプ・する camp
+L しゅっ ぱつ
+L 出 発 ・する leave, depart
+L チェックイン・する check in (at a hotel)
+L rent (a car, office,
+L レンタル・する
+L etc.)
+L めずら
+L 珍 しい unusual
+L でん とう てき traditional
+L 伝 統 的 （な）
+L それに also, in addition
+L りょ こう じゅん び
+L 2　旅 行 の準 備
+L イルカ dolphin
+L ガイドブック guidebook
+L ショー show
+L て ぶくろ gloves
+L 手 袋
+L ねん まつ
+L 年 末 end of year
+L マフラー scarf
+L during ~ (example:
+L ちゅう れい りょ こう ちゅう
+L ～中 （例 ：旅 行 中 ）
+L during travel)
+L と
+L 取 る take
+L やす と take a vacation
+L 休 みを取 る。
+L run out, disappear, be
+L なくなる
+L missing
+L “There are no more
+L せき
+L 席 がなくなる。
+L seats left.”
+L tell (someone
+L つた
+L 伝 える
+L something)
+L ぬれる get wet
+L コピー・する make a photocopy
+L とう ちゃく
+L 到 着 ・する to arrive
+L よう い prepare
+L 用 意 ・する
+L ねが “Please (do it).”
+L お願 いします
+L いち ど き
+L もう一 度 聞 こう
+L あとで later
+L 15
+==== PAGE 15 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か にし かわ いえ
+L 第 7課 　西 川 さんの家 へ
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L はじ ほう もん
+L 1　初 めての訪 問 　
+L はじ あ ひと てい ねい に ほん ご つか はな
+L 初 めて会 った人 と、丁 寧 な日 本 語 を使 って話 すことができる。
+L You can use polite Japanese language to people you meet | R for the first time.
+L とも だち いっ しょ にし かわ いえ い
+L 友 達 と一 緒 に西 川 さんの家 へ行 きました。
+L You are at Mr. Nishikawaʼs house with your friends.
+L いっ しょ つく
+L 2　一 緒 に作 りましょう　
+L し りょう り かん たん つく かた せつ めい
+L よく知 っている料 理 について簡 単 に作 り方 を説 明 することができる。
+L You can simply explain how to make food you know well.
+L にし かわ いえ じ ぶん くに まち りょう り いっ しょ つく
+L 西 川 さんの家 で自 分 の国 ・町 の料 理 を一 緒 に作 ります。
+L You are cooking food from your country/region together | R at Mr. Nishikawaʼs house.
+L ［ことば］
+L わ どく ぶん しょ | R eat, drink (respectful
+L 話 読 聞 書 | R め あ
+R 召 し上 がる
+R language)
+L あい て
+L 相 手 the other person
+R しゅっ せき
+R 出 席 ・する attend
+L しゅう かん custom, tradition, habit
+L 習 慣
+R leave the hospital, be
+R たい いん
+R 退 院 ・する
+L ちが difference | R discharged
+L 違 い
+L おどろ | R いっ しょ つく
+L surprise | R 2　一 緒 に作 りましょう
+L 驚 く
+R あじ
+L しつ れい rude, impolite | R 味 taste, flavor
+L 失 礼 （な）
+L いち ど | R カップ cup
+L もう一 度 one more time, again
+R かわ skin, peel
+L はじ ほう もん | R 皮
+L 1　初 めての訪 問
+L かい ぎ conference, meeting | R キャベツ cabbage
+L 会 議
+L か ちょう | R ジャガイモ potato
+L 課 長 section chief
+R だい こん Japanese radish
+L しゃ ちょう company president | R 大 根
+L 社 長
+L know (respectful | R タマネギ onion
+L ぞん
+L ご存 じ
+L language)
+R ニンジン carrot
+L ミステリー Mystery
+R ネギ green onion
+L around ~ (example;
+L ごろ れい じ ごろ
+L ～頃 （例 ：9時 頃 ）
+R クリーム cream
+L around 9:00)
+L どなた who (polite) | R コショウ black pepper
+L come, go, be | R す
+R 酢 vinegar
+L いらっしゃる
+L (respectful language)
+R ちょう み りょう seasonings
+R 調 味 料
+L say (respectful
+L おっしゃる
+L language) | R このくらい this much
+L look at, see (respectful
+L らん | R ゼリー jello, gelatin
+L ご覧 になる
+L language)
+R ソース sauce
+L do (respectful
+L なさる
+L language) | R つく
+R パスタのソースを作 る。 make pasta sauce
+L 16
+==== PAGE 16 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L つけ もの | R いち ど き
+L 漬 物 pickled vegetables | R もう一 度 聞 こう
+R (simmered) meat and
+L できあがり finished
+R にく
+R 肉 じゃが
+R potatoes
+L なべ pan
+L 鍋
+R ラケット racket
+L パスタ pasta
+R えん りょ refrain from, hesitate
+R 遠 慮 ・する
+L ハチミツ honey
+R mostly, most of the
+R だいたい
+L ひ heat | R time
+L 火
+L つよ び | R もちろん of course
+L 強 火 strong heat
+R excuse me for
+L よわ び low heat
+L 弱 火
+R じゃ ま interrupting, excuse me
+R お邪 魔 します
+L はん ぶん
+L 半 分 half | R for intruding
+L miso soup (traditional
+R よくいらっしゃいました thank you for coming
+L しる Japanese bean paste
+L みそ汁
+L soup)
+L roux, thickening agent
+L ルー
+L for soup or sauce
+L bay leaf (from the
+L ローリエ
+L French word laurier)
+L ～グラム ~gram
+L か change
+L 変 わる
+L ひ
+L 冷 やす cool
+L むく peel
+L fry, grill, toast, bake,
+L や
+L 焼 く
+L roast
+L わ
+L 沸 かす boil (water)
+L いた
+L fry
+L 炒 める
+L に boil (food in water)
+L 煮 る
+L boil (food, mostly
+L ゆでる vegetables or eggs, in
+L water)
+L ふっ とう bring to a boil
+L 沸 騰 ・する
+L thick, having wide
+L あつ
+L 厚 い
+L thickness
+L うす
+L 薄 い thin, weak
+L うす き “Cut thinly.”
+L 薄 く切 る。
+L こ dense, rich, thick
+L 濃 い
+L こま
+L fine, small
+L 細 かい
+L ほそ narrow
+L 細 い
+L よわ
+L 弱 い weak
+L at first (at beginning
+L まず
+L of a sentence)
+L つぎ next
+L 次 に
+L さい ご
+L 最 後 に finally, lastly
+L 17
+==== PAGE 17 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か
+L 第 8課 　ありがとう
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L で き ごと
+L 1　うれしい出 来 事 　
+L しん せつ けい けん はな した ひと て だす もう で
+L 親 切 にされた経 験 を話 したり親 しい人 に手 助 けを申 し出 たりすることができる。
+L You can talk about your experience with someone being | R kind to you and offer your help for someone
+L familiar to you.
+L きょう しつ しゅう まつ はな
+L 教 室 で週 末 にしたことを話 しています。
+L You are talking about what you did on the weekend in | R the classroom.
+L せ わ
+L 2　お世 話 になりました　
+L じ ぶん せ わ ほか ひと はな | R せ わ ひと れい い
+L 自 分 がお世 話 になったことを他 の人 に話 すことができる。お世 | R 話 になった人 にお礼 を言 うことができる。
+L You can talk to other people about the time someone gave | R you assistance and thank someone who helped
+L you.
+L き むら はな
+L アンナさんがうちで木 村 さんと話 しています。
+L Anna is talking to Ms. Kimura at her house.
+L いえ ちか にし かわ かあ れい い
+L 家 の近 くで西 川 さんのお母 さんにお礼 を言 っています。
+L She is thanking Mr. Nishikawa’s mother near her house.
+L ［ことば］
+L わ どく ぶん しょ | R ひろ
+L 話 読 聞 書 | R 拾 う pick up
+L あか bright | R ゆず pass on, transfer to
+L 明 るい | R 譲 る
+L やっと finally | R たす help, save
+R 助 ける
+L で き ごと | R とど
+L 1　うれしい出 来 事 | R 届 ける send, deliver
+L まわ policeman | R むか く come get (someone)
+L お巡 りさん | R 迎 えに来 る
+L クッキー cookie | R そんなに like that, so much
+L だん ご
+L rice dumpling | R ふーん well ...
+L （お）団 子
+L (simmered) meat and | R せ わ
+L にく | R 2　お世 話 になりました
+L 肉 じゃが
+L potatoes
+R かがみ
+R 鏡 mirror
+L みずうみ lake
+L 湖
+R か びん flower vase
+R 花 瓶
+L Mr./ Mrs./Miss/ Ms.,
+L and added to certain | R きょう じゅ professor
+R 教 授
+L れい えき いん
+L ～さん（例 ：駅 員 さん） professions as a term
+R きん じょ
+R 近 所 neighborhood
+L of respect (example:
+R the other day, during
+L station employee)
+R あいだ
+R この間
+R this time
+L send off, take
+L おく
+L 送 る
+L (someone somewhere) | R documents, information
+R し りょう
+R 資 料
+R materials
+L take someone home by
+L くるま おく
+L 車 でうちまで送 る。
+R ちゃ わん
+L car | R （お）茶 碗 china cup, china bowl
+L つ い take someone along
+L 連 れて行 く | R つくえ desk
+R 机
+L と
+L 捕 る catch | R にん ぎょう doll, figure
+R 人 形
+L なお fix, correct, repair | R ぶ ちょう
+L 直 す | R 部 長 department manager
+L 18
+==== PAGE 18 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L ほん だな
+L 本 棚 bookshelf
+L れい
+L thanks, appreciation
+L （お）礼
+L place where ～
+L さき れい さき
+L (example: place where
+L ～先 （例 ：アルバイト先 ）
+L you work part-time)
+L (gratefully) receive
+L いただく (humble language
+L referring to oneself)
+L (gratefully) receive
+L from someone
+L くださる (respectful language
+L referring to someone
+L else)
+L うれしい happy
+L き も
+L 気 持 ちいい comfortable, pleasant
+L す てき
+L splendid/ wonderful
+L 素 敵 （な）
+L どういたしまして You’re welcome
+L いち ど き
+L もう一 度 聞 こう
+L chijimi (Korean-style
+L チヂミ
+L pancake)
+L におい smell
+L かざ
+L 飾 る decorate
+L いろんな various
+L “Bottoms up!”,
+L かん ぱい
+L 乾 杯
+L “Cheers”
+L 19
+==== PAGE 19 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か さき
+L 第 9課 　アルバイト先 で
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L さき
+L 1　アルバイト先 のルール　
+L せん ぱい さき き こう はい せつ めい
+L 先 輩 からアルバイト先 のルールを聞 いたり、後 輩 に説 明 したりすることができる。
+L You can receive an explanation from your superiors about | R the rules at your part-time job and explain them
+L to your junior co-workers.
+L あたら はじ ひと みせ せつ めい
+L 新 しくアルバイトを始 める人 に、店 のルールを説 明 しています。
+L You are explaining the rules to someone who has just started | R to work part-time.
+L たの
+L 2　楽 しいアルバイト　
+L し ごと たが こえ あ
+L スムーズに仕 事 ができるように、お互 いに声 をかけ合 うことができる。
+L You can call out to each other in order to work smoothly.
+L ちょう り ば いそが はたら
+L ホールや調 理 場 で忙 しく働 いています。
+L You are working busily in the dining hall and kitchen.
+L ［ことば］
+L わ どく ぶん しょ | R つき
+L 話 読 聞 書 | R 月 month
+L たい せつ importance | R まえ つき the previous month
+L 大 切 さ | R 前 の月
+L は embarrassing | R つ ごう schedule
+L 恥 ずかしい | R 都 合
+R でん ぴょう
+L ですから therefore | R order slip
+R 伝 票
+L さき | R どう ぐ tool
+L 1　アルバイト先 のルール | R 道 具
+L いち ど | R ひょう
+L 一 度 once, one time | R 表 table, chart
+L うら rear | R ホール hall
+L 裏
+L oven | R まい つき every month
+L オーブン | R 毎 月
+L おん ど
+L 温 度 temperature | R マニュアル manual
+L かみ paper | R ゆか floor
+L 紙 | R 床
+L かみ け hair | R よご dirtiness
+L 髪 の毛 | R 汚 れ
+L か | R よ てい
+L in place of | R schedule, plan
+L 代 わり | R 予 定
+L シフト shift | R ルール rule
+R sir, madam (more
+L シール sticker, seal
+R respectful than san;
+R さま れい きゃく さま
+L スタッフ staff | R ～様 （例 ：お客 様 ）
+R used with customers,
+L スニーカー sneakers | R etc.)
+R あ rise
+L すみ | R 上 がる
+L 隅 corner
+R あ
+R 空 く become empty, vacant
+L せん ざい detergent, cleanser
+L 洗 剤
+R お punch
+R 押 す
+L タイムカード time card
+R お punch a time card
+L だれ | R タイムカードを押 す。
+L someone
+L 誰 か
+R かわ
+R dry
+L cooking place, kitchen | R 乾 く
+L ちょう り ば
+L 調 理 場
+L (of a restaurant)
+R か replace
+R 代 わる
+L 20
+==== PAGE 20 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L か
+L アルバイトを代 わる。 replace someone’s shift | R ひも string
+L ことわ | R ふくろ
+L turn down, deny | R bag, pouch
+L 断 る | R 袋
+L しまう put away | R びん bottle, jar
+R 瓶
+L すべ
+L 滑 る slide | R モップ mop
+R ~ bag (example:
+L だ take out, come out
+L 出 す | R ふくろ れい ぶくろ
+R ～袋 （例 ：ごみ袋 ）
+R garbage bag)
+L だ take out the garbage
+L ごみを出 す。
+R き decide
+R 決 まる
+L はこ
+L 運 ぶ carry
+R とど
+R 届 く reach
+L ふ wipe
+L 拭 く
+R かける rest on, sit
+L ほ
+L 干 す hang out to dry
+R こちらのいすにおかけく “Please have a seat
+L よ
+L call | R ださい。 here.”
+L 呼 ぶ
+L わた hand over | R き
+L 渡 す | R 切 れる run out of
+L あ | R こ
+L 上 げる raise | R get burned
+R 焦 げる
+L さ lower | R たし make sure, confirm
+L 下 げる | R 確 かめる
+L かた づ clean up | R やぶ
+L 片 付 ける | R 破 れる break
+L き が
+L change clothes | R きゅう けい take a break
+L 着 替 える | R 休 憩 ・する
+L た be enough | R ちゅう い pay attention
+L 足 りる | R 注 意 ・する
+R ちゅう い
+L つける attach, put on | R ご注 意 ください。 “Pay attention.”
+L アクセサリーをつける。 put on jewelry | R しょう しょう a little bit
+R 少 々
+L なら line up | R さき
+L 並 べる | R お先 にどうぞ Please go ahead
+L も
+L 燃 える burn | R じ ゆう Please feel free
+R ご自 由 に
+L あいさつ・する greet | R もう わけ I am sorry, but ...
+R 申 し訳 ないんですが
+L おしゃべり・する talk, chat | R いち ど き
+R もう一 度 聞 こう
+L チェック・する check | R き be careful
+R 気 をつける
+L じゃ ま distraction, hindrance | R さい しょ first of all
+L 邪 魔 （な） | R 最 初 に
+L てい ねい | R さき
+L 丁 寧 （な） polite | R before, in front, in first
+R 先 に
+L しっかり properly, adequately
+L ぜっ たい absolutely
+L 絶 対 に
+L はっきり clearly
+L おお large
+L 大 きな
+L たの
+L 2　楽 しいアルバイト
+L て あら
+L washroom, toilet
+L お手 洗 い
+L ガス gas
+L ガソリン gasoline
+L as is, without change
+L そのまま
+L butter
+L バター
+L ひ だ
+L 引 き出 し drawer
+L 21
+==== PAGE 21 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か りょ こう い
+L 第 10課 　旅 行 に行 って
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L 1　ハプニング！　
+L りょ こう さき よ き じょう きょう ふ り えき じょう きょう | R じょう きょう もん だい てん かん たん せつ めい
+L 旅 行 先 で予 期 できない状 況 や不 利 益 な状 況 になったとき、その状 | R 況 や問 題 点 などを簡 単 に説 明 することができる。
+L You can simply explain situations and difficulties when | R you are involved with unexpected and unfortunate
+L situations during a trip.
+L くう こう とう ちゃく い とも だち ま
+L 空 港 の到 着 ロビーでトイレに行 った友 達 を待 っています。
+L You are waiting for a friend who went to the toilet at the | R arrivals hall.
+L くう こう ない えき い どう でん しゃ の
+L 空 港 内 の駅 に移 動 して、電 車 に乗 ります。
+L You came to the station inside the airport and are going | R to board the train.
+L かた て
+L 2　ガイドブックを片 手 に　
+L げん ざい じ ぶん じょう きょう もく ぜん かん たん せつ めい
+L 現 在 の自 分 の状 況 や目 前 のものなどについて簡 単 に説 明 することができる。
+L You can simply explain your current circumstances and | R things in front of you.
+L どう ぶつ えん なか どう ぶつ み
+L 動 物 園 の中 で動 物 を見 ています。
+L You are looking at animals at the zoo.
+L はく ぶつ かん ちか ある
+L 博 物 館 の近 くを歩 いています。
+L You are walking near the museum.
+L ［ことば］
+L わ どく ぶん しょ | R かかり person in charge
+L 話 読 聞 書 | R 係
+L あめ candy, sweets | R シカ deer
+L おう さま king | R シングル single
+L 王 様
+L クルミ walnut | R ツイン twin
+R てん ぼう だい
+L ゴマ sesame | R 展 望 台 viewing platform
+L だれ anyone | R どろ ぼう thief, burglar
+L 誰 でも | R 泥 棒
+L の stretch, extend | R battery (esp.
+L 伸 ばす
+R バッテリー
+R rechargeable battery)
+L ま
+L wind up, wrap around
+L 巻 く
+R フロント front desk
+L まる round
+L 丸 い
+R ポーチ pouch
+L 1　ハプニング！
+R live (concert,
+R ライブ
+L アイスクリーム ice cream | R broadcast)
+L おじいさん an old man | R ロック rock
+L an old man in the | R かむ chew
+L きん じょ
+L 近 所 のおじいさん
+L neighbourhood
+R くば distribute
+R 配 る
+L おばあさん an old woman
+R さ
+R 刺 す bite, sting, stick with
+L an old woman in the
+L きん じょ
+L 近 所 のおばあさん
+R さそ invite, take out
+L neighbourhood | R 誘 う
+R たの
+L おにぎり rice ball | R 頼 む ask, request
+L か | R ふ
+L mosquito | R step on
+L 蚊 | R 踏 む
+L 22
+==== PAGE 22 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+R はく ぶつ かん
+L ぶつかる hit, run against | R 博 物 館 museum
+L けんか・する argue | R プロ pro, professional
+L take a picture, record | R ミルク milk
+L さつ えい
+L 撮 影 ・する
+L video
+R むぎ
+R 麦 wheat, barley, flour
+L じゅう でん charge (a battery)
+L 充 電 ・する
+R over there, the
+R む
+L しょう たい | R 向 こう
+L invite, ask
+L 招 待 ・する | R opposite (other) side
+L タッチ・する touch, tap (a screen) | R モデル model
+L ちゅう い | R や ね
+L 注 意 ・する advise, admonish | R 屋 根 roof
+L be given notice by the
+R ヨーロッパ Europe
+L かかり ひと ちゅう い
+L 係 の人 に注 意 される。
+L staff
+R ~ period (example: Edo
+R じ だい れい え ど じ だい
+L interpret (translate | R ～時 代 （例 ：江 戸 時 代 ）
+L つう やく | R period)
+L 通 訳 ・する
+L orally)
+R all over ~, throughout
+L はつ ばい sell
+L 発 売 ・する | R じゅう れい せ かい じゅう ~ (example: all over
+R ～中 （例 ：世 界 中 ）
+R the world)
+L うまい taste good, delicious
+R ~ box (example: bento
+R はこ れい べん とう ばこ
+L いっぱい full | R ～箱 （例 ：弁 当 箱 ）
+R box)
+L あれ？ What? | R おこな perform
+R 行 う
+L かた て | R つく
+L 2　ガイドブックを片 手 に | R 造 る create, build
+L あか baby
+L 赤 ちゃん | R ひら open, hold
+R 開 く
+L あっち (over) there (informal) | R ひら hold a concert
+R コンサートが開 かれる。
+L えん ぴつ pencil | R leave for, face (a
+L 鉛 筆
+R む
+R 向 かう
+R certain direction)
+L おお many
+L 多 く
+R い live, to be alive
+R 生 きる
+L ば や しき
+L haunted house
+L お化 け屋 敷
+R う be born
+R 生 まれる
+L oyaki (Japanese
+R た
+L おやき dumpling popular in | R 建 てる build
+L Nagano prefecture)
+R に run away, escape
+R 逃 げる
+L meeting place,
+L かい じょう
+L 会 場 | R せっ けい design, plan
+L conference hall | R 設 計 ・する
+L Japanese katakana | R はっ けん
+R find, discover
+L カタカナ | R 発 見 ・する
+L script
+R はつ めい invent
+R 発 明 ・する
+L こう じょう factory
+L 工 場
+R ～によって due to ~
+L こく さい international
+L 国 際
+R いち ど き
+R もう一 度 聞 こう
+L こ
+L child, kid
+L 子 ども
+R とお far away
+R 遠 く
+L きん じょ こ neighborhood child
+L 近 所 の子 ども
+R platform, gate, loading
+R の ば
+L じゅう どう | R 乗 り場
+L 柔 道 judo | R zone
+L せ かい world | R ロープウエー ropeway
+L 世 界
+L つき moon | R ちょうど exactly, precisely
+L 月
+L つき み | R “Sorry to keep you
+L 月 を見 る。 see the moon
+R ま
+R お待 たせ
+R waiting”
+L battery (esp. dry cell
+L でん ち
+L 電 池
+L battery)
+L トラ tiger
+L 23
+==== PAGE 23 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か ち いき しゃ かい なか
+L 第 11課 　地 域 社 会 の中 で
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L な
+L 1　慣 れてくると　
+L じ ぶん しゅう かん へん か こま はな
+L 自 分 の習 慣 の変 化 や困 っていることなどを話 すことができる。
+L You can talk about changes in your habits and difficulties | R you are experiencing.
+L きん じょ し あ に ほん じん はな
+L 近 所 で知 り合 いの日 本 人 と話 しています。
+L You are talking to a Japanese person you know in your | R neighborhood.
+L はい
+L 2　スポーツチームに入 って　
+L ひと き つた | R おう えん
+L 人 から聞 いたことを伝 えることができる。また、スポーツの応 | R 援 ができる。
+L You can communicate information you have heard from | R someone and cheer at sports games.
+L や きゅう はい れん しゅう
+L あなたは野 球 チームに入 っています。これから練 習 をします。
+L You are a member of a baseball team. You are going to | R start practice.
+L や きゅう し あい おう えん
+L 野 球 の試 合 の応 援 をしています。
+L You are cheering your team on at a baseball match.
+L ［ことば］
+L わ どく ぶん しょ | R ちが difference
+L 話 読 聞 書 | R 違 い
+L uncle, mister (polite | R ぶっ か
+R 物 価 prices of commodities
+L おじさん term used to refer to
+R ぶん か culture
+L middle-aged men) | R 文 化
+R ボランティア volunteer
+L く ろう trouble, burden
+L 苦 労
+R overdo, take something
+L vegetable vendor,
+L や お や | R む り
+R 無 理
+L 八 百 屋 | R too far
+L green grocery
+R ~ charges, ~ fees
+L はな
+L 話 しかける talk to, speak to
+R だい れい しょく じ だい (example: dining
+R ～代 （例 ：食 事 代 ）
+L した familiar, intimate
+L 親 しい | R charges)
+L over and over again, | R も have, hold
+L なん ど | R 持 つ
+L 何 度 も
+L many times
+R きょう み も
+R have an interest
+R 興 味 を持 つ。
+L な
+L １　慣 れてくると
+R まな learn, study
+R 学 ぶ
+L かの じょ girlfriend
+L 彼 女
+R お
+R 折 れる break
+L かれ boyfriend
+L 彼
+R こた answer, respond
+R 答 える
+L “I miss my girlfriend/
+L くに かの じょ かれ あ
+L 国 の彼 女 ／彼 に会 いたい。
+L boyfriend back home.” | R そだ raise (a child), bring up
+R 育 てる
+L き しゃ journalist, reporter
+L 記 者 | R インタビュー・する interview
+L きょう み interest
+L 興 味 | R がい しょく dine out, eat out
+R 外 食 ・する
+L けい ご
+L 敬 語 respectful language | R けん きゅう research
+R 研 究 ・する
+L matters about ~,
+R get out of order, break
+L こと | R こ しょう
+R 故 障 ・する
+L things about ~ | R down
+L しょう らい things about the future
+L 将 来 のこと | R せつ やく economize, be thrifty
+R 節 約 ・する
+L region, area, zone,
+R あんまり not much, not very
+L ち いき
+L 地 域
+L locality
+L 24
+==== PAGE 24 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L mostly, most of the
+L だいたい
+L time
+L はい
+L ２　スポーツチームに入 って
+L うん てん しゅ driver
+L 運 転 手
+L in front of the train
+L えき まえ
+L 駅 前
+L station
+L ぐ あい
+L 具 合 condition, health
+L こん や tonight
+L 今 夜
+L う hit
+L 打 つ
+L まわ
+L go around
+L 回 る
+L あきら give up
+L 諦 める
+L な
+L 投 げる throw
+L しゅっ ちょう go on a business trip
+L 出 張 ・する
+L いち ど き
+L もう一 度 聞 こう
+L き かい
+L 機 会 chance, opportunity
+L ち いき area, region
+L 地 域
+L (suffix for boy’s names
+L くん that indicates respect
+L ～君
+L and familiarity)
+L シュート・する shoot
+L かえ “Welcome home.”
+L お帰 りなさい
+L よし good, come on
+L 25
+==== PAGE 25 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か わたし けん こう ほう
+L 第 12課 　私 の健 康 法
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L たい ちょう ふ りょう
+L 1　体 調 不 良 　
+L たい ちょう しょう じょう げん いん たい しょ ほう はな
+L 体 調 がよくないとき、症 状 や原 因 、対 処 法 などを話 すことができる。
+L You can talk about symptoms, causes and coping techniques | R when you don’t feel well.
+L あさ りょう とも だち はな
+L 朝 、寮 のロビーで友 達 と話 しています。
+L You are talking to a friend at the lobby of the dormitory | R in the morning.
+L ご ご ちょう し わる とも だち へ や たず
+L 午 後 、調 子 が悪 い友 達 の部 屋 を訪 ねました。
+L You visited the room of a friend who is not feeling well | R in the afternoon.
+L 2　毎 まい 日 にち 、元 げん 気 き に！　
+L けん こう い じ ふ だん つか | R はな
+L 健 康 維 持 のために普 段 していることや使 っているものについて話 | R すことができる。
+L You can talk about what you regularly do and use in order | R to maintain your health.
+L りょう とも だち はな
+L 寮 のロビーで友 達 と話 しています。
+L You are talking to your friends at the lobby of the dormitory.
+L ［ことば］
+L わ どく ぶん しょ | R かさ open an umbrella
+L 話 読 聞 書 | R 傘 をさす。
+R get drunk, feel sick (at
+L インスタント instant
+R よ
+R 酔 う
+R the stomach)
+L しょく ひん food
+L 食 品
+R と relieve, break free from
+R 取 れる
+L のこ
+L 残 す leave, save
+R アドバイス・する give advice, advise
+L のこ
+L be left remaining
+L 残 る
+R join, become a member
+R にゅう かい
+R 入 会 ・する
+L れい とう freeze | R of a group
+L 冷 凍 ・する
+R pounding, throbbing
+L たい ちょう ふ りょう
+L 1　体 調 不 良
+R (state where it feels as
+R ガンガン
+L い stomach
+L 胃 | R if the pain in your head
+R is making a loud sound)
+L いた pain
+L 痛 み
+R tense, full (state where
+L うがい gargling
+R it feels as if your
+R パンパン
+R muscles are being
+L げん き healthy, lively, spirited
+L 元 気
+R stretched tightly)
+L こおり
+L 氷 ice
+R groggy, dizzy, woozy
+L しっ ぷ
+L cold (hot) compress | R (state where you
+L 湿 布
+R フラフラ cannot gather any
+L ジム gym, gymnasium
+R energy, are weary, or
+L つか
+L 疲 れ fatigue, tiredness | R your body is unsteady)
+R nauseous, queasy
+L ドレッシング dressing
+R (state where you feel
+L よう す appearance
+L 様 子 | R like you are going to
+R ムカムカ vomit due to
+L ~ fee, ~ charge
+L きん れい にゅう かい きん (example: admission | R overeating,
+L ～金 （例 ：入 会 金 ）
+R overdrinking, or
+L fee)
+R another cause)
+L さす hold over one’s head
+L 26
+==== PAGE 26 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L まい にち げん き | R いち ど き
+L 2　毎 日 、元 気 に！ | R もう一 度 聞 こう
+L えい よう | R (fictional) character,
+L nutrition
+L 栄 養 | R キャラクター
+R personality
+L かた shoulder
+L 肩
+R グレープフルーツ grapefruit
+L くび
+L 首 neck
+R ふつか よ hangover
+R 二 日酔 い
+L カロリー calorie
+R かん り
+R manage, administer
+R 管 理 ・する
+L けん こう health, fitness
+L 健 康
+R せい ちょう grow, develop
+R 成 長 ・する
+L ごろ
+L この頃 these days, nowadays
+R feel uneasy, be worried
+R き
+R 気 にする
+L ジューサー juicer | R (about)
+R き
+R be careful
+L ショウガ ginger | R 気 をつける
+R ほとんど hardly
+L ストレス stress
+L たい し ぼう body fat | R ～とも both
+L 体 脂 肪
+L ネックストレッチャー neck brace, neck collar
+L バランス balance
+L ビタミンC vitamin C
+L ヘルスケア healthcare, fitness
+L き massage machine
+L マッサージ器
+L ~ meter (example:
+L けい れい おん ど けい
+L ～計 （例 ：温 度 計 ）
+L thermometer)
+L deficiency in ~, not
+L ぶ そく れい うん どう ぶ そく enough ~ (example:
+L ～不 足 （例 ：運 動 不 足 ）
+L not enough exercise)
+L ~ rate, ~ ratio,
+L ~ percentage
+L りつ れい しゅっ せき りつ
+L ～率 （例 ：出 席 率 ）
+L (example: attendance
+L rate)
+L うご move, set in motion
+L 動 かす
+L こる become stiff
+L たまる build up
+L と break free from, relieve
+L 取 る
+L つか と relieve one’s fatigue
+L 疲 れを取 る。
+L ねむ
+L sleep
+L 眠 る
+L はか measure
+L 測 る
+L ふと
+L 太 る gain weight, get fat
+L lose weight, become
+L や
+L 痩 せる
+L thin
+L ひ chill, get cold
+L 冷 える
+L けい さん
+L 計 算 ・する calculate
+L ダイエット・する diet
+L マッサージ・する massage
+L 27
+==== PAGE 27 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か おや き も こ き も
+L 第 13課 　親 の気 持 ち・子 の気 持 ち
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L まち み こ
+L 1　町 で見 かけた子 どもたち　
+L じ ぶん こ けい けん まじ かん たん い けん い
+L 自 分 の子 どものころの経 験 を交 えながら、簡 単 に意 見 を言 うことができる。
+L You can simply express your opinion while referring to | R your experiences when you were a child.
+L がっ こう かえ みち じゅく まえ とお | R こ おや み はな
+L 学 校 からの帰 り道 、塾 の前 を通 りかかりました。そこにいる子 | R どもや親 たちを見 ながら話 しています。
+L You passed by a cram school on your way back from school. | R You are talking while looking at the children
+L and parents there.
+L おも だ
+L 2　思 い出 すと　
+L こ う きょう いく いま じ ぶん えい きょう あた | R はな
+L 子 どものころ受 けた教 育 で今 の自 分 に影 響 を与 えていることについて話 | R すことができる。
+L You can talk about the influence which your childhood | R education has on you now.
+L とも だち しゃ しん み はな
+L 友 達 のうちで写 真 を見 ながら、話 しています。
+L You are talking while looking at photographs at a friend’s | R house.
+L ［ことば］
+L わ どく ぶん しょ | R great, excellent, well
+L 話 読 聞 書
+R えら
+R 偉 い
+R done
+L し ぜん nature
+L 自 然
+R じ ゆう
+R free, at will
+R 自 由 （な）
+L つ fish
+L 釣 る
+R かなら by all means, certainly
+R 必 ず
+L て い
+L 手 に入 れる obtain, acquire
+R やっぱり after all
+L ふ り disadvantageous
+L 不 利 （な）
+R (doing something) until
+R おそ
+R 遅 くまで
+L まち み こ
+L １　町 で見 かけた子 どもたち | R late
+R おも だ
+L おとこ こ boy | R ２　思 い出 すと
+L 男 の子
+R かい がい
+L おや parent | R 海 外 overseas
+L 親
+L ちち おや | R きょう いく education
+L 父 親 father | R 教 育
+R きょく song track
+L はは おや mother | R 曲
+L 母 親
+R け しょう ひん
+L か じ housework | R 化 粧 品 cosmetics
+L 家 事
+R help, assistance,
+L ゲームセンター game center | R て つだ
+R 手 伝 い
+R assistant
+L コーチ coach
+R lessons (violin lessons,
+R なら ごと
+R 習 い事
+L ころ | R ballet lessons, etc.)
+L 頃 when I was ~
+R ~ meet(ing), ~ session
+L after-school cram
+L じゅく
+L 塾 | R ~ presentation (used
+L school
+R かい れい はっ ぴょう かい
+R ～会 （例 ：発 表 会 ）
+R for events like recitals,
+L すう がく mathematics, math
+L 数 学
+R school concerts, etc.)
+L ~ kilometers,
+R しか scold
+L ～キロ | R 叱 る
+L ~ kilograms
+R な
+R 泣 く cry
+L ~ each, ~ per
+L れい こ
+L ～ずつ（例 ：20個 ずつ）
+L (example: 20 each)
+R のこ leave, save
+R 残 す
+L さわ be noisy, act up
+L 騒 ぐ | R やる do
+L せ わ take care of
+L 世 話 ・する | R しゅく だい
+R 宿 題 をやる。 do my homework
+L 28
+==== PAGE 28 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L ほ
+L 褒 める praise
+L やめる quit, stop, give up
+L はっ ぴょう announce
+L 発 表 ・する
+L きび
+L 厳 しい strict, severe
+L disagreeable,
+L いや
+L 嫌 （な）
+L unpleasant
+L eager, enthusiastic,
+L ねっ しん
+L 熱 心 （な）
+L devoted
+L なん anything
+L 何 でも
+L いち ど き
+L もう一 度 聞 こう
+L おもちゃ toy
+L そ ぼ
+L 祖 母 grandmother
+L I, me (informal, used
+L ぼく primarily by young
+L 僕
+L men)
+L やく た be useful
+L 役 に立 つ
+L ちゃんと properly
+L no choice, have no
+L し かた
+L 仕 方 がない
+L alternative
+L 29
+==== PAGE 29 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か ぎょう じ
+L 第 14課 　イベント・行 事
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L わたし くに まち ぎょう じ
+L 1　私 の国 ・町 の行 事 　
+L くに まち ぎょう じ ぎょう じ かん かん たん せつ めい | R き
+L 国 ・町 の行 事 や行 事 に関 することについて、簡 単 に説 明 したり聞 | R いたりすることができる。
+L “You can explain in a simple way about events and related | R matters in your country/region and ask someone
+L about events in their country/region.”
+L きっ さ てん そと ある ひと み はな
+L 喫 茶 店 で外 を歩 いている人 を見 ながら話 しています。
+L You are talking at a coffee shop while looking at people | R walking by outside.
+L おく もの しゅう かん
+L 2　贈 り物 の習 慣 　
+L おく もの しゅう かん あい て この はい りょ そう だん
+L 贈 り物 の習 慣 や相 手 の好 みに配 慮 して、プレゼントの相 談 をすることができる。
+L You can seek advice for choosing presents considering | R the customs of giving presents and the receiver’s
+L preference.
+L たん じょう び いわ えら
+L 誕 生 日 祝 いのプレゼントを選 んでいます。
+L You are choosing a birthday present.
+L ［ことば］
+L わ どく ぶん しょ | R おもちゃ toy
+L 話 読 聞 書
+L work (picture/painting, | R おんな こ girl
+L さく ひん | R 女 の子
+L 作 品
+L etc.)
+R かず
+R 数 number
+L しょう がく きん scholarship
+L 奨 学 金
+R かね も rich person
+R （お）金 持 ち
+L まん が か
+L cartoonist
+L 漫 画 家
+R カボチャ pumpkin
+L ~ department, ~
+L ぶ
+L ～部
+R から て
+L section | R 空 手 karate
+L かつ どう be active, operate
+L 活 動 ・する | R ギョーザ dumpling, potstickers
+L し えん
+L support | R ぎょう じ event, occasion
+L 支 援 ・する | R 行 事
+L ヒット・する be a hit | R おお
+R new year’s eve
+R 大 みそか
+L ほう そう
+L 放 送 ・する broadcast, air | R ぼん obon festival
+R お盆
+L appear serially (in a
+R Respect-for-the-Aged
+L れん さい
+L 連 載 ・する
+L publication)
+R Day (A national holiday
+R held on the 3rd month
+L す ば magnificent, incredible
+L 素 晴 らしい
+R けい ろう ひ
+R 敬 老 の日 of September for
+L メジャー（な） major
+R revering the elderly
+R and wishing them a
+L わたし くに まち ぎょう じ
+L 1　私 の国 ・町 の行 事
+R long life)
+L あそ game, play
+L 遊 び
+R Seven-Five-Three
+L ウナギ eel | R Festival (Festival
+R celebrating the growth
+L crowd, in large
+L おお ぜい
+L 大 勢 | R of children for boys
+L numbers
+R しち ご さん when they are three
+R 七 五 三
+L traditional New Yearʼs
+R and five years old and
+L food (primarily food
+L りょう り | R for girls when they are
+L おせち料 理
+L eaten to celebrate the
+R three and seven years
+L New Year)
+R old)
+L 30
+==== PAGE 30 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L しょう がつ | R Welcoming cat (Statue
+L （お）正 月 New Year’s holidays
+R of a cat with its front
+L Coming of Age Day (a
+R paw beckoning
+L national holiday held
+R まね ねこ
+R 招 き猫 customers that is used
+L on the 2nd Monday in
+R as a decoration for
+L せい じん ひ January to
+L 成 人 の日
+R storefronts and other
+L congratulate those who
+R locations)
+L have reached legal
+R まめ bean
+L adulthood) | R 豆
+L Traditional end of | R ミカン tangerine
+L winter (Held the day
+R yakitori (skewered
+L before the traditional | R や とり
+R 焼 き鳥
+R grilled chicken)
+L beginning of spring
+L せつ ぶん | R ユズ yuzu (Chinese lemon)
+L 節 分 (around February 3).
+L On the evening of this
+R ゆめ dream (during sleep)
+R 夢
+L day, beans are thrown
+R “I had a bad dream
+L around the house to
+R きのう わる ゆめ み
+R 昨 日、悪 い夢 を見 た。
+R yesterday.”
+L ward off evil)
+R satchel, school
+L とう じ winter solstice
+L 冬 至
+R ランドセル backpack for
+L Midsummer Day of the
+R elementary school
+L ど よう うし ひ
+L 土 用 の丑 の日
+L Ox
+R ~ prefecture (example:
+R けん れい なが さき けん
+L Doll Festival (Festival | R ～県 （例 ：長 崎 県 ）
+R Nagasaki prefecture)
+L held on March 3 for
+R いの
+L ひなまつり | R 祈 る pray
+L celebrating the growth
+R celebrate, mark an
+L of young girls)
+R いわ
+R 祝 う occasion of,
+L ごちそう big meal, feast
+R congratulate on
+L しん ねん New Year’s Day
+L 新 年 | R おど dance
+R 踊 る
+L しょう ぎ shogi (Japanese chess)
+L 将 棋 | R decorate, put up a
+R かざ
+R 飾 る
+R decoration
+L スイカ watermelon
+R つつ wrap up, roll up
+R 包 む
+L せき はん festive red rice
+L （お）赤 飯
+R いわ celebrate
+R お祝 い・する
+L せん ぞ
+L 先 祖 ancestor
+R thank, express
+L だ し | R かん しゃ
+L parade float | R 感 謝 ・する
+L 山 車 | R appreciation
+L チェス chess
+R せい ちょう grow, develop
+R 成 長 ・する
+L テコンドー tae kwon do | R なが い live a long life
+R 長 生 き・する
+L とし age, year | R suffer from the summer
+L 年
+R なつ
+R 夏 バテ・する
+R heat
+L a new year, the coming
+L あたら とし
+L 新 しい年
+L year | R とく べつ Special
+R 特 別 （な）
+L とし
+L パクさんの年 Pakʼs age | R おく もの しゅう かん
+R 2　贈 り物 の習 慣
+L ぬの fabric
+L 布 | R イヤホン earphones
+L new year’s greeting
+L ねん が じょう | R おき もの ornament
+R 置 物
+L 年 賀 状
+L card
+R か じ fire
+R 火 事
+L はがき postcard
+R カメ turtle, tortoise
+L cloth for wrapping
+L ふ ろ しき
+L 風 呂 敷
+L things | R きく chrysanthemum
+R 菊
+R くし hair comb
+L 31
+==== PAGE 31 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L えん だま
+L ５円 玉 five yen coin
+L しょっ き
+L dishes, tableware
+L 食 器
+L シンボル symbol
+L ストーブ stove, space heater
+L そう しき funeral ceremony
+L （お）葬 式
+L なみだ tears
+L 涙
+L ハンカチ handkerchief
+L ひ がさ parasol, sunshade
+L 日 傘
+L み ま
+L （お）見 舞 い visit a sick person
+L みんな everyone
+L ライター lighter
+L in celebration of ~
+L いわ れい けっ こん いわ (example: wedding
+L ～祝 い（例 ：結 婚 祝 い）
+L present)
+L おく give a gift
+L 贈 る
+L increase, grow in
+L ふ
+L 増 える
+L number
+L はつ おん
+L 発 音 ・する pronounce
+L make an association of
+L れん そう
+L 連 想 ・する
+L ideas
+L は embarrassing
+L 恥 ずかしい
+L いち ど き
+L もう一 度 聞 こう
+L おに demon, devil
+L 鬼
+L ちょう ちん paper lantern
+L 提 灯
+L ハロウィン Halloween
+L that kind of ~, like
+L そういう
+L that, such
+L 32
+==== PAGE 32 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L だい か き
+L 第 15課 　気 になるニュース
+L じょう きょう せつ めい
+L ［スモールトピックのできること・状 況 説 明 ］
+L はっ ぴょう じゅん び
+L 1　発 表 の準 備 　
+L はな あ なか ひと はなし き じ ぶん かんが い
+L 話 し合 いの中 で、人 の話 を聞 いて自 分 の考 えを言 うことができる。
+L You can listen to others and express your thoughts in | R discussions.
+L き はっ ぴょう | R かんが
+L 「気 になるニュース」について発 表 することになりました。みんなでテーマを考 | R えています。
+L You are supposed to make a speech on “news that interests | R me”. Everyone is thinking about a topic as a
+L group.
+L まえ はっ ぴょう
+L 2　みんなの前 で発 表 　
+L しら じょう ほう じ ぶん かんが | R はっ ぴょう
+L あるテーマについて調 べた情 報 やそれについての自 分 の考 えを発 | R 表 することができる。
+L You can make a speech about information you have researched | R regarding a certain topic and your own
+L opinions about it.
+L じゅ ぎょう しら はっ ぴょう
+L 授 業 で調 べたテーマについて発 表 しています。
+L You are making a speech about a topic you researched | R in class.
+L ［ことば］
+R theme, topic, subject
+L わ どく ぶん しょ
+L 話 読 聞 書
+R テーマ matter (from the
+L じ しん confidence
+L 自 信
+R German word thema)
+L し あ
+L 知 り合 い acquaintance | R ぼう えき foreign trade
+R 貿 易
+L だい せい こう great success | R もん だい
+L 大 成 功 | R 問 題 problem, issue
+L deal with, engage in, | R (Western-style)
+L と く
+R よう ふく
+L 取 り組 む | R 洋 服
+L work on
+R clothing
+L せっ きょく てき
+L 積 極 的 （な） proactive, positive | R レコード record
+L はっ ぴょう じゅん び | R change into ~
+L 1　発 表 の準 備
+R か れい おん だん か (example: global
+R ～化 （例 ：温 暖 化 ）
+L おお あめ heavy rain
+L 大 雨
+R warming)
+L えい かい わ
+L 英 会 話 English conversation
+R ばい by ~ times
+R ～倍
+L かい すう number of times
+L 回 数 | R raise (a pet or other
+R か
+R 飼 う
+R animal)
+L グラフ graph
+R さ
+R 下 がる fall, drop
+L グループ group
+R ね だん さ the price drops
+R 値 段 が下 がる。
+L げん いん cause
+L 原 因
+R さ
+R 咲 く blossom
+L じ けん
+L 事 件 incident, case, event
+R す
+R spend time
+L situation, | R 過 ごす
+L じ じょう
+L 事 情 circumstances, | R う to plant
+R 植 える
+L conditions
+R くら
+R 比 べる compare
+L しょく りょう ひん food items
+L 食 料 品
+R アンケート・する take a survey
+L じょ せい
+L female
+L 女 性
+R ask, beg (when politely
+L だん せい male
+L 男 性 | R ねが requesting someone to
+R お願 い・する
+R do something for you)
+L ち きゅう
+L 地 球 the Earth
+R ぞう か
+R increase
+R 増 加 ・する
+L 33
+==== PAGE 33 ====
+R できる日本語 初中級 本冊【第2版】　2025/02/20
+L ゆ にゅう | R I, me (informal, used
+L 輸 入 ・する import
+R ぼく primarily by young
+R 僕
+L らい にち
+L visit Japan
+L 来 日 ・する | R men)
+L become fashionable,
+L りゅう こう | R まえ before
+L 流 行 ・する | R 前
+L popular
+R き らく carefree
+R 気 楽 （な）
+L worry about, care
+L き about, be interested in, | R ふ あん
+L 気 になる | R 不 安 （な） unease
+L feel like doing
+R やく about, approximately
+R 約 ～
+L きたな dirty
+L 汚 い
+L おん だん warm
+L 温 暖 （な）
+L ちょく せつ
+L 直 接 direct
+L ほとんど hardly
+L まえ はっ ぴょう
+L 2　みんなの前 で発 表
+L インフルエンザ flu, influenza
+L strong yen, yen
+L えん だか
+L 円 高
+L appreciation
+L weak yen, yen
+L えん やす
+L 円 安
+L depreciation
+L き おん
+L 気 温 air temperature
+L たち いり きん し entry prohibited
+L 立 入 禁 止
+L なん きょく south pole
+L 南 極
+L ほっ きょく
+L 北 極 north pole
+L ポスター poster
+L すす
+L 進 む move forward, advance
+L “The research moves
+L けん きゅう すす
+L 研 究 が進 む。
+L forward.”
+L decrease, reduce in
+L へ
+L 減 る
+L number
+L と melt
+L 溶 ける
+L けっ せき
+L 欠 席 ・する be absent, not attend
+L ゆ しゅつ export
+L 輸 出 ・する
+L き けん dangerous, hazardous
+L 危 険 （な）
+L たい へん
+L very
+L 大 変
+L どんどん more and more
+L しかし however, but
+L ～によると according to ~
+L いち ど き
+L もう一 度 聞 こう
+L い さき
+L 行 き先 destination
+L けっ か results
+L 結 果
+L サイト website
+L ぜん たい
+L overall
+L 全 体
+L 34
+==== PAGE 34 ====

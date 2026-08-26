@@ -1,0 +1,2288 @@
+ 1課|  1|きっかけ||ice breaker|契机，机会|मौका/अवसर|official
+ 1課|  2|中心|ちゅうしん|center|中心|केन्द्र|official
+ 1課|  3|立場|たちば|position|立场|स्थिति, अवस्ा|official
+ 1課|  4|試す|ため|try (out)|尝试|गरेर हेर््ननु, परिक्ा लिनु|official
+ 1課|  5|あなた||You|你|तपाईं|official
+ 1課|  6|旅-する|たび|to travel|旅游|यात्रा गर््ननु|official
+ 1課|  7|出る（旅に出る）|でたびで|to go out, to leave [here: to go on a trip]|出发（踏上旅途）|निस्कनु (यात्रामा निस्कनु)|added
+ 1課|  8|お供|とも|companion|陪同的人，随员|साथ दिनु|official
+ 1課|  9|動物|どうぶつ|animal|动物|जनावर|official
+ 1課| 10|羊|ひつじ|sheep|羊|भेडा|official
+ 1課| 11|馬|うま|horse|马|घोडा|official
+ 1課| 12|ライオン||lion|狮子|सिंह|official
+ 1課| 13|牛|うし|cow|牛|गाई|official
+ 1課| 14|協力し合う|きょうりょくあ|each other), to work|互相帮助|सहयोोगले काम गर््ननु|ensub
+ 1課| 15|協力-する|きょうりょく|to cooperate|协力，协助，帮助然后，那么（接续词），|सहयोोग गर््ननु|official
+ 1課| 16|さて||so, well|就那样（副词）|ल त|official
+ 1課| 17|順に|じゅん|in order, in turn|按顺序放手，松手，|क्रमैै सँग|official
+ 1課| 18|手放す|てばな|let go|转让，放下|छाडिदिनु|official
+ 1課| 19|付ける（番号を付ける）|つばんごうつ|to attach [here: to assign a number]|添付(附件)|राख्ु (नम्बर राख्ु)|official
+ 1課| 20|それぞれ||each|各个，分别|हरेक|official
+ 1課| 21|象徴-する|しょうちょう|to represent|表示，显示|प्रतीकका रूपमा हुनु|official
+ 1課| 22|新た（な）|あら|new|新的|नयााँ|official
+ 1課| 23|掲示板|けいじばん|noticeboard|公示牌|बुलेटिन बोर््ड|official
+ 1課| 24|作る（友達を作る）|つくともだちつく|to make [here: to make friends]|交（交朋友）|बनाउनु (साथी बनाउनु)|added
+ 1課| 25|交流-する|こうりゅう|to interact, to exchange|交流||zhocr
+ 1課| 26|ウェルカムパーティー||welcome party|欢迎会广场，宽广的|स्ागत पार््टटि|official
+ 1課| 27|広場|ひろば|space, place|场地|डबली|official
+ 1課| 28|できる（友達ができる）|ともだち|to be able to do [here: to become friends]|可以，成为|बन्नु (साथी बन्नु)|zhocr
+ 1課| 29|日時|にちじ|date and time|日期与时刻|मिति|official
+ 1課| 30|人数|にんずう|no. of people|人数，人的数量|मानिस संख्ा|official
+ 1課| 31|先着|せんちゃく|first|先到|जोो पहिले पुग्े होो त्यही क्रमबाट|official
+ 1課| 32|～名（50名）|めいめい|people (50 people)|～名（人）；50名|～जना (५० जना)|official
+ 1課| 33|または||or|或者|अथवा|official
+ 1課| 34|協会|きょうかい|association|协会，团体|संगठन/संस्ा|zhocr
+ 1課| 35|当日|とうじつ|on the day|当日|उक्त दिन|official
+ 1課| 36|支払う|しはら|to pay|支付|पैैसा तिर््ननु|official
+ 1課| 37|雨天|うてん|rain|雨天，下雨|पानी पर्ने|official
+ 1課| 38|現代|げんだい|nowadays|现在|वर््तमान युग|official
+ 1課| 39|就職活動-する|しゅうしょくかつどう|to job-hunt|找工作活动|नोोकरीका खोोज्नका लागि गरिने क्रिया कलाप|official
+ 1課| 40|重要（な）|じゅうよう|important|重要|महत्त्वपूर््ण|official
+ 1課| 41|評価-する|ひょうか|to appreciate|评价，评估|मूल्ययांकन|official
+ 1課| 42|年|ねんねん|year after year|一年又一年|बर्षैै पिछे|official
+ 1課| 43|高まる|たか|to increase|增高，增长|बढ्नु|official
+ 1課| 44|金額|きんがく|amount (of money)|金额|रकम|official
+ 1課| 45|領収書|りょうしゅうしょ|receipt|收据，小票|रसिदद|official
+ 1課| 46|サイン-する||to sign|签字，签名|हस्ताक्षर गर््ननु|official
+ 1課| 47|完成-する|かんせい|to complete|完成，完工|सम्पन्न हुनु|official
+ 1課| 48|～品（完成品）|ひんかんせいひん|item|～品, 完成品|～सामान (निर्माण सम्पन्न भएकोो सामान)|official
+ 1課| 49|品質|ひんしつ|quality|品质，质量|गुणस्तर|added
+ 1課| 50|工事-する|こうじ|to construct|工程，施工|कन्सट््रक्सन गर््ननु|official
+ 1課| 51|立てる（音を立てる）|たおとた|to make (noise)|立，保持，安置|निकाल्नु (आवाज निकाल्नु)|official
+ 1課| 52|お知らせ|し|notice|通知|जानकारी/सूचना|official
+ 1課| 53|以前|いぜん|before|以前|पहिले|official
+ 1課| 54|ラッキー（な）||lucky|幸运|भाग्यमानी|official
+ 1課| 55|崩れる（天気が崩れる）|くずてんきくず|to get worse (the weather gets worse)|崩溃，变坏；天气变坏|बिग्रनु (मौसम बिग्रनु)|zhocr
+ 1課| 56|各地|かくち|everywhere, all over the place|各个地方|हरेक क्ेत्र|zhocr
+ 1課| 57|助かる|たす|to be helped|帮助|मद्दत मिल्नु|zhocr
+ 1課| 58|実際|じっさい|actually, really, in fact|实际上|वास्तविक|zhocr
+ 1課| 59|しっかり-する||to be reliable|结实，可靠的；他很可靠|भर पर्दो|zhocr
+ 1課| 60|実は|じつ|in reality|实际上轻浮，不稳重，|वास्तवमा|official
+ 1課| 61|おっちょこちょい（な）||scatter-brained|马大哈|हडबडाउने खालकोो|official
+ 1課| 62|性格|せいかく|character|性格|सही|official
+ 1課| 63|ハッピー（な）||happy|开心，快乐|हर््षषित|official
+ 1課| 64|ストーリー||story|故事|काहानी|official
+ 1課| 65|イギリス||the UK|英国|बेलायत|official
+ 1課| 66|気が短い|きみじか|to have a short temper|急性子|क्रोोधी|official
+ 1課| 67|怒る|おこ|to get angry|生气，发怒行动，开始|रिसाउनु|official
+ 1課| 68|行動-する|こうどう|behavior|做什么～|कार््य गर््ननु|official
+ 1課| 69|ずいぶん||rather, awfully|大概|प्रशस्त|official
+ 1課| 70|欠点|けってん|shortcoming|缺点|अवगुण|official
+ 1課| 71|財産|ざいさん|possessions|财产|सम्पत्ति|official
+ 1課| 72|やわらか（な）||soft|柔软的|नरम|official
+ 1課| 73|そば||beside|荞麦面； 侧，旁边|नजिक|official
+ 1課| 74|ほっと||(to feel) relief, comfort|叹气或喘粗气貌|ढुक्क (हुनु)|zhocr
+ 1課| 75|移動-する|いどう|to move, to travel|移动|सर््ननु|zhocr
+ 1課| 76|手段|しゅだん|means|手段，办法|माध्यम|official
+ 1課| 77|表す|あらわ|to represent|表示，显示|व्यक्त गर््ननु|official
+ 1課| 78|つまり||in other words|也就是说，总之困难（的），|कुरा के होो भने/अर्थाात्|official
+ 1課| 79|困難（な）|こんなん|adversity|有难度的|आपदद बिपदद|official
+ 1課| 80|守る|まも|to protect|守护，保护|बचाउनु|official
+ 1課| 81|たっぷり（な）||full of|满满的|भरिपूर््ण|official
+ 1課| 82|与える（牛乳を与える）|あたぎゅうにゅうあた|to give [here: to give/ provide with milk]|给予|दिनु (ददूध दिनु)|official
+ 1課| 83|順番|じゅんばん|order|顺序|क्रम|official
+ 1課| 84|人生|じんせい|life|人生|जिन्दगी|official
+ 1課| 85|出合う|であ|to encounter|碰上，遇见|भेट हुनु|official
+ 1課| 86|なぜ||why|为什么|किन|official
+ 1課| 87|自然（な）|しぜん|naturally|自然的过去的故事，|स्वभाविक|official
+ 1課| 88|昔話|むかしばなし|folk tale|传说|ददन्त्यकथा, उहिलेका कुरा|official
+ 1課| 89|キジ||pheasant|雏鸡|जापानी कालिज|official
+ 1課| 90|連れる|つ|to take someone (with)|连带，带着|सँगैै लैैजानु|official
+ 1課| 91|鬼退治|おにたいじ|ogre hunting|驱鬼|ओनिताइजिराक्षसलाई लखेट्ने|zhocr
+ 1課| 92|重大（な）|じゅうだい|major, important|重大的，重要的揭穿秘密，|गम्ीर, भयंकर|official
+ 1課| 93|周り|まわ|around|周围|वरिपरि|official
+ 1課| 94|種明かし|たねあ|answer|说出内幕|रहस्य खोोल्ने|official
+ 1課| 95|確か（確か、明日テストだよね）|たしたしあす|I’m pretty sure (we|确实，正确|पक्का, ठिक छ भने (ठिक छ भने|zhocr
+ 1課| 96|プリン||(custard) pudding|布丁|पुडिङ|official
+ 1課| 97|気分|きぶん|mood|心情||official
+ 1課| 98|すっきり（と）||clear, distinct|清爽的|स्फू (सँग)|zhocr
+ 1課| 99|天気予報|てんきよほう|weather forecast|天气预报|मौसम पूर्वाानुमान|official
+ 1課|100|キャスター||newscaster|讲解员，报道员|समाचार वाचक|official
+ 1課|101|気象予報士|きしょうよほうし|weather forecaster|天气预报讲解员|मौसम विशेषज्ञ|official
+ 1課|102|青空|あおぞら|clear sky|晴空|खुला आकाश|official
+ 1課|103|広がる|ひろ|to prevail|扩大，扩展，变宽|फैलनु|official
+ 1課|104|日中|にっちゅう|during the day|在一日之中|दिउँसोो|official
+ 1課|105|最高|さいこう|highest|最高的～|अधिकतम, सबभन्दान्दा|official
+ 1課|106|見込み|みこ|expectation|预想，设想|अनुमान, सम्ावना|official
+ 1課|107|汗ばむ|あせ|to bring out a slight sweat|出汗，冒汗|पसिना आउने|zhocr
+ 1課|108|陽気|ようき|warm|阳气|घाम/घमाइलोो|zhocr
+ 1課|109|～日和（洗濯日和）|びよりせんたくびより|perfect weather (for doing laundry)|～适合的日子|～गर््न उपयुक्त दिन लुगा धुन उपयुक्त दिन)|zhocr
+ 1課|110|星空|ほしぞら|starry sky|星空|तारैैतारा चम्कने आकाश|zhocr
+ 1課|111|のち||later|之后，过一会|पछि|official
+ 1課|112|前日|ぜんじつ|the day before|前几天|अगिल्लोो केहीदिन अगाडि|official
+ 1課|113|続く|つづ|to continue|继续，持续|निरन्तर हुनु|official
+ 1課|114|平年|へいねん|average year|普通的年|औसत वर््ष|official
+ 1課|115|～並み（平年並み）|なへいねんな|equal to (equal to an average year)|并列，相等|～सरहका (औसत वर््ष सरहका)|zhocr
+ 1課|116|予想-する|よそう|to expect|期待，期望|अनुमान गर््ननु|official
+ 1課|117|肌寒い|はだざむ|chilly|寒冷|चिसोो चिसोो हुनु|official
+ 1課|118|感じる|かん|to feel|感觉，感受|अनुभव गर््ननु|official
+ 1課|119|連休|れんきゅう|holiday weekend|连休，连续休息|लगातारकोो छुट्ी|official
+ 1課|120|どこも||everywhere, wherever|到处，哪里都|जहाँतहीँ|added
+ 1課|121|関東|かんとう|comprising Tokyo and the surrounding|关东地区(东京周围地区)|कान्तोो|zhocr
+ 1課|122|～地方（関東地方）|ちほうかんとうちほう|(Kanto) region, (Kanto) area|～的地方|～क्ेत्र (कान्तोो क्ेत्र)|zhocr
+ 2課|  1|行列-する|ぎょうれつ|to line, to queue|队列|लाइन बस्ु|official
+ 2課|  2|評判|ひょうばん|reputation|名声|प्रसिद्ी|official
+ 2課|  3|加わる|くわ|to join|加入|सम््मिलित हुनु|official
+ 2課|  4|～感（安心感）|かんあんしんかん|sense (sense of security)|感覚(安心感)|～कोो अनुभव (ढुक्ककोो अनुभव)|zhocr
+ 2課|  5|つながる||to lead to|连接|जोडिनु, संयोोजन हुनु|zhocr
+ 2課|  6|関西|かんさい|Kansai|关西印象|कान्साइ|official
+ 2課|  7|印象|いんしょう|impression|印象|छाप|zhocr
+ 2課|  8|与える（印象を与える）|あたいんしょうあた|to give (an impression)|给予|छाप्ु (छाप छाप्ु)|official
+ 2課|  9|ある～（ある留学生）|りゅうがくせい|a certain (a certain overseas student)|某个(某个留学生)|(एक विददेशी विद्ार्थी) एक～|zhocr
+ 2課| 10|思ったより|おも|more than I had imagined|比想象的如何|सोोचेकोभन्दान्दा|zhocr
+ 2課| 11|おもしろさ||fun, interest, appeal|趣味，有趣之处|रमाइलोोपन|added
+ 2課| 12|拒否-する|きょひ|to resist|抵抗|अस्ीकार गर््ननु|official
+ 2課| 13|舌|した|tongue|舌头|जिब्रोो|official
+ 2課| 14|グルメ||gourmet food, foodie|美食|गउरमेट|added
+ 2課| 15|ランチ||lunch|午饭|दिउँसोोकोो खाना|official
+ 2課| 16|リポーター||reporter|记者|रिपोर््टर|official
+ 2課| 17|メイン||main course|主要|मुख्य|official
+ 2課| 18|大～（大セール）|だいだい|big~, huge~, mega~ (a mega-sale)|大～（大甩卖）|(ठूलोो बिक्री) ठूलोो～|added
+ 2課| 19|メーカー||manufacturer|制造商|मेकर/उत्पाददक|official
+ 2課| 20|品|しな|product|商品|सामान|official
+ 2課| 21|手に入る|てはい|to get hold of, to acquire|得到|हात लाग्ु|zhocr
+ 2課| 22|お買い得|かどく|bargain, good buy|划算|राम्रोो सामान सस्तोो मूल्य|zhocr
+ 2課| 23|お買い上げ|かあ|purchase|收购||official
+ 2課| 24|次回|じかい|next (time)|下次|अर्कोो पटक|official
+ 2課| 25|タイムセール||time-limited sale,|限时特卖|सीमित समयकोो बिक्री|added
+ 2課| 26|メンズ||men’s|男士|पुरुषकोो|official
+ 2課| 27|バッグ||bag|包|झोोला|official
+ 2課| 28|閉店-する|へいてん|to close down|关店|पसल बन्द गर््ननु|official
+ 2課| 29|薦める|すす|to recommend|推荐|राम्रोो होो भनि सल्ाह दिनु/ सिफारिस गर््ननु|official
+ 2課| 30|来店-する|らいてん|to visit a shop|来店里|पसलमा आउनु|official
+ 2課| 31|いたす||to do (humble)|致力，做|गर््ननु|official
+ 2課| 32|応募-する|おうぼ|to apply|申请|आवेददन भर््ननु|official
+ 2課| 33|国内|こくない|domestic (in Japan)|国内|ददेशभित्र|official
+ 2課| 34|在住-する|ざいじゅう|to reside|居住|बसोोबास गर््ननु|official
+ 2課| 35|よさ||goodness (of), good|好处，优点|भलाइ|added
+ 2課| 36|出入り口|でいぐち|door, entrance/exit|出入口|मूल ढोोका|official
+ 2課| 37|駐車-する|ちゅうしゃ|to park|停车|गाडी पार््क गर््ननु|official
+ 2課| 38|禁止-する|きんし|to ban, to forbid, to prohibit|禁止|प्रतिबन्ध गर््ननु|added
+ 2課| 39|好評（な）|こうひょう|popular, well-received|受好评的|लोोकप्रिय|zhocr
+ 2課| 40|キャンペーン||(sales) campaign|宣传活动|अभियान|zhocr
+ 2課| 41|期間|きかん|(time) period, term|时期|अवधि|ensub
+ 2課| 42|延長-する|えんちょう|to extend, to prolong|延长|विस्ार गर््ननु|added
+ 2課| 43|看板|かんばん|sign|招牌|साइन बोर््ड|official
+ 2課| 44|直し|なお|correction, do over|更加,愈发,仍然|बनाउनु/मर््मत गर््ननु|zhocr
+ 2課| 45|試着-する|しちゃく|to try on (clothes)|试穿|लुगा लगाएर हेर््ननु|official
+ 2課| 46|～室（試着室）|しつしちゃくしつ|(dressing, fitting) room|～室（试衣间）|～कोोठा (फिटिँङ कोोठा)|added
+ 2課| 47|裾|すそ|hem|下摆|लुगाकोो, बाहुलाकोो फेदद|official
+ 2課| 48|長さ|なが|length|纵，长|लम्बाइ|official
+ 2課| 49|受け取る|うと|to collect|收到|लिनु/प्ाप्त गर््ननु|official
+ 2課| 50|グラタン||gratin|焗|ग्ातान|official
+ 2課| 51|お待たせいたしました|ま|thank you for waiting|让您久等了|प्रतीक्ा गर््ननु परेकोमा क्षमा चाहन्छु|zhocr
+ 2課| 52|シェフ||chef|厨师|सेफ/चीफ कुक|zhocr
+ 2課| 53|アナウンサー||announcer|播音员|उदद्घोोषक|official
+ 2課| 54|好み|この|taste, preference|偏爱|रुचि|official
+ 2課| 55|さまざま（な）||various, different|各种各样的|अनेक थरिका/विभिन्न|official
+ 2課| 56|マナー||manners|礼仪|आचरण|official
+ 2課| 57|異なる|こと|to differ|不同|फरक|official
+ 2課| 58|お役立ち情報|やくだじょうほう|useful information|有用的信息|उपयोोगी सूचना|official
+ 2課| 59|予算|よさん|budget|预算|बजेट|official
+ 2課| 60|検索-する|けんさく|to search|检索|खोोज तलास गर््ननु|official
+ 2課| 61|登録-する|とうろく|to register|注册|दर्ताा गर््ननु|official
+ 2課| 62|口コミ|くち|word of mouth|口口相传|कुराकानी द्ाराकोो संप्ेषण|official
+ 2課| 63|感想|かんそう|impressions, thoughts|印象|विचार|zhocr
+ 2課| 64|比較-する|ひかく|to compare|比较|तुलना गर््ननु|zhocr
+ 2課| 65|参考|さんこう|reference|参考|रिफर गर््ननु|official
+ 2課| 66|写真立て|しゃしんた|photo frame|相框|फोोटोो फ्रेम , तस्विर ठड्ाउने|official
+ 2課| 67|アドレス||address|地址|इमेल एड््रेस, ठेगाना|official
+ 2課| 68|バーゲン||sale|便宜货|वार्गेेन|official
+ 2課| 69|安全|あんぜん|safety|平安与否|सुरक्षित|official
+ 2課| 70|～以降（４時以降）|いこうじいこう|after (after 4 o’clock)|之后(4点之后)|～बजेपछि (४ बजेपछि)|zhocr
+ 2課| 71|あいにく||unfortunately|遗憾|ददुर्भााग्यवश|zhocr
+ 2課| 72|キャンセル-する||to cancel|取消|रद्द गर््ननु|official
+ 2課| 73|待ち|ま|waiting (for), waiting time|等候|पर््खनु|added
+ 2課| 74|申し訳ありません|もうわけ|I’m sorry|对不起|धैैरैै माफीी चाहन्छु|official
+ 2課| 75|延期-する|えんき|to postpone|延期、推迟|स्थगन गर््ननु/म्यादद बढाउनु|official
+ 2課| 76|組み立てる|くた|to assemble|安装、构成|बनाउनु/रचना गर््ननु|official
+ 2課| 77|福袋|ふくぶくろ|lucky bag|幸运袋、福袋|सामानहरू मिसायर बेच्न राखिएकोो|official
+ 2課| 78|品物|しなもの|goods|商品|बिक्रीकोो सामान|official
+ 2課| 79|ブランド||brand|品牌|ब्ाण्ड|official
+ 2課| 80|フリーサイズ||one size|适合所有人的尺寸|फ्रि साइज|official
+ 2課| 81|合う（サイズが合う）|ああ|to match [here: the|合适(尺寸合适)|मिल्नु (साइज मिल्नु)|zhocr
+ 2課| 82|中身|なかみ|contents|内容|भित्र रहेकोो वस्ु|official
+ 2課| 83|交換-する|こうかん|to exchange|交换|साटासाट गर््ननु|official
+ 2課| 84|振り仮名|ふがな|furigana (reading printed beside kanji)|注音假名|कान्जि अक्षरकोो माथि लेखिएका हिरागाना वा काताकाना|zhocr
+ 2課| 85|家電|かでん|consumer electronics|家用电器|घरेलु विद्युतिय सामान|zhocr
+ 2課| 86|共有-する|きょうゆう|to share|共有，共同|घटना, उपकथा संग्रह|official
+ 3課|  1|効率|こうりつ|efficiency|效率|कार््य कुशलता|official
+ 3課|  2|アップ-する||to increase|增高，增长|वृद्धि हुनु|official
+ 3課|  3|～法（管理法）|ほうかんりほう|method (management method)|～法(法律)；|～पद्धति (नियन्त्र ण पद्धति)|official
+ 3課|  4|少しも|すこ|not at all|一点也没有|अलिकति पनि|official
+ 3課|  5|注目-する|ちゅうもく|to focus (on)|注目，引人注目|ध्यान दिनु|official
+ 3課|  6|タイマー||timer|计时器|टाइमर|official
+ 3課|  7|～力（集中力）|りょくしゅうちゅうりょく|power (power of concentration)|～力，(集中注意力)|～शक्ति (ध्यान केन्द्रि त गर््न सक्े शक्ति )|zhocr
+ 3課|  8|役立つ|やくだ|to be useful|有益，有用|काम लाग्ु|official
+ 3課|  9|リスト||list|表，顺序表|सूची|official
+ 3課| 10|繰り返す|くかえ|to repeat|重复，重新|दोोहोोर्‍याउनु|official
+ 3課| 11|長め|なが|longish, extended|长一点儿|केही लामोो|official
+ 3課| 12|取る（休憩を取る）|ときゅうけいと|take (a rest)|睡一会儿|लिनु (विश्राम लिनु)|zhocr
+ 3課| 13|利点|りてん|benefit, advantage|优点，好处|फाइददा|official
+ 3課| 14|終了-する|しゅうりょう|to end, to complete|完成，结束|समाप्त हुनु|official
+ 3課| 15|アラーム||alarm|闹钟|जगाउने यन्त्र|official
+ 3課| 16|鳴る|な|to ring|响，鸣响|बज्नु|official
+ 3課| 17|つい||can’t help, despite|不知不觉，无意之中|आखिरमा आएर|official
+ 3課| 18|関係|かんけい|relation|关系|सम्बन्ध|official
+ 3課| 19|どれだけ||how much, to what|多少|कति सम्म|official
+ 3課| 20|しかも||moreover, furthermore|但是，还有|त्यसमा पनि|zhocr
+ 3課| 21|ぴったり（な）||perfect|完美的|ठ्ाक्क ठिक्क हुनु|official
+ 3課| 22|キャリアアップ-する||career enhancement|升职，晋升职务出勤|क्ारिअरमा प्रगती गर््ननु|official
+ 3課| 23|出勤-する|しゅっきん|to go to work|出勤|काममा जानु|zhocr
+ 3課| 24|講座|こうざ|course|讲座，会议|कोर््स|zhocr
+ 3課| 25|集中-する|しゅうちゅう|to concentrate|集中注意|ध्यान कन्द्रि त गर््ननु|official
+ 3課| 26|活用-する|かつよう|to utilize|活用，灵活运用|उपयोोगमा ल्याउनु|official
+ 3課| 27|資格|しかく|qualification, certification|资格|योोग्यता|added
+ 3課| 28|合う（自分に合う）|あじぶんあ|to be a good fit (for someone), to suit|合适(尺寸合适)|मिल्नु (साइज मिल्नु)|zhocr
+ 3課| 29|筆者|ひっしゃ|writer|作者|लेखक|official
+ 3課| 30|初心者|しょしんしゃ|beginner|初学者|नव प्रवेशी|official
+ 3課| 31|信じる|しん|to believe|相信|विश्ास गर््ननु|official
+ 3課| 32|山頂|さんちょう|summit|山顶|पहाडकोो टुप्पोो|official
+ 3課| 33|近づく|ちか|to get close to|临近，靠近|नजिक हुनु|official
+ 3課| 34|眺め|なが|view|远眺，眺望|दृश्य|official
+ 3課| 35|一休み-する|ひとやす|to take a quick break|小憩，休息|एकछिन विश्राम लिनु|zhocr
+ 3課| 36|リズム||rhythm|节奏|रिदम/ताल|zhocr
+ 3課| 37|あっという間|ま|in the blink of an eye|一瞬间，一眨眼的功夫|एकैछिनमा|zhocr
+ 3課| 38|過ぎる（時間が過ぎる）|すじかんす|to pass (time passes)|超过时间了滴滴答答的，|बित्ु (समय बित्ु)|official
+ 3課| 39|だらだら（と）||slowly, lazily,|滴滴答答的，懒洋洋的样子|तपतप, स्पष्ट नहुने, अल्छी|zhocr
+ 3課| 40|振り返る|ふかえ|to reflect, look back on|回头看，回顾|फर्केेर हेर््ननु|zhocr
+ 3課| 41|結構|けっこう|fairly|相当|निकैै|official
+ 3課| 42|浮かぶ（頭に浮かぶ）|うあたまう|to come (to mind), to pop into (one’s head)|浮，飘，想起(脑海中想起)|आउनु (कल्पनामा आउनु)|zhocr
+ 3課| 43|手帳|てちょう|notebook|记事本|डायरी|official
+ 3課| 44|メモ-する||to make a note, to take|做笔记|मेमोो गर््ननु|zhocr
+ 3課| 45|落ち着く|おつ|to calm down|安定,评定;平息|शान्त हुनुi|official
+ 3課| 46|また||again|又|फेरि|official
+ 3課| 47|余裕|よゆう|margin|富裕|स्ान/ठाउँ|official
+ 3課| 48|見直す|みなお|to review|订正|पुनरावलोोकन गर््ननु|official
+ 3課| 49|宝物|たからもの|prized possession|宝物，宝贝|बहुमुल्य अमुल्यचीज|official
+ 3課| 50|たまに||sometimes|有时|कहिलेकाहीं|official
+ 3課| 51|通勤-する|つうきん|to commute|通勤上班|काममा आउनु जानु|official
+ 3課| 52|やる気|き|will, motivation, enthusiasm|干劲，热情|प्ेरणा|added
+ 3課| 53|立てる（スケジュールを立てる）|た|た to create (to create a|创立，制造(制造时间表)|た बनाउनु (योोजना तालिका बनाउनु)|zhocr
+ 3課| 54|キッチン||kitchen|厨房|भान्सा|official
+ 3課| 55|設定-する|せってい|to set|设定|सेट गर््ननु|official
+ 3課| 56|ただ||however|仅仅，只|यद्यपी/नि:शुल्क|official
+ 3課| 57|受信-する|じゅしん|to receive|收听，收信|विद्युतिय सन्देशलाई प्ाप्त गर््ननु|official
+ 3課| 58|気が散る|きち|to be distracted|精神失常|ध्यान भाडिनु|official
+ 3課| 59|登録商標|とうろくしょうひょう|registered trademark|注册商标|दर्ताा गरिएकोो ट््ररेडमार््क|added
+ 3課| 60|生かす|い|to make (the best) use of, to put to (good) use|有效利用|सददुपयोोग गर््ननु|zhocr
+ 3課| 61|有効（な）|ゆうこう|efficient|有效的|प्रभावकारी/उपयोोगी|official
+ 3課| 62|記事|きじ|article|文章|पत्र पत्रिकाकोो लेख|official
+ 3課| 63|朝活|あさかつ|using the early morning for a particular activity|利用早上时间学习锻炼等|बिहान गरिने कामकाज|zhocr
+ 3課| 64|もったいない||wasteful|浪费|खेर जानु|zhocr
+ 3課| 65|声（学生の声を紹介する）|こえがくせいこえしょうかい|are some student|声音（介绍学生的声音/意见）|आवाज (विद्ार्थीहरूकोो आवाजकोो परिचय)|added
+ 3課| 66|解消-する|かいしょう|to relieve|解除，消除|समाधान गर््ननु|official
+ 3課| 67|勧める|すす|encourage (someone to|劝，推荐|सिफारिस गर््ननु|added
+ 3課| 68|早起きは三文の徳|はやおさんもんとく|the early bird catches the worm|早起的鸟有虫吃|सबेरैै उठे तीन पैैसाकोो फाइददा (उखान)|zhocr
+ 3課| 69|まとめる||to summarize|总结|संकलित पार््ननु|official
+ 3課| 70|楽しむ|たの|to enjoy|享受|रमाइलोो गर््ननु|official
+ 3課| 71|公民館|こうみんかん|community center|文化馆|सार््वजनिक भवन|official
+ 3課| 72|太鼓|たいこ|(Japanese) drum|日本鼓，太鼓|जापानी ढोोलक|official
+ 3課| 73|せっかく||since (I) made such an|特意，煞费苦心|आखिर/मौकामा|zhocr
+ 3課| 74|だったら||in that case|因为，正因如此|त्यसोो होो भने त|zhocr
+ 3課| 75|実際に|じっさい|actually|实际上|वास्तवममा|official
+ 3課| 76|悪いけど|わる|sorry but,|虽然不好..但是|ददु:ख दिन्छुन्छु कि|official
+ 3課| 77|グラス||glass|玻璃||official
+ 3課| 78|かける（声をかける）|こえ|to address (talk to) someone|表示动作进行了一点；(跟别人打招呼)|बोोलाउनु/कुरा गर््ननु|zhocr
+ 3課| 79|詳しい|くわ|detailed|详细的|विस्ृत|official
+ 4課|  1|公共|こうきょう|public|公共|सार््वजनिक|official
+ 4課|  2|損（な）|そん|(a) waste|损坏|बेफाइददा|official
+ 4課|  3|定期的（な）|ていきてき|regular|定期的|नियमित रूपमा|official
+ 4課|  4|上映-する|じょうえい|to show (a film)|放映|(चलचित्रकोो) प्रदर््शन गर््ननु|official
+ 4課|  5|ミニ||mini|小型的|सानोो|official
+ 4課|  6|絵画|かいが|painting|绘画|चित्र|official
+ 4課|  7|スペース||space|空间|खुला ठाउँ|official
+ 4課|  8|格安（な）|かくやす|cheap, reasonable|廉价|सस्तोो|official
+ 4課|  9|仲間|なかま|(group of) friends|朋友|मित्र|official
+ 4課| 10|さらに||furthermore|并且，还|त्यस बाहेक अझ|official
+ 4課| 11|手軽（な）|てがる|easy, casual, offhand|简便的|सजिलोो|added
+ 4課| 12|工夫-する|くふう|to be creative|想办法|कसरी राम्रोो हुन्छ भनी मिहेनत गर््ननु|official
+ 4課| 13|タイムスリップ-する||to be transported back|时空穿越|टाइम स्लिप गर््ननु|zhocr
+ 4課| 14|科学|かがく|science|理科|विज्ान शास्त्र|official
+ 4課| 15|知識|ちしき|knowledge|知识|ज्ान|official
+ 4課| 16|増やす|ふ|to increase|增高，增长|बढाउनु|official
+ 4課| 17|芸術|げいじゅつ|art|艺术|कला|official
+ 4課| 18|鑑賞-する|かんしょう|to appreciate|评价，评估|(सिनेमा आदि) हेर््ननु/सुन्नु/रसस्वाददन गर््ननु|official
+ 4課| 19|マニア||enthusiast|狂躁|सौखिन|official
+ 4課| 20|喜ぶ|よろこ|to be pleased|喜悦|खुशी हुनु|official
+ 4課| 21|職員|しょくいん|member of staff|职员|कर््मचारी|official
+ 4課| 22|管理人|かんりにん|concierge, (building) manager|管理员|निरिक्षक|zhocr
+ 4課| 23|解決-する|かいけつ|to solve, to resolve|解决|समस्ा समाधान गर््ननु|zhocr
+ 4課| 24|音声|おんせい|audio|声音||official
+ 4課| 25|～号室（203号室）|ごうしつごうしつ|apartment numbers|～号房间（203号房间）|～कोोठा (कोोठा २०३)|added
+ 4課| 26|ゆうべ||last night|昨夜|गएराति|official
+ 4課| 27|できたら||if possible|如果可以|यदि सकेमा|official
+ 4課| 28|伺う|うかが|to ask|请教，拜访|भेट्न आउनु|official
+ 4課| 29|通路|つうろ|corridor, hallway|过道|बाटोो/बरन्ा|official
+ 4課| 30|切れる（電気が切れる）|きでんきき|to go out (lights, electricity)|外出|जानु (बत्तीी जानु)|official
+ 4課| 31|取り換える|とか|to replace|代替|फेर््ननु|zhocr
+ 4課| 32|ようこそ||welcome|欢迎|स्ागतम्|official
+ 4課| 33|トレーニング-する||to train|训练|एक्सरसाइज गर््ननु|official
+ 4課| 34|在勤-する|ざいきん|to be working at (a company, etc.)|在职|कुनैै ठाउँमा कार््यरत हुनु|zhocr
+ 4課| 35|在学-する|ざいがく|to be attending (a school, etc.)|在校|विद्ार्थीकोो रूपमा अध्ययनरत हुनु|zhocr
+ 4課| 36|講習|こうしゅう|course|讲习，培训|लेक्चर|zhocr
+ 4課| 37|器具|きぐ|equipment|设备|यन्त्र सामान|official
+ 4課| 38|有無|うむ|with or without|有无，可否|छ छैैन|official
+ 4課| 39|指導-する|しどう|to instruct, to guide|指导|निर्देेशन गर््ननु|official
+ 4課| 40|通年|つうねん|all year round|常年|एक वर््षभरि|official
+ 4課| 41|ヨガ||yoga|瑜伽|योोग|official
+ 4課| 42|卓球|たっきゅう|table tennis|乒乓球|टेबुल टेनिस|official
+ 4課| 43|バレーボール||volleyball|排球|भलिबल|official
+ 4課| 44|各～（各20人）|かくかくひと|each (20 people each)|各个，分别|(प्रत्ेक २० जना) प्रत्ेक～|official
+ 4課| 45|シューズ||shoes|鞋|जुत्ताा|zhocr
+ 4課| 46|持参-する|じさん|to bring something (with you)|带上|लिएर आउनु|official
+ 4課| 47|年齢|ねんれい|age|年龄|उमेर|zhocr
+ 4課| 48|性別|せいべつ|gender|性别|लिङ्ग|official
+ 4課| 49|返事-する|へんじ|to reply|回复|जवाफ दिनु|official
+ 4課| 50|解説-する|かいせつ|explanation|解释|बयान गर््ननु|official
+ 4課| 51|なるほど||I see|原来如此|ए, होो र|official
+ 4課| 52|納得-する|なっとく|to be won over, satisfied|理解，领会|चित्त बुझ्ु|zhocr
+ 4課| 53|事前に|じぜん|in advance|预先，事先|पहिले नैै|official
+ 4課| 54|回る（施設を回る）|まわしせつまわ|to go around [here: to tour a facility]|转（参观设施）|वरिपरि घुम्ु (संस्ा वरिपरि घुम्ु)|added
+ 4課| 55|専門家|せんもんか|expert|专家|विशेषज्ञ|official
+ 4課| 56|和紙|わし|Japanese paper|日本纸|जापानी कागज|official
+ 4課| 57|織物|おりもの|textiles|织物|तान बुनेकोो कपडा|official
+ 4課| 58|身近（な）|みぢか|nearby, close|熟悉|आफ्ननो वरिपरि|official
+ 4課| 59|市町村|しちょうそん|cities, towns and villages|市镇村|स्ानीय प्रशासन|zhocr
+ 4課| 60|貸し出し|かだ|lending out|借贷|सापटमा दिने काम|zhocr
+ 4課| 61|本人|ほんにん|the person in question|本人|कुनैै व्यक्ति स्वयम्|zhocr
+ 4課| 62|例えば|たと|for example|比如|उददाहरणकोो लागि|zhocr
+ 4課| 63|自宅|じたく|home|自己的住宅家里|आफ्ननो घर|official
+ 4課| 64|郵便物|ゆうびんぶつ|mail (postal)|邮寄物|हुलाकि सामान|official
+ 4課| 65|かまわない||it doesn’t matter|没关系|नराम्रोो नमान्ने|official
+ 4課| 66|日当たり|ひあ|exposure to the sun|向阳|घाम लाग्े|official
+ 4課| 67|～者（経験者）|しゃけいけんしゃ|(experienced) person|～者，～人（消费者）|～व्यक्ति (अनुभवी व्यक्ति )|zhocr
+ 4課| 68|施設|しせつ|facility|设施|भवन|official
+ 4課| 69|特徴|とくちょう|feature(s)|特征|विशेषता|official
+ 4課| 70|ロビー||lobby|大堂|लबी|official
+ 4課| 71|寄る|よ|to drop in|靠近，聚集|तर््फ नजिक हुनु|official
+ 4課| 72|ソファ||sofa|沙发|सोफा|official
+ 4課| 73|眺める|なが|to gaze at, to watch, to view|远眺，眺望|हेर््ननु|zhocr
+ 4課| 74|ギャラリー||gallery|画廊|कला संग्रहालय|official
+ 4課| 75|展示-する|てんじ|to exhibit|展览||zhocr
+ 4課| 76|気軽（な）|きがる|easy|轻松，愉快，偶然|निश्चिन्त|official
+ 4課| 77|偶然|ぐうぜん|suddenly, by chance|偶然|संयोोगवश|official
+ 4課| 78|急用|きゅうよう|emergency|急用|आकस्मिक काम|official
+ 4課| 79|ずっと（ずっと聞いている）|き|continuously, much|一直（一直在听）|लगातार (लगातार सुनिँदैदै छ)|added
+ 4課| 80|使用-する|しよう|to use, to utilize|使用|चलाउनु/प्रयोोग गर््ननु|zhocr
+ 4課| 81|進む（100メートルぐら）|すす|to advance (100 meters), to move|前进（100米左右…）|राम्रोो होो भनि सल्ाह दिनु/ सिफारिस गर््ननु|added
+ 4課| 82|い進む）|すす|meters), to move forward, to progress|…前进）|अगाडि बढ्नु)|added
+ 4課| 83|先|さき|(up) ahead|以前|अगाडि|official
+ 4課| 84|灰色|はいいろ|grey|灰色|खैैरोो रङ्ग|official
+ 4課| 85|斜め|なな|diagonally|倾斜|ढल्केकोो|official
+ 4課| 86|正面|しょうめん|front|正面|अग्रभाग|official
+ 4課| 87|方針|ほうしん|policy|政策|नीतिनियम|zhocr
+ 4課| 88|進める|すす|to proceed|前进，进步|अगाडि बढाउनु|zhocr
+ 5課|  1|国土|こくど|country, (national) territory|国土|राष्टट्र्रकोो भू-भाग|zhocr
+ 5課|  2|陸地|りくち|land|陆地|जमिन|official
+ 5課|  3|たった||only|只，仅仅|केवल|official
+ 5課|  4|起きる（地震が起きる）|おじしんお|to happen (an earthquake happens)|发生，发作|हुन पुग्ु (भूकम्प आउन पुग्ु)|official
+ 5課|  5|～割（２割）|わりわり|percent (20%)|～成， 2成|～१०प्रतिशत (२० प्रतिशत)|official
+ 5課|  6|起こる（地震が起こる）|おじしんお|to happen (an earthquake happens)|发生，发作|हुन पुग्ु (भूकम्प आउन पुग्ु)|official
+ 5課|  7|人間|にんげん|human|人类|मानव|official
+ 5課|  8|力|ちから|strength, power|力量|शक्ति|official
+ 5課|  9|被害|ひがい|damage|被害，被破坏|क्षति|official
+ 5課| 10|非常|ひじょう|emergency|急用|संकटकाल|official
+ 5課| 11|持ち出す|もだ|to take out|带出去，拿出去|बाहिर लिएर जानु|official
+ 5課| 12|震災|しんさい|earthquake disaster|震灾|भूकम्पिय प्रकोोप|official
+ 5課| 13|被災-する|ひさい|to be a victim (of a disaster)|受灾|क्षतिग्रस्त हुनु|zhocr
+ 5課| 14|十分（な）|じゅうふん|adequately|十分，充分|पर्यााप्त|zhocr
+ 5課| 15|受け入れる|うい|to accommodate|接纳，接受|स्ीकार गर््ननु|official
+ 5課| 16|全国|ぜんこく|nationwide, all over the country|全国|राष्टट्रभर|zhocr
+ 5課| 17|仮設-する|かせつ|facilities (during a|临时搭建|परिकल्पना गर््ननु, अस्थायी निर्माण, अस्थायी स्ापना|added
+ 5課| 18|テント||tent|帐篷|पाल|added
+ 5課| 19|防火|ぼうか|fire prevention|防火|अग्नि नियन्त्र ण|official
+ 5課| 20|電灯|でんとう|electric light|电灯|बिजुली बत्तीी|official
+ 5課| 21|太陽光|たいようこう|Sunlight|太阳光|सुर््य|official
+ 5課| 22|発電-する|はつでん|to generate power|发电|बिजुली उत्पाददन गर््ननु|official
+ 5課| 23|停電-する|ていでん|to lose power, to have a power cut|停电|बत्तीी जानु|zhocr
+ 5課| 24|示す|しめ|to show|出现，显现|ददेखाउनु|official
+ 5課| 25|目印|めじるし|mark, sign|印记|चिन्ह/संकेत|official
+ 5課| 26|備えあれば憂いなし|そなうれ|be prepared and have no regrets|有备无患|तयारी गरेमा संकट ददुर|zhocr
+ 5課| 27|緊急|きんきゅう|emergency|急用|आकस्मिक|official
+ 5課| 28|事態|じたい|(usually with a|事态|अवस्ा|added
+ 5課| 29|ラジオ||radio|收音机|रेडियोो|zhocr
+ 5課| 30|速報|そくほう|news flash|速报|आकस्मिक समाचार|official
+ 5課| 31|ただ今|いま|right now, just now|现在|अहिले भर््खर|official
+ 5課| 32|震度|しんど|seismic intensity|(地震)震级|भूकम्पकोो कम्पन मात्रा|official
+ 5課| 33|～弱（震度５弱）|じゃくしんどじゃく|lower (seismic intensity 5-lower)|～弱(强度)，(震度为弱5级)|～भन्दान्दा केही कम (कम्पन मात्रा ५भन्दान्दा केही कम)|zhocr
+ 5課| 34|念のため|ねん|just in case|以防万一|केही पर््ननु अगाडि नैै|official
+ 5課| 35|津波|つなみ|tsunami, tidal wave|海啸|सुनामी|official
+ 5課| 36|警戒-する|けいかい|to be careful of|警戒，警惕|सचेत रहनु|official
+ 5課| 37|身|み|self|自身|शरीर|official
+ 5課| 38|確保-する|かくほ|to ensure|确保|प्रवन्ध गरिराख्ु|official
+ 5課| 39|先ほど|さき|a little while ago|之前|केही बेर अगाडि|official
+ 5課| 40|震源|しんげん|epicenter|震源|भूकम्पकोो केन्द्र|official
+ 5課| 41|沖|おき|open sea|海上，洋面|जमिन ददेखि पर समुन्द|official
+ 5課| 42|深さ|ふか|depth|深度|गहिराइ|official
+ 5課| 43|マグニチュード||magnitude|震级（地震）|म्ागनिच्युड|official
+ 5課| 44|記録-する|きろく|to register (on the Richter scale)|注册|रेकर््ड राख्ु|official
+ 5課| 45|余震|よしん|aftershock|余震|उप कम्पन|zhocr
+ 5課| 46|接近-する|せっきん|to approach|接近|नजिक हुँदैदै आउनु|official
+ 5課| 47|欠航-する|けっこう|to cancel (flight)|航班取消|(विमान वा पानी जहाज) रद्द गरिनु|official
+ 5課| 48|影響-する|えいきょう|to affect|影响|असर पर््ननु|official
+ 5課| 49|消防署|しょうぼうしょ|fire department|消防局|अग्नि नियन्त्र ण केन्द्र|official
+ 5課| 50|注意事項|ちゅういじこう|important points, points to note|注意事项|ध्यान दिनु पर्ने कुरा|zhocr
+ 5課| 51|プリント||hand-out|分发|पर्चाा/छाप|zhocr
+ 5課| 52|慌てる|あわ|to panic|慌张|हडबडाउनु|official
+ 5課| 53|日ごろ|ひ|daily|白天|सामान्य समय, प्रायजसोो|official
+ 5課| 54|いざというとき||in a crisis|危及时期|चाहिने बेला|official
+ 5課| 55|指示-する|しじ|to instruct|指示|निर्देेशन गर््ननु|official
+ 5課| 56|決して|けっ|never|绝不||official
+ 5課| 57|煙|けむり|smoke|烟|धुवाँ|official
+ 5課| 58|覆う|おお|to cover|覆盖|ढाक्ु/ओगट्नु|official
+ 5課| 59|ひじ||elbow|肘部|कुइनोो|official
+ 5課| 60|つく（ひじをつく）||to place one’s elbows|放，(把胳膊放在~上)|अड्ाउनु (कुइनोो अड्ाउनु)|zhocr
+ 5課| 61|組む|く|to cross (legs, arms, etc.)|交叉|मिल्नु/मिलाउनु|zhocr
+ 5課| 62|～時（避難時）|じひなんじ|the event of|～时（避难时）|～समय (निकासीकोो समय)|added
+ 5課| 63|防災|ぼうさい|disaster prevention|灾害|दैदैवी प्रकोोप नियन्त्र ण|official
+ 5課| 64|災害|さいがい|disaster|复兴|दैदैवी प्रकोोप|official
+ 5課| 65|遭う|あ|to encounter|碰上，遇见|आइलाग्ु|official
+ 5課| 66|急病|きゅうびょう|sudden illness|急病，快速的疾病|अकस् ात हुने बिरामी|official
+ 5課| 67|ハイキング-する||to hike|郊游|हाइकिङ गर््ननु|official
+ 5課| 68|斜面|しゃめん|slope|斜面|भिरालोो|official
+ 5課| 69|滑り落ちる|すべお|to slide|滑落，滑倒|चिप्ेर खस्ु|official
+ 5課| 70|雨上がり|あめあ|after rain|雨后|वर्षाा थामिए पछि|official
+ 5課| 71|飛ばす|と|to fly/blow (away)|飞走|उडाउनु|official
+ 5課| 72|崩す|くず|to give way|崩溃|बिगार््ननु/नष्ट गर््ननु|official
+ 5課| 73|擦りむく|す|to graze|擦破，蹭破|छाला खुइल्याउनु|official
+ 5課| 74|擦る|こす|to scrape, to scratch, to rub|擦，蹭|रगड्नु|added
+ 5課| 75|血|ち|blood|血|रगत|official
+ 5課| 76|うずくまる||to crouch|蹲着|थ्ाच्च बस्ु|official
+ 5課| 77|全身|ぜんしん|whole body|全身|सम्पूर््णशरीर|official
+ 5課| 78|泥|どろ|mud|泥泞|हिलोो|official
+ 5課| 79|無事（な）|ぶじ|safely|平安的，无事的|सकुशल|official
+ 5課| 80|元|もと|original|原来|पहिलेकोो|official
+ 5課| 81|張る|は|to pitch (a tent)|扩张|(टेन्ट) स्ापना|official
+ 5課| 82|数～（数日）|すうすうじつ|several (several days)|几～（几天）|(केही दिन) केही～|zhocr
+ 5課| 83|そこで||there|那里|तसर््थ/त्यहाँ|zhocr
+ 5課| 84|送る（避難生活を送る）|おくひなんせいかつおく|to live (to live in an evacuation shelter)|生活|बिताउनु (दैदैवी प्रकोोप पीडितकोो रूपमा दिन बिताउनु)|official
+ 5課| 85|設備|せつび|facilities|设备|सुविधा साधन|official
+ 5課| 86|普段|ふだん|everyday|普通，普遍|सधैैंजसोो|official
+ 5課| 87|別|べつ|different|不同|अर्कोो/फरक|official
+ 5課| 88|役割|やくわり|role|作用|भूमिका|official
+ 5課| 89|マンホール||manhole|检修孔|मेनहोोल (सडक रहेकोो ढलकोो|official
+ 5課| 90|ふた||cover|盖子|बिर्कोो|official
+ 5課| 91|簡易|かんい|easy, simple|简易|सरल|added
+ 5課| 92|便器|べんき|urinal, toilet bowl|简易厕所|शौचालय|ensub
+ 5課| 93|載せる|の|to put on|承载|राख्ु|official
+ 5課| 94|下水道|げすいどう|sewer|下水道|ढल|official
+ 5課| 95|処理-する|しょり|to treat, to process|处理|निष्ासन गर््ननु|official
+ 5課| 96|べンチ||bench|长凳|बेन्च|official
+ 5課| 97|かまど||oven|炉子|चुल्होो|official
+ 5課| 98|貯水槽|ちょすいそう|water tank|蓄水槽|पानीट्याङकीी|official
+ 5課| 99|ポンプ||pump|泵|पम्प|official
+ 5課|100|くみ上げる|あ|to pump|堆起来|(पानी) निकाल्नु|official
+ 5課|101|くむ||to draw (water), to|汲取（水）|खन्याउनु, पानी सार््ननु, पम्प गर््ननु|added
+ 5課|102|火災|かさい|fire|火灾|आगलागी|official
+ 5課|103|発生-する|はっせい|to occur|发生|उत्पन्नहुनु|official
+ 5課|104|呼びかける|よ|to appeal to|呼唤|बोोलाउनु|official
+ 5課|105|固定-する|こてい|to fix, to secure|固定|अड्ाएर राख्ु|official
+ 5課|106|雷雨|らいう|thunderstorm|雷雨|बिजुली र वर्षाा|official
+ 5課|107|状況|じょうきょう|circumstances|状况，情况|अवस्ा|official
+ 5課|108|捻挫-する|ねんざ|to sprain, to twist|扭伤|मर््ककिनु|added
+ 5課|109|よろしいでしょうか||would it be all right?|可以吗？|ठीक भयोो होोला कि?|zhocr
+ 5課|110|レポート||report|报告|रिपोर््ट|zhocr
+ 5課|111|変更-する|へんこう|to change|变更，改变|बददल्नु|official
+ 5課|112|人身事故|じんしんじこ|accident between a vehicle and a person|人身事故|मान्छेघायलहुने ददुर््घटना|zhocr
+ 5課|113|帰省-する|きせい|to return to one’s home (town/country)|短期回国|घर फर््कनु|ensub
+ 5課|114|休暇|きゅうか|leave, time off|休假|बिददा/छुट्टि|official
+ 5課|115|幸せ（な）|しあわ|happiness|幸福的|सुख|official
+ 5課|116|心|こころ|heart|心，心脏|मन/हृदय, मुटु|official
+ 5課|117|状態|じょうたい|situation|状态|स्थिति|official
+ 5課|118|イラスト||illustration|说明|चित्र|official
+ 5課|119|横断歩道|おうだんほどう|pedestrian crossing|人行道|जेब्ा क्रसिङ|official
+ 5課|120|患者|かんじゃ|patient|患者，病患|बिरामी|official
+ 5課|121|手首|てくび|wrist|手腕|नाडि|official
+ 5課|122|ひねる||to twist|拧|बटार््ननु|official
+ 5課|123|道路|どうろ|road|道路|सडक/बाटोो|official
+ 5課|124|たつ（時間がたつ）|じかん|to pass (time passes)|超过时间了滴滴答答的，|बित्ु (समय बित्ु)|official
+ 5課|125|足首|あしくび|ankle|脚踝|गोोलीगाँठोो वरिपरिकोो भाग|official
+ 5課|126|痛める|いた|to hurt|伤害|ददुख्ु/चोोट लाग्ु|official
+ 5課|127|診る|み|to examine (medical)|诊断|(बिरामीलाई) हेर््ननु|official
+ 5課|128|不思議（な）|ふしぎ|strange|不可思议，奇怪|अचम्म लाग्दोो|zhocr
+ 5課|129|社会|しゃかい|society, the public, the wider community|社会|समाज|zhocr
+ 5課|130|変化-する|へんか|to change|变更，改变|परिवर््तन हुनु|official
+ 5課|131|人|ひとびと|people|人们，每个人|मानिसहरू|official
+ 5課|132|避難-する|ひなん|to evacuate|避难|सुरक्षित ठाउँमा भाग्ु|official
+ 5課|133|飛び込む|とこ|to jump into|跳进|हाम फालेर जानु|official
+ 5課|134|傷|きず|scratch|伤口|घाउ|official
+ 5課|135|倉庫|そうこ|warehouse|仓库|भण्डाण्डार|official
+ 5課|136|ほこり||dust|灰尘|धूलोो|official
+ 5課|137|しわ||wrinkle, crease|皱纹|चाउरीपना|added
+ 6課|  1|快適（な）|かいてき|comfortably|舒服|आरामददायक|official
+ 6課|  2|梅雨|つゆ|rainy season|梅雨|वर्षाा याम|official
+ 6課|  3|焼ける|や|to burn|烧伤|पोलिनु|official
+ 6課|  4|太陽|たいよう|the sun|太阳|सुर््य|official
+ 6課|  5|今でこそ|いま|nowadays|现在|अहिले पोो|official
+ 6課|  6|普及-する|ふきゅう|to be widespread|普及|जहितहि पुग्ु|official
+ 6課|  7|しのぐ||to weather out|忍耐，冒着，克服|जसोोतसोो टार््ननु|official
+ 6課|  8|つるす||to hang, to suspend|吊，悬挂|झुण्डाउनु|official
+ 6課|  9|チリンチリン||tinkle|清脆金属的声音|टिन टिन|official
+ 6課| 10|魔除け|まよ|talisman (to ward off evil spirits)|护符，辟邪|जन्तर|zhocr
+ 6課| 11|なぜか||for some reason,|不知为何|किन होोला|added
+ 6課| 12|打ち水|うみず|sprinkling water|洒水|धूलोो नउडोोस् भनेर छ्यापिने पानी|zhocr
+ 6課| 13|地面|じめん|the ground|地面|भुइँ|official
+ 6課| 14|まく||to sprinkle|洒水|छ्ाप्े|official
+ 6課| 15|光景|こうけい|sight, scene|景象|दृश्य|official
+ 6課| 16|蒸発-する|じょうはつ|to evaporate|蒸发|वाष्ीकरण हुनु|official
+ 6課| 17|奪う|うば|to take away|抢夺，吸引|खोोस्ु|official
+ 6課| 18|近年|きんねん|in recent years|最近几年|हालका वर््षहरू|official
+ 6課| 19|地形|ちけい|terrain|地形|जमिनकोो आकार|official
+ 6課| 20|温帯|おんたい|temperate zone|温带|समशीतोोष्ण क्ेत्र|official
+ 6課| 21|位置-する|いち|to be located|位于|～मा अवस्थित रहनु|official
+ 6課| 22|蒸し暑い|むあつ|humid|闷热|बाफिलोो गर्मीी|official
+ 6課| 23|～側（太平洋側）|がわたいへいようがわ|side (pacific ocean side)|侧，旁边|～पट्टि (प्रशान्त महासागरपट्टि)|zhocr
+ 6課| 24|ペンション||boarding house|简易旅馆|बङ्गला, लज|zhocr
+ 6課| 25|割合|わりあい|ratio|比例|अनुपात|official
+ 6課| 26|例年|れいねん|average year|普通的年|हरेक वर््ष|official
+ 6課| 27|連なる|つら|to extend, to stretch|连接，关联|शृंखलाबद्ध हुनु|official
+ 6課| 28|面する|めん|to face, to look out on to, to border|面向，面对||added
+ 6課| 29|恵まれる|めぐ|to be rich in|赋予，富有|सम्पन्न हुनु|official
+ 6課| 30|美しい|うつく|beautiful|美丽|सुन्दर|official
+ 6課| 31|平野|へいや|plain|平原|सम्म मैददानी भू-भाग|official
+ 6課| 32|庭|にわ|garden|庭院|बगैैचा|official
+ 6課| 33|名園|めいえん|great gardens|著名庭院|प्रशिद्ध बगैैचा|official
+ 6課| 34|石垣|いしがき|stone wall|石墙|ढुङ्गाकोो पर्खााल|official
+ 6課| 35|軒|のき|eaves|屋檐|छाना मुनिकोो भाग|official
+ 6課| 36|瓦|かわら|roof tile|瓦砾|झिंगटी|official
+ 6課| 37|塀|へい|wall|围墙|पर्खााल|official
+ 6課| 38|石|いし|stone|石头|ढुङ्गा|official
+ 6課| 39|ふるさと||hometown|家乡|जन्ेकोो ठाउँ|official
+ 6課| 40|合わせる|あ|to adjust, to be suited to|合并，混合|मिलाउनु|zhocr
+ 6課| 41|日差し|ひざ|sunlight|太阳光|घाम/घामकोो किरण|official
+ 6課| 42|しっくい||plaster|灰浆，砂浆|सिक्कुक्कुइ (सिमेन्ट प्लास्टर)|official
+ 6課| 43|セメント||cement|水泥|सिमेन्ट|official
+ 6課| 44|固める|かた|to secure|凝固|जमाउनु/कडा बनाउनु|official
+ 6課| 45|鉄筋|てっきん|rebar (iron reinforcing bar)|钢筋|फलामे छड|zhocr
+ 6課| 46|コンクリート||concrete|混凝土|सिमेन्टकोो|zhocr
+ 6課| 47|気象|きしょう|weather|天气|जलवायु/मौसम|official
+ 6課| 48|小論文|しょうろんぶん|short essay|小论文|सानोो लेख|official
+ 6課| 49|畳|たたみ|tatami (straw floor mats)|榻榻米|तातमी (जापानी सुकुल)|zhocr
+ 6課| 50|頑固（な）|がんこ|stubborn|顽固|कट्टर|official
+ 6課| 51|職人|しょくにん|artisan|手艺人，工匠|सिप कर्मीी|official
+ 6課| 52|あり続ける|つづ|to remain, to continue to be|一直存在，持续|रहिरहनु|added
+ 6課| 53|地方|ちほう|region|关东地区|मोफसल|official
+ 6課| 54|名産|めいさん|famous local specialty|名产|प्रसिद्ध स्ानीय विशेषता, परिचित उत्पाददन|added
+ 6課| 55|海洋|かいよう|ocean|海洋|समुन्द्र सम्बन्धी|official
+ 6課| 56|生物|せいぶつ|creature|生物|जीवजन्ु/जिवीत प्ाणी|official
+ 6課| 57|化石|かせき|fossil|化石|जीवाश्म|official
+ 6課| 58|辺り|あた|area|附近，大约|तिर/वरिपरि|official
+ 6課| 59|最大|さいだい|the biggest, the maximum, the most|最大|अधिकतम|added
+ 6課| 60|町人|ちょうにん|townspeople, merchant|町人，商人|शहरवासी|added
+ 6課| 61|産業|さんぎょう|industry|产业|उद्योोग|official
+ 6課| 62|盛ん（な）|さか|thriving|旺盛|फल््नुफूल्नु|official
+ 6課| 63|生産-する|せいさん|to produce|生产|उत्पाददन गर््ननु|official
+ 6課| 64|天下の台所（大阪の別名）|てんかだいどころおおさかべつめい|The Nation’s Kitchen (a ） nickname for Osaka)|天下厨房（大阪的别名）||added
+ 6課| 65|企業|きぎょう|company|企业|कारखाना|official
+ 6課| 66|工業|こうぎょう|industry|产业|उद्योोग|official
+ 6課| 67|発展する|はってん|to develop|发展|विकास गर््ननु|official
+ 6課| 68|訪れる|おとず|to visit|访问|आउनु/आइपर््ननु|official
+ 6課| 69|特産|とくさん|produced in a particular region|特产|विशेष स्ानीय उत्पाददन, स्ानीय विशेषता|zhocr
+ 6課| 70|～物（特産物）|ぶつとくさんぶつ|~ product (local specialty product)|商品|～बस्ु (विशेष बस्ु)|official
+ 6課| 71|空っ風|からかぜ|karakkaze (dry wind)|干风|काराकाजे (बेगले बहेकोो चिसोो सुख्ा हावा)|zhocr
+ 6課| 72|吹く|ふ|to blow|吹|बहनु|zhocr
+ 6課| 73|湿る|しめ|to be moist, humid|潮湿|ओसिनु|official
+ 6課| 74|越える|こ|to go/come over|越过，超越|पार गर््ननु|official
+ 6課| 75|北風|きたかぜ|northerly wind|北风|उत्तरी हावा|added
+ 6課| 76|風力|ふうりょく|wind power|风力|वायु शक्ति|official
+ 6課| 77|プロジェクト||project|事业|परियोोजना|official
+ 6課| 78|凧揚げ|たこあ|kite flying|放风筝|चङ्गा उडाउने|official
+ 6課| 79|凧|たこ|kite|风筝|चङ्गा|added
+ 6課| 80|揚げる|あ|to fly, to hoist|放，炒，炸|उडाउनु|official
+ 6課| 81|思い浮かべる|おもう|to think of|想起，忆起|कल्पनामा आउनु|official
+ 6課| 82|作戦|さくせん|grand plan|作战|योोजना/युद्ध नीति|official
+ 6課| 83|開催-する|かいさい|to hold|召开|आयोोजना गर््ननु|official
+ 6課| 84|～でも（少しでも）|すこ|even (a little), (any) at all|～也（哪怕一点点）|～भएपनि (अलिकति भएपनि)|added
+ 6課| 85|水道水|すいどうすい|tap water|自来水|धाराकोो पानी|official
+ 6課| 86|残り湯|のこゆ|leftover bathwater|剩余热水|बचेकोो तातोोपानी|official
+ 6課| 87|雨水|あまみず|rainwater|雨水|आकाशबाट परेकोो पानी|official
+ 6課| 88|気化熱|きかねつ|(amount of energy needed to transform a|气化热|वाष्ीकरणकोो ताप|added
+ 6課| 89|広げる|ひろ|to spread out|扩大，扩展|फैलाउनु|official
+ 6課| 90|平均|へいきん|average|平均|औसत|official
+ 6課| 91|降水量|こうすいりょう|amount of rainfall|降雨量|वर्षााकोो मात्रा|official
+ 6課| 92|気候|きこう|climate|气候|हावापानी|official
+ 6課| 93|コーナー||display (in museum,|角落|कुना/सेग्ेन्ट|official
+ 6課| 94|南北|なんぼく|north to south|南北|दक्षिण उत्तर|zhocr
+ 6課| 95|島|しま|island|岛|टापु|official
+ 6課| 96|山林|さんりん|mountains and forests|山林，山上的树林|बन जंगल|zhocr
+ 6課| 97|現金|げんきん|cash|现金|नगदद|official
+ 6課| 98|電子マネー|でんし|electronic money|电子货币|विद्यतिय मुद्ा|official
+ 6課| 99|体調|たいちょう|physical condition, health|身体状况|स्ास्थ्य अवस्ा|zhocr
+ 6課|100|何だか|なん|a little, somewhat|是什么|के भन्नेन्ने के…./खैै, के भोो|ensub
+ 6課|101|和菓子|わがし|Japanese sweets|日式点心|जापानी मिठाइ|official
+ 6課|102|港|みなと|port|港口|बन्दरगाह|official
+ 6課|103|～町（港町）|まちみなとまち|~ town (a port town)|～町（港口城镇）|～शहर (बन्दरगाह शहर)|added
+ 6課|104|栄える|さか|to thrive, to flourish|繁荣|फस्ाउनु|official
+ 6課|105|現在|げんざい|current|现在|वर््तमान|official
+ 6課|106|人口|じんこう|population|人口|जनसङ््ख् ा|official
+ 6課|107|都市|とし|city|城市||official
+ 6課|108|県庁|けんちょう|prefectural office|县政府|अञ्चल कार्याालय|official
+ 6課|109|周辺|しゅうへん|vicinity, surrounding area, outskirts|周边|छिमेक|added
+ 6課|110|地区|ちく|district|地区|क्ेत्र, प्रददेश|zhocr
+ 6課|111|商業|しょうぎょう|commerce|商业|व्यापार|official
+ 6課|112|にぎわう||to be crowded|热闹，繁荣|चहल पहल हुनु|official
+ 6課|113|～年代（1600年代）|ねんだいねんだい|era, century (in the 17th century)|年代|～कोो ददशक/शतक (१६००कोो शतक)|zhocr
+ 6課|114|～街（中華街）|まちちゅうかがい|quarter (Chinese quarter)|～街|～बजार (चाइनिज बजार)|zhocr
+ 6課|115|砂浜|すなはま|sandy beach|沙滩|बालुवाकोो समुन्द्री तट|official
+ 6課|116|付く（名前が付く）|つなまえつ|bear a name, to be|带着自信|अङ्कित गर््ननु (नामाङ्कित गर््ननु)|zhocr
+ 6課|117|村|むら|village|村|गाउँ|official
+ 6課|118|一説|いっせつ|one theory, one account|一种说法|एउटा सिद्धान्त|added
+ 6課|119|延びる|の|to extend|延长|लम्बिनु/बढ्नु|official
+ 6課|120|名付ける|なづ|to name|命名|नामाकरण गर््ननु|official
+ 6課|121|埋め立てる|うた|to reclaim (land)|填拓，填海|माटोोले पुरेर जमिनकोो निर्माण गर््ननु|official
+ 6課|122|埋める|う|to bury, to fill|埋，填|भर््ननु|added
+ 6課|123|浜|はま|beach|海滨|समुन्द्र वा नददीकोो तट|official
+ 6課|124|地名|ちめい|place name|地名|ठाउँकोो नाम|official
+ 6課|125|風景|ふうけい|scenery|风景|दृश्य|official
+ 6課|126|まとまる||to cohere|齐心|मिल्नु/समेटिनु|official
+ 7課|  1|～言葉（友達言葉）|ことばともだちことば|(casual speech, baby|～话（朋友间用语）|～भन्नेन्ने शब्दहरू (मित्रका भन्नेन्ने शब्दहरू)|added
+ 7課|  2|同年代|どうねんだい|the same generation|同年代，同年龄|एउटैै उमेर समूहकोो|official
+ 7課|  3|すると||when I did this|于是就，那么|अनि त्यस पछि त….|official
+ 7課|  4|返る|かえ|to come back|返回|फर््कनु|official
+ 7課|  5|タメ口|ぐち|peer language|哥们话|ददौतरीबीचकोो बोोली|official
+ 7課|  6|違和感|いわかん|uncomfortable feeling|违和感,不舒服的感觉|केही नमिलेकोो जस्तोो महसुस|zhocr
+ 7課|  7|共通-する|きょうつう|to share, to have in common|共通，通用|समानता हुनु|zhocr
+ 7課|  8|友人|ゆうじん|friend|朋友|साथी/मित्र|zhocr
+ 7課|  9|対等（な）|たいとう|equal|相同的|बराबर|official
+ 7課| 10|回答-する|かいとう|to reply|回复|जवाफ दिनु|official
+ 7課| 11|初対面|しょたいめん|first meeting|初次见面|पहिलोो भेट|official
+ 7課| 12|タイミング||timing|时机|समय अवस्ा|official
+ 7課| 13|話題|わだい|subject|话题，课题|कुराकानीकोो विषय|official
+ 7課| 14|分野|ぶんや|field|分野，领域|क्ेत्र|official
+ 7課| 15|より～（より親しく）|した|more ~, ~er (better acquainted, closer)|比较～（比较早）|(अझ नजिकबाट) अझ～|zhocr
+ 7課| 16|判断-する|はんだん|to judge|判断|निर््णय गर््ननु|official
+ 7課| 17|思い切って|おもき|to take the plunge and|下决心，大胆的|साहस गरेर|zhocr
+ 7課| 18|世代|せだい|generation|世世代代|पुस्ा|official
+ 7課| 19|チームプレー||team play|分组游戏|टिम प्े|official
+ 7課| 20|気がする|き|to get the feeling that ...|感觉到～|जस्तोो लाग्ु|zhocr
+ 7課| 21|掛け声|かごえ|call, shout|吆喝声|आवाज दिने/बोोलाउने|zhocr
+ 7課| 22|瞬間|しゅんかん|moment|瞬间|क्षण|official
+ 7課| 23|ハイタッチ-する||high five|击掌||official
+ 7課| 24|出会い|であ|encounter|见面，遇见|भेट|official
+ 7課| 25|出店-する|しゅってん|to set up a stall|开新店，分店|पसल खडा गर््ननु|official
+ 7課| 26|中古|ちゅうこ|used, second-hand|二手|पुरानोो, दोोस्रोो हाते|added
+ 7課| 27|介助犬|かいじょけん|service dog|导盲犬，工作犬|असक्तलाई सघाउने कुकुर|official
+ 7課| 28|育成-する|いくせい|to train|训练|तालिम दिई हुर्कााउनु|official
+ 7課| 29|寄付-する|きふ|to donate|捐赠|चन्दा दिनु|official
+ 7課| 30|～金（寄付金）|きんきふきん|money (donation)|～钱(捐赠钱)|～रकम (चन्दा रकम)|official
+ 7課| 31|受ける（誘いを受ける）|うさそう|to accept|接受|स्ीकार गर््ननु (निमन्त्र णा स्ीकार गर््ननु)|official
+ 7課| 32|売り上げ|うあ|sales|销售额|बिक्री|official
+ 7課| 33|一部|いちぶ|a part of|一部分|एक भाग|official
+ 7課| 34|たまたま||by chance,|偶然，碰巧|संयोोगवश|official
+ 7課| 35|今ごろ|いま|around this time|最近|अहिले यति बेला|official
+ 7課| 36|団体|だんたい|group|团体|संगठन/समूह|zhocr
+ 7課| 37|学園|がくえん|school|学园|विद्ालय|added
+ 7課| 38|～祭（学園祭）|さいがくえんさい|~ festival (school festival)|～节（学园祭）|～महोोत्सव (विद्ालय महोोत्सव)|added
+ 7課| 39|全て|すべ|all|全部|सम्पूर््ण|official
+ 7課| 40|苦しむ|くる|to suffer|受苦|पीडित हुनु/ददुखित हुनु/तडपिनु|official
+ 7課| 41|ミーティング-する||to have a meeting|开会，会议|मिटिङ्ग गर््ननु|official
+ 7課| 42|定年|ていねん|retirement age|退休年龄|तोोकिएकोो उमेर|official
+ 7課| 43|退職-する|たいしょく|to retire|退休，辞职|अवकाश प्ाप्त हुनु/राजिनाम दिनु|official
+ 7課| 44|ただ||just|仅仅，只有|यद्यपी/नि:शुल्क|official
+ 7課| 45|かみさん||(speaker’s) wife|妻子，老婆|स्ास्ी/बुढि|official
+ 7課| 46|うらやましい||jealous|羡慕|लोभ लाग्दोो/डाढ लाग्दोो|official
+ 7課| 47|人見知り-する|ひとみし|to be uncomfortable around strangers|(小孩)认生，怕生|नचिनेकोो मान्छेसग बोोलचाल गर््न मननपराउनु|zhocr
+ 7課| 48|ほう（人見知りするほう）|ひとみし|type (shy type)|类型|तर््फ (लजालु व्यक्ति तर््फ)|official
+ 7課| 49|超える|こ|to cross, to go beyond, to surpass|超过|पार गर््ननु|added
+ 7課| 50|～談（体験談）|だんたいけんだん|a talk, a recounting (of one’s experiences)|～谈（经验谈）|～कथा (अनुभव कथा)|added
+ 7課| 51|海岸|かいがん|coast|海岸|समुन्द्री तट|zhocr
+ 7課| 52|年代|ねんだい|generation, age|年代|उमेर समूह|official
+ 7課| 53|～分け（グループ分け）|わわ|division (division into groups)|分，区分；（分组）|～मा बाँड्ने (ग्रुपमा बाँड्ने)|zhocr
+ 7課| 54|年配|ねんぱい|older|相当大的年龄|उमेर पुगेकोो|official
+ 7課| 55|要る|い|to need|需要|आवश्यक पर््ननु|official
+ 7課| 56|～以外（勉強以外）|いがいべんきょういがい|other than (other than studying)|除外，除学习以外|～बाहेक (पढाइ बाहेक)|zhocr
+ 7課| 57|景気|けいき|the economy|经济活动状态|आर््थथिक स्थिति|official
+ 7課| 58|都心|としん|city centre|市中心|शहरी केन्द्र|official
+ 7課| 59|努力-する|どりょく|to make an effort|努力|मिहेनत गर््ननु|official
+ 7課| 60|当然（な）|とうぜん|reasonable, natural|当然，应当|स्वाभाविक|official
+ 7課| 61|無駄遣い-する|むだづか|to waste, to squander|浪费|फाजुल खर््च गर््ननु|zhocr
+ 7課| 62|貯まる|た|to be saved up (money)|积攒，存起来|बचत गर््ननु|added
+ 7課| 63|ブログ||blog|网络日记，博客|ब्लग|official
+ 7課| 64|フットサル||futsal (indoor football)|室内足球|फुटसाल (लात्तिद्ारा खेलिने एक|zhocr
+ 7課| 65|メンバー||member|队员|सदस्य|official
+ 7課| 66|数|かず|number|数|सङ््ख् ा|official
+ 7課| 67|意外（な）|いがい|unexpected|意外,未预料的事|सोोचेकोभन्दान्दा फरक|official
+ 7課| 68|～代（40代）|だいだい|generation/decade (40s)|～年代(40年代)|(ठूलोो बिक्री) ठूलोो～|official
+ 7課| 69|シュート-する||to shoot|发射|सुट गर््ननु|zhocr
+ 7課| 70|な（頑張ろうな）|がんば|huh? (We should try hard, huh?)|语气词，啊～！（加油啊！）|ल! (मिहेनत गरौं ल!)|zhocr
+ 7課| 71|君|きみ|you|你|तिमी|official
+ 7課| 72|いつか||sometime, someday|什么时候|कुनैै दिन|zhocr
+ 7課| 73|月日|つきひ|time passes|月亮和太阳；时光|दिन रात/समय|official
+ 7課| 74|夢中（な）|むちゅう|to be engrossed|梦中；热衷|एकचित्त|official
+ 7課| 75|迎える|むか|to welcome|欢迎|स्ागत गर््ननु|official
+ 7課| 76|感動-する|かんどう|to be impressed, to be moved|感动|मन छुनु|zhocr
+ 7課| 77|畑|はたけ|field (for growing crops)|分野，领域|क्ेत्र|official
+ 7課| 78|若しい|わかわか|youthful|年轻的，有活力的|कलिलोो उमेर जस्तोो ददखिने/ जोोशिलोो|added
+ 7課| 79|持ち上げる|もあ|to lift (up)|向上提起|माथि उठाउनु|official
+ 7課| 80|トラック||truck|卡车|ट््रक|official
+ 7課| 81|孫|まご|grandchild|孙子，子孙|नाति|official
+ 7課| 82|気象庁|きしょうちょう|meteorological agency|气象厅|जलवायुविभाग|zhocr
+ 7課| 83|暖冬|だんとう|mild winter|暖冬，温暖的冬天|न्यानोो हिउँदद|zhocr
+ 7課| 84|期待-する|きたい|to expect|期待，期望|आश गर््ननु|official
+ 7課| 85|親孝行-する|おやこうこう|to be a good son/ daughter|成为孝子|बाबुआमाकोो सेवा गर््ननु|zhocr
+ 7課| 86|タイトル||title|标题|शीर््षक|official
+ 7課| 87|立派（な）|りっぱ|splendid, elegant|优雅的，气宇轩昂的|प्रशंसनीय|official
+ 7課| 88|述べる|の|to state|叙述，陈述|व्यक्त गर््ननु|zhocr
+ 8課|  1|うち（そのうち）||within (within a short|～之内（过一阵子）|तिर (त्यतातिर)|added
+ 8課|  2|包装-する|ほうそう|to wrap|包装|प्ाकिङ गर््ननु|official
+ 8課|  3|仕方|しかた|method, way|做法，办法|गर्ने उपाय|official
+ 8課|  4|任せる|まか|to leave it up to (someone else)|委托，交付|जिम् ा लगाउनु|official
+ 8課|  5|包装紙|ほうそうし|wrapping paper|包装纸|प्ाकिङ पेपर|official
+ 8課|  6|リボン||ribbon|丝带|रिबन|official
+ 8課|  7|かける（リボンをかける）||to put on (to put on a|挂，系|लगाउनु, बाध्नु (रिबन लगाउनु, बाध्नु)|zhocr
+ 8課|  8|ラッピング-する||to wrap|包装|र्‍यापिङ गर््ननु|official
+ 8課|  9|グッズ||goods|商品|सर-सामान|official
+ 8課| 10|貴族|きぞく|aristocrat|贵族|साभ्रान्त परिवार|official
+ 8課| 11|さらす||to immerse|晒，暴晒|लगाउनु|official
+ 8課| 12|当時|とうじ|of the time, at that time|当时|त्योो बेला|zhocr
+ 8課| 13|高価（な）|こうか|highly-priced|高价格，昂贵|बहुमूल्य|zhocr
+ 8課| 14|表れ|あらわ|expression|表现，显出|अभिव्यक्ति|official
+ 8課| 15|破る|やぶ|to rip|撕破，损坏|च्ात्ु|official
+ 8課| 16|ブックカバー||book cover|封皮|किताबकोो आवरण|official
+ 8課| 17|あるいは||or|或者|अथवा|official
+ 8課| 18|含める|ふく|to be included|包含|समेट्नु|official
+ 8課| 19|ぐっと||considerably|使劲，更加|गहिरोो संगसँग मन छुने|official
+ 8課| 20|～センチ（18センチ）||cm (18cm)|厘米|～सेन्टिम ीटर (१८ सेन्टिम ीटर)|official
+ 8課| 21|細長い|ほそなが|long and thin|细长的|लाम््चचोो|official
+ 8課| 22|便箋|びんせん|writing paper|信笺|पत्र लेखने कागज|official
+ 8課| 23|堅い（堅い挨拶）|かたかたあいさつ|rigid, stiff, formal (greeting)|郑重（郑重问候）|कडा (कडा अभिवाददन)|added
+ 8課| 24|本題|ほんだい|main theme|整体，中心课题||official
+ 8課| 25|手書き|てが|handwritten|手写|हस्तलिखित|official
+ 8課| 26|贈り物|おくもの|present|礼物|पठाइने उपहार|official
+ 8課| 27|お世話になっています|せわ|Thank you for your (continued) support.|感谢你的关照|सधैै सहयोोग पाइरहेकोो छु|zhocr
+ 8課| 28|気が利く|きき|thoughtful|机灵，聪敏|ध्यान पुग्ु|zhocr
+ 8課| 29|機械|きかい|machine|机械|मेशिनरी सामान|official
+ 8課| 30|印刷-する|いんさつ|to print|印刷|छपाउनु|official
+ 8課| 31|済ませる|す|to get something done with, over with|做完|सकाउनु|zhocr
+ 8課| 32|思い|おも|thoughts|想法，思考|सोोचाइ|added
+ 8課| 33|先日|せんじつ|the other day|前几天|केही दिन अगाडि|official
+ 8課| 34|近況|きんきょう|what you have been|近况|हाल खबर|zhocr
+ 8課| 35|お久しぶりです|ひさ|It’s been a long time.|好久不见|धेरैै दिनपछि भेट भयोो|zhocr
+ 8課| 36|相変わらず|あいか|as ever|依旧，照旧|पहिले जस्तैै|zhocr
+ 8課| 37|出産-する|しゅっさん|to give birth|分娩|सुत्ेरी हुनु|official
+ 8課| 38|ちょっとした||a little|稍微，有点|अलिकति सानोो|official
+ 8課| 39|一言|ひとこと|a note|一句话|एउटा कुरा|official
+ 8課| 40|添える|そ|to include, to attach|附加，伴随|सँगैै जोड्नु|official
+ 8課| 41|気に入る|きい|to like|称心，如意|मन पर््ननु|official
+ 8課| 42|愚痴|ぐち|complaint|牢骚，抱怨|गुनासोो|official
+ 8課| 43|ラストオーダー||last orders|最后点单|अन्तिम अर््डर|official
+ 8課| 44|追加-する|ついか|to add|追加，增加|थप्ु|official
+ 8課| 45|生ビール|なま|draft beer|鲜啤酒|ड््राफ्ट बियर|official
+ 8課| 46|駄目（な）|だめ|not allowed|不行|हुँदैदैन|official
+ 8課| 47|平気（な）|へいき|without giving it a second thought|无所谓，不在意|निश्चिन्त भएर|added
+ 8課| 48|渋滞-する|じゅうたい|to clog/back up|进展不顺|गाडी जाम हुनु|official
+ 8課| 49|帰宅-する|きたく|to go home|回家|घर फर््कनु|official
+ 8課| 50|久しぶり（な）|ひさ|for the first time in a long time|好久，许久|धैैरैै समय पछि|zhocr
+ 8課| 51|許可-する|きょか|to permit|许可，准许|अनुमति दिनु|official
+ 8課| 52|～末（来月末）|まつらいげつまつ|end (end of next month)|末尾|～कोो अन्त्य (अर्कोो महिनाकोो अन्त्य)|zhocr
+ 8課| 53|全く|まった|(not) at all|一点也没有|पटक्कैै|official
+ 8課| 54|同僚|どうりょう|colleague|同僚，同事|सहकर्मीी|official
+ 8課| 55|かける（迷惑をかける）|めいわく|to cause (to cause a problem)|引起（引起迷惑）|दिनु (ददु:ख दिनु)|zhocr
+ 8課| 56|回収-する|かいしゅう|to collect|收到|जम् ा गर््ननु|official
+ 8課| 57|～置き場（ごみ置き場）|おばおば|place to put something (trash collection point)|放置场所|～राख्े ठाउँ (फोोहोोर राख्े ठाउँ)|ensub
+ 8課| 58|色違い|いろちが|a different color|不同颜色|फरक रङ्ग|official
+ 8課| 59|朝礼|ちょうれい|morning meeting|早会，朝会|बिहानकोो मीटिङ|official
+ 8課| 60|担当-する|たんとう|to be in charge of|负责|अराइपराइ गर््ननु, प्रभारी हुनु, जिम् वारी लिनु|added
+ 8課| 61|オープンキャンパス||campus open day|校园开放日|ओपन क्ाम्पस (क्ाम्पस खुला|official
+ 8課| 62|一時帰国|いちじきこく|a trip to one’s home country|短期回国|केही समयकोो लागि ददेश फर््कने|zhocr
+ 8課| 63|帰国-する|きこく|to go back to one’s home country|回国|स्वददेश फर््कनु|zhocr
+ 8課| 64|メッセージ||message|信息|सन्देश|official
+ 8課| 65|一筆箋|いっぴつせん|writing pad for writing|便条纸|इप्पिचुसेन (पत्र लेख्न प्रयोोग गरिने सानोो कागज)|zhocr
+ 8課| 66|伝わる|つた|to communicate|流传，传开|संप्रषित हुनु|zhocr
+ 8課| 67|目の前|めまえ|right in front of one, before one’s eyes|眼前|आँखैै अगाडि|added
+ 8課| 68|割る|わ|to break|割，打破|फुटाउनु/भाग लाउनु|zhocr
+ 8課| 69|サプライズパーティー||surprise party|惊喜派对|सरप्ाइज पार््टटि|official
+ 8課| 70|言葉遣い|ことばづか|use of language|说法，措辞|बोोल्ने बोोली वा शब्द|official
+ 8課| 71|間違う|まちが|to make a mistake|弄错，错误|गल्ी गर््ननु|official
+ 8課| 72|ショック||shock|震惊|आघात|official
+ 8課| 73|受ける（ショックを受ける）|うう|to receive, to get (to|受到，接受|स्ीकार गर््ननु (निमन्त्र णा स्ीकार गर््ननु)|official
+ 8課| 74|落ち込む|おこ|to feel discouraged, down|坠落，郁闷|निराश हुनु|zhocr
+ 8課| 75|がっかり||disappointed|失望|निराश|added
+ 8課| 76|わざわざ||purposely|特意，故意|गर््न नपर्ने कष्ट गरेर|zhocr
+ 8課| 77|口うるさい|くち|nagging, critical|唠叨的，挑剔的|झगडालु|added
+ 8課| 78|励ます|はげ|to encourage|激励|सान्तत्वनादिनु, प्रशंसा गर््ननु|official
+ 8課| 79|倒す|たお|to knock over|推倒，打倒|लडाउनु|official
+ 8課| 80|汚す|よご|to stain, to make dirty|弄脏|फोोहोोर गर््ननु|zhocr
+ 8課| 81|本気（な）|ほんき|for real|真实，认真|साँच्चिकैै|zhocr
+ 8課| 82|わざと||on purpose|故意地|जानि जानि|official
+ 8課| 83|残す（記録に残す）|のこきろくのこ|to leave (leave a record of)|分离|राख्ु (रेकर््ड राख्ु)|official
+ 8課| 84|残る（記録が残る）|のこきろくのこ|to be left (a record has been left)|留下（留下记录）|रहनु (रेकर््ड रहनु)|added
+ 8課| 85|後悔-する|こうかい|to regret|后悔|पश्चााताप|official
+ 8課| 86|なんで||why|为什么|किन|official
+ 8課| 87|空|そら|the sky|天空|आकाश|official
+ 8課| 88|感謝-する|かんしゃ|to thank, to appreciate|感谢|धन्यवादद ज्ापन गर््ननु|added
+ 8課| 89|（お）詫び|わ|apology|道歉，赔礼|माफीी|added
+ 9課|  1|なんか||something|什么|केही/किनकिन|official
+ 9課|  2|変（な）|へん|odd, strange|奇怪的|अनौठोो|official
+ 9課|  3|ふもと||foot (of a mountain)|山脚|पाहाडकोो फेदद|official
+ 9課|  4|～軒（１軒）|けんけん|counter for buildings (1 building (temple))|屋檐，房屋(一间房屋)|～वटा (एउटा घर)|official
+ 9課|  5|お参り-する|まい|to visit a shrine/temple|参观（寺庙，神社）|मन्दि रमा जानु|zhocr
+ 9課|  6|村人|むらびと|villager|村民|गाउँले|zhocr
+ 9課|  7|和尚|おしょう|buddhist priest (in charge of a temple)|和尚|पुजारी/प्रमुख भिक्षु|zhocr
+ 9課|  8|わいわい||noisily|喋喋不休|रमाइलोो होोहल्ा|zhocr
+ 9課|  9|やって来る|く|to come along|到来|टाढाददेखिआउनु|official
+ 9課| 10|脱ぎ始める|ぬはじ|to start undressing|开始脱|फुकाल्न सुरु गर््ननु|added
+ 9課| 11|口に|くちぐち|unanimously|异口同声|सबैैकोो मुखमा|official
+ 9課| 12|人残らず|ひとりのこ|each and every person|无一人遗漏，全体|हरेक व्यक्ति नछुट्ने गरी|added
+ 9課| 13|裸|はだか|naked|裸体，裸着|नाङ्गोो|official
+ 9課| 14|誤解-する|ごかい|to misunderstand|误解，错误理解|भ्रम/गल्ी|official
+ 9課| 15|今では|いま|nowadays|现在|अहिले आएर|official
+ 9課| 16|文章|ぶんしょう|text, sentence|文章|वाक्य|official
+ 9課| 17|笑い出す|わらだ|to burst out laughing|笑出声|हाँस्न थाल्नु|zhocr
+ 9課| 18|訳|わけ|reason|借口，原因|कारण|zhocr
+ 9課| 19|早口|はやくち|talking fast|语速快|छिटोो बोोल्ने|added
+ 9課| 20|暮らす|く|to live|生活|जीवन यापन गर््ननु|official
+ 9課| 21|～後（帰国後）|ごきこくご|after (after returning to one’s home country)|～之后（回国之后）|～पछि (स्वददेश फर्केे पछि)|zhocr
+ 9課| 22|時代|じだい|era|时代|युग/जमाना|official
+ 9課| 23|個性|こせい|individuality|个性||official
+ 9課| 24|～らしさ（自分らしさ）|じぶん|sense of (sense of being oneself)|根据某些依据表示判断之意（好像是自己）|～पन (आफ्ननोपन)|zhocr
+ 9課| 25|認める|みと|to recognize|承认|स्ीकार गर््ननु|official
+ 9課| 26|込める|こ|to include|消费|हाल्नु|official
+ 9課| 27|童謡|どうよう|nursery rhyme, children’s song|童谣|बालगीत|added
+ 9課| 28|～集（童謡集）|しゅうどうようしゅう|collection (nursery rhyme compilation)|～集（童谣集）|～सङ््ग््ररह (बालगीत सङ््ग््ररह)|added
+ 9課| 29|許す|ゆる|to forgive|原谅|माफीी दिनु|official
+ 9課| 30|以下|いか|or less, less than, below, the following|以下|तल, निम्न|added
+ 9課| 31|消費-する|しょうひ|to consume|消费|उपभोोग गर््ननु|official
+ 9課| 32|開発-する|かいはつ|to develop|发展|विकास गर््ननु|official
+ 9課| 33|実話|じつわ|true story|实话，真实的话|सत्य घटना|official
+ 9課| 34|コマーシャル||commercial|商业的|व्यापारिक सन्देश|official
+ 9課| 35|フリーダイヤル||toll-free number|免费电话|फोोनकोो शुल्क नलाग्े नम्बर/फ्रि|official
+ 9課| 36|～製（革製）|せいかわせい|made of (made of leather)|～制，（皮革制）|～बनेकोो (छालाबाट बनेकोो)|zhocr
+ 9課| 37|かけ間違い|まちが|wrong number|错误电话号码|गलत नम्बरमा फोोन गरेकोो|zhocr
+ 9課| 38|いったい||(what) on earth|一连串，周围|खैै र/अचम्म लाग्छ कि….|official
+ 9課| 39|数える|かぞ|to count|算数|गन्नु|zhocr
+ 9課| 40|遠足|えんそく|school trip|远足|शैक्षिक भ्रमण/पिकनिक|official
+ 9課| 41|作家|さっか|writer|作者|लेखक|official
+ 9課| 42|４こま漫画|まんが|four-frame comic strip|四个框架的漫画|४ कोोठे कमिक|zhocr
+ 9課| 43|せりふ||dialogue|对词|सम्वादद|zhocr
+ 9課| 44|登場人物|とうじょうじんぶつ|character|性格|पात्र|official
+ 9課| 45|わくわく-する||to be excited|兴奋|रोमाञ्चित हुनु|official
+ 9課| 46|はらはら-する||to be anxious, to be|担心的样子|नर््भस हुनु|zhocr
+ 9課| 47|しょんぼり-する||to be dejected, to be|孤零零的，垂头丧气的|निराश हुनु|zhocr
+ 9課| 48|はしご||ladder|梯子|भर्‍याङ|official
+ 9課| 49|よし||OK, all right, sure|好，行|ठिक|added
+ 9課| 50|我慢-する|がまん|to put up with|忍耐|सहन गर््ननु|official
+ 9課| 51|柿|かき|kaki (persimmon)|柿子|हलुवावेदद|official
+ 9課| 52|食う|く|to eat|吃|खानु|official
+ 9課| 53|パジャマ||pyjamas|睡衣|राती सुत््दा लगाउने लुगा|official
+ 9課| 54|カエル||frog|青蛙商业的|भ्ागुतोो|official
+ 9課| 55|ぴょこぴょこ||hop hop|渺茫|फ्ाटफ्ाट|official
+ 9課| 56|合わせる（２と３を合わせる）|ああ|add up (add up 2 and|合并，混合|संयोोजन गर््ननु (२ र ३ लाई संयोोजन|zhocr
+ 9課| 57|なぞなぞ||riddle|谜语，谜|गाउँखानेकथा|official
+ 9課| 58|回文|かいぶん|palindrome|传阅的文件|विलोमकाव्य|official
+ 9課| 59|マウス||mouse|老鼠|मुसा|official
+ 9課| 60|崖|がけ|cliff|悬崖|भिर|official
+ 9課| 61|わ（けがしたわ）||by women (I hurt|语气词～呀！（我受伤了呀！）|पोो (चोोट पोो लाग्योो)|zhocr
+ 9課| 62|詩|し|poem|诗歌|कबिता|zhocr
+ 9課| 63|載る|の|to be published|承载|छापिनु|official
+ 9課| 64|小鳥|ことり|small bird|小鸟|सानोो चरी|official
+ 9課| 65|鈴|すず|bell|铃铛|घण्ी|official
+ 9課| 66|両手|りょうて|both hands/arms|两只手|ददुवैै हात|official
+ 9課| 67|ちっとも||(not) even a little bit|一点也不|अलिकति पनि/पटक्कैै|official
+ 9課| 68|地べた|じ|the ground|地面|जमिनमा/भुइँमा|official
+ 9課| 69|揺する|ゆ|to shake|摇晃|हल्ाउनु|official
+ 9課| 70|葉っぱ|は|leaf|叶|पात|official
+ 9課| 71|擬音語|ぎおんご|imitating natural sounds or sounds made|拟声词|अनुकरणात्मक|added
+ 9課| 72|擬態語|ぎたいご|conditions and states,|拟态词|नक्कल गर्ने शब्द|added
+ 9課| 73|勘違い-する|かんちが|to misunderstand|误解，错误理解|गलत ढंगले सोोच्ु|official
+ 9課| 74|表現-する|ひょうげん|to express|表现|अभिव्यक्त गर््ननु|official
+ 9課| 75|顔が広い|かおひろ|to know a lot of people|交际广||zhocr
+ 9課| 76|顔から火が出る|かおひで|to blush profusely|脸发烧，脸火辣辣的|लाजले मुख रातोो हुनु|zhocr
+ 9課| 77|黙る|だま|to fall silent|沉默|चुप लाग्ु|official
+ 9課| 78|必死（な）|ひっし|to struggle|拼命，将死|दत्त चित्त भएर|official
+ 9課| 79|あはは||ha ha ha|笑，啊哈哈|खुला खित्ाले हाँस्ु|official
+ 9課| 80|優勝-する|ゆうしょう|to win (a tournament, contest, etc.)|胜利|विजय हुनु|zhocr
+ 9課| 81|飛び上がる|とあ|to jump up|跳起来|उफ्रनु|zhocr
+ 9課| 82|ほっぺた||cheek (face)|脸颊，脸蛋|गाला|official
+ 9課| 83|ほっぺたが落ちる|お|delicious (expression that literally means|好吃得不得了|धेरैै स्ादिष्ट|added
+ 9課| 84|いきなり||suddenly|突然|अकस् ात|official
+ 9課| 85|飛び出す|とだ|to run out|跑出去|निक्ेर जानु|official
+ 9課| 86|大事（な）|だいじ|important, major, valuable|重要|महत्त्वपूर््ण|zhocr
+ 9課| 87|楽しさ|たの|amusement, fun, joy|乐趣|रमाइलोो|added
+ 9課| 88|難しさ|むずか|(degree of) difficulty|难度|कठिनाइ|added
+ 9課| 89|日常|にちじょう|everyday|普通，普遍|दैदैनिक|official
+ 9課| 90|耳にする|みみ|to (happen to) hear|听到，耳闻|सुन्नु|added
+ 9課| 91|女子高生|じょしこうせい|high school girl|女高中生|हाइस्कूलकोो केटी विद्ार्थी|official
+ 9課| 92|疑問|ぎもん|doubt|疑问|सवाल|official
+ 9課| 93|男女|だんじょ|male & female|男女，男性和女性|महिलापुरुष|official
+ 9課| 94|使い分ける|つかわ|(language) depending|分开使用|अनुसार प्रयोोग गर््ननु|zhocr
+10課|  1|のんびり||leisurely|逍遥自在，悠然自得|बिस्ार|official
+10課|  2|～線（海岸線）|せんかいがんせん|~ line (coastline), ~ railway line|～线（海岸线）|～रेखा (तटीय रेखा)|added
+10課|  3|渓谷|けいこく|valley|溪谷|गल्छी|official
+10課|  4|トロッコ列車|れっしゃ|Torokko tram|一种半敞开观光列车|तोोरोक्क ट््रेन|official
+10課|  5|製造-する|せいぞう|to manufacture|制造|निर्माण गर््ननु|zhocr
+10課|  6|客車|きゃくしゃ|(train) passenger car|客车车厢|यात्रुवाहक कार|added
+10課|  7|鉄|てつ|iron|铁|फलाम|official
+10課|  8|扇風機|せんぷうき|electric fan|电风扇|विद्ुतीय पंखा|official
+10課|  9|石炭|せきたん|coal|木炭|कोोइला|official
+10課| 10|燃やす|も|to burn|烧伤|बाल्नु|official
+10課| 11|入り込む|はいこ|to come in|进入,钻入,近到深处|भित्र पस्ु|official
+10課| 12|揺られる|ゆ|to be swung, to be shaken, to be rocked|被摇晃|हल्ाउनु|added
+10課| 13|～産（静岡県産）|さんしずおかけんさん|produced in (produced in Shizuoka)|～产(静冈县产)|～मा उत्ादित (सिजुओका अञ्चलमा उत्ादित)|official
+10課| 14|車窓|しゃそう|train window|车窗|ट््रेनकोो झ्ाल|zhocr
+10課| 15|目を向ける|めむ|to look (towards)|朝某方向看|नजर दिनु|official
+10課| 16|通り過ぎる|とおす|to roll by|走过，越过|नजिक भएर जानु|official
+10課| 17|車掌|しゃしょう|conductor|乘务员，列车员|रेलकोो कामददार|official
+10課| 18|土地|とち|countryside|土地|क्ेत्र/जग्ा जमिन|official
+10課| 19|ハーモニカ||harmonica|口琴|हर्मोोनिका|official
+10課| 20|所要時間|しょようじかん|time required|所需时间|आवश्यक समय|official
+10課| 21|歩行-する|ほこう|to walk|步行||official
+10課| 22|距離|きょり|distance|距离|ददूरी|added
+10課| 23|往復-する|おうふく|to make a round trip|来往，往返|आवत जावत गर््ननु|official
+10課| 24|樹齢|じゅれい|age of a tree|树龄|वृक्षकोो उमेर|official
+10課| 25|神秘的（な）|しんぴてき|mysterious|神秘的|रहस्यमय|official
+10課| 26|姿|すがた|appearance|状态，外观|स्वरूप|official
+10課| 27|言い表す|いあらわ|to describe|表达,说明,陈述|भनेर व्यक्त गर््ननु|official
+10課| 28|モデル||model|模型,样品,模特|मोडेल/नमूना|official
+10課| 29|森|もり|forest|森林|बन|official
+10課| 30|海の幸|うみさち|the bounty of the sea|海产，海味|समुन्द्री आहारा|zhocr
+10課| 31|山の幸|やまさち|the bounty of the land|山珍|बनपाखाकोो आहारा|zhocr
+10課| 32|民宿|みんしゅく|guest house|民宿|लज/गेस्टहाउस|zhocr
+10課| 33|味わう|あじ|to savor|品味,欣赏,体验|स्वादद लिनु|official
+10課| 34|頂上|ちょうじょう|summit|山顶|पाहाडकोो टुप्पोो|official
+10課| 35|朝日|あさひ|the sunrise|朝阳|उषाकोो किरण/प्रभात|official
+10課| 36|積もる|つ|to accumulate, to pile up|积累|थुप्रनु|zhocr
+10課| 37|おやつ||snack|点心，下午茶|खाजा|zhocr
+10課| 38|おつまみ||snack (to eat with a|小吃,简单的酒菜|रक्सीसँग खाने खाजा|official
+10課| 39|通る（電気が通る）|とおでんきとお|be supplied with|通(通电)|पुग्ु (बिजुलीकोो लाइन पुग्ु)|zhocr
+10課| 40|日帰り-する|ひがえ|to take a day trip|当天去当天回|एकैै दिनमा गएर फर््कनु|zhocr
+10課| 41|滝|たき|waterfall|瀑布|झरना|official
+10課| 42|食材|しょくざい|ingredients|食材|खाद्य पददार््थ|official
+10課| 43|門|もん|gate|门|गेट|official
+10課| 44|国宝|こくほう|national treasure|国宝|राष्ट्रिय सम्पददा|official
+10課| 45|指定-する|してい|to designate|指定|तोोक्ु|official
+10課| 46|彫刻-する|ちょうこく|to carve|雕刻|तक्षणकला बनाउनु/कुँद्नु, खोोप्ु|official
+10課| 47|彫る|ほ|to carve|雕刻|कुँद्नु|official
+10課| 48|豪華さ|ごうか|splendor|豪华|भव्यता|official
+10課| 49|名所|めいしょ|famous spot|著名景点|प्रशिद्ध स्ान|official
+10課| 50|まるで||as though, just as if|就好像|जस्तोो कि/मानौं|official
+10課| 51|絵の具|えぐ|paints|颜料，水彩|(चित्र कोर््न) रंग|official
+10課| 52|カラフル（な）||colorful|多彩的|रङ्गीचङ्गी|official
+10課| 53|請求-する|せいきゅう|to invoice|请求|माग गर््ननु|official
+10課| 54|洗面台|せんめんだい|(bathroom) sink|洗手池|हातमुख धुने सिङ्क|official
+10課| 55|車内|しゃない|inside a train, etc.|车内|गाडीभित्र|official
+10課| 56|座席|ざせき|seat|位子|बस्े सिट|official
+10課| 57|鉄道|てつどう|railway|铁路|रेल यातायात|official
+10課| 58|グリーン車|くるま|1st class carriage|软席|ग्रिन डिब्ा (फास्ट क्ास)|official
+10課| 59|停車-する|ていしゃ|to stop (train)|停车|गाडी रोोक्ु|official
+10課| 60|販売-する|はんばい|to sell|贩卖|बिक्री गर््ननु|official
+10課| 61|スイーツ||sweets (desserts,|甜点|मिठाईहरू|added
+10課| 62|ご当地|とうち|community, locale, this place|当地|स्ानीय|added
+10課| 63|デッキ||deck|甲板|रेल आदिमा डिब्ा र डिब्ाकोो|official
+10課| 64|禁煙-する|きんえん|to stop smoking|禁止抽烟|धुम्रपान निषेध गर््ननु|official
+10課| 65|通話-する|つうわ|to make a call|通话|(फोोनमा) कुराकानी गर््ननु|official
+10課| 66|なお||also, as well|更加,愈发,仍然|बनाउनु/मर््मत गर््ननु|official
+10課| 67|満席|まんせき|fully booked|满座|हाउसफुल|official
+10課| 68|あらかじめ||in advance|预先，事先|अगाडि नैै|official
+10課| 69|了承-する|りょうしょう|to note, to understand|理解，同意|कुरा बुझेर स्ीकार गर््ननु|official
+10課| 70|心より|こころ|from the bottom of one’s heart|发自内心|हार््ददिक|zhocr
+10課| 71|車両|しゃりょう|carriage|车辆|रेलकोो डिब्ा|zhocr
+10課| 72|内回り|うちまわ|inner circle|内讧|भित्रपट्टिबाट घुम्े|official
+10課| 73|見合わせる|みあ|to postpone|延期、推迟|स्थगन गर््ननु|official
+10課| 74|申し訳ございません|もうわけ|I am truly sorry (polite apology)|对不起|माफ गर््ननुहोोस्|ensub
+10課| 75|尋ねる|たず|to ask|请教，拜访|सोोध्नु|official
+10課| 76|幸運（な）|こううん|lucky|幸运|भाग्यशाली|official
+10課| 77|雲|くも|cloud|云|बाददल|official
+10課| 78|舞台|ぶたい|(theater) stage, setting, scene|舞台|चरण, अवस्ा|added
+10課| 79|早速|さっそく|straight away|立刻，马上|ढिलोो नगरीकन|official
+10課| 80|路面電車|ろめんでんしゃ|tram|有轨电车|सडकमा गुड्ने रेल|official
+10課| 81|天井|てんじょう|ceiling|顶点,最高限度|सिलिङ|official
+10課| 82|満足（な）|まんぞく|satisfying|令人满足的|सन्तुष्ट|official
+10課| 83|乗客|じょうきゃく|passenger|乘客|यात्री|official
+10課| 84|ハプニング||something unexpected|意外事件, 偶然事件|अपर््झट आइलाग्े घटना|zhocr
+10課| 85|乗り遅れる|のおく|to miss (a train/bus), to be left behind|错过，赶不上|गाडी छुट्नु|added
+10課| 86|思いがけない|おも|unforeseen|意想不到|सोोच््ददै नसोोचेकोो|zhocr
+10課| 87|出来事|できごと|incident|偶发事件，变故|घटना|official
+10課| 88|向かい合う|むあ|to sit across from|面对，正对面|आमने सामने हुनु|official
+10課| 89|向かう|む|to face, to go towards|前往，面向|तर््फ जानु|added
+10課| 90|フリー切符|きっぷ|unlimited ride ticket|自由票|फ्रि टिकेट|official
+10課| 91|乗り降り-する|のふ|to hop on and hop off|上下(车船登)|चढ्ने ओर््लने गर््ननु|zhocr
+10課| 92|配布-する|はいふ|to distribute|配给，定量供应|वितरण गर््ननु|official
+10課| 93|観光マップ|かんこう|sightseeing map|观光地图|पर््यटकीय नक्ा|official
+10課| 94|書き込む|かこ|to write down|填写，填入|लेख्ु|official
+10課| 95|ときには||from time to time|偶尔|कहिलेकाहीँ|official
+10課| 96|離れる|はな|to leave|分离|बिछोड हुनु/टाढा हुनु|official
+10課| 97|世界自然遺産|せかいしぜんいさん|World Natural Heritage Site|世界自然遗产|विश्व प्ाकृतिक सम्पददा|zhocr
+10課| 98|～発（羽田発）|はつはねだはつ|departing (departing Haneda)|出发(从羽田出发)|～बाट प्रस्ान (हानेददाबाट प्रस्ान गरेकोो)|zhocr
+10課| 99|地元|じもと|local|本地|स्ानीय|zhocr
+10課|100|豊かさ|ゆた|richness|丰饶，丰富|सम्पन्नता/समृद्धि|official
+10課|101|見どころ|み|highlight|精彩之处|हेर््न लायक स्ान|official
+10課|102|杉|すぎ|Japanese cedar|溪谷|धूपी|official
+10課|103|一気に|いっき|all at once|一口气|एकैैचोटि|official
+10課|104|流れ落ちる|ながお|to flow down|流下|झरेर खस्ु|official
+10課|105|流れる|なが|to flow, to wander, to spread|流，流逝|बगिरहनु|added
+10課|106|迫力満点|はくりょくまんてん|full impact|令人印象深刻||official
+10課|107|ごうごう||roaring|轰隆；喧嚣的样子|ठूलोो आवाजकोो स्वर|official
+10課|108|鯱|しゃち|carp|兽头瓦(鱼形装饰)|साचिहोोकोो (एक किसिमकोो काल्पनिक माछा)|official
+10課|109|～世紀（17世紀）|せいきせいき|th century (17 century)|～世纪(17世纪)|～सताब्दि (१७औ सताब्दि)|zhocr
+10課|110|代表-する|だいひょう|to represent|表示，显示|प्रतिनिधित्व गर््ननु|official
+10課|111|誇り|ほこ|pride|骄傲，荣誉，自豪|गर््व|official
+10課|112|戦争-する|せんそう|to go to war|战争，打仗|युद्ध गर््ननु|official
+10課|113|天守閣|てんしゅかく|castle tower|天守阁|तेनस्ुकाकु (जापानी परम्परागतकिल्ाकोो मुख्य टावर)|official
+10課|114|再び|ふたた|again|又|पुन:|official
+10課|115|金|きん|gold|金子|सुन|official
+10課|116|少子高齢化|しょうしこうれいか|declining birth rate and ageing society|少子高龄化|बालबच्चा कम पौढ बढि भएकोो अवस्ा|zhocr
+10課|117|現状|げんじょう|the actual situation|现状|वर््तमान अवस्ा|official
+10課|118|対策|たいさく|measure (for avoiding or solving a problem)|对策|प्रतिरोोधात्मक उपाय|added
+10課|119|上り|のぼ|northbound|从低处向高处|टोोक्योो तर््फ जाने|official
+10課|120|列車|れっしゃ|train|列车|रेल गाडी|official
+10課|121|発車-する|はっしゃ|to depart (vehicle)|发车|(गाडी) प्रस्ान गर््ननु|official
+10課|122|カーディガン||cardigan|开襟衫|उनी सुइटर|official
+10課|123|奥|おく|inside|内部|भित्र|official
+10課|124|もしかしたら||maybe|或许，可能|कहिं… त होोइन|official
+10課|125|ございます||(we) have (it)|礼貌的说法|होो, छ (आददर गरेर बोलिददा प्रयोोग|official
+10課|126|着払い|ちゃくばら|COD (cash on delivery)|货到付款|सामान पुगेपछि हुलाक खर््च तिर्ने पद्धती|zhocr
+10課|127|宅配便|たくはいびん|courier service|宅急便|घरसम्मसामान पठाइने सेवा|zhocr
+10課|128|グレー||grey|灰色|खैैरोो|official
+10課|129|胸|むね|chest|胸|छाती|official
+10課|130|マーク||emblem|标记|चिन्ह|official
+10課|131|セット-する||to set (an alarm), to|设定|सेट गर््ननु|added
+10課|132|サーブ-する||to serve (a ball, food)|发球；上菜|सेवा गर््ननु|added
+10課|133|いざ||now, well (then)|关键时刻；一旦|अहिले|added
+10課|134|再会-する|さいかい|to reunite, to meet again|再会|पुनर््ममिलन हुनु|zhocr
+10課|135|さすが||as one would expect|真不愧，的确|नभन्दै|zhocr
+10課|136|香り|かお|aroma|香气，芳香|सुगन्ध|official
+10課|137|旅行記|りょこうき|travel journal|旅行游记|यात्राकोो निबन्ध|official
+11課|  1|育休（育児休業の略）|いくきゅういくじきゅうぎょうりゃく|childcare leave|育儿假（育儿休业的简称）|प्रसूति बिददा (बाल हेरचाह बिददाकोो संक्षिप्त रूप)|added
+11課|  2|育児-する|いくじ|to raise a child|养育儿女|बालबच्चाकोो पालनपोोषण गर््ननु|official
+11課|  3|休業-する|きゅうぎょう|to stop work|休业|केही समयकोो लागि बिददा लिनु|official
+11課|  4|～法（育児休業法）|ほういくじきゅうぎょうほう|~ Law/Act (Childcare Leave Law)|～法(法律)；(管理法)|～कानुन (बाल हेरचाह बिददा कानुन)|zhocr
+11課|  5|改正-する|かいせい|to amend, to reform, to revise|修订，修改|संशोोधन गर््ननु|added
+11課|  6|両立-する|りょうりつ|to do at the same time, to go together|兼顾，两全|सन्ुलन गर््ननु|added
+11課|  7|取り組む|とく|to deal with, to engage in, to work on|致力于，着手|गुजुल््टिनु, समात्ु|added
+11課|  8|取得-する|しゅとく|to take, to redeem|取得|प्ाप्त गर््ननु|official
+11課|  9|長男|ちょうなん|eldest son, first-born son|长子|जेठोो छोोरा|added
+11課| 10|妊娠-する|にんしん|to become pregnant|妊娠|गर््भवती हुनु|official
+11課| 11|見守る|みまも|to keep an eye on, to look after|守护，注视，守望|हेरचाह गर््ननु|added
+11課| 12|快い|こころよ|pleasant|高兴，愉快|हँसीखुशी|official
+11課| 13|理解-する|りかい|to understand|理解|बुझ्ु|official
+11課| 14|得る|え|to obtain|得到|प्राप्ति गर््ननु|official
+11課| 15|環境|かんきょう|environment|环境|वातावरण|official
+11課| 16|共働き-する|ともばたら|have both spouses|双职工|सँगैै काम गर््ननु|added
+11課| 17|分担-する|ぶんたん|to divide (work), to share (responsibilities)|分担|शेयर गर््ननु|added
+11課| 18|想像-する|そうぞう|to imagine|想像|कल्पना गर््ननु|official
+11課| 19|目がない|め|to have an unlimited appetite for|无判断力|अति मनपर्ने|zhocr
+11課| 20|取り上げる|とあ|to bring up|采纳，接受|चर्चाा गर््ननु/खोोसेर लैैजानु|zhocr
+11課| 21|対象|たいしょう|target|目标|लक्षित|official
+11課| 22|首都圏|しゅとけん|metropolitan area|首都圈|राजधानी वृत्त|official
+11課| 23|私立大学|しりつだいがく|private university|私立大学|प्ाइभेट विश्वविद्ालय|official
+11課| 24|新入生|しんにゅうせい|freshman|新生|नव प्रवेशी|official
+11課| 25|家庭|かてい|household|家庭|घर परिवार|official
+11課| 26|調査-する|ちょうさ|to survey|调查|अनुसन्धान/सर्वेक्षण गर््ननु|official
+11課| 27|件数|けんすう|number of cases (incidents, items, etc.)|件数||added
+11課| 28|～件（3905件）|けんけん|counter for cases (3905 cases of ~)|～件（3905件）|～वटा (एउटा घर)|added
+11課| 29|家計|かけい|household finances|家计，家庭经济|घरायसी आर््थथिक अवस्ा|added
+11課| 30|負担-する|ふたん|to burden|负担|भागकोो बोोझ लिनु/बेहोर््ननु|official
+11課| 31|このたび||on this occasion|这次，这回|यस पटक|official
+11課| 32|親元|おやもと|one’s parents’ house|父母的家|बाबुआमाकोो साथ|official
+11課| 33|家賃|やちん|rent|房租|कोोठा भाडा|official
+11課| 34|一月|いちがつ|one month|每月|एक महिना|official
+11課| 35|過去|かこ|past|过去|बितेकोो समय/विगत|official
+11課| 36|厳しい（生活が厳しい）|きびせいかつきび|hard (it is hard to make ends meet)|为难的,艰苦的|गह्रोो (गाह्रोो जीवन यापन)|official
+11課| 37|学費|がくひ|school fees|学费|पढाइ शुल्क|zhocr
+11課| 38|払い続ける|はらつづ|to continue paying|持续支付|भुक्तानी गरिरहनु|added
+11課| 39|使い道|つかみち|way of using|用法|प्रयोोग गर्ने तरिका|official
+11課| 40|まあ（まあ大変といっても）|たいへん|well (well, I say it’s|暂且，还可以|हुन त (गाह्रोो भने पनि हुन त)|official
+11課| 41|助け合う|たすあ|to help each other out|互相帮助|एक आपसमा सघाउनु|zhocr
+11課| 42|苦しい|くる|difficult|痛苦|गाह्रोो/कठिन|zhocr
+11課| 43|たくましい||resolute, robust|强壮|बलियोो/हट्ाकट्ा|official
+11課| 44|今後|こんご|in the future|今后|आइन्दा|official
+11課| 45|花粉|かふん|pollen|花粉|नयााँ पालुवाले निकाल्ने पाउडर|official
+11課| 46|～機関（国際機関）|きかんこくさいきかん|international|国际机关(组织)|～संगठन (अन्तर्राष्ट्रिय संगठन)|official
+11課| 47|最も|もっと|the most, the ~est (superlative)|最|सबभन्दान्दा|zhocr
+11課| 48|活発（な）|かっぱつ|active, lively, vigorous|活泼的,活跃的|सक्रिय|zhocr
+11課| 49|独立-する|どくりつ|to be independent|独立，孤立|स्वतन्त्र हुनु|official
+11課| 50|形態|けいたい|configuration|形态|शैैली|official
+11課| 51|気を遣う|きつか|to make an effort, to be nice|关心，关照|अरूकोो बारेमा सोोच्ु/ध्यान दिनु|zhocr
+11課| 52|猛暑|もうしょ|heat wave|炎热，酷热|अत्यन्त गर्मीी|official
+11課| 53|Uターン-する||to make a U-turn|返乡（U型转弯）|यु टर््न गर््ननु|added
+11課| 54|育つ|そだ|to be brought up|发育，成长|हुर््कनु|zhocr
+11課| 55|どんなに||however (much)|多么，无论如何|जति नैै|official
+11課| 56|いくら（いくら忙しくても）|いそが|how much, however (no matter how busy one|无论（无论多忙）|जतिसुकैै (जतिसुकैै व्यस्त भएपनि)|added
+11課| 57|介護-する|かいご|to nurse|看护，护理|अशक्तकोो सेवा गर््ननु|zhocr
+11課| 58|子育て-する|こそだ|to bring up children|育儿|बच्चा हुर्कााउनु|official
+11課| 59|～性（必要性）|せいひつようせい|suffix (necessity)|性|～ता (आवश्यकता)|official
+11課| 60|コミュニティー||community|地方自治团体|समुददाय|official
+11課| 61|残業-する|ざんぎょう|to do overtime|加班||official
+11課| 62|衣食住|いしょくじゅう|food, clothing and shelter|吃穿住|गास वास कपास|zhocr
+11課| 63|上司|じょうし|boss, superior|上司|आफू भन्दान्दा माथिल्लोो पददका कर््मचारी|zhocr
+11課| 64|かかる（電話がかかる）|でんわ|to get (a phone call)|悬挂|कल गर््ननु (फोोन कल गर््ननु)|zhocr
+11課| 65|突然|とつぜん|suddenly|突然|अकस् ात|official
+11課| 66|しょうがない||there’s no other way|没办法|बेकारकोो|added
+11課| 67|不景気（な）|ふけいき|economically depressed|不景气|निम्न आर््थथिक स्थिति|zhocr
+11課| 68|初婚|しょこん|first marriage|初婚|पहिलोो विवाह|zhocr
+11課| 69|今回|こんかい|this time|这回，此次|यस पटक|official
+11課| 70|生涯|しょうがい|lifetime|终生，生涯|आजीवन|official
+11課| 71|選択-する|せんたく|to choose|选择|छनौट गर््ननु|official
+11課| 72|可|か|possible|可以|सकिने|official
+11課| 73|周囲|しゅうい|people around you|周边|वरिपरि|official
+11課| 74|同意-する|どうい|to agree|赞成|मन्जुु री गर््ननु|official
+11課| 75|めどが立つ|た|to have an outlook|定目标|समाधानकोो बाटोो ददेखिनु|official
+11課| 76|資金|しきん|fund|资金|बजेट|official
+11課| 77|異性|いせい|the opposite sex|异性|विपरित लिङ्ग|official
+11課| 78|付き合う|つあ|to interact|交际，打交道|सङ्गत गर््ननु|official
+11課| 79|加える|くわ|to add, to increase, to let join|加上，添加|थप्ु|added
+11課| 80|おむつ||diaper|尿布|डायपरहरू|added
+11課| 81|授乳-する|じゅにゅう|to breast feed|哺乳|स्तनपान गराउनु|official
+11課| 82|抱く|いだ|to hold (someone) [here: to cradle]|召开|बोोक्ु|official
+11課| 83|泣き止む|なや|to stop crying|停止哭泣|रुन बन्द गर््ननु|zhocr
+11課| 84|追う（時間に追われる）|おじかんお|[here: to be pressed|追（被时间追赶）|पीछा गर््ननु (समयले पछ्ाउनु)|added
+11課| 85|思うようにならない|おも|to not go the way one|不如所愿|सोोचे अनुसार काम नहुनु|added
+11課| 86|言い争い|いあらそ|to argue, to dispute|争吵，争论|तर््क|added
+11課| 87|日|ひび|every day|每天|दिन दिनैै|official
+11課| 88|癒す|いや|to calm|治疗，医治|मन हर््ननु|official
+11課| 89|夫婦|ふうふ|married couple|夫妻|जोडी|added
+11課| 90|ため||benefit, consequence,|为了；由于|गरेर हेर््ननु, परिक्ा लिनु|added
+11課| 91|制度|せいど|System|制度|सिस्टम/व्यवस्ा|official
+11課| 92|自覚-する|じかく|to be aware of, to realize|自觉，意识到|सचेत रहनु|added
+11課| 93|復帰-する|ふっき|to return (to work)|恢复，复职|काममा फर्केेर आउनु|official
+11課| 94|慌ただしい|あわ|busy, hurried, sudden|忙碌的，慌乱的|व्यस्त|added
+11課| 95|充実-する|じゅうじつ|to be rich in|赋予，富有|सम्पन्नहुनु|official
+11課| 96|ライフスタイル||lifestyle|生活方式|जीवनशैैली|added
+11課| 97|おとなしい||obediently|性格稳重的|शान्त स्वभावकोो|official
+11課| 98|減少-する|げんしょう|to reduce|减少|घट्नु|official
+11課| 99|規則正しい|きそくただ|well regulated|守规矩的|नियम अनुसार/नियमित|official
+11課|100|実行-する|じっこう|to put into practice|实行|लागू गर््ननु|official
+11課|101|～がい（やりがい）||worth ~ing (worth|～的价值（做的价值）|～ददायी (पुरस्कारददायी)|added
+11課|102|手作り|てづく|home-made|手工制作|हस्त निर््ममित|official
+11課|103|かなわない||nothing better than|敌不过，比不上|कुनैै सिप नलाग्े|official
+11課|104|それほど||not that|那么，那样|त्यति|official
+11課|105|現実|げんじつ|reality|现实的|वास्तविकता|official
+11課|106|小型|こがた|small|小型|सानोो खालकोो|official
+11課|107|サンプル数|すう|no. of samples|样本数|नमुना सङ््ख् ा|official
+11課|108|～当たり（１週間当たり）|あしゅうかんあ|per (per week)|平均(平均一周)|(१ हप्तामा) प्रतिमा～|official
+11課|109|実施-する|じっし|to carry out|实施||official
+11課|110|～別（学年別）|べつがくねんべつ|by (by school year)|按年级|～अनुसार (कक्ा अनुसार)|official
+11課|111|～年生（１年生）|ねんせいねんせい|~th-year student (1st-year student)|～年级生（一年级生）|～कक्ाकोो विद्ार्थी (एक कक्ाकोो विद्ार्थी)|added
+11課|112|日数|にっすう|number of days|天数|दिनहरूकोो संख्ा|added
+11課|113|シェアハウス||shared house|合租屋|मिलेर थुप्रैै जना बस्े घर|official
+11課|114|住居|じゅうきょ|house|居住，住址|बस्े घर|official
+11課|115|スタイル||style|风格|स्ाइल|official
+11課|116|リビング||living room|生活，生计|बैैठक कोोठा|official
+11課|117|一般的（な）|いっぱんてき|typical|一般的|साधारणतया|official
+11課|118|たとえ||even if|即使，无论|उददाहरणकोो लागि|official
+11課|119|敷金|しききん|security deposit|押金|भाडामा लिददा बुझाउने पर्ने धरौटी रकम|official
+11課|120|礼金|れいきん|finder’s fee|礼金|घर मालिकलाई आभार स्वरूप दिने रकम|official
+11課|121|そろう||to have all the|备齐|एउटैै रूपमा जम् ा हुनु|official
+11課|122|～層（年代層）|そうねんだいそう|class, group, layer (age bracket)|层(年代层)|～वर््ग (एउटैै उमेर वर््ग)|zhocr
+11課|123|つながり||connection, link,|联系，关联|जडानहरू|added
+11課|124|独身|どくしん|single|单身|अविवाहित|official
+11課|125|職場|しょくば|place of work|职场|कामगर्ने ठाउँ|official
+11課|126|何より|なに|more than anything|比什么都|अरू सबैभन्दान्दा|official
+11課|127|入居-する|にゅうきょ|to move in|入住|बस्न सुरु गर््ननु|official
+11課|128|適度（な）|てきど|moderate|适度|आवश्यकता अनुसारकोो|official
+11課|129|巡り会う|めぐあ|to encounter|碰上，遇见|भाग्यवश भेट हुनु|official
+11課|130|巡る|めぐ|to go around, to visit (a number of sights)|循环，绕圈|डुल्नु|zhocr
+11課|131|失う|うしな|to lose|丢失，失去|गुमाउनु|official
+11課|132|気楽さ|きらく|comfort, ease|轻松自在|सहजता|added
+11課|133|娯楽|ごらく|amusement|娱乐|मनोोरञ्जन|official
+11課|134|学業|がくぎょう|studies|学业|पठनपाठन|official
+11課|135|打ち込む|うこ|to dedicate (oneself)|打进，砸入|लागि पर््ननु|official
+11課|136|未婚|みこん|unmarried|未婚|अविवाहित|added
+11課|137|社会保障|しゃかいほしょう|social security|社会保障|सामाजिक सुरक्ा|added
+11課|138|出生|しゅっせい|birth|出生|जन्म|added
+11課|139|動向|どうこう|trend, tendency|动向|प्रचलन|added
+11課|140|基本|きほん|basic(s), fundamental(s)|基本|आधारभूत|added
+11課|141|個人|こじん|Individual|个人|व्यक्ति|official
+11課|142|当たり前|あまえ|natural|理所当然|स्वभाविक|official
+11課|143|派手（な）|はで|flashy, gaudy, showy|花哨的，华丽的|चम््ककिलोो|added
+12課|  1|体内時計|たいないどけい|internal clock|生物钟|शरीर भित्रकोो घडि|official
+12課|  2|機能|きのう|function|机能，功能|कार््य क्षमता|official
+12課|  3|回転-する|かいてん|rotation|旋转|घुम्ु|official
+12課|  4|ずれる||to be out of alignment|错位，移动|नमिल्नु|zhocr
+12課|  5|実践-する|じっせん|to implement|实践|प्रयोोगमा ल्याउनु|zhocr
+12課|  6|リセット-する||to reset|重置|रिसेट गर््ननु|official
+12課|  7|徐に|じょじょ|gradually|慢慢|बिस्ार बिस्ार|official
+12課|  8|時差ぼけ|じさ|jet lag|由于时差而犯困|दिन र रातकोो अनुभवमा उल् ापाल् ी हुनु|official
+12課|  9|そうはいっても||but then again, having|话虽如此|तैैपनि|added
+12課| 10|目覚める|めざ|to wake up, to realize|睡醒，觉醒|बिउँझनु|zhocr
+12課| 11|乳製品|にゅうせいひん|dairy products|乳制品|डेरीका खाद्य पददार््थ|official
+12課| 12|取り分ける|とわ|to divide|挑拣|भाग लगाउनु|official
+12課| 13|余分（な）|よぶん|excess|多余，剩余|बचेकोो/अनावश्यक|official
+12課| 14|エネルギー||energy|能量|इनर्जीी/शक्ति|official
+12課| 15|脂肪|しぼう|fat|脂肪|बोोसोो|official
+12課| 16|翌朝|よくあさ|the next morning|次日早晨|भोलिपल्ट बिहान|official
+12課| 17|心身|しんしん|body and mind|身心|तन मन|zhocr
+12課| 18|早めに|はや|early|尽快|चाँडैै|official
+12課| 19|取る（朝食を取る）|とちょうしょくと|to have (breakfast)|睡一会儿|लिनु (नास्ा लिनु)|zhocr
+12課| 20|心がける|こころ|to endeavor|记住，留意|ध्यान दिनु|official
+12課| 21|～省（農林水産省）|しょうのうりんすいさんしょう|Agriculture, Forestry|～省（农林水产省）|～मन्त्रा ालय (कृषि, वन तथा मत्स्यपालन मन्त्रा ालय)|added
+12課| 22|体力|たいりょく|stamina, physical strength|体力|शारीरिक शक्ति|zhocr
+12課| 23|ほぼ||almost|大体，大略|लगभग|official
+12課| 24|能力|のうりょく|ability|能力|योोग्यता/क्षमता|official
+12課| 25|報告-する|ほうこく|to report|报告||official
+12課| 26|取り入れる|とい|to incorporate|收获，收进|प्रयोोगमा ल्याउनु|zhocr
+12課| 27|維持-する|いじ|to maintain|维持|सँभार गर््ननू|official
+12課| 28|後半|こうはん|late (latter half)|后半部分|उत्तरार््ध|official
+12課| 29|前半|ぜんはん|early (first half)|前一半|पूर्वार््ध|official
+12課| 30|レベル||level|等级|लेवल/तह|official
+12課| 31|ところで||incidentally|可是，转移话题|अ साच्चि|official
+12課| 32|激しい|はげ|vigorous|激烈，冲动|भयङ्कर|official
+12課| 33|ストレッチ-する||to stretch|张力，伸展|स््रेचगर््ननु|official
+12課| 34|抜く（食事を抜く）|ぬしょくじぬ|to skip (meals)|抽出，拔掉|छोड्नु (खाना छोड्नु)|zhocr
+12課| 35|真冬|まふゆ|middle of winter|隆冬|जाडोोकोो मध्य|added
+12課| 36|トレーナー||trainer|教练员|प्रशिक्षक|zhocr
+12課| 37|目的|もくてき|goal|目的|उद्देश्य|official
+12課| 38|提案-する|ていあん|to propose|建议，提案|प्रस्ाव राख्ु|official
+12課| 39|当店|とうてん|this shop (restaurant)|本店|यस पसल|official
+12課| 40|レシピ||recipe|食谱|रेसिपी|zhocr
+12課| 41|取れる（バランスが取れる）|とと|to provide a balance|取得(取得平衡)|भएकोो (सन्ुलन भएकोो)|official
+12課| 42|頻度|ひんど|frequency (of an occurrence)|频率|आवृत्ति|added
+12課| 43|合計-する|ごうけい|to add up, to total|合计|कुल|added
+12課| 44|満足-する|まんぞく|to be satisfied|满足|सन्तुष्ट हुनु|official
+12課| 45|不満（な）|ふまん|dissatisfaction|不满|असन्तुष्ट|official
+12課| 46|目覚め|めざ|wake-up, awakening|睡醒，觉醒|निन्द्रान्द्राबाट बिउँझनु|zhocr
+12課| 47|抱える|かか|to have (a problem/ worry)|抱，背负|मनमा राख्ु/बोोक्ु|zhocr
+12課| 48|プレッシャー||pressure|压力|ददवाब|zhocr
+12課| 49|寝付き|ねつ|falling asleep|入睡|निददाउने अवस्ा|official
+12課| 50|主婦|しゅふ|housewife|主妇|गृहिणी|official
+12課| 51|寝不足|ねぶそく|lack of sleep|睡眠不足|निन्द्रान्द्रा नपुगेकोो|added
+12課| 52|入眠-する|にゅうみん|to fall asleep|陷入(入睡)|निददाउनु|official
+12課| 53|食育|しょくいく|nutrition education|食育（饮食教育）|खाद्य शिक्ा|added
+12課| 54|当てはまる|あ|to apply|申请|ठ्ाक्क मिल्नु|official
+12課| 55|好き嫌い|すきら|likes and dislikes|喜欢和厌恶|मन पर्ने नपर्ने|official
+12課| 56|不規則（な）|ふきそく|irregular|不规则|अनियमित|official
+12課| 57|息|いき|breath|呼吸，喘气|स्ास|official
+12課| 58|切れる（息が切れる）|きいきき|to be out of (to be out of breath)|错位，移动|स् ाँ स् ाँ हुनु|official
+12課| 59|いらいら-する||to be annoyed, to be on|烦躁|रिस उठाउनु|added
+12課| 60|肌|はだ|skin|皮肤|छाला|zhocr
+12課| 61|項目|こうもく|heading, item (on an agenda)|项目|वस्ु|added
+12課| 62|要～（要注意）|ようようちゅうい|needs ~ (needs special attention)|需要～（需要留意）|(महत्त्वपूर््ण सावधानी) महत्त्वपूर््ण～|added
+12課| 63|発散-する|はっさん|to relieve|解除，消除|समाधान गर््ननु|official
+12課| 64|わく（食欲がわく）|しょくよく|to work up (to work up and appetite)|逐渐增加|लाग्ु (खाना खान मन लाग्ु)|zhocr
+12課| 65|楽（な）|らく|better|快乐，简单|सजिलोो|zhocr
+12課| 66|効果|こうか|effect|效果|असर|official
+12課| 67|現れる|あらわ|to show|出现，显现|ददेखा पर््ननु|official
+12課| 68|健康診断|けんこうしんだん|health check|健康诊断|स्ास्थ्य परीक्षण|official
+12課| 69|体重|たいじゅう|body weight|体重|शरीरकोो तौल|official
+12課| 70|症状|しょうじょう|symptoms|症状|लक्षण|official
+12課| 71|伸びる|の|to increase|增高，增长|लम्बिनु/बढ्नु|official
+12課| 72|レム睡眠|すいみん|REM sleep|快速眼动睡眠|रेम निद्ा|added
+12課| 73|ノンレム睡眠|すいみん|non-REM sleep|非快速眼动睡眠|गैैर-रेम निद्ा|added
+12課| 74|体温|たいおん|body temperature|体温|शरीरकोो तापक्रम|added
+12課| 75|ポイント||important point|点数|पोोइन्ट|official
+12課| 76|倍数|ばいすう|multiple|倍数|गुणा सङ््ख् ा|official
+12課| 77|というのは||this means|因为||official
+12課| 78|脳|のう|brain|脑|दिमाग|official
+12課| 79|交互に|こうご|alternately|互相，交替|पालैैपालोो गरी|official
+12課| 80|交代-する|こうたい|to alternate|交替，轮流|बददल गर््ननु|official
+12課| 81|覚ます|さ|to wake up|唤醒，觉醒|बिउँझनु|official
+12課| 82|つく（眠りにつく）|ねむ|to fall (asleep)|陷入(入睡)|निददाउनु|official
+12課| 83|上がる（声が上がる）|あこえあ|to raise (to raise one’s voice)|投过去|उठ्नु (आवाजउठ्नु)|official
+12課| 84|愛情|あいじょう|feelings of love|爱情|माया/प्रेम|official
+12課| 85|投書-する|とうしょ|to write a letter (to a newspaper, etc.)|投稿|पत्रिकामा आफ्ननो लेख पठाउनु|zhocr
+12課| 86|～欄（投書欄）|らんとうしょらん|~ column (readers’ column)|～栏（投稿栏）|～स्तम्भ (सम्पाददकहरूलाई पत्र स्तम्भ)|added
+12課| 87|嗜好品|しこうひん|indulgence, luxury item|嗜好品|विलासिताका सामानहरू|added
+12課| 88|ブーム||craze|热潮|चलनचल्तिमा आउनु|zhocr
+12課| 89|かえって||end up|相反地，反而|सोोचेकोो भन्दान्दा उल्टोो|official
+12課| 90|賛成-する|さんせい|to agree|赞成|समर््थन गर््ननु|official
+12課| 91|精神的（な）|せいしんてき|mentally|精神上的|मानसिक रूपमा|official
+12課| 92|リラックス-する||to relax|放松|आराम गर््ननु|zhocr
+12課| 93|他人|たにん|other people|别人|पराय मान्छे|official
+12課| 94|時期|じき|a time, a period|时期|समय अवधि|official
+12課| 95|愛する|あい|to love|热爱|प्रेम गर््ननु|official
+12課| 96|反対-する|はんたい|to oppose|反对|विरोोध गर््ननु|official
+12課| 97|医師|いし|doctor|医生|डाक्टर|official
+12課| 98|国家試験|こっかしけん|national exam|国家考试|राष्टट्र्रद्ारा लिइने परीक्ा|official
+12課| 99|かいがある||to be worth doing|有价值|प्रतिफल मिल्नु|official
+12課|100|必ずしも|かなら|not necessarily|不一定|अवश्य हुन्छ नैै भन्नेन्ने त|official
+13課|  1|食卓|しょくたく|dining table|饭桌|खाना खाने टेबल|official
+13課|  2|略称|りゃくしょう|abbreviation|简称|छोोटकरी नाम|official
+13課|  3|先進国|せんしんこく|developed countries|发达国家|विकसित ददेश|official
+13課|  4|生活習慣病|せいかつしゅうかんびょう|lifestyle disease|生活习惯病|जीवनशैैलीकोो कारणबाट लाग्े रोोग|official
+13課|  5|発展途上国|はってんとじょうこく|developing countries|发展中国家|विकासोोन्ुख राष्टट्र्र|zhocr
+13課|  6|飢え|う|hunger|饥饿|भोोक/खान नपाएकोो|zhocr
+13課|  7|食堂|しょくどう|cafeteria|食堂|भान्सा कोोठा|official
+13課|  8|健康的（な）|けんこうてき|healthy|健康的|स्वस्थ्यकर|official
+13課|  9|提供-する|ていきょう|to provide|提供|उपलब्ध गराउनु|official
+13課| 10|アジア||Asia|亚洲|एशिया|official
+13課| 11|～食（１食）|しょくしょく|meal (one meal)|～顿饭(一顿饭)|～छाक (१ छाक)|official
+13課| 12|当たる（１食分に当たる）|あしょくぶんあ|(here: equal to 1|碰上，命中|हड्ताल गर््ननु (१ गाँसका लागि हड्ताल गर््ननु)|zhocr
+13課| 13|上乗せ-する|うわの|to add on|追加|त्यस माथि जोड्नु|official
+13課| 14|給食|きゅうしょく|school/company/|供餐|विद्ालय आदिमा उपलव्ध गराइने खाना|zhocr
+13課| 15|仕組み|しく|system|制度|प्रक्रिया|official
+13課| 16|空間|くうかん|space|空间|वातावरण|official
+13課| 17|分け合う|わあ|to share|共有，共同|आपसमा बाँड्ने|official
+13課| 18|肥満|ひまん|obesity|肥胖|अस्वस्थ्य मोोटोोपना|official
+13課| 19|トレンド||trend|倾向，动向|ट््ररेन्ड|official
+13課| 20|コスプレ||cosplay (costume play)|角色扮演|कुनैै पात्रकोो जस्तैै पहिरन लगाउने|zhocr
+13課| 21|短期|たんき|short-term|短期|छोोटोो अवधि|zhocr
+13課| 22|主人公|しゅじんこう|main character|主人公||official
+13課| 23|ファン||fan|粉丝|समर््थक|official
+13課| 24|何といっても|なん|after all is said and done|不管怎么说，毕竟|जे भने पनि|zhocr
+13課| 25|勇気|ゆうき|courage|勇气|साहस|official
+13課| 26|連載-する|れんさい|to appear serially (in a publication)|连载|क्रमबद्ध गर््ननु|added
+13課| 27|全～（全72巻）|ぜんぜんかん|~ in total (total 72 volumes)|全～, 共～|(कुल ७२ खण्डहरू) कुल～|zhocr
+13課| 28|～巻（全72巻）|かんぜんかん|volumes (total 72|～卷（全72卷）|～खण्ड (कुल ७२ खण्डहरू)|added
+13課| 29|うっかり-する||something|什么|नसोोच्ु, बिर््सनु|official
+13課| 30|こぼす||to spill|洒漏，掉，落道歉|पोोख्ु|official
+13課| 31|謝る|あやま|to apologize|道歉|माफीी माग्ु|zhocr
+13課| 32|引く（辞書を引く）|ひじしょひ|to look up (in a dictionary)|向上|हेर््ननु (शब्दकोोश हेर््ननु)|official
+13課| 33|投稿-する|とうこう|to post|投稿|लेख रचना पठाउनु|official
+13課| 34|窓ぎわ|まど|by the window|靠窗处|झ्ालछेउ|added
+13課| 35|俳優|はいゆう|actor, actress|演员|अभिनेता|added
+13課| 36|タレント||star, entertainer|才能，演员|कलाकर्मीी|zhocr
+13課| 37|描く|えが|to draw, to paint, to depict|画，描绘|कोर््ननु|added
+13課| 38|エッセイ||essay|随笔，散文|निबन्ध|added
+13課| 39|退学-する|たいがく|to drop out of school|退学|विद्ालय त्ाग गर््ननु|added
+13課| 40|不自由（な）|ふじゆう|inconvenience, lack, impairment|不便的，有障碍的|असुविधाजनक|added
+13課| 41|何とか|なん|somehow, manage to do, something or other|总算，勉强|केही|added
+13課| 42|シーン||scene|场面，场景|दृश्य|zhocr
+13課| 43|平和（な）|へいわ|peace|平静，和平|शान्त|official
+13課| 44|印象的（な）|いんしょうてき|impressive, memorable|令人印象深刻的|प्रभावशाली|added
+13課| 45|制作-する|せいさく|to create (a film), to produce (a work)|制作|सिर््जना गर््ननु|added
+13課| 46|～式（開会式）|しきかいかいしき|~ ceremony (opening ceremony)|～式(入学式)|～समारोोह (उदद्घाटन समारोोह)|zhocr
+13課| 47|ファンファーレ||fanfare|吹奏乐|फ्ानफेअर संगीत|zhocr
+13課| 48|歓声|かんせい|cheer|欢呼声|रमाएकोो ठूलोो आवाज|official
+13課| 49|かなり||fairly|相当|निकैै|official
+13課| 50|引き受ける|ひう|to accept|接受|स्ीकार््ननु|official
+13課| 51|だいぶ||considerably|使劲，更加|धेरैै नैै|official
+13課| 52|詰まる|つ|to be full of|堵塞|भरिपूर््ण हुनु|official
+13課| 53|どうしても||no matter what|无论如何|जे गरे पनि|official
+13課| 54|憧れる|あこが|to aspire to|憧憬，向往|उस्तैै होोस् भन्नेन्ने चाहना राख्ु|official
+13課| 55|調理-する|ちょうり|to cook|烹调|परिकार बनाउनु|official
+13課| 56|～師（調理師）|しちょうりし|practitioner of (cook/ chef)|～师(厨师)|～मान्छे (परिकार बनाउने मान्छे)|official
+13課| 57|信用-する|しんよう|to believe|相信||official
+13課| 58|実現-する|じつげん|implement, to realize|实现|महसुस गर््ननु|added
+13課| 59|現地|げんち|on-site|现场，当地|फिल्ड|official
+13課| 60|リポート-する||to report|报告|रिपोर््ट गर््ननु|official
+13課| 61|～級（最大級）|きゅうさいだいきゅう|~ level (highest level)|等级|～वर््ग (सबैभन्दान्दा ठूलोो वर््ग)|official
+13課| 62|多数|たすう|many|多数|अनेक|official
+13課| 63|出演-する|しゅつえん|to appear (in) (a TV program, film, etc.)|出演|पर्दामा उत्रनु|zhocr
+13課| 64|ゲスト||guest|客人，顾客|अतिथि|official
+13課| 65|オープニングイベント||opening event|开幕式|उदद्घाटनसमारोोह|official
+13課| 66|熱気|ねっき|heat, enthusiasm, fervor|热情|गर्मीी, तातोोपन, उत्साह|added
+13課| 67|包む（熱気に包まれる）|つつねっきつつ|(here: filled with|包裹（被热情包围）|ढाक्ु (तातोोले ढाक्ु)|added
+13課| 68|いよいよ||at any moment|更加,确实,终于|अब त|zhocr
+13課| 69|盛り上がる|もあ|to pick up steam|隆起,涌起,热烈|रमझम हुनु|official
+13課| 70|以上|いじょう|～, (the) above, that’s|以上|भन्दान्दा उच्च|added
+13課| 71|公開-する|こうかい|to release|公开|सार््वजनिक गराउनु|official
+13課| 72|試写会|ししゃかい|preview|预览|पूर््वप्रदर््शन|official
+13課| 73|予防-する|よぼう|to prevent|预防|प्रतिरोोध|official
+13課| 74|貢献-する|こうけん|to contribute|贡献|योोगददान दिनु|official
+13課| 75|一般|いっぱん|ordinary|一般，普通|साधारण|official
+13課| 76|特定-する|とくてい|to identify, to specify|特定，确定|पहिचान गर््ननु|added
+13課| 77|ハッシュタグ||hashtag|话题标签|ह्ासट्ाग|added
+13課| 78|企画-する|きかく|to plan|计划|योोजना गर््ननु|official
+13課| 79|場面|ばめん|situation|状态|अवस्ा|official
+13課| 80|語る|かた|to talk|讲述|बताउनु/कहनु|official
+13課| 81|皆|みな|everyone|全体|सबैैजना|zhocr
+13課| 82|食糧|しょくりょう|food (staple food)|粮食|खाद्य पददार््थ|official
+13課| 83|事業|じぎょう|project|事业|उद्योोग/व्यवसाय|official
+13課| 84|専念-する|せんねん|to devote oneself to|专心致志|केन्द्रि त हुनु|official
+13課| 85|起業-する|きぎょう|to start a business|创业|व्यवसायकोो सुरुवात गर््ननु|official
+13課| 86|成果|せいか|result, accomplishment|成果|प्रतिफल|zhocr
+13課| 87|ユニーク（な）||unique|独特的|अतुलनिय|zhocr
+13課| 88|各国|かっこく|each country/many countries|各国|हरेक मुलुक|zhocr
+13課| 89|関心|かんしん|interest|关心|चाख|zhocr
+13課| 90|寄せる|よ|to make (to send in)|靠近，召集|आइपर््ननु|official
+13課| 91|未来|みらい|future|未来|भविष्य|official
+13課| 92|広がり|ひろ|extent, spread (of)|扩展，蔓延|फैलने|added
+13課| 93|反応-する|はんのう|to react|反应|प्रतिक्रिया दिनु|official
+13課| 94|展開-する|てんかい|to develop|发展|विस्ारित हुनु|official
+13課| 95|連続-する|れんぞく|to continue|继续，持续|निरन्तर हुनु|official
+13課| 96|どきどき-する||to be excited, to race|忐忑不安|मुटु धड्किनु|zhocr
+13課| 97|訴える|うった|to appeal/plead for|诉讼，控告|ददावा गर््ननु|official
+13課| 98|少女|しょうじょ|young girls|少女|सानोो केटी|official
+13課| 99|大まか（な）|おお|broad, general, rough|大致的，粗略的|समग्रमा, लगभग|added
+13課|100|エンターテインメント||entertainment|娱乐|मनोोरन्जन|zhocr
+13課|101|商店|しょうてん|shop|商店|पसल|official
+13課|102|呼ぶ（話題を呼ぶ）|よわだいよ|to attract (to attract attention)|引起（引起话题）||zhocr
+13課|103|呼び込む|よこ|to attract|叫进来|बोोलाएर ल्याउनु|zhocr
+13課|104|散策-する|さんさく|to walk, to stroll|散步|यसोो घुमफिर गर््ननु|official
+13課|105|～型（散策型）|かたさんさくがた|-type (walking-type)|类型|～खालकोो (घुमफिर गर्ने खालकोो)|official
+13課|106|共同-する|きょうどう|to share|共有，共同|मिलेर काम गर््ननु|official
+13課|107|クイズ||quiz|考试|कुइज सवाल|official
+13課|108|書店|しょてん|bookshop|书店|पुस्तक पसल|official
+13課|109|QRコード||QR-code|二维码|कयु आर कोर््ड|zhocr
+13課|110|スタート-する||to start|开始|सुरु गर््ननु, स्टार््ट गर््ननु|official
+13課|111|～キット（スタートキット）||~ kit (starter kit)|～套装（入门套装）|～किट (स्टार््टर किट)|added
+13課|112|購入-する|こうにゅう|to purchase|买入|खरीदद गर््ननु|official
+13課|113|読み込む|よこ|to read|融会贯通，读入|राम्रोोसँग पढ्नु|official
+13課|114|活気|かっき|energy, liveliness|活泼|चहलपहल|official
+13課|115|生|せい|life, live (broadcast), natural, raw|生，直接；生的|कच्चा|added
+13課|116|ペース||pace|步伐，速度|गति|official
+13課|117|得-する|とく|to get money, to make a profit|获利，划算|प्ाप्त गर््ननु|added
+13課|118|つなぐ||to link|绑，接起来，维持|जोड्नु|official
+13課|119|試み|こころ|attempt|尝试|परीक्षण|official
+13課|120|株式会社|かぶしきがいしゃ|limited company|股份公司|कम्पनीलिमिटेड|official
+13課|121|友情|ゆうじょう|friendship|友情|मित्रता|official
+13課|122|豊富（な）|ほうふ|plenty|丰富|भरिपूर््ण|official
+13課|123|～面（文化面）|めんぶんかめん|side (on the culture side)|方面|(साांस्कृतिकपक्ष) पक्ष～|zhocr
+14課|  1|かける（時間をかける）|じかん|to spend (time doing)|表示动作进行了一点；(跟别人打招呼)|लाग्ु (समय लाग्ु)|zhocr
+14課|  2|作り上げる|つくあ|to create, to put together, to fabricate|打造，建成|निर्माण गर््ननु|added
+14課|  3|もの（ものの考え方）|かんがかた|matters, things (one’s perspective)|事物（事物的想法）|कुराहरू (कुराहरूकोो सोोच्े तरिकाहरू)|added
+14課|  4|見方|みかた|way of looking at things|看法|हेर्ने तरिका|added
+14課|  5|視点|してん|point of view|视角|दृष्टिकोोण|added
+14課|  6|背景|はいけい|background, context|背景|पृष्टभूमी|official
+14課|  7|自文化|じぶんか|one’s own culture|自身文化|आफ््ननैै संस्कृति|added
+14課|  8|耳を傾ける|みみかたむ|to listen to, to heed|倾听|ध्यान दिएर सुन्नु|added
+14課|  9|自分自身|じぶんじしん|one’s own|自己,自身|आफू स्वयम्|official
+14課| 10|見つめ直す|みなお|to reconsider, to reexamine|重新审视|पुनर््ममूल्याल्याङ्कन गर््ननु|added
+14課| 11|見つめる|み|to stare at, to look hard at|盯, 注视|गढिएर हेर््ननु|zhocr
+14課| 12|つぼ||pot|壶，罐；穴位|फूलददानी, घैैँटोो|added
+14課| 13|じっと||intently, motionlessly|一动不动地|स्थिर रहनु|added
+14課| 14|部分|ぶぶん|part, portion, section|部分|भाग|added
+14課| 15|焦点|しょうてん|focus|焦点|ध्यान केन्द्रि त|official
+14課| 16|当てる（焦点を当てる）|あしょうてんあ|to hit, to strike [here: to focus]|命中,击中(击中焦点)|गराउनु (ध्यान केन्द्रि त गराउनु)|official
+14課| 17|向き合う|むあ|to face each other, to confront (an issue)|面对面，正视|सामना गर््ननु|added
+14課| 18|向く（横を向く）|むよこむ|to turn toward, to face [here: to look away]|面向(面向我走来)|मोड्नु (छेउतिर मोड्नु)|zhocr
+14課| 19|深い|ふか|deep, intense, profound|深的|गहिरोो|added
+14課| 20|カルチャーショック||culture shock|文化冲击|साांस्कृतिक आघात|zhocr
+14課| 21|分別-する|ぶんべつ|to separate (rubbish)|分类|छुट्ाउनु|official
+14課| 22|プラスチック||plastic|塑料|प्लास्टि क|added
+14課| 23|服装|ふくそう|clothes|服装|लुगाफाटा|official
+14課| 24|専用|せんよう|exclusive use, for ~ only|专用|विशेष|added
+14課| 25|かご||basket|篮子|बास्केट|official
+14課| 26|当たる（かごが棚に当たる）|あたなあ|to be hit [here: the basket bumped the|碰上，命中|ठोक्किनु (टोोकरी शेल्फमा|zhocr
+14課| 27|ばさっと||with a thump|麻利|एकैै साथ सबैै|official
+14課| 28|さっと||quickly|突然|एकदम छिटोो|official
+14課| 29|洋品店|ようひんてん|clothing store|洋货店|लुगा पसल|official
+14課| 30|ブラウス||blouse|女性衬衣||official
+14課| 31|ハンガー||hanger|衣架|ह्ाङ्गर|official
+14課| 32|するっと||smoothly|滑落|सलक्क|official
+14課| 33|元通り|もとどお|former state|原样|पहिलेकोो जस्तैै|official
+14課| 34|さりげない||casually|若无其事|थाहा नपाउने गरी|official
+14課| 35|気を配る|きくば|to be mindful|留神，注意|ध्यान दिनु|official
+14課| 36|感じ|かん|feeling, sense, vibe|感觉，感受|महसुस|zhocr
+14課| 37|入社-する|にゅうしゃ|to join a company|进公司|कम्पनिमा नयााँ प्रवेश गर््ननु|official
+14課| 38|ぴかっと||something lighting up|闪烁|टिलिक्क|zhocr
+14課| 39|光る|ひか|to light up|发光，发亮|चम्कनु|zhocr
+14課| 40|ぽつぽつ||pitter patter|慢慢，渐渐|टपटप|official
+14課| 41|大粒|おおつぶ|large drop|大粒|ठूलोो थोोपा|official
+14課| 42|動き出す|うごだ|to start to move|开始行动|चल्नु|official
+14課| 43|仲|なか|relation(ship)|关系|मित्रता|official
+14課| 44|一斉に|いっせい|all together|一齐|एकैै चोटि|official
+14課| 45|普通|ふつう|ordinary, normal|普通|साधारणतया|official
+14課| 46|焼き上がる|やあ|to be baked|烧制完成|पोोलेर पाक्ु|official
+14課| 47|案|あん|proposal|计划，注意|जुक्ति|official
+14課| 48|境内|けいだい|the grounds of a shrine|境内|मन्दि रकोो प्ाङ्गण|zhocr
+14課| 49|しいんと||onomatopoeia for|静悄悄|निस्तब्ध|zhocr
+14課| 50|がらりと||dramatically|哗啦|स्वात्तैै|zhocr
+14課| 51|どこか（どこか寂しげ）|さび|way [here: seem|总觉得（总觉得有些寂寞）|कतैै (कतैै एक्लोो)|added
+14課| 52|懐かしい|なつ|(it) brings back memories|怀念|पुरानोो यादद दिलाउने|zhocr
+14課| 53|散る|ち|to fall (leaves, blossom)|散开，涣散|झर््ननु|zhocr
+14課| 54|ドーナツ||donut|甜甜圈|डोोनट|zhocr
+14課| 55|開店-する|かいてん|to open a shop (restaurant, etc.)|开店|पसल खुल्नु|official
+14課| 56|驚き|おどろ|surprise, wonder|惊讶|आश्चर््य|added
+14課| 57|見聞き-する|みき|experience, see and hear (firsthand)|见闻|हेर््ननुहोोस् र सुन्नुहोोस्|added
+14課| 58|浮かび上がる|うあ|to float up, to emerge, to stand out|浮现，显现|फैलि नु, सतहसम्म निस्कनु|added
+14課| 59|だまし絵|え|trompe (specifically a|错觉画|दृष्टि भ्रम|added
+14課| 60|複文化|ふくぶんか|identifying with|多元文化|बहुसाांस्कृतिक|added
+14課| 61|集団|しゅうだん|(refers to a collective|集体，群体|समूह|added
+14課| 62|軸|じく|axis, axle, center, focal point|轴；中心|अक्सिस|added
+14課| 63|よって||accordingly, for that|因此，据此|त्यसैैले|added
+14課| 64|多文化共生|たぶんかきょうせい|coexistence of multiple|多文化共生|बहुसाांस्कृतिक सहअस्तित्व|added
+14課| 65|共存-する|きょうぞん|to coexist|共存|सहअस्तित्वमा रहनु|added
+14課| 66|文化的（な）|ぶんかてき|cultural|文化的|साांस्कृतिक|added
+14課| 67|混じり合う|まあ|to be blended, to be mixed together|暂且，还可以|एकसाथ मिसाउनु|zhocr
+14課| 68|混じる|ま|to be blended with, to be combined, to join|掺杂，混入|मिश्रण गर््ननु|added
+14課| 69|存在-する|そんざい|to exist|存在|अस्तित्व रहनु|official
+14課| 70|ばらばら（な）||separate, in pieces,|零散的，各自分离的|छरिएकोो|added
+14課| 71|これまで||up until now|至今为止|अहिलेसम्म|official
+14課| 72|発想-する|はっそう|to conceive of|想出|कल्पना वा जुक्ति गर््ननु|official
+14課| 73|見当たらない|みあ|cannot find|找不到|कही पनि नभेटिएकोो|official
+14課| 74|～切り（12枚切り）|ぎまいぎ|counter for slices [here: cut into 12]|～片（切成12片）|～काटिएकोो (१२ स् ाइसमा काटिएकोो)|added
+14課| 75|焼きたて|や|freshly-baked|刚烧好的|भर््खर आगोोबाट निकालिएकोो|official
+14課| 76|アレルギー||allergy|过敏|एलर्जीी|official
+14課| 77|対応-する|たいおう|to correspond to,|应对，对应|प्रतिक्रिया दिनु|added
+14課| 78|代案|だいあん|alternative plan|替代方案|विकल्पहरू|added
+14課| 79|定食|ていしょく|set meal|套餐|सेटकोो खाना|official
+14課| 80|煮魚|にざかな|stewed fish|煮鱼|पकाएकोो माछा|official
+14課| 81|焼き魚|やざかな|grilled fish|烤鱼|पोोलेकोो माछा|official
+14課| 82|異文化|いぶんか|other cultures|不同文化|फरक संस्कृति|official
+14課| 83|適応-する|てきおう|to adjust|适应|घुलमिल हुनु|official
+14課| 84|曲線|きょくせん|curve|曲线|घुमाउरोो रेखा|official
+14課| 85|感情|かんじょう|feeling|感情|भावना|official
+14課| 86|ハネムーン||honeymoon|蜜月|मधुमास|zhocr
+14課| 87|～期（ハネムーン期）|きき|period (honeymoon period)|期间(蜜月期)|ध्यान पुग्ु|zhocr
+14課| 88|間近（な）|まぢか|close at hand|临近||official
+14課| 89|基づく|もと|to be based on, to be due to|基于|मा आधारित|added
+14課| 90|作成-する|さくせい|to create|创造|बनाउनु|official
+14課| 91|次第に|しだい|little by little|逐渐|हुँददा हुँददा|official
+14課| 92|興奮-する|こうふん|to be excited|兴奋|उत्तेजित हुनु|official
+14課| 93|というのも||because (slightly|因为|किनभने|added
+14課| 94|そういえば||come to think of it|这样|ए साच्चि|official
+14課| 95|上向く|うわむ|to look up|向上|माथि फर््ककिएकोो|official
+14課| 96|差|さ|difference|差别|अन्तर|official
+14課| 97|責任|せきにん|responsibility|责任|जिम् वारी|official
+14課| 98|持つ（責任を持つ）|もせきにんも|to take (to take responsibility)|持有(有责任)|लिनु (जिम् ा लिनु)|zhocr
+14課| 99|ボクシング||boxing|拳击|बक्सिङ|zhocr
+14課|100|図|ず|diagram, drawing, map, picture|图|आकृति|added
+14課|101|感心-する|かんしん|to be impressed|钦佩|धेरैै राम्रोो लाग्ु|official
+15課|  1|壁新聞|かべしんぶん|wall newspaper|壁报|भित्तेे खबर|official
+15課|  2|マジック||magic marker|魔术，戏法|मार््कर पेन|official
+15課|  3|上部|じょうぶ|top|上层，上侧|माथिल्लोो भाग|official
+15課|  4|見出し|みだ|title|标题|शीर््षक|official
+15課|  5|日付|ひづけ|date|日期|मिति|official
+15課|  6|平成|へいせい|Heisei era (from 1989)|平成|हेइसेइ साल (सन् १९८९ददेखि सुरु)|zhocr
+15課|  7|翌日|よくじつ|the following day|翌日，次日|भोलि पल्ट|official
+15課|  8|新聞社|しんぶんしゃ|newspaper company|新闻社，报社|समाचारपत्र कम्पनि|official
+15課|  9|死亡-する|しぼう|to die|死亡|मृत्ु हुनु|official
+15課| 10|行方不明|ゆくえふめい|missing|下落不明|गायब हुनु|official
+15課| 11|浸かる|つ|to be submerged|浸泡|चुर््ललुम्म डुब्ु|official
+15課| 12|～機（印刷機）|きいんさつき|machine (printing press)|机械|～मेशिन (छपाइ मेशिन)|official
+15課| 13|～中（余震が続く中）|なかよしんつづなか|the aftershocks|～中(178国中第90位)|～जारी (परकम्पनहरू जारी)|zhocr
+15課| 14|発行-する|はっこう|to issue|发行，发售|प्रकाशन गर््ननु|zhocr
+15課| 15|安否|あんぴ|safety|平安与否|सुरक्षित असुरक्षित|official
+15課| 16|否定-する|ひてい|to deny|否定|नकार््ननु|official
+15課| 17|決断-する|けつだん|to decide|决断|निर््णय गर््ननु|official
+15課| 18|泥水|どろみず|muddy water|泥水|हिलेपानी|official
+15課| 19|警察|けいさつ|police|警察|प्रहरी|official
+15課| 20|訪ねる|たず|to visit|访问|भेट्न आउनु/जानु|official
+15課| 21|配給-する|はいきゅう|to distribute|配给，定量供应|वितरण गर््ननु|official
+15課| 22|正確（な）|せいかく|accurate|正确（的）|सही|official
+15課| 23|改めて|あらた|anew|以新方法|संशोोधन गरेर/फेरि एक पटक|official
+15課| 24|～余り（20人余り）|あまにんあま|~ more than (more than 20 people)|各、每个|～बाँकीी (२० जना बाँकीी)|ensub
+15課| 25|創刊-する|そうかん|to launch a publication|创刊|सुरुवात गर््ननु|added
+15課| 26|疑う|うたが|to doubt|怀疑|शंका गर््ननु|official
+15課| 27|発信-する|はっしん|to transmit|发信，发报|पठाउनु/निकाल्नु|official
+15課| 28|欠かせない|か|indispensable|不缺|न भैै नहुने|official
+15課| 29|製品|せいひん|product|商品|उत्पाददन|official
+15課| 30|信頼-する|しんらい|to trust|信赖|भरोोसा राख्ु, विश्ास गर््ननु|official
+15課| 31|ジャンル||genre|种类，体裁|किसिम|official
+15課| 32|メディア||media|媒介，媒体|सन्चार माध्याम|official
+15課| 33|マスメディア||mass media|宣传媒介，多媒体|आम सन्चार माध्याम|official
+15課| 34|依存-する|いぞん|to have a dependence|依赖|पराश्रित हुनु|zhocr
+15課| 35|犯罪|はんざい|crime|犯罪|अपराध|zhocr
+15課| 36|～疲れ（SNS疲れ）|づかづか|~ fatigue [here: social media fatigue]|社交媒体|～थकित (SNS थकान)|ensub
+15課| 37|コミュニケーション||communication|交流|सन्चार/कुराकानी|official
+15課| 38|今や|いま|nowadays|现在|अहिले आएर|official
+15課| 39|ところが||(something unexpected|然而，可是|तर, तथापि|zhocr
+15課| 40|指摘-する|してき|to pinpoint|指出|जनाउनु/औंल्याउनु|official
+15課| 41|いつの間にか|ま|before you realize it|不知何时|कहिले होो थाहैै नपाईकन|official
+15課| 42|現象|げんしょう|phenomenon|现象|दृश्य घटना|official
+15課| 43|次（と）|つぎつぎ|one after another|连续不断,络绎不绝|एकपछि अर्कोो|official
+15課| 44|焦る|あせ|to feel pressure|焦虑|हतारिनु|official
+15課| 45|コメント-する||to comment|评论|कमेन्ट गर््ननु|official
+15課| 46|常に|つね|constantly|平时，常常|जहिले पनि/सधैैं|official
+15課| 47|アクセス-する||to access|进入|एक्सेस गर््ननु|official
+15課| 48|知らぬ間に|しま|before you know it|不知不觉间|थाहैै नपाईकन|official
+15課| 49|本来|ほんらい|by rights|本来|वास्तवममा हुनु पर्ने|official
+15課| 50|一見|いっけん|at a glance|一见,乍一看|यसोो हेर्दाा|official
+15課| 51|息苦しさ|いきぐる|feeling of being smothered|苦闷|उकुसमुकुस|zhocr
+15課| 52|求める|もと|to request|要求|माग गर््ननु|official
+15課| 53|第三者|だいさんしゃ|third party|第三方|तेस्रोो पक्ष|added
+15課| 54|送信-する|そうしん|to send, to transmit|发送|पठाउनु|added
+15課| 55|流出-する|りゅうしゅつ|to leak|遗漏|बाहिर निस्केस्केर आउनु|official
+15課| 56|安易（な）|あんい|easy, simple, careless|轻易的，草率的|सजिलोो|added
+15課| 57|慎重（な）|しんちょう|cautious|慎重|होोशका साथ|official
+15課| 58|リクエスト-する||to request|要求|रिक्वेस्ट गर््ननु|official
+15課| 59|応える|こた|to respond|应答，回应|स्ीकार््ननु|official
+15課| 60|晴れる（疑問が晴れる）|はぎもんは|to clear (a doubt is cleared)|消散(疑问消散)|स्पस्ट हुनु (शंका मेटिएर सबैै कुरा स्पस्ट हुनु)|zhocr
+15課| 61|消去-する|しょうきょ|to delete|消去|मेट्नु/खेस्ु|zhocr
+15課| 62|サイバー攻撃|こうげき|cyber attack|网络攻击||official
+15課| 63|扱う|あつか|to handle|处理，照顾|चलाउनु/व्यवहार गर््ननु|official
+15課| 64|余計（な）|よけい|uncalled-for|多余的|अतिरिक्त/अनावश्यक|official
+15課| 65|便利さ|べんり|convenience|便利性|सुविधा|added
+15課| 66|正しさ|ただ|rightness, accuracy, validity|仅仅，只|शुद्धता, ठिकपना|zhocr
+15課| 67|原稿|げんこう|draft|原稿|पाण्डुलि पी|official
+15課| 68|マイナス||negative|负的|माइनस/बेफाइददा|official
+15課| 69|できれば||if possible|如果可以|सकेसम्म|official
+15課| 70|取る（連絡を取る）|とれんらくと|to make (to make contact)|取得(取得联络)|राख्ु (सम्पर््क राख्ु)|zhocr
+15課| 71|勝手（な）|かって|without permission|只顾个人方便|एकतर्फी रूपमा/मनपरी|zhocr
+15課| 72|実物|じつぶつ|the real thing|实物|सक्कली|official
+15課| 73|紙面|しめん|space (page)|纸面，篇幅|समाचार पत्रकोो पृष्ठ|official
+15課| 74|フレーズ||phrase|短语|वाक्यांश|official
+15課| 75|パニック||panic|恐慌|सन्त्राास|official
+15課| 76|自ら|みずか|oneself|自己，亲自|आफू स्वयम्द्ारा|official
+15課| 77|ライフライン||lifeline|生命线|लाइफ लाइन|official
+15課| 78|物資|ぶっし|supplies|物资|आवश्यकसरसामान|official
+15課| 79|供給-する|きょうきゅう|to provide|提供|आपूर््तति गर््ननु|official
+15課| 80|支え合い|ささあ|mutual support|互相支撑|परस्परमा सहयोोग गर््ननु|official
+15課| 81|支える|ささ|to support|支援，在后面推|समर््थन गर््ननु, टेवा दिनु|official
+15課| 82|乗り切る|のき|to overcome|突破，克服|कष्टकोो समय पार गर््ननु|official
+15課| 83|激励-する|げきれい|to encourage|激励|प्रोत्साोत्साहन गर््ननु|official
+15課| 84|向く（前を向いて生きる）|むまえむい|to turn toward, to face [here: to stay positive]|面向(面向我走来)|अगाडि फर्कााउनु (प्रत्यक्ष अगाडि फर्कााउनु)|zhocr
+15課| 85|通常|つうじょう|normally|通常|प्रायजासोो|official
+15課| 86|～か所（６か所）|しょしょ|place (6 places)|～处，～个地方|～वटा स्ान (६ वटा स्ान)|official
+15課| 87|貼り出す|はだ|to stick up|张贴|टाँसेर राख्ु|official
+15課| 88|報道-する|ほうどう|to report, to cover|报道|सन्चार माध्यामकोो खबरमा आउनु|official
+15課| 89|ジャーナリズム||journalism|新闻业，新闻工作|पत्रकारिता|added
+15課| 90|永久|えいきゅう|eternity, permanence|永久|स्थायी|added
+15課| 91|保存-する|ほぞん|to save (data), to preserve, to store|保存|बचत गर््ननु|zhocr
+15課| 92|使命|しめい|mission|使命|गर््ननु पर्ने काम/जीवनकोो उद्देश्य|zhocr
+15課| 93|肌（肌で感じる）|はだはだかん|understand from|皮肤|छाला (छालामा महसुस गर््ननु)|zhocr
+15課| 94|発達-する|はったつ|to develop|发展|विकास हुनु,/वृद्धि हुनु|official
+15課| 95|結局|けっきょく|in the end|结果|आखिरमा आएर|zhocr
+15課| 96|削る（時間を削る）|けずじかんけず|back on time spent|削减(削减时间)|कम गर््ननु (समय कम गर््ननु)|zhocr
+15課| 97|受験票|じゅけんひょう|an admission ticket for an examination|准考证|परीक्ा टिकट|added
+15課| 98|データ||data|数据|डाटा|official
+15課| 99|バックアップ-する||to back up|后援，支援|पछाडि बाट सघाउनु|zhocr
+15課|100|ミス-する||to make a mistake|弄错，错误|गल्ीगर््ननु|official
+15課|101|予想外|よそうがい|unexpected|意外,未预料的事||official
+15課|102|ソーシャルメディア||social media|社交媒体|सोोसल मेडिया|official
+15課|103|インフルエンサー||(social media)|社交媒体|प्रभावकारी व्यक्ति|official
+15課|104|ステルスマーケティング||stealth marketing|隐形营销|स्ेल्थ मार्केटिङ्ग|official
+15課|105|略|りゃく|abbreviation|简称|छोोटकरी|official
+15課|106|広告-する|こうこく|to advertise|广告|विज्ापन गर््ननु|official
+15課|107|気付く|きづ|to realize|发觉，注意到|थाहा लाग्ु|official
+15課|108|宣伝-する|せんでん|to advertise, to promote (a product)|宣传|विज्ापन गर््ननु|added
+15課|109|好意的（な）|こういてき|favorable (reviews)|善意的，好意的|अनुकूल|added
+15課|110|印象付ける|いんしょうづ|to give a good impression of|留下印象|प्रभाव पार््ननु|zhocr
+15課|111|心理|しんり|psychology|心理|मानसिकता|zhocr
+15課|112|意図-する|いと|to intend to|企图，打算|जानिबुझि/चाहना गर््ननु|official
+15課|113|日常的（な）|にちじょうてき|everyday, common, routine|日常的|हरेक दिन|zhocr
+15課|114|操作-する|そうさ|to operate, to manipulate|操作|सञ्चालन गर््ननु|added
+15課|115|数多い|かずおお|many|多数|सङ््ख् ा बढि|official
+15課|116|複数|ふくすう|multiple, plural|多个，复数|धेरैै, बहु, अनेक|added
+15課|117|見極める|みきわ|to ascertain|看清,看透;辨别真伪|निरूपण गर््ननु|official
+15課|118|可能性|かのうせい|possibility, potential|可能性|सम्ावना|added
+15課|119|ダウンロード-する||to download|下载|डाउनलोड गर््ननु|added
+15課|120|画像|がぞう|image, graphic, picture|图像，图片|छवि|added
+15課|121|編集-する|へんしゅう|to edit, to compile|编辑|सम्पाददन गर््ननु|added
+15課|122|個人情報|こじんじょうほう|personal information|个人情报|व्यक्ति गत जानकारी|zhocr
+15課|123|漏れる|も|to leak|遗漏|चुहिनु/कुरा बाहिर आउनु|official
+16課|  1|ひょっとすると||maybe, possibly|也许，说不定|कहींकतैै|official
+16課|  2|なんとなく||no particular reason|无意中|किन होो किन|official
+16課|  3|高卒|こうそつ|high school graduate|高中毕业|हाइस्कुलकोो पढाइ पास गरेकोो|zhocr
+16課|  4|なぜなら||because|因为，原因是|किनभने|zhocr
+16課|  5|おかしな||odd, strange|奇怪的|अनौठोो खालकोो|official
+16課|  6|大卒|だいそつ|university graduate|大学毕业|विश्वविद्ालयकोो पढाइ पास गरेकोो|official
+16課|  7|真似-する|まね|to imitate|模仿|नक्कल गर््ननु|official
+16課|  8|業績|ぎょうせき|accomplishment, achievement|业绩|कार््य उपलब्धि|zhocr
+16課|  9|ごまんと||millions (thousands,|很多|असङ््ख््य|zhocr
+16課| 10|要するに|よう|in short|总之|भन्न खोोजेकोो के होो भने|official
+16課| 11|あやふや（な）||vague|含糊|अस्पस्ट|official
+16課| 12|ビジネスマン||businessman|商人|बिजिनेस म्ान|official
+16課| 13|マーケティング||marketing|市场|मार्केटिङ्ग|official
+16課| 14|弁護士|べんごし|lawyer|律师|वकिल|official
+16課| 15|コック||cook|公鸡|कुक (भान्से)|official
+16課| 16|～ら（彼ら）|かれ|indicates a plural (them)|～们(他们)|हरू～(उनीहरू)|official
+16課| 17|せいぜい||at most|尽量|जति सकिन्छ अहिले नैै|zhocr
+16課| 18|程度|ていど|extent|程度|स्तर/लेवल|official
+16課| 19|物理|ぶつり|physics|物理|भौतिक विज्ान|official
+16課| 20|帰り|かえ|going/coming home, going/coming back|回去，归途|फिर्ताा|added
+16課| 21|清掃-する|せいそう|to clean|清扫|सरसफाइ गर््ननु|official
+16課| 22|放課後|ほうかご|after school|下课后|कक्ाकोो पढाइ सिद्धिए पछि|official
+16課| 23|部活動（部活）|ぶかつどうぶかつ|club activities|社团活动|बुकाचुदोो (पढाइ अतिरिक्तकोो क्रियाकलाप)|official
+16課| 24|サボる||to skip, to bunk off|翘课，偷懒||zhocr
+16課| 25|ものすごい||terribly|可怖，厉害|एकदमैै|official
+16課| 26|だけど||but (informal)|但是|तरपनि|added
+16課| 27|レギュラー||regular member of a|普通|स्थायी खेलाडी|official
+16課| 28|やり続ける|つづ|to keep doing|坚持做下去|जारी राख्ु|added
+16課| 29|しゃべる||to chat|聊天|कुरा गर््ननु|zhocr
+16課| 30|右に出る者がいない|みぎでもの|no one surpasses him/ her|无人能及|कुनैै एक व्यक्ति भन्दान्दा उत्तम नभएकोो|added
+16課| 31|上り下り-する|のぼくだ|to go up and down, to rise and fall|上下（山）|माथि तल जानु|added
+16課| 32|続き|つづ|continuation, sequel, the rest of|续篇，后续|निरन्तरता|added
+16課| 33|生徒|せいと|pupil|徒弟|(हाइस्कूलसम्मकोो) विद्ार्थी|official
+16課| 34|業者|ぎょうしゃ|contractor|从业者|व्यवसायी|official
+16課| 35|ふざける||to joke around|开玩笑，嘲笑|जिस्किनु|official
+16課| 36|～内（学校内）|ないがっこうない|inside, within [here: in/ at school]|～内（校内）|भित्र (विद्ालय भित्र)|added
+16課| 37|隅|すみずみ|corners|各个角落|कुनाकाप्चा सबैै|official
+16課| 38|気|き|indication, spirit,|气，心思|मुड, अनुभव, अवस्ा|added
+16課| 39|納豆|なっとう|natto (fermented soy beans)|纳豆|नात्तोो/किनामा (भटमासबाट बनाइने खानेकुरोो)|zhocr
+16課| 40|湿度|しつど|humidity|湿度|आर्दद्रता|zhocr
+16課| 41|勝負-する|しょうぶ|to fight|胜负|हारजितकोो टुङ्गोो लाउनु|official
+16課| 42|運|うん|luck|命运|भाग्य|official
+16課| 43|大学入学共通テスト|だいがくにゅうがくきょうつう|Common Test for University Admissions|大学入学共通考试|साझा विश्वविद्ालय प्रवेश परीक्ा|added
+16課| 44|初日|しょにち|first day|第一天|पहिलोो दिन|zhocr
+16課| 45|公民[教科名|こうみんきょうかめい|civics|公民|नागरिक शिक्ा|official
+16課| 46|地理[教科名|ちりきょうかめい|geography|地理|भूगोोल शिक्ा|official
+16課| 47|～版（地方版）|ばんちほうばん|~ edition/version (local edition)|～版（地方版）|～संस्करण (क्षेत्रीय संस्करण)|added
+16課| 48|シーズン||season|季节|ऋतु|official
+16課| 49|ピーク||peak|顶峰|चरम बिन्दुन्दु|official
+16課| 50|迎える（ピークを迎える）|むかむか|to greet, to welcome [here: to reach a peak]|欢迎|पुग्ु (शिखरमा पुग्ु)|zhocr
+16課| 51|遠方|えんぽう|a long way away|远方|टाढा सम्म|official
+16課| 52|アイデア||idea|主意，想法|जुक्ति|official
+16課| 53|競う|きそ|to compete|竞争|प्रतिस्पर्धाा|official
+16課| 54|カツサンド||(breaded) pork cutlet|猪排三明治|काचुसान्दोो (सुंगुरकोो मासुहालेर|zhocr
+16課| 55|加湿器|かしつき|humidifier|加湿器|वाफ उत्पन्न गर्ने मेशिन|zhocr
+16課| 56|祈願-する|きがん|to pray|祈祷|प्ार््थना गर््ननु|official
+16課| 57|お札|さつ|amulet, talisman|符纸|जन्तर|official
+16課| 58|現役|げんえき|university entrance exam straight from|现役|हाइस्कूलकोो पढाइ लगत्तैै|zhocr
+16課| 59|臨む|のぞ|to face|面临|संलग्न हुनु/सामना गर््ननु|official
+16課| 60|年末年始|ねんまつねんし|the New Year’s holiday|年末年初||zhocr
+16課| 61|前向き（な）|まえむ|positive|正的|आशावाददी|official
+16課| 62|交える|まじ|to exchange|交换|मिसाउनु|official
+16課| 63|迷い始める|まよはじ|to begin to lose one’s way, to begin to worry|开始迷茫|अलमल्ल मा पर््न थाल्नु|added
+16課| 64|後押し-する|あとお|to support|支援，在后面推|ढाडस दिनु/प्रोत्साोत्साहन दिनु|official
+16課| 65|身に付ける|みつ|to learn|带在身上|ज्ान हासिल गर््ननु|official
+16課| 66|さ（それがさ）||express assertion (it’s|语气词，那个就是说吧|के भन्नेन्ने (त्यसकोो बारेमा के भन्नेन्ने कि)|zhocr
+16課| 67|場|ば|place|场所|ठाउँ/स्ान|zhocr
+16課| 68|成績|せいせき|results|结果|शैक्षिक परिणाम|official
+16課| 69|ボーナス||bonus|奖金，额外津贴|बोोनस|official
+16課| 70|あと～（あと数週間）|すうしゅうかん|more (a few more weeks)|还有～(还有几周)|अझैै～(अझैै केही हप्तासम्म)|zhocr
+16課| 71|農作物|のうさくぶつ|crop|农作物|कृषिजन्य उत्पाददन|zhocr
+16課| 72|演劇|えんげき|play|戏剧|नाटक/अभिनय कला|zhocr
+16課| 73|実家|じっか|parent’s home|老家|बाबुआमा रहने घर|official
+16課| 74|世の中|よなか|the world, life|世上，时代|संसार|official
+16課| 75|何の～もない（何の関係もない）|なんなんかんけい|no ~ at all [here: have|哪个|कुनैै～पनि छैैन (कुनैै पनि सम्बन्ध|zhocr
+16課| 76|さあ||here goes, hmm ...,|劝诱或催促;难以判断,无法明确回答;表示自己的决心;表如愿以偿的喜悦|लौ अब|zhocr
+16課| 77|単語|たんご|word|单词|शब्द|official
+16課| 78|～式（計算式）|しきけいさんしき|[here: equation (method of|～式(入学式)|～सूत्र (गणना सूत्र)|zhocr
+16課| 79|こなす||to deal with|弄碎，消化|गर््ननु, सम्पन्न गर््ननु|zhocr
+16課| 80|真剣（な）|しんけん|seriously|认真|गम्ीर रूपमा|official
+16課| 81|正体|しょうたい|true colors|原形，意识|सकल स्वरूप|official
+16課| 82|時間割|じかんわり|timetable|课程表|समय तालिका (रुटिन)|official
+16課| 83|組|くみ|class|组|सेक्शन/समूह|official
+16課| 84|社会[教科名|しゃかいきょうかめい|social studies|社会|सामाजिक शिक्ा|official
+16課| 85|技術[教科名|ぎじゅつきょうかめい|technical studies|技术|प्राविधिक शिक्ा|official
+16課| 86|学級活動|がっきゅうかつどう|homeroom activities|班级活动|हरेक कक्ाद्ारा गरिने अनेक क्रियाकलाप|official
+16課| 87|国語[教科名|こくごきょうかめい|Japanese|母语|राष्टट्र्र भाषा|official
+16課| 88|総合[教科名|そうごうきょうかめい|integrated study|综合|समग्र|official
+16課| 89|体育[教科名|たいいくきょうかめい|physical education|体育|शारीरिक शिक्ा|added
+16課| 90|理科[教科名|りかきょうかめい|science|理科|विज्ान सम्बन्धी|official
+16課| 91|美術[教科名|びじゅつきょうかめい|art|艺术|कला|official
+16課| 92|受験生|じゅけんせい|examinee|考生|परीक्ार्थी|official
+16課| 93|参考書|さんこうしょ|reference book|参考书|रिफरेन्स पुस्तक|official
+16課| 94|開く（教科書を開く）|ひらきょうかしょひら|to open (a textbook)|打开（打开课本）|खोोल्नु, पल् ाउनु (पाठ्यपुस्तक खोोल्नु, पल् ाउनु)|added
+16課| 95|筆記用具|ひっきようぐ|writing implements|笔记工具|लेख्े सरसामानहरू|official
+16課| 96|終える|お|to finish|做完，完成|सिद्धाउनु|official
+16課| 97|前回|ぜんかい|the last (previous) time|上次|अघिल्लोो पटक|added
+16課| 98|志願-する|しがん|to apply (for job, school, etc.), to aspire|志愿，报考|स्वयंसेवा गर््ननु|added
+16課| 99|前年|ぜんねん|the last (previous) year|前一年|अघिल्लोो वर््ष|added
+16課|100|下回る|したまわ|to be less than, to fall just short of|低于，在…以下|तलतिर जानु, घट्नु|added
+16課|101|少子化|しょうしか|declining birth rate|少子高龄化||official
+16課|102|合否|ごうひ|success or failure, (test) result|及格与否|पास/फेल|added
+16課|103|入試|にゅうし|entrance examination, admissions|入学考试|प्रवेश परीक्ा|added
+16課|104|ここ～（ここ数年）|すうねん|the last/past/next (few years)|这几年|यहााँ～(विगत केही वर््षददेखि यहााँ)|ensub
+16課|105|上昇-する|じょうしょう|to increase, to rise|上升|माथि उठ्नु|added
+16課|106|傾向|けいこう|inclination, tendency, trend|倾向|प्रवृत्ति|added
+16課|107|減免-する|げんめん|to reduce, to exempt|减免|घटाउनु/छूट दिनु|added
+16課|108|挙げる|あ|to raise, to give (examples)|举行, 举例, 举证|उददाउनु, सूचीबद्ध गर््ननु, उड्नु|zhocr
+16課|109|国公立大学|こっこうりつだいがく|national (public) university|国家公立大学|राष्टट्र्र निर््ममित सरकारी विश्वविद्ालय|zhocr
+16課|110|教科|きょうか|curriculum|教授科目|पाठ्य|zhocr
+16課|111|科目|かもく|subject|话题，课题|विषय|official
+16課|112|志望-する|しぼう|career, etc.), to wish|志愿|चाहना गर््ननु|zhocr
+16課|113|学科|がっか|department|学科|शिक्षण विभाग|zhocr
+16課|114|開始-する|かいし|to start|开始|सुरु गर््ननु|official
+16課|115|～近く（９時間近く）|ちかじかんちか|almost (almost 9 hours)|大体，大略|नपुग～(पुग नपुग ९ घण्ा) पुग|official
+16課|116|全域|ぜんいき|all areas|整个地区|सम्पूर््ण क्ेत्र|zhocr
+16課|117|交通機関|こうつうきかん|public transport|交通，机关|यातायातका साधन|official
+16課|118|長年|ながねん|many years|多年|धेरैै वर््षददेखि|official
+16課|119|マラソン||marathon|马拉松|माराथुन ददौड|official
+16課|120|付く（自信が付く）|つじしんつ|to gain (self-) confidence|带着自信|बढ्नु (आत्मविश्ास बढ्नु)|zhocr
+16課|121|うそ||lie|谎话|झुट|official
+16課|122|体感-する|たいかん|to experience|体验；身体所感|शरीरद्ारा अनुभव हुनु|official
+16課|123|関わる|かか|to be involved with|有关系|सम्बन्ध राख्ु|official
+16課|124|保護-する|ほご|to protect|守护，保护|संरक्षण गर््ननु|official
+16課|125|著書|ちょしょ|book|著作|रचनाका पुस्तक|official
+16課|126|ハンバーガー||hamburger|汉堡包|ह्यामवर््गर|official
+16課|127|～店（ハンバーガー店）|みせみせ|~ shop (hamburger restaurant)|商店|～पसल (ह्ाम्बर््गर पसल)|official
+16課|128|上げる（売り上げを上げる）|あうああ|to raise, to boost|上涨,升高(利益上涨)|बढाउनु (बिक्री बढाउनु)|zhocr
+16課|129|～ごと（グループごと）||by (by group)|连同|～मा (ग्रुप ग्रुपमा)|official
+16課|130|ディスカッション-する||to have a discussion|讨论|छलफल गर््ननु|official
+16課|131|決定-する|けってい|to decide|决断|निर््णय गर््ननु|official
+16課|132|分析-する|ぶんせき|to analyze|分析|विश्ेषण गर््ननु|official
+16課|133|通行人|つうこうにん|passer-by|过路人|बाटोमा हिड्ने मानिस|official
+16課|134|予測-する|よそく|to predict|预测|अनुमान गर््ननु|official
+16課|135|原価|げんか|cost price|原价|लागत मूल्य|official
+16課|136|原材料|げんざいりょう|raw materials|原材料|कच्च पददार््थ|official
+16課|137|説得-する|せっとく|to persuade|说服|सम्झाउनु/बुझाउनु|official
+16課|138|ロールプレイ||role play|角色表演|रोोल प्े/नाटक|official
+16課|139|アルバム||album|相册,专辑||official
+16課|140|あれこれ||this and that|这个那个|योो, त्योो|official
+16課|141|詰める|つ|to pack|守候，填满|कोोच्ु|official
+17課|  1|持ち続ける|もつづ|to hold on to|继续保持|लिइराख्ु|official
+17課|  2|学内|がくない|on-campus|大学内部|विद्ालयभित्र|official
+17課|  3|活動的（な）|かつどうてき|active|活动的，活跃的|कामकाजमा सक्रिय|official
+17課|  4|クライアント||client|委托人，客户|क्लायन्ट/ग्राहक|official
+17課|  5|意向|いこう|wishes|意向|विचार|official
+17課|  6|重視-する|じゅうし|to place a (high) value on|重视|महत्व दिनु|zhocr
+17課|  7|営業部|えいぎょうぶ|sales department|营业部|कारोोबार विभाग|zhocr
+17課|  8|配属-する|はいぞく|to assign|配置|नियुक्त गर््ननु|official
+17課|  9|売り込む|うこ|to make a sale/pitch|兜售，出卖|कुशलताका साथ बखान गरेर सामान बिक्री गर््ननु|official
+17課| 10|向く（私に向いている）|むわたしむ|to be cut out for (I am cut out for this)|面向(面向我走来)|सुहाउनु (मलाई सुहाउँछ)|zhocr
+17課| 11|部署|ぶしょ|department|部门|कार््य विभाग|zhocr
+17課| 12|所属-する|しょぞく|to belong to|属于|आबद्ध हुनु|official
+17課| 13|社会的責任|しゃかいてきせきにん|CSR (Corporate Social Responsibility)|社会责任|सामाजिक जिम् वारी|zhocr
+17課| 14|利益|りえき|profits|利益|नाफा|zhocr
+17課| 15|果たす|は|to play (a role)|完成，实现|पूरा गर््ननु|zhocr
+17課| 16|里山|さとやま|woodland in the countryside|山林|बन पाखा|zhocr
+17課| 17|雑木林|ぞうきばやし|copse|杂树丛|झाडीका जंगल|official
+17課| 18|かつて||in the past|曾经，以前|कुनैै समयमा|zhocr
+17課| 19|一人前|いちにんまえ|someone who stands on one’s own two feet|独当一面|परिपक्व|added
+17課| 20|ただ||but, free (of charge),|仅仅，只|यद्यपी/नि:शुल्क|zhocr
+17課| 21|自己満足-する|じこまんぞく|self-satisfaction|自我满足|आत्म सन्तुष्टि|official
+17課| 22|チャンス||chance|机会|मौका|official
+17課| 23|押し付ける|おつ|to force (responsibility) onto someone|强加，推给|शान्त हुनुi|added
+17課| 24|かわいそう（な）||cruel, unfair|令人同情的|दयालाग्दोो|zhocr
+17課| 25|セミナー||seminar|研讨会|सेमिनार|official
+17課| 26|取り寄せる|とよ|to send for|拉到手边|(हुलाकद्ारा) मगाउनु|official
+17課| 27|採用-する|さいよう|to employ|采用|नोोकरी आदिका लागि छान्नु|official
+17課| 28|国籍|こくせき|nationality|国籍|राष्ट्रियता|official
+17課| 29|優秀（な）|ゆうしゅう|talented|优秀的|उत्कृष्ट|official
+17課| 30|人材|じんざい|personnel|人材|मानव स्रोोत/संसाधन|official
+17課| 31|多様性|たようせい|diversity|多样性|विविधता|added
+17課| 32|高める|たか|to raise, to enhance|提高，增强|बढाउनु|added
+17課| 33|活性化-する|かっせいか|to stimulate, to revitalize|激活，使活跃|सक्रिय गर््ननु|added
+17課| 34|取る（コミュニケーション）|と|to take [here: to|进行（进行交流）|उडाउनु|added
+17課| 35|を取る）|と|communicate]|…（取得）|गर््ननु)|added
+17課| 36|視野|しや|(one’s) horizons|视野|दृष्टि क्ेत्र|official
+17課| 37|語学|ごがく|languages|语言学|भाषा शिक्ा|official
+17課| 38|専門的（な）|せんもんてき|specialized, professional, expert|专业的|विशेषज्ात्मक|added
+17課| 39|～度（理解度）|どりかいど|[here: (degree of) comprehension,|～度（理解程度）|～डिग्री (बुझाइकोो डिग्री)|added
+17課| 40|プラス||positive|正的|प्लस/फाइददा|official
+17課| 41|こうした||this kind of|这种，这样的|यस्तोो किसिमकोो|official
+17課| 42|自己PR-する|じこ|to promote oneself|自我公关|आफ्ननो बारेमा अपिल गर््ननु|official
+17課| 43|じっくり||carefully|仔细地,慢慢地|बिस्ार/गहिरोोसँग|zhocr
+17課| 44|学習-する|がくしゅう|to study|学习|सिक्ु/ज्ान आर््जन गर््ननु|official
+17課| 45|口が悪い|くちわる|sharp-tongued|毒舌|अशिष्ट बोोली|official
+17課| 46|エントリーシート||entry sheet|应聘申请表|इन्ट्रि पेपर|official
+17課| 47|農村|のうそん|farming village|农村，乡村|गाउँवेशी|official
+17課| 48|手入れ-する|てい|to maintain|维持|ददेखभाल गर््ननु|official
+17課| 49|保つ|たも|to preserve|永久保存|सोोही अवस्थामा राख्ु|official
+17課| 50|荒れる|あ|to run wild|乱闹|बिग्रनु/तितरवितर हुनु|official
+17課| 51|恵み|めぐ|blessings|恩惠，恩泽|अनुग्रह/कृपा|official
+17課| 52|農家|のうか|farmer|农户，农民|कृषक|official
+17課| 53|植林-する|しょくりん|tree planting|植树造林|वृक्षरोोपण गर््ननु|official
+17課| 54|草刈り|くさか|grass cutting|割草(的人)|घास काट्नु|official
+17課| 55|伐採-する|ばっさい|tree felling|砍伐|रुख कटान गर््ननु|official
+17課| 56|作業-する|さぎょう|to work|工作，操作|(तन मन लगाएर गरिने) कुनैै कार््य गर््ननु|official
+17課| 57|そのうち（に）||before long, one of|其中，不久|त्यस मध्ये मा|zhocr
+17課| 58|かけがえのない||irreplaceable|无可替代的|केवल एक/बददलामा नभएकोो|official
+17課| 59|飛び回る|とまわ|to fly around|飞来飞去|उडेर यताउती गर््ननु|official
+17課| 60|結び付ける|むすつ|to connect|系上，拴上|जोड्नु|official
+17課| 61|結ぶ|むす|to tie, to fasten, to connect|连接，缔结|बाँध्नु|added
+17課| 62|親子|おやこ|parent and child|亲子|बाबुआमा र छोोराछोोरी|official
+17課| 63|画家|がか|painter (artist)|画家|चित्रकार|official
+17課| 64|経済的（な）|けいざいてき|economically|不景气|आर््थथिक|official
+17課| 65|強み|つよ|strengths|强，强度|खुबी/बलियोो पक्ष|official
+17課| 66|価値|かち|value|价值|मूल्य|official
+17課| 67|～観（価値観）|かんかちかん|sense (sense of values)|～观(价值观)|सोोचाइ～(महत्व दिने सोोचाइ)|zhocr
+17課| 68|訪問-する|ほうもん|to visit|访问|भेट्न आउनु/जानु|official
+17課| 69|インターンシップ||internship|实习|इन्टर््नसिप|official
+17課| 70|実感-する|じっかん|to actually feel|有实感|अनुभव गर््ननु|official
+17課| 71|何がなんでも|なに|whatever happens|不管怎么说|अरू सबैभन्दान्दा|official
+17課| 72|みせる（なってみせる）||resolve to become|…给你看（一定成为…）|ददेखाउनु (भएर ददेखाउनु)|added
+17課| 73|戦う|たたか|to fight|胜负|लड्नु/विरोोध गर््ननु|official
+17課| 74|依頼-する|いらい|to request|要求|अनुरोोध गर््ननु|official
+17課| 75|宛先|あてさき|to (recipient)|收信人|पाउनेकोो ठेगाना|official
+17課| 76|件名|けんめい|subject|话题，课题|विषय|official
+17課| 77|ファイル||file|文件|फाइल|official
+17課| 78|添付-する|てんぷ|to attach|添付(附件)|सँगैै जोड्नु/संलग्न गराउनु|official
+17課| 79|ご無沙汰しております|ぶさた|Sorry I haven’t been in touch for a long time.|敬疏问候，好久不见|बेखबर भइरहेकोो छु (पत्र लेख््दा प्रयोोग हुने)|zhocr
+17課| 80|貴社|きしゃ|your company (honorific)|贵公司|(आददर गरेर कसैैकोो) कम्पनि|zhocr
+17課| 81|乗る（相談に乗る）|のそうだんの|to give (to give advice)|给予|दिनु (सल्ाह दिनु)|official
+18課|  1|収集-する|しゅうしゅう|to collect|收到|जम् ा गर््ननु|official
+18課|  2|自治体|じちたい|local government|自治团体|स्वयत्त निकाय|official
+18課|  3|年間|ねんかん|yearly|年间|१ वर््षभरिमा|zhocr
+18課|  4|総～（総排出量）|そうそうはいしゅつりょう|total (total emissions volume)|总～(总排出量)|टोोटल～(टोोटल निस्कासित मात्रा)|zhocr
+18課|  5|排出-する|はいしゅつ|to emit|排出|निस्कास्कासन गर््ननु|zhocr
+18課|  6|～トン（２トン）||tonne (2 tonnes)|～吨(两吨)|～मेट््ररिक टन (२ टन)|official
+18課|  7|東京ドーム|とうきょう|Tokyo Dome|东京巨蛋|टोोकियोो डोम|added
+18課|  8|～台（2,500万台）|だいまんだい|million range), counter for machines and|～台(2200万台)|～एकाइहरू (२ करोड ५० लाख एकाइहरू)|zhocr
+18課|  9|削減-する|さくげん|to reduce|减少|घटाउनु|official
+18課| 10|推移-する|すいい|to transition|推移|परिवर््तन हुनु|zhocr
+18課| 11|四国|しこく|Shikoku|四国|सिकोोकु प्रददेश|official
+18課| 12|山間部|さんかんぶ|mountainous region|山间|पहाडी भू-भाग|official
+18課| 13|資源|しげん|resource|资源|साधन स्रोोत|official
+18課| 14|住民|じゅうみん|residents|居民|वासिन्दान्दा|official
+18課| 15|～種（45種）|しゅしゅ|type (45 types)|类型|～प्रजातिहरू (४५ प्रजातिहरू)|official
+18課| 16|設ける|もう|to provide|提供|बनाउनु, स्ापना गर््ननु|official
+18課| 17|持ち込む|もこ|to take to (a place)|带入|लिएर आउनु|official
+18課| 18|運搬-する|うんぱん|to transport, to carry (a load)|搬运|यातायातबाट स्ानान्तरण गर््ननु|added
+18課| 19|もたらす||to bring about|带来|दिलाउनु/ल्याउनु|official
+18課| 20|有害（な）|ゆうがい|harmful, toxic|有害|हानिकारक|official
+18課| 21|物質|ぶっしつ|substance|材料|पददार््थ|official
+18課| 22|水質|すいしつ|water quality|水质|जल गुण|official
+18課| 23|悪影響|あくえいきょう|adverse effect|坏影响～本身|खराब असर|official
+18課| 24|～自体（仕組み自体）|じたいしくじたい|itself (the structure itself)|(计划本身)|～स्वयं (सिस्टम स्वयं नैै)|official
+18課| 25|オープン-する||to open (a facility,|开业，开放|खोोल्नु|added
+18課| 26|リユース-する||to reuse|再利用|पुन: प्रयोोग गर््ननु|added
+18課| 27|ショップ||shop, store|商店|पसल|added
+18課| 28|併設-する|へいせつ|affiliated with (a|附设|सँगैै स्ापना गर््ननु|added
+18課| 29|利便性|りべんせい|convenience, user- friendliness|便利性|सुविधाजनक|added
+18課| 30|理念|りねん|philosophy (of a|理念||added
+18課| 31|目指す|めざ|to aim for|以...为目标|लक्ष्य राख्ु|official
+18課| 32|挑戦-する|ちょうせん|to try|挑战|च्ालेन्ज गर््ननु|official
+18課| 33|絶え間ない|たま|constantly|平时，常常|अटुट रूपमा|official
+18課| 34|そのもの||itself|那个东西|अन्य नभएर स्वयम् त्यही|official
+18課| 35|問い|と|question|询问|सवाल/प्रश्न|official
+18課| 36|投げかける|な|to raise|投过去|तेर्स्यााउनु|official
+18課| 37|投げる（話題を投げる）|なわだいな|topic out there for|抛出（抛出话题）|प्रसारण गर््ननु, कास्ट गर््ननु (विषय प्रसारण गर््ननु)|added
+18課| 38|二酸化炭素|にさんかたんそ|carbon dioxide|二氧化碳|कार््वन डाइअक्साइड|official
+18課| 39|大気|たいき|air|大气|वायुमण्डल|official
+18課| 40|汚染-する|おせん|to pollute|污染|प्रददुषण गर््ननु|official
+18課| 41|排気ガス|はいき|exhaust fumes|排气|सवारीसाधनबाट निस्कासित हुने धुवाँ|official
+18課| 42|森林|しんりん|forest|森林|बन जंगल|official
+18課| 43|砂漠|さばく|desert|沙漠|मरुभूमी|official
+18課| 44|野生|やせい|wild, feral|野生|जङ्गली|added
+18課| 45|エコライフ||eco-living|环保生活|पर्याावरण मैत्रीैत्री जीवन शैैली|official
+18課| 46|～フェア（エコライフフェア）||fair (eco-living fair)|公平顾问|～मेला (एकोो लाइफ मेला)|official
+18課| 47|繁殖-する|はんしょく|to multiply,|繁殖|प्रजनन, ब्रिडिङ गर््ननु|added
+18課| 48|順調（な）|じゅんちょう|going well, doing OK, running smoothly|顺利的|सहज रूपमा|added
+18課| 49|放鳥-する|ほうちょう|to set a bird free|放归（放鸟）|चराहरूलाई छोडिदिनु|added
+18課| 50|推定-する|すいてい|to assume, to estimate|推定，估算|इस्टिमेट गर््ननु|added
+18課| 51|最～（最優先する）|さいさいゆうせん|most ~, ~est (give the highest priority to)|优先|शीर््ष～(शीर््ष प्राथमिकता दिनु)|ensub
+18課| 52|優先-する|ゆうせん|to give priority to|优先|प्राथमिकता दिनु|official
+18課| 53|寸前|すんぜん|just before|即将……之前|-नैै लागेकोो|official
+18課| 54|追い込む|おこ|to drive to|追进，撵进|झन धकेल्नु|official
+18課| 55|生き物|いもの|creature|生物|जीवितप्ाणी|official
+18課| 56|手を打つ|てう|to take measures|高兴|उपाय गर््ननु|official
+18課| 57|学名|がくめい|scientific name|学名|एकडेमिक नाम|zhocr
+18課| 58|ファンクラブ||fan club|粉丝俱乐部|फन क्लब|added
+18課| 59|動植物|どうしょくぶつ|plants and animals, living things|动植物|वनस्पति र जीवजन्ु|added
+18課| 60|深刻（な）|しんこく|serious|深刻，严肃|गम्ीर|official
+18課| 61|さんざん||all sorts|厉害，严重|अनेक गरेर|official
+18課| 62|どんな（どんな生物でも）|せいぶつ|(whatever kind of|什么样的|जीवजन्ु/जिवीत प्ाणी|official
+18課| 63|湧き水|わみず|a spring|涌出的水|मुल फुटेकोो पानी|official
+18課| 64|日本酒|にほんしゅ|Japanese sake|日本酒|जापानी रक्सी|official
+18課| 65|酒蔵|さかぐら|sake brewery|酒窖|रक्सी राख्े भण्डाण्डार|official
+18課| 66|試飲-する|しいん|to taste (sake, wine, etc.)|试喝|पिएर स्वादद चाख्ु|zhocr
+18課| 67|一口|ひとくち|a mouthful|一口，一点|एक घुट्कोो|zhocr
+18課| 68|蓄える|たくわ|to store|储备，积累|जम् ा गरेर राख्ु|official
+18課| 69|働き|はたら|work(ings), labor, function, action, ability|作用，功能|काम|added
+18課| 70|大量（な）|たいりょう|a large quantity of|大量|धेरैै मात्रामा|official
+18課| 71|洪水|こうずい|flood|洪水|बाढी (सूचनाकोो बाढी)|official
+18課| 72|再生-する|さいせい|to regenerate|再生|पुनर्जीवित हुनु|official
+18課| 73|年月|ねんげつ|time (months and years)|时刻|वर््ष महिना|official
+18課| 74|大型|おおがた|large-scale|大型|ठूलोो खालकोो|zhocr
+18課| 75|どれほど||(no matter) how ~,|多么，何等|कति|added
+18課| 76|ゼロ||zero|零|शुन्य|official
+18課| 77|宣言-する|せんげん|to declare|宣言|घोोषणा गर््ननु|official
+18課| 78|町民|ちょうみん|townspeople, resident of a town|镇民|शहरवासी|added
+18課| 79|リサイクル-する||to recycle|循环，回收|पूनर््चलन गर््ननु|official
+18課| 80|向ける（2030年に向けて）|むねんむ|face, to aim for [here:|面向（面向2030年）|तर््फ हेर्दाा (२०३० तर््फ हेर्दाा)|added
+18課| 81|先駆者|せんくしゃ|pioneer, trailblazer|先驱者|अग्रगामीहरू|added
+18課| 82|～づくり（人づくり）|ひと|creating (creating human resources)|用～制造(人造)|～कोो उत्पाददन (दक्ष मानवकोो उत्पाददन)|zhocr
+18課| 83|重点|じゅうてん|importance, priority,|重点|प्राथमिकता|zhocr
+18課| 84|掲げる|かか|etc.), to display, to|高举，提出|उठाउनु|added
+18課| 85|あらゆる||all, every (kind of)|所有的，一切|सबैै|added
+18課| 86|実験-する|じっけん|to experiment, to (put to the) test|实验|प्रयोोग गर््ननु|added
+18課| 87|チャレンジ-する||to challenge, to try, to|挑战|चुनौती दिनु|added
+18課| 88|リーダー||leader, reader|领导者|नेता|added
+18課| 89|輩出-する|はいしゅつ|other, to produce (graduates, prize|人才辈出|उत्पाददन गर््ननु|added
+18課| 90|そもそも||in the first place|最初，开端|सुरुमा/खासमा|official
+18課| 91|省エネ|しょう|energy-saving|节电|कम इनर्जीी खपत हुने|official
+18課| 92|節電-する|せつでん|to save electricity|节电|बिजुलीकोो खपतमा मितउययी गर््ननु|zhocr
+18課| 93|植物|しょくぶつ|plant|植物|बोोटबिरुवा|zhocr
+18課| 94|ゴーヤ||bitter gourd|苦瓜|तिते करेला|official
+18課| 95|壁際|かべぎわ|against a wall|墙壁|भित्ताानिर र|official
+18課| 96|減らす|へ|to reduce|减少|घटाउनु|official
+18課| 97|葉|は|leaf|叶|पात|official
+18課| 98|防ぐ|ふせ|to prevent|预防|बाट बचाउनु/रोोकथाम गर््ननु|official
+18課| 99|向き（部屋の向き）|むへやむ|orientation (the orientation of a room)|方向|फर्क् यााइ (कोोठाकोो फर्क् यााइ)|zhocr
+18課|100|時間帯|じかんたい|the time of day|时区|समय तिर|official
+18課|101|頼る|たよ|to depend on|依赖|भर पर््ननु|official
+18課|102|実|み|fruit|果实|फल|official
+18課|103|反省-する|はんせい|to repent|反省|पश्चााताप गर््ननु|official
+18課|104|再～（再利用）|さいさいりよう|re~ (reuse), do ~ again|再～（再利用）|पुनः (पुनः प्रयोोग)|added
+18課|105|不要（な）|ふよう|unwanted|不要，无用|अनावश्यक|official
+18課|106|貼り紙|はがみ|poster|贴纸|टाँसेर राखेकोो कागज/सूचना|official
+18課|107|タイプ||type|类型|टाइप/किसिम|official
+18課|108|タイヤ||tire|轮胎|टायर|official
+18課|109|新品|しんぴん|brand new|新品|नयााँ सामान|official
+18課|110|同様（な）|どうよう|same|同样|उस्तैै खालकोो|official
+18課|111|暴力|ぼうりょく|violence|暴力|कुटपिट|official
+18課|112|外出-する|がいしゅつ|to go out|外出|बाहिर निस्कनु|official
+18課|113|トキ||Japanese crested ibis|桃花鸟|तोोकि (पेलिकनजातकोो एक चरोो)|official
+18課|114|パネル||panel|告示板|कोोठाभित्र कागज टाँसेर सूचना|official
+18課|115|狩猟-する|しゅりょう|to hunt|狩猎|शिकार गर््ननु|official
+18課|116|乱獲-する|らんかく|to overhunt|滥捕|जथाभावि शिकार गर््ननु|official
+18課|117|田んぼ|た|rice field|农田|खेत|official
+18課|118|破壊-する|はかい|to destroy|破坏|नष्ट गर््ननु|official
+18課|119|半島|はんとう|peninsula|半岛|प्रायद्विप|official
+18課|120|～羽（５羽）|わわ|counter for birds (5 birds)|～只（5只，鸟类）|～मा बाँड्ने (ग्रुपमा बाँड्ने)|added
+18課|121|絶滅-する|ぜつめつ|to become extinct|灭绝|लोोप हुनु|official
+18課|122|救う|すく|to save|搭救，救援|बचाउनु|official
+18課|123|タワー||tower|塔|टावर|zhocr
+19課|  1|認識-する|にんしき|to recognize, to notice, to understand|认识，认知|चिन्नुन्नु|added
+19課|  2|生命|せいめい|life, career|生命|जीवन|added
+19課|  3|～誌（生命誌）|しせいめいし|(here: “Biohistory,” the|～志（生命志）|～पत्रिका (बायोोपत्रिका)|added
+19課|  4|幼稚園|ようちえん|kindergarten, preschool|幼儿园|बाल सददन, किन्डरगार्टेेन|added
+19課|  5|進歩-する|しんぽ|to advance, to progress|进步|प्रगति गर््ननु|added
+19課|  6|手を抜く|てぬ|to cut corners, to skimp|偷工减料|कमसल हुनु, सजिलोो बनाउनु, छेउछाउ काट्नु|added
+19課|  7|思い通り|おもどお|as one wants, as one sees fit|如自己所愿|अपेक्ा गरे जस्तैै|added
+19課|  8|指す|さ|to point, to indicate, to specify, to nominate|指，指向|तोोक्ु, इन्सर््ट गर््ननु|added
+19課|  9|生み出す|うだ|to give birth to, to produce, to cause|创造出，产生|उत्पाददन गर््ननु, जन्ाउनु|added
+19課| 10|生む|う|to produce, to yield|产生，生出|जन्मिनु|added
+19課| 11|徒歩|とほ|walking, on foot|步行|हिँड्ने|added
+19課| 12|ありがたさ||value, virtue,|可贵之处|कृतज्ञता|added
+19課| 13|過程|かてい|process, course|过程|प्रक्रिया|added
+19課| 14|手をかける|て|to place a hand on, to care for|花心思，精心照料|सुरु गर््ननु, काममा हात लगाउनु|added
+19課| 15|変異-する|へんい|to mutate|变异|उत्परिवर््तन हुनु|added
+19課| 16|遺伝-する|いでん|to be inherited, to be passed down|遗传|वंशानुगत गुण पुस्तान्तरण हुनु|added
+19課| 17|巻頭言|かんとうげん|foreword, preface|卷首语|सम्पाददकीय|added
+19課| 18|協同-する|きょうどう|to collaborate,|协同|सहकार््य गर््ननु|added
+19課| 19|先端|せんたん|tip, forefront|尖端，前沿|सुझाव, ददेखाउनुपर्ने बिन्दुन्दु|added
+19課| 20|ロボット||robot|机器人|रोोबोोट|official
+19課| 21|医療|いりょう|medical treatment|医疗|चिकित्सात्सा सम्बन्धी|zhocr
+19課| 22|～汁（ゆで汁）|じるじる|broth (cooking water)|沸水,煮沸后的汤汁|～सुप (उमालेकोो सुप)|ensub
+19課| 23|技|わざ|trick|技能,本领|सिप/कला|official
+19課| 24|界面活性剤|かいめんかっせいざい|surface-active agent|表面活性剂|सरफेकट्ान्ट|official
+19課| 25|分離-する|ぶんり|to separate|分离||official
+19課| 26|仲良く|なかよ|in a friendly manner|亲密的,关系好的|मिलिझुलि|official
+19課| 27|卵黄|らんおう|egg yolk|蛋黄|अण्डाकोो पहेलोो भाग|official
+19課| 28|含む|ふく|to contain|包含|समेटिएकोो|official
+19課| 29|油分|ゆぶん|fat content|油分,油的成分|तैलिकपददार््थ|official
+19課| 30|付き物|つもの|an essential part of|附属物;副食|सँगैै आइलाग्े|official
+19課| 31|べたべた-する||to be sticky/thick, to|发粘,黏糊糊|टाँसिने हुनु, टाँस्ु|zhocr
+19課| 32|浮き上がる|うあ|to float to the top|浮出;出现;摆脱|तैैरिनु|official
+19課| 33|浮く|う|to float|浮起|तैैरनु|added
+19課| 34|洗い物|あらもの|things to be washed (dishes, laundry, etc.)|要洗的东西|माझ्े भाँडा/वस्ु|added
+19課| 35|断然|だんぜん|much more|断然,绝对;态度干脆|अवश्य पनि/सत प्रतिशत|official
+19課| 36|混ぜる|ま|to mix|混合|मिसाउनु|official
+19課| 37|性質|せいしつ|property|性质|स्वभाव/विशेषता|official
+19課| 38|からむ||to combine|纠缠;牵涉;胡搅蛮缠|अल्झनु|official
+19課| 39|水分|すいぶん|water content|水分(人)亲近,|तरल पददार््थ|official
+19課| 40|なじむ||to blend in|(环境)熟悉适应|मिल्नु|official
+19課| 41|航空|こうくう|air|大气|विमान सम्बन्धी|official
+19課| 42|引く（関心を引く）|ひかんしんひ|to draw (interest, attention)|吸引（引起关注）|आकर््षषित गर््ननु (ध्यान आकर््षषित गर््ननु)|added
+19課| 43|ジェットコースター||roller coaster|过山车|रोोलर कोस्ट र|official
+19課| 44|勢い|いきお|momentum|权势,气焰;干劲|वेग/गति/रफ्ार/|official
+19課| 45|～用（福祉用）|ようふくしよう|people with|～用（福祉用）|～लागि (कल्याणका लागि)|added
+19課| 46|脚|あし|leg|脚,腿|खुट्ा|official
+19課| 47|装着-する|そうちゃく|to wear (attach to)|着装,穿|लगाउनु/फिटिङ गर््ननु|official
+19課| 48|味方|みかた|ally|友方|पक्ष/सहमत कर्ताा|official
+19課| 49|コスト||cost|成本,生产费;物价|लागत मूल्य|official
+19課| 50|使いこなす|つか|to have a good command of|运用自如|(मेशिन आदि) राम्रोोसँग चलाउन सक्ु|zhocr
+19課| 51|抵抗-する|ていこう|to resist|抵抗|प्रतिरोोध गर््ननु|official
+19課| 52|身の回り|みまわ|personal (care)|身边衣物;日常生活|आफ्ननो वरिपरि|official
+19課| 53|課題|かだい|issue|课题|(समाधना गर््ननु पर्ने) समस्ा|official
+19課| 54|目上|めうえ|elder/senior|上司|आफूभन्दान्दा ठूलोो|official
+19課| 55|議論-する|ぎろん|to discuss|议论|वादविवादद गर््ननु|official
+19課| 56|売り切れる|うき|to sell out|全部售完,售罄|बिक्रीकोो सामान सकिनु|official
+19課| 57|入荷-する|にゅうか|to arrive (goods)|进货,到货|नयााँ सामान भित्राउनु|official
+19課| 58|保証書|ほしょうしょ|guarantee|保证书|ग्यारेन्टि पत्र|official
+19課| 59|毎度|まいど|each time|每次|हरक पटक, जहिले पनि|official
+19課| 60|～でございます||It is (humble)|“です”郑重的说法|～होो, छ (आददरभावमा)|official
+19課| 61|電源|でんげん|power source|电源|विद्ुत शक्ति|official
+19課| 62|締め切り|しき|deadline|截止,届满|म्यादद अवधि|official
+19課| 63|立ち上げる|たあ|to stand up, to rise up, to start up|启动;成立,设立|सुरुवात गर््ननु|zhocr
+19課| 64|電源構成|でんげんこうせい|sources (what amount comes from coal, from|电源构成|शक्ति विस्ार व्यवस्ापन|added
+19課| 65|兆|ちょう|1 trillion|兆（万亿）|ट््ररिलियन|added
+19課| 66|億|おく|100 million|亿|१० करोड|official
+19課| 67|原子力|げんしりょく|nuclear power|原子能|आणविक शक्ति|official
+19課| 68|天然ガス|てんねん|natural gas|天然气|प्ाकृतिक ग्याँस|added
+19課| 69|石油|せきゆ|oil|石油|पेट््ररिलियम पददार््थ|zhocr
+19課| 70|水力|すいりょく|hydro-electric power|水力|जलजन्य शक्ति|zhocr
+19課| 71|地熱|ちねつ|geothermal energy|地热能源|भू-तापीय|official
+19課| 72|バイオマス||biomass|生物质|बायोमास|added
+19課| 73|主（な）|おも|main|主要的|प्रमुख|official
+19課| 74|すい臓|ぞう|pancreas|胰腺|प्यान्क्रियाज|official
+19課| 75|腎臓|じんぞう|kidney|肾脏|मृगौला|official
+19課| 76|臓器|ぞうき|organ|脏器|भित्री अङ्गहरू|official
+19課| 77|かかる（病気にかかる）|びょうき|to become (to become ill)|自立|लाग्ु (रोोग लाग्ु)|official
+19課| 78|二度と|にど|never again|(下接否定)再也|फेरि कहिले पनि|zhocr
+19課| 79|体内|たいない|inside the body|体内|शरीर भित्र|official
+19課| 80|老廃物|ろうはいぶつ|body waste|排泄物,代谢物|काम नलाग्े पददार््थ|official
+19課| 81|ろ過-する|か|to filter|过滤|छान्नु|official
+19課| 82|体外|たいがい|outside the body, external|体外|इन भिट््ररोो, शरीर बाहिर|added
+19課| 83|透析-する|とうせき|to undergo dialysis|透析|डायलाइसिस गर््ननु|official
+19課| 84|腎移植|じんいしょく|kidney transplant|肾脏移植|मृगौलाकोो ट््रान्सप्ान्ट|official
+19課| 85|移植-する|いしょく|to transplant|移植|एक शरीर बाट अर्कोो शरीरमा सार््ननु|official
+19課| 86|免疫|めんえき|immunity|免疫|रोोग प्रतिरोोधक|official
+19課| 87|拒絶-する|きょぜつ|to reject|排斥，拒绝|अस्ीकार गर््ननु|added
+19課| 88|追い出す|おだ|to eject|逐出,撵出,赶出|निस्कास्कासन गर््ननु|official
+19課| 89|抑える|おさ|to suppress|抑制,控制|ददबाउनु|official
+19課| 90|細菌|さいきん|bacteria|细菌|व्याक्टेरिया|official
+19課| 91|感染-する|かんせん|to infect|感染|संक्रमण हुनु|official
+19課| 92|ドナー||donor|脏器捐献者|डोोनर/दिने वाला|official
+19課| 93|人工的（な）|じんこうてき|artificially|人工的|अप्ाकृतिक/कृत्रिम|official
+19課| 94|可能（な）|かのう|possibility|可能的|सम्भव|official
+19課| 95|画期的（な）|かっきてき|ground-breaking|划时代的|युगान्तकारी/क्राान्तिकारी|official
+19課| 96|自身|じしん|oneself, itself|自身，本身|आफैैँ|added
+19課| 97|体中|からだじゅう|throughout the entire body, from head to toe|全身|इन भिभोो, शरीरभित्र|added
+19課| 98|組織|そしき|tissue|组织|समूह, सङ्गठन|official
+19課| 99|実用|じつよう|practical use, utility|实用|व्यावहारिक|added
+19課|100|優れる|すぐ|to be excellent,|优秀，出色|उत्कृष्ट|added
+19課|101|改良-する|かいりょう|to improve|改良|सुधार गर््ननु|official
+19課|102|竜|りゅう|dragon|龙|ड््रागन|official
+19課|103|物語|ものがたり|tale, story|故事|कथा|added
+19課|104|建築-する|けんちく|to construct, to build|建筑||added
+19課|105|理論|りろん|theory|理论|सिद्धान्त|added
+19課|106|外交|がいこう|diplomacy|外交|कूटनीति|added
+19課|107|相容れない|あいい|incompatible, in|互不相容|असङ्गत, अमिल्दोो|added
+19課|108|農業|のうぎょう|agriculture, farming|农业|कृषि|added
+19課|109|呼びかけ|よ|call (for volunteers, etc.), appeal|呼唤|बोोलाउने|zhocr
+19課|110|根本|こんぽん|root, origin, basis|根本|आधार|added
+19課|111|システム||system|制度|सिस्टम, प्रणाली|official
+19課|112|ゲノム編集|へんしゅう|gene editing|基因组编辑|जिनोम सम्पाददन|added
+19課|113|栄養価|えいようか|nutritional value|营养价值|पोोषण मूल्य|added
+19課|114|品種|ひんしゅ|type, breed, variety|品种|विविध|added
+19課|115|悪者|わるもの|villain, bad person|坏人|नराम्रोो मान्छे|added
+19課|116|あくまでも||after all, to the utmost,|说到底，归根结底|अन्त्यसम्म|added
+19課|117|作物|さくもつ|crops, agricultural produce|农作物|बाली|added
+19課|118|喜び|よろこ|joy, happiness|喜悦，高兴|आनन्द|added
+19課|119|見出す|みだ|to discover|开始看;发现,找出|भेट्ाउनु/आभास गर््ननु|official
+19課|120|良しとする|よ|to approve, to deem acceptable|认可，视为妥当|स्ीकार गर््ननु|added
+19課|121|間（長い間）|あいだながあいだ|[here: (for) a long|期间（长年累月）|अवधि (लामोो अवधि)|added
+19課|122|政治|せいじ|politics|政治|राजनीति|added
+19課|123|前者|ぜんしゃ|the former (as opposed to “the latter”)|前者|पहिलेकोो, भुतपूर््व|added
+19課|124|輪|わ|loop|环;圆;车轮|गोोलाई|zhocr
+19課|125|逆さま|さか|upside-down|颠倒,相反|उल् ापाल् ी|official
+19課|126|バケツ||bucket|水桶,桶状容器|बाल््टिन|official
+19課|127|ぐるぐる||round and round|滴溜溜地转,团团转|फनफन घुम्ु|official
+19課|128|振り回す|ふまわ|to swing around|挥舞,抡起|यताउता गराउनु|official
+19課|129|振る|ふ|to swing, to shake, to wave|挥，摇|हल्ाउनु|added
+19課|130|こぼれる||to spill|洒漏，掉，落道歉|पोोखिनु|official
+19課|131|理屈|りくつ|logic|理论;道理;歪理;借口|तर््क/भनाइ|official
+19課|132|円|えん|circle|日元;圆|गोोलाकार|official
+19課|133|遠心力|えんしんりょく|centrifugal force|离心力|केन्द्रापसारी शक्ति|official
+19課|134|スピード||speed|速度|तेज गतिकोो|official
+19課|135|あまりに||too (much), overly|过于|त्यस्तोो धेरैै|added
+19課|136|万が一|まんいち|just in case|以防万一|कहिं कतैै|official
+19課|137|車輪|しゃりん|wheel|车轮|गाडीका पाङ््ग्रराा|official
+19課|138|レール||rail|扶手,栏杆;铁轨,轨道|ट््रेन आदिकोो लीक|official
+19課|139|装置|そうち|device|装置||official
+19課|140|導入-する|どうにゅう|to introduce|引入;引用|नयााँ प्रयोोगमा ल्याउनु|official
+19課|141|条件|じょうけん|conditions|条件|सर््त|official
+19課|142|介助-する|かいじょ|to assist|在旁辅助,帮助|अशक्तलाई सघाउनु|official
+19課|143|リハビリ-する||to undergo|(病患)机能恢复训练|पुनर्स्थाापना गर््ननु|official
+19課|144|癒し|いや|healing, therapy|治愈|निकोो, विसेक|added
+19課|145|人手|ひとで|manpower|人手|मानिसकोो काम सहयोोग|zhocr
+19課|146|現場|げんば|site|现场|फिल्ड/सोहि स्ान|official
+19課|147|かわいがる||to cherish, to dote on|疼爱|मन पराउने|added
+19課|148|触れ合う|ふあ|with, to interact with,|接触，交流|अन्तर्क्रिया गर््ननु|added
+19課|149|触れる|ふ|to touch|触摸|स्पर््ष गर््ननु|official
+19課|150|愛らしい|あい|endearing|可爱,值得爱的样子|माया लाग्दोो|official
+19課|151|身体的（な）|しんたいてき|physical|身体的|शारीरिक रुपमा|official
+19課|152|援助-する|えんじょ|to support|支援，在后面推|सहायता गर््ननु|official
+19課|153|福祉|ふくし|welfare|福利,福祉|समाज कल्याण|official
+19課|154|戦後|せんご|period following the end of Second World|战后|युद्धपछिकोो|added
+19課|155|かつ||at the same time|暂且|साथसाथैै|zhocr
+19課|156|安定的（な）|あんていてき|stable|安定的|स्थिर तथा स्थायीरूपमा|official
+19課|157|建設-する|けんせつ|to construct|工程，施工|निर्माण गर््ननु|official
+19課|158|脱～（脱原発）|だつだつげんぱつ|(de-nuclearization, abandoning nuclear|脱离～（去核电）|बन्द～(आणविक ऊर्जाा बन्द)|added
+19課|159|原発|げんぱつ|nuclear energy, nuclear power (plant)|核电站|आणविक ऊर्जाा|added
+19課|160|再生可能エネルギー|さいせいかのう|renewable energy|自然能源,可持续能源|नवीकरणीय ऊर्जाा|official
+19課|161|バイオ燃料|ねんりょう|bio-fuel|生物燃料|जैविक इन्धन|official
+19課|162|火山|かざん|volcano|过山车|ज्ालामुखी|official
+19課|163|主要（な）|しゅよう|primary, main, chief|主要的|मुख्य|added
+19課|164|需要|じゅよう|(economic) demand|需求|माग|added
+19課|165|ますます||more and more, further,|越来越|झन् झन्|added
+19課|166|第一|だいいち|first|先到|सर््वप्रथम|official
+19課|167|考慮-する|こうりょ|to consider, to take into account|考虑|विचार गर््ननु|added
+19課|168|組み合わせる|くあ|to assemble, to match, to put together|组合，搭配|संयोोजन गर््ननु|added
+19課|169|格差|かくさ|gap|差距,差别;差价|स्तरकोो अन्तर|official
+19課|170|縮小-する|しゅくしょう|to reduce|减少|न्युनिकरण गर््ननु|official
+19課|171|労働-する|ろうどう|to work|工作，操作|श्रम गर््ननु|official
+19課|172|断念-する|だんねん|to give up on|放弃|हार मान्नु|added
+19課|173|万国博覧会|ばんこくはくらんかい|world fair|万国博览会,世博会|वर्लल्ड एक्पोो|official
+19課|174|政策|せいさく|(political) policy|政策|सरकारी नीति|official
+19課|175|iPS細胞|さいぼう|iPS cell (induced pluripotent stem cell)|ips细胞|iPS कोषिका|zhocr
+19課|176|万能（な）|ばんのう|pluripotent|万能的|सर््व शक्ति मान|zhocr
+19課|177|細胞|さいぼう|(biological) cell|细胞|iPS कोषिका|added
+19課|178|再生医療|さいせいいりょう|regenerative medicine|再生医疗|पुनर््उत्पाददामुखी चिकित्सात्सा|added
+19課|179|医学|いがく|medicine|医学|चिकित्सात्सा शास्त्र|official
+19課|180|治療-する|ちりょう|to treat|治疗|उपचार गर््ननु|official
+19課|181|難病|なんびょう|incurable disease|疑难杂症|उपचार नभएकोो दिर््घ रोोग|official
+20課|  1|第二次世界大戦|だいにじせかいたいせん|the Second World War|第二次世界大战|दोोस्रोो विश्व युद्ध|zhocr
+20課|  2|高度経済成長|こうどけいざいせいちょう|rapid economic growth|日本战后经济奇迹|उच्च आर््थथिक विकास|zhocr
+20課|  3|国民総生産|こくみんそうせいさん|Gross National Product (GNP)|国民生产总值|राष्टट्र्रवासीकोो कुल उत्पाददन (GNP)|zhocr
+20課|  4|資本主義|しほんしゅぎ|capitalist|资本主义|पुँजिवाददी|zhocr
+20課|  5|第～（第20課）|だいだいか|ordinal numbers (20th|第～（第20课）|पाठ～(पाठ २०)|added
+20課|  6|～位（１位）|いい|counter for place (1st place) rank, grade, etc.|～位(第90位)|～स्ान (पहिलोो स्ान)|zhocr
+20課|  7|石油危機|せきゆきき|oil shock|石油危机|पेट््ररोलियम पददार््थकोो संकट|official
+20課|  8|経済大国|けいざいたいこく|economic giant|经济大国|आर््थथिक सम्पन्नताकोो ददेश|official
+20課|  9|バブル景気|けいき|(especially Japan’s bubble economy from|泡沫经济|बबल (अस्थिर) अर््थतन्त्र|added
+20課| 10|好景気|こうけいき|economic prosperity|好景气(经济)|राम्रोो आर््थथिक चहल पहल|official
+20課| 11|崩壊-する|ほうかい|to collapse|崩坏|भत्कनु, बिग्रनु|official
+20課| 12|低成長|ていせいちょう|low growth|低增长|निम्न विकास|official
+20課| 13|志向-する|しこう|to aspire to, to focus on, to orient towards|志向，致力于|लक्ष्य राख्ु|added
+20課| 14|冒険-する|ぼうけん|adventure, to take a|冒险|साहसिक कार््य गर््ननु|added
+20課| 15|創造-する|そうぞう|to create|创造|सृजना गर््ननु/रचना गर््ननु|official
+20課| 16|発熱-する|はつねつ|to have a fever|发烧|ज्वरोो आउनु|added
+20課| 17|嘔吐-する|おうと|to vomit|呕吐|बान्ा गर््ननु|added
+20課| 18|発症-する|はっしょう|to develop symptoms|发病|सुरुवात गर््ननु, विकास गर््ननु|added
+20課| 19|重症化-する|じゅうしょうか|to become severe (of an illness)|重症化|गम्ीर बन्नु|added
+20課| 20|唐揚げ|からあ|fried chicken|炸鸡|तेलमा पकाएकोो|official
+20課| 21|髪型|かみがた|hairstyle|发型|कपालकोो स्ाइल|official
+20課| 22|ばっちり||perfect|完美的|राम्रोो मिलेकोो|official
+20課| 23|決まる（髪型が決まる）|きかみがたき|to look good [here: to have a great hair day]|决定;得体(决定发型)|चिटिक्क पर््ननु (चिटिक्क परेकोो कपाल)|zhocr
+20課| 24|列|れつ|line, queue|列;队列|लाइन/क्रमवद्ध|zhocr
+20課| 25|お気に入り|きい|favorite|中意|मन पर््ननु|official
+20課| 26|順位|じゅんい|order|顺序|क्रम|official
+20課| 27|気にかける|き|to think about|放在心上;担心,牵挂|ध्यानमा राख्न|official
+20課| 28|知り合う|しあ|to meet for the first time|结识,相互了解|चिनापर्चीी हुनु|zhocr
+20課| 29|争う|あらそ|to fight|胜负|झैैझगडा गर््ननु|official
+20課| 30|だが||however|仅仅，只|तर|official
+20課| 31|つらい||hard|为难的,艰苦的|गाह्रोो/मन ददुख्े|official
+20課| 32|主観的（な）|しゅかんてき|subjective|主观的|व्यक्ति गत बिचारकोो|official
+20課| 33|感覚|かんかく|feeling|感情|बोोध/इन्द्रिय|official
+20課| 34|数値|すうち|(numerical) value, figure|数值|संख्ात्मक मान|added
+20課| 35|すでに||already|以前,以往;早就|अगाडि नैै (भइसक्ु)|official
+20課| 36|幸福（な）|こうふく|happiness|幸福的|सुख|official
+20課| 37|所得|しょとく|income|所得,收入|आय/आमददानी|official
+20課| 38|寿命|じゅみょう|life expectancy|寿命|आयु|official
+20課| 39|客観的（な）|きゃっかんてき|objective|客观的|निश््पक्ष दृष्टिमा|official
+20課| 40|両者|りょうしゃ|both sides|两者|ददुवैैजना|official
+20課| 41|競争-する|きょうそう|to compete|竞争|प्रतिस्पर्धाा गर््ननु|official
+20課| 42|低下-する|ていか|to fall, to decline, to deteriorate|下降|घटाउनु|added
+20課| 43|ようやく||finally|最后|बल्ल आखिरमा|official
+20課| 44|勝利-する|しょうり|to be victorious|胜利|विजयी हुनु|official
+20課| 45|つかむ||to snatch|抓住|समाउनु/प्ाप्त गर््ननु|official
+20課| 46|聖なる|せい|holy|神圣,至高无上|पवित्र|official
+20課| 47|連山|れんざん|mountain range|连绵的山群|हिम श्ृंखला|official
+20課| 48|最高峰|さいこうほう|the highest peak|最高峰|सर्वोोच्च शिखर|official
+20課| 49|山岳部員|さんがくぶいん|member of the mountaineering club|登山部员|पर््वतारोोही टिमकोो सदस्य|zhocr
+20課| 50|遭難-する|そうなん|to go missing|遇难|ददुर््घटनामा पर््ननु|zhocr
+20課| 51|学士|がくし|bachelor’s degree|学士|स्ातक डिग्री|added
+20課| 52|惨事|さんじ|tragedy|悲惨事件,惨案|ददुखदद घटना|official
+20課| 53|氷河|ひょうが|glacier|冰河,冰川|हिम नददी|official
+20課| 54|遺体|いたい|body (remains)|遗体|शव|official
+20課| 55|捜索-する|そうさく|to search|检索|खोोज तलास गर््ननु|official
+20課| 56|前触れ|まえぶ|warning|提前,预先|अग्रिम संकेत|official
+20課| 57|隊員|たいいん|member|队员|टिमकोो सदस्य|official
+20課| 58|収容-する|しゅうよう|to recover|收容|भित्र हाल्नु/राख्ु|official
+20課| 59|勤める|つと|to work|工作，操作||official
+20課| 60|志す|こころざ|to aspire to|憧憬，向往|लक्ष्य लिई कार््य गर््ननु|official
+20課| 61|安定-する|あんてい|to stabilize|安定|स्थिर हुनु|official
+20課| 62|迷い|まよ|doubt, bewilderment, delusion, hesitation|迷茫，犹豫|हिचकिचाहट|added
+20課| 63|遺族|いぞく|bereaved family|遗族,遇难者家属给予(带来影响)|मृतकका परिवार|official
+20課| 64|出合い|であ|encounter, meeting|相遇|जम््ककाभेट|added
+20課| 65|背後|はいご|background|背后|पृष्टभूमी|official
+20課| 66|決心-する|けっしん|to make up one’s mind, to resolve to|下决心|निर््णय लिनु|added
+20課| 67|ゴルフ||golf|高尔夫|गल्फ|official
+20課| 68|借金-する|しゃっきん|to borrow money, to take out a loan|借钱, 借款|ऋण गर््ननु|zhocr
+20課| 69|復興-する|ふっこう|to recover|收容|पुनर्स्थाापना गर््ननु|official
+20課| 70|打ち上げ|うあ|wrap (party)|庆功宴干事,管事人(协会组织或|समापन सभा|official
+20課| 71|幹事|かんじ|organizer|团体等的召集人、负责人)|सचिव/लिडर|official
+20課| 72|今のところ|いま|at the moment|目前,现阶段|अहिलेसम्म चाहिं|official
+20課| 73|個室|こしつ|private room|单人房间,单间|क्याबिन रुम|official
+20課| 74|無駄（な）|むだ|wasteful, futile, useless, pointless|浪费的，徒劳的|बेकार, व्यर््थकोो|added
+20課| 75|省く|はぶ|to omit, to leave out, to reduce, to economize|省去，省略|हटाउनु, मेट्नु|added
+20課| 76|果たして|は|really|果然,果真|ल त के हुने होो|official
+20課| 77|カカオ豆|まめ|cacao (cocoa) bean|可可豆|कोोकोोवा ददाना|added
+20課| 78|衝撃|しょうげき|shock, impact|冲击|प्रभाव|added
+20課| 79|重さ|おも|weight, heaviness|重量|तौल|added
+20課| 80|単位|たんい|unit, denomination, (academic) credit|学分，单位|एकाइ|added
+20課| 81|収入|しゅうにゅう|income, revenue|收入|आम्ानी|added
+20課| 82|マラリア||malaria|疟疾|औलोो|added
+20課| 83|交渉-する|こうしょう|to negotiate|谈判|वार्ताा गर््ननु, तरलता अपनाउनु|added
+20課| 84|権利|けんり|rights, privileges|权利|विशेषाधिकार, सही|added
+20課| 85|クラウドファンディング||crowdfunding|众筹|क्रााउडफन्डिङ|added
+20課| 86|加工-する|かこう|to process (food, etc.), to manufacture|加工|प्रक्रिया गर््ननु|added
+20課| 87|境界線|きょうかいせん|boundary, bounds, borderline|分界线|किनारा|added
+20課| 88|溶かす|と|to (cause to) melt/ dissolve|溶化，溶解|पग्लनु|added
+20課| 89|キャッチフレーズ||catchphrase|宣传口号|क्ाचफ्ेज|added
+20課| 90|双方|そうほう|both (parties)|双方|ददुवैैतर््फ|official
+20課| 91|豊か（な）|ゆた|rich, abundant, wealthy|丰饶，丰富|धनी|zhocr
+20課| 92|単に|たん|simply|仅,只,单|खालि|official
+20課| 93|要素|ようそ|element|要素|आवश्यक तत्व|official
+20課| 94|結び付く|むすつ|to be linked with|有关系,有联系|जोडिन पुग्ु|official
+20課| 95|経る|へ|to experience,|体验；身体所感|जानु, निकास गर््ननु, अनुभव गर््ननु|official
+20課| 96|政府|せいふ|government|政府|सरकार|added
+20課| 97|［国内総生産|こくないそうせいさん|GDP (Gross Domestic Product)|（国内生产总值）|GDP (कुल गार््हस्थ उत्पाददन)|added
+20課| 98|質的（な）|しつてき|qualitative|质的|गुणात्मक|added
+20課| 99|個人的（な）|こじんてき|personal|个人情报|व्यक्ति गत|official
+20課|100|曖昧（な）|あいまい|vague|含糊|अस्पस्ट, अनिश्चित|official
+20課|101|個人|ここじん|individual people|个人|व्यक्ति|zhocr
+20課|102|着目-する|ちゃくもく|to focus attention on|着眼,注目|ध्यान केन्द्रि त गर््ननु|official
+20課|103|意義|いぎ|significance|意义|सार््थकता|official
+20課|104|質|しつ|quality, character, nature|质量，本质|गुणस्तर|added
+20課|105|我が～（我が国）|わわくに|my, our, one’s own (our country) (formal)|我～（我国）|हामी～(हाम्रोो ददेश)|added
+20課|106|ウェルビーイング（Well-）||well-being|福祉（幸福感）||added
+20課|107|概要|がいよう|summary, overview|概要|अवलोोकन|added
+20課|108|内閣府|ないかくふ|the Cabinet Office|内阁府|मन्त्री ी परिषदद्कोो कार्याालय|official
+20課|109|怖さ|こわ|fear(fulness), fright|可怕|डर|added
+20課|110|会長|かいちょう|chairman|会长|अध्यक्ष|official
+20課|111|任す|まか|to be put in charge of|交给|जिम् ा लगाउनु|zhocr
+20課|112|倒産-する|とうさん|to declare bankruptcy|破产|पल्टनु/खतम हुनु|zhocr
+20課|113|泊まり込む|とこ|to stay overnight|住宿, 投诉; 过夜|त्यहं वास वस्ु|zhocr
+20課|114|ぼろぼろ（な）||worn-out, ragged,|破破烂烂|च्यातिएकोो|zhocr
+20課|115|徹夜-する|てつや|to stay up all night|熬夜,通宵|रातभर नसुतिकन बस्ु|official
+20課|116|乗り越える|のこ|to overcome|突破，克服|पार गर््ननु|official
+20課|117|全員|ぜんいん|all (people)|全员|सबैैजना|official
+20課|118|確実（な）|かくじつ|steadily|确实的|अवश्य पनि/बिना कुनैै शंका|official
+20課|119|年輪|ねんりん|growth ring (tree)|年轮|वृक्ष काटेर हेर्दाा मुढामा ददेखिने गोोलाकार|official
+20課|120|ひどい||terrible|过分|घटिया|official
+20課|121|延ばす|の|to postpone|延期、推迟|बढाउनु/लम्बाउनु|official
+20課|122|～済み（予約済み）|ずよやくず|completed (reservation is made)|〜完成(预约完成)|～सकेकोो (रिजर््भगरिसकेकोो)|zhocr
+20課|123|日にち|ひ|date|日期|समय/मिति|official
+20課|124|～名様（何名様）|めいさまなんめいさま|～people (how many people?) (humble)|人们，每个人|～जनाका महानुभाव (कति जनाका महानुभाव)|official
+20課|125|とりあえず||for now|姑且, 暂且, 总之, 首先|जे होोस् अहिले चाहिं|zhocr
+20課|126|押さえる|お|to hold|召开|थिच्ु/नियन्त्र णमा राख्ु|official
