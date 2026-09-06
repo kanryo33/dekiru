@@ -11,6 +11,14 @@
 
 按时间倒序：
 
+### 2026-09-06　新增教材「文法Buddy JLPT N3」
+
+- 项目从「できる日本語」一套扩展为**两套教材**
+- 接入 N3 词汇（563 词 / 14 课，含 本文+まとめ），作为新的等级「N3 文法Buddy」
+- 新等级下拉：初級 / 初中級 / 中級 / **N3 文法Buddy**
+- 词条含 `src`（本文/まとめ）与 `pos`（品词）标记，映射为原有 `kanji/kana/eng/cn/ne` 结构
+- 源数据文件：`buddy_N3_词汇表_中日英尼.json`
+
 ### 2026-09-06　初級翻译修正（12 处）
 
 经逐课校对，修正初級的 12 处翻译 / 读音错误，已同步至 `app_words.json` 与 `index.html` 并上线：
@@ -75,6 +83,7 @@
 | 初級 | `app_words.json` | 15 课，744 词 |
 | 初中級 | `chuukyuu_payload.json` | 15 课，1030 词 |
 | 中級 | `med_trilingual.json` | 20 课，2288 词 |
+| N3 文法Buddy | `buddy_N3_词汇表_中日英尼.json` | 14 课，563 词 |
 
 - **初級 / 初中級** 每条：`{ kanji, kana, eng, cn, ne }`
 - **中級** 每条：`{ lesson, no, kanji, kana, en, cn, ne, src }`，`src` 标记官方来源 / 补译
